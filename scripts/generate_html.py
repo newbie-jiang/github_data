@@ -1,6 +1,6 @@
 import requests
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 from operator import itemgetter
 
 OUTPUT_PATH = "output/index.html"
@@ -40,6 +40,11 @@ def fetch_repos(username):
     return all_repos
 
 def save_to_html(data, username):
+    # 获取当前 UTC 时间并转换为北京时间
+    now_utc = datetime.utcnow()
+    now_beijing = now_utc + timedelta(hours=8)
+    update_time_str = now_beijing.strftime("%Y-%m-%d %H:%M:%S")
+
     data.sort(key=itemgetter("pushed_at"), reverse=True)
 
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
@@ -48,15 +53,31 @@ def save_to_html(data, username):
     <meta charset="utf-8">
     <title>{username} 的 GitHub 仓库</title>
     <style>
-        body {{ font-family: Arial, sans-serif; }}
+        body {{ font-family: Arial, sans-serif; margin: 20px; }}
         table {{ border-collapse: collapse; width: 100%; }}
         th, td {{ border: 1px solid #ccc; padding: 8px; text-align: left; }}
         th {{ background-color: #f2f2f2; }}
         a {{ color: #007bff; text-decoration: none; }}
         a:hover {{ text-decoration: underline; }}
+
+        /* 右上角更新时间样式 */
+        .update-time {{
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            font-size: 14px;
+            color: #666;
+            background: #f9f9f9;
+            padding: 5px 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-shadow: 0 0 5px rgba(0,0,0,0.1);
+            z-index: 1000;
+        }}
     </style>
 </head>
 <body>
+    <div class="update-time">文档当前更新：{update_time_str}</div>
     <h2>GitHub 用户 <code>{username}</code> 的仓库（共 {len(data)} 个）</h2>
     <table>
         <tr>
@@ -65,7 +86,9 @@ def save_to_html(data, username):
 """)
         for repo in data:
             try:
-                time_str = datetime.strptime(repo["pushed_at"], "%Y-%m-%dT%H:%M:%SZ").strftime("%Y-%m-%d %H:%M")
+                utc_time = datetime.strptime(repo["pushed_at"], "%Y-%m-%dT%H:%M:%SZ")
+                beijing_time = utc_time + timedelta(hours=8)
+                time_str = beijing_time.strftime("%Y-%m-%d %H:%M")
             except:
                 time_str = "未知"
 
