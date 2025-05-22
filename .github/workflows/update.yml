@@ -2,7 +2,7 @@ name: Update GitHub Data
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/3 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -40,7 +40,7 @@ jobs:
           commit_message: "auto: update repos_data.json"
           branch: gh-pages
           repository: ${{ github.repository }}
-          file_pattern: repos_data.json
+         
           commit_user_name: github-actions
           commit_user_email: github-actions@github.com
           commit_author: github-actions <github-actions@github.com>
