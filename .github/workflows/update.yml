@@ -1,33 +1,32 @@
-name: Update GitHub Repos HTML
+name: Update GitHub Data
 
 on:
   schedule:
-    - cron: '*/3 * * * *'    # 每3分钟执行一次
-  workflow_dispatch:         # 允许手动触发
+      - cron: '*/10 * * * *'   # 每10分钟
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          ref: gh-pages  # 注意分支
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
 
-      - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+      - name: Install requests
+        run: pip install requests
 
-      - name: Generate HTML
-        run: |
-          python scripts/generate_html.py
+      - name: Run fetch_github.py
+        run: python fetch_github.py
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Commit & Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./output
+          commit_message: "auto: update repos_data.json"
+          branch: gh-pages
+          file_pattern: repos_data.json
