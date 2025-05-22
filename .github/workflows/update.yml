@@ -34,7 +34,7 @@ jobs:
       - name: Copy repos_data.json to gh-pages
         run: cp repos_data.json gh-pages/
 
-         - name: Commit & Push to gh-pages
+      - name: Commit & Push to gh-pages
         run: |
           cd gh-pages
           git config user.name "github-actions"
@@ -42,4 +42,5 @@ jobs:
           git add repos_data.json
           git commit -m "auto: update repos_data.json" || echo "No changes to commit"
           git push origin gh-pages
+
 
