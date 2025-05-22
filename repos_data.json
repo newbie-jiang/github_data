@@ -159,7 +159,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-05-22T07:34:10Z",
+        "pushed_at": "2025-05-22T07:40:24Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -1926,6 +1926,1641 @@
         "language": "C",
         "pushed_at": "2025-04-19T06:38:50Z",
         "created_at": "2025-02-12T14:48:59Z"
+      }
+    ]
+  },
+  {
+    "username": "zephyrproject-rtos",
+    "repos": [
+      {
+        "name": ".github",
+        "description": "Special repository for GitHub public organisation profile",
+        "url": "https://github.com/zephyrproject-rtos/.github",
+        "stars": 1,
+        "forks": 2,
+        "language": "未指定",
+        "pushed_at": "2022-06-05T15:46:12Z",
+        "created_at": "2022-05-07T06:59:24Z"
+      },
+      {
+        "name": "acpica",
+        "description": "The ACPI Component Architecture (ACPICA) project provides an open-source operating system-independent implementation of the Advanced Configuration and Power Interface specification (ACPI).  For detailed project  information and downloads, go to https://www.acpica.org.  For ACPICA contributor and source code licensing information,  go to ",
+        "url": "https://github.com/zephyrproject-rtos/acpica",
+        "stars": 1,
+        "forks": 3,
+        "language": "ASL",
+        "pushed_at": "2024-06-12T17:00:19Z",
+        "created_at": "2023-04-06T12:06:51Z"
+      },
+      {
+        "name": "action-backport",
+        "description": "🔙 GitHub Action to backport pull requests",
+        "url": "https://github.com/zephyrproject-rtos/action-backport",
+        "stars": 1,
+        "forks": 4,
+        "language": "TypeScript",
+        "pushed_at": "2023-04-15T05:16:31Z",
+        "created_at": "2020-09-09T14:01:28Z"
+      },
+      {
+        "name": "action-first-interaction",
+        "description": "An action for filtering pull requests and issues from first-time contributors",
+        "url": "https://github.com/zephyrproject-rtos/action-first-interaction",
+        "stars": 1,
+        "forks": 0,
+        "language": "JavaScript",
+        "pushed_at": "2025-03-31T13:41:15Z",
+        "created_at": "2023-04-10T14:50:34Z"
+      },
+      {
+        "name": "action-manifest",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/action-manifest",
+        "stars": 7,
+        "forks": 10,
+        "language": "Python",
+        "pushed_at": "2025-03-20T10:09:55Z",
+        "created_at": "2020-10-30T09:25:16Z"
+      },
+      {
+        "name": "action-s3-cache",
+        "description": "Cache dependencies and build outputs to S3",
+        "url": "https://github.com/zephyrproject-rtos/action-s3-cache",
+        "stars": 1,
+        "forks": 1,
+        "language": "TypeScript",
+        "pushed_at": "2023-04-15T13:40:30Z",
+        "created_at": "2022-07-14T15:33:50Z"
+      },
+      {
+        "name": "action-sca-setup",
+        "description": "Action to setup various SCA tools",
+        "url": "https://github.com/zephyrproject-rtos/action-sca-setup",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-05-07T11:06:53Z",
+        "created_at": "2025-05-06T13:58:37Z"
+      },
+      {
+        "name": "action-zephyr-setup",
+        "description": "GitHub Action to set up Zephyr build environment",
+        "url": "https://github.com/zephyrproject-rtos/action-zephyr-setup",
+        "stars": 14,
+        "forks": 21,
+        "language": "未指定",
+        "pushed_at": "2025-05-14T15:04:32Z",
+        "created_at": "2024-01-11T15:25:03Z"
+      },
+      {
+        "name": "actions_sandbox",
+        "description": "A sandbox for testing GH Actions",
+        "url": "https://github.com/zephyrproject-rtos/actions_sandbox",
+        "stars": 1,
+        "forks": 4,
+        "language": "未指定",
+        "pushed_at": "2019-08-21T14:50:39Z",
+        "created_at": "2019-08-20T15:12:35Z"
+      },
+      {
+        "name": "action_scancode",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/action_scancode",
+        "stars": 2,
+        "forks": 9,
+        "language": "Python",
+        "pushed_at": "2023-11-09T22:24:10Z",
+        "created_at": "2020-01-07T20:25:29Z"
+      },
+      {
+        "name": "awesome-zephyr-rtos",
+        "description": "🪁 A curated list of awesome projects and resources for the Zephyr RTOS project.",
+        "url": "https://github.com/zephyrproject-rtos/awesome-zephyr-rtos",
+        "stars": 27,
+        "forks": 7,
+        "language": "未指定",
+        "pushed_at": "2025-05-05T11:28:36Z",
+        "created_at": "2024-05-16T12:54:00Z"
+      },
+      {
+        "name": "babblesim-manifest",
+        "description": "Automated replica of https://github.com/BabbleSim/bsim_west. Send PR or issues there.",
+        "url": "https://github.com/zephyrproject-rtos/babblesim-manifest",
+        "stars": 2,
+        "forks": 1,
+        "language": "未指定",
+        "pushed_at": "2025-05-15T11:50:36Z",
+        "created_at": "2023-03-23T09:42:27Z"
+      },
+      {
+        "name": "binutils-gdb",
+        "description": "Binutils and GDB source for building Zephyr SDK",
+        "url": "https://github.com/zephyrproject-rtos/binutils-gdb",
+        "stars": 3,
+        "forks": 6,
+        "language": "C",
+        "pushed_at": "2025-05-06T09:58:48Z",
+        "created_at": "2021-04-19T15:33:15Z"
+      },
+      {
+        "name": "canopennode",
+        "description": "Zephyr repository tracking https://github.com/CANopenNode/CANopenNode",
+        "url": "https://github.com/zephyrproject-rtos/canopennode",
+        "stars": 10,
+        "forks": 13,
+        "language": "C",
+        "pushed_at": "2023-10-06T13:59:00Z",
+        "created_at": "2020-01-16T17:27:20Z"
+      },
+      {
+        "name": "chre",
+        "description": "Context Hub Runtime Environment (CHRE)",
+        "url": "https://github.com/zephyrproject-rtos/chre",
+        "stars": 10,
+        "forks": 7,
+        "language": "C++",
+        "pushed_at": "2023-10-17T12:20:00Z",
+        "created_at": "2022-01-12T21:29:48Z"
+      },
+      {
+        "name": "ci-dockerfiles",
+        "description": "The content of this repository has moved to https://github.com/zephyrproject-rtos/docker-image",
+        "url": "https://github.com/zephyrproject-rtos/ci-dockerfiles",
+        "stars": 7,
+        "forks": 18,
+        "language": "未指定",
+        "pushed_at": "2021-05-05T15:55:13Z",
+        "created_at": "2017-03-09T09:53:19Z"
+      },
+      {
+        "name": "ci-test",
+        "description": "This repository is obsolete",
+        "url": "https://github.com/zephyrproject-rtos/ci-test",
+        "stars": 1,
+        "forks": 4,
+        "language": "Shell",
+        "pushed_at": "2020-05-19T13:24:27Z",
+        "created_at": "2017-05-09T12:29:17Z"
+      },
+      {
+        "name": "ci-tools",
+        "description": "CI Tools and Scripts (obsolete)",
+        "url": "https://github.com/zephyrproject-rtos/ci-tools",
+        "stars": 9,
+        "forks": 18,
+        "language": "Python",
+        "pushed_at": "2022-04-06T13:19:48Z",
+        "created_at": "2018-11-21T17:34:00Z"
+      },
+      {
+        "name": "ci-zephyr-buildkite",
+        "description": "An auto-scaling cluster of build agents running in your own AWS VPC",
+        "url": "https://github.com/zephyrproject-rtos/ci-zephyr-buildkite",
+        "stars": 1,
+        "forks": 0,
+        "language": "Shell",
+        "pushed_at": "2021-04-17T17:51:28Z",
+        "created_at": "2020-06-05T15:53:54Z"
+      },
+      {
+        "name": "civetweb",
+        "description": "Embedded C/C++ web server (obsolete)",
+        "url": "https://github.com/zephyrproject-rtos/civetweb",
+        "stars": 2,
+        "forks": 10,
+        "language": "C",
+        "pushed_at": "2022-04-29T18:26:01Z",
+        "created_at": "2019-09-11T15:13:13Z"
+      },
+      {
+        "name": "cmsis",
+        "description": "Zephyr repository tracking https://github.com/ARM-software/CMSIS_5",
+        "url": "https://github.com/zephyrproject-rtos/cmsis",
+        "stars": 10,
+        "forks": 41,
+        "language": "C",
+        "pushed_at": "2025-02-05T11:09:46Z",
+        "created_at": "2020-03-19T15:59:59Z"
+      },
+      {
+        "name": "cmsis-dsp",
+        "description": "CMSIS-DSP embedded compute library for Cortex-M and Cortex-A",
+        "url": "https://github.com/zephyrproject-rtos/cmsis-dsp",
+        "stars": 4,
+        "forks": 3,
+        "language": "C",
+        "pushed_at": "2024-11-01T16:17:07Z",
+        "created_at": "2023-05-02T09:59:42Z"
+      },
+      {
+        "name": "cmsis-nn",
+        "description": "CMSIS-NN Library",
+        "url": "https://github.com/zephyrproject-rtos/cmsis-nn",
+        "stars": 1,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2025-02-11T05:02:31Z",
+        "created_at": "2023-05-02T10:13:24Z"
+      },
+      {
+        "name": "CMSIS_6",
+        "description": "CMSIS version 6 (successor of CMSIS_5)",
+        "url": "https://github.com/zephyrproject-rtos/CMSIS_6",
+        "stars": 0,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2025-05-08T12:58:14Z",
+        "created_at": "2024-09-12T23:14:46Z"
+      },
+      {
+        "name": "crosskit-aarch64-apple-darwin",
+        "description": "macOS x86-to-AArch64 Cross Compilation Kit (aarch64-apple-darwin- tools)",
+        "url": "https://github.com/zephyrproject-rtos/crosskit-aarch64-apple-darwin",
+        "stars": 0,
+        "forks": 0,
+        "language": "Shell",
+        "pushed_at": "2024-09-18T21:40:45Z",
+        "created_at": "2022-01-22T09:24:00Z"
+      },
+      {
+        "name": "crosskit-aarch64-darwin-libpython",
+        "description": "AArch64 macOS libpython for cross-compilation",
+        "url": "https://github.com/zephyrproject-rtos/crosskit-aarch64-darwin-libpython",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-09-18T21:40:17Z",
+        "created_at": "2022-03-09T19:51:13Z"
+      },
+      {
+        "name": "crosskit-aarch64-linux-libpython",
+        "description": "AArch64 libpython for cross-compilation",
+        "url": "https://github.com/zephyrproject-rtos/crosskit-aarch64-linux-libpython",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-09-18T21:40:01Z",
+        "created_at": "2022-03-09T19:49:46Z"
+      },
+      {
+        "name": "crosskit-mingw-w64-libpython",
+        "description": "Pre-generated \"libpython*.dll\" Import Libraries for MinGW-w64",
+        "url": "https://github.com/zephyrproject-rtos/crosskit-mingw-w64-libpython",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-09-19T17:13:27Z",
+        "created_at": "2020-06-01T08:41:11Z"
+      },
+      {
+        "name": "crosskit-x86_64-apple-darwin",
+        "description": "macOS AArch64-to-x86 Cross Compilation Kit (x86_64-apple-darwin- tools)",
+        "url": "https://github.com/zephyrproject-rtos/crosskit-x86_64-apple-darwin",
+        "stars": 0,
+        "forks": 0,
+        "language": "Shell",
+        "pushed_at": "2024-09-19T02:03:32Z",
+        "created_at": "2022-11-24T19:07:06Z"
+      },
+      {
+        "name": "crosskit-x86_64-darwin-libpython",
+        "description": "x86-64 macOS libpython for cross-compilation",
+        "url": "https://github.com/zephyrproject-rtos/crosskit-x86_64-darwin-libpython",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-09-22T21:25:15Z",
+        "created_at": "2022-11-25T00:38:19Z"
+      },
+      {
+        "name": "crosstool-ng",
+        "description": "Zephyr fork of crosstool-NG - for building Zephyr GNU toolchains",
+        "url": "https://github.com/zephyrproject-rtos/crosstool-ng",
+        "stars": 4,
+        "forks": 4,
+        "language": "Shell",
+        "pushed_at": "2025-05-17T00:46:37Z",
+        "created_at": "2020-09-11T21:49:48Z"
+      },
+      {
+        "name": "crosstool-ng-old",
+        "description": "Zephyr fork of crosstool-NG - for building Zephyr GNU toolchains (obsolete)",
+        "url": "https://github.com/zephyrproject-rtos/crosstool-ng-old",
+        "stars": 1,
+        "forks": 1,
+        "language": "Shell",
+        "pushed_at": "2020-09-11T17:05:39Z",
+        "created_at": "2020-05-14T07:39:53Z"
+      },
+      {
+        "name": "cvelist",
+        "description": "Pilot program for CVE submission through GitHub",
+        "url": "https://github.com/zephyrproject-rtos/cvelist",
+        "stars": 1,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2019-09-04T18:01:21Z",
+        "created_at": "2019-09-04T18:30:16Z"
+      },
+      {
+        "name": "docker-ci-internal",
+        "description": "Private Docker image for Zephyr CI (inactive, for testing only)",
+        "url": "https://github.com/zephyrproject-rtos/docker-ci-internal",
+        "stars": 1,
+        "forks": 1,
+        "language": "Dockerfile",
+        "pushed_at": "2022-06-05T18:06:04Z",
+        "created_at": "2022-04-24T04:48:59Z"
+      },
+      {
+        "name": "docker-ci-repo-cache",
+        "description": "CI Docker image with repository cache for use in zephyr-runner v2",
+        "url": "https://github.com/zephyrproject-rtos/docker-ci-repo-cache",
+        "stars": 2,
+        "forks": 1,
+        "language": "Dockerfile",
+        "pushed_at": "2024-10-26T08:23:29Z",
+        "created_at": "2023-12-12T14:42:16Z"
+      },
+      {
+        "name": "docker-image",
+        "description": "Docker image suitable for Zephyr development and CI",
+        "url": "https://github.com/zephyrproject-rtos/docker-image",
+        "stars": 177,
+        "forks": 98,
+        "language": "Shell",
+        "pushed_at": "2025-05-21T15:52:18Z",
+        "created_at": "2018-11-10T16:04:21Z"
+      },
+      {
+        "name": "docker-image-build",
+        "description": "Docker image that contains Buildah and Podman for building OCI images ",
+        "url": "https://github.com/zephyrproject-rtos/docker-image-build",
+        "stars": 1,
+        "forks": 1,
+        "language": "Dockerfile",
+        "pushed_at": "2024-03-23T00:37:13Z",
+        "created_at": "2024-03-22T23:16:17Z"
+      },
+      {
+        "name": "docker-image-testing",
+        "description": "For testing purpose only.",
+        "url": "https://github.com/zephyrproject-rtos/docker-image-testing",
+        "stars": 2,
+        "forks": 1,
+        "language": "Shell",
+        "pushed_at": "2024-05-31T11:55:30Z",
+        "created_at": "2022-07-01T04:52:49Z"
+      },
+      {
+        "name": "docker-scancode",
+        "description": "Docker image with scanode for Github actions",
+        "url": "https://github.com/zephyrproject-rtos/docker-scancode",
+        "stars": 2,
+        "forks": 6,
+        "language": "Dockerfile",
+        "pushed_at": "2024-10-25T11:52:42Z",
+        "created_at": "2020-01-07T20:52:44Z"
+      },
+      {
+        "name": "docker-sdk-build",
+        "description": "Docker image for building the Zephyr SDK",
+        "url": "https://github.com/zephyrproject-rtos/docker-sdk-build",
+        "stars": 2,
+        "forks": 4,
+        "language": "Dockerfile",
+        "pushed_at": "2024-10-26T07:00:53Z",
+        "created_at": "2020-02-08T19:19:09Z"
+      },
+      {
+        "name": "docs-theme",
+        "description": "Zephyr Project Documentation Theme",
+        "url": "https://github.com/zephyrproject-rtos/docs-theme",
+        "stars": 1,
+        "forks": 5,
+        "language": "CSS",
+        "pushed_at": "2018-01-02T18:54:14Z",
+        "created_at": "2017-04-26T17:43:47Z"
+      },
+      {
+        "name": "eclipse-plugin",
+        "description": "Zephyr Eclipse Plugin",
+        "url": "https://github.com/zephyrproject-rtos/eclipse-plugin",
+        "stars": 16,
+        "forks": 18,
+        "language": "Java",
+        "pushed_at": "2022-03-29T21:24:19Z",
+        "created_at": "2019-10-14T16:17:41Z"
+      },
+      {
+        "name": "edtt",
+        "description": "Mirror of https://github.com/EDTTool/EDTT (PRs or issues should be filed there)",
+        "url": "https://github.com/zephyrproject-rtos/edtt",
+        "stars": 1,
+        "forks": 6,
+        "language": "Python",
+        "pushed_at": "2024-08-27T14:40:45Z",
+        "created_at": "2019-12-16T16:34:32Z"
+      },
+      {
+        "name": "esp-idf",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/esp-idf",
+        "stars": 1,
+        "forks": 7,
+        "language": "C",
+        "pushed_at": "2020-12-03T19:18:01Z",
+        "created_at": "2019-04-07T13:47:07Z"
+      },
+      {
+        "name": "example-application",
+        "description": "Example out-of-tree application that is also a module",
+        "url": "https://github.com/zephyrproject-rtos/example-application",
+        "stars": 279,
+        "forks": 160,
+        "language": "C",
+        "pushed_at": "2025-05-14T19:00:21Z",
+        "created_at": "2021-01-12T13:16:13Z"
+      },
+      {
+        "name": "fatfs",
+        "description": "This implementation of file system is developed by ELM Chan",
+        "url": "https://github.com/zephyrproject-rtos/fatfs",
+        "stars": 16,
+        "forks": 29,
+        "language": "C",
+        "pushed_at": "2025-02-14T11:06:31Z",
+        "created_at": "2019-05-23T01:27:04Z"
+      },
+      {
+        "name": "fff",
+        "description": "A testing micro framework for creating function test doubles",
+        "url": "https://github.com/zephyrproject-rtos/fff",
+        "stars": 1,
+        "forks": 1,
+        "language": "C++",
+        "pushed_at": "2022-10-06T22:24:38Z",
+        "created_at": "2021-10-20T12:15:22Z"
+      },
+      {
+        "name": "gcc",
+        "description": "GCC source for building Zephyr SDK",
+        "url": "https://github.com/zephyrproject-rtos/gcc",
+        "stars": 4,
+        "forks": 26,
+        "language": "C++",
+        "pushed_at": "2025-05-18T19:13:01Z",
+        "created_at": "2021-04-19T15:28:42Z"
+      },
+      {
+        "name": "git2cl",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/git2cl",
+        "stars": 2,
+        "forks": 3,
+        "language": "Perl",
+        "pushed_at": "2020-02-01T16:25:52Z",
+        "created_at": "2020-02-01T16:25:36Z"
+      },
+      {
+        "name": "gsoc-2022-arduino-core",
+        "description": "Arduino Core Zephyr Module (GSoC 2022 Project)",
+        "url": "https://github.com/zephyrproject-rtos/gsoc-2022-arduino-core",
+        "stars": 49,
+        "forks": 31,
+        "language": "C++",
+        "pushed_at": "2024-10-14T15:46:01Z",
+        "created_at": "2022-06-01T15:20:33Z"
+      },
+      {
+        "name": "gsoc-2022-thrift",
+        "description": "Thrift Zephyr Module (GSoC 2022 Project)",
+        "url": "https://github.com/zephyrproject-rtos/gsoc-2022-thrift",
+        "stars": 10,
+        "forks": 2,
+        "language": "C++",
+        "pushed_at": "2023-01-24T00:10:58Z",
+        "created_at": "2022-03-09T17:12:55Z"
+      },
+      {
+        "name": "hal_adi",
+        "description": "HAL for Analog Devices (formerly Maxim) devices",
+        "url": "https://github.com/zephyrproject-rtos/hal_adi",
+        "stars": 1,
+        "forks": 13,
+        "language": "C",
+        "pushed_at": "2025-05-13T15:41:10Z",
+        "created_at": "2024-05-20T13:29:38Z"
+      },
+      {
+        "name": "hal_afbr",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/hal_afbr",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-05-20T18:40:16Z",
+        "created_at": "2025-05-19T23:46:25Z"
+      },
+      {
+        "name": "hal_altera",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/hal_altera",
+        "stars": 3,
+        "forks": 8,
+        "language": "C",
+        "pushed_at": "2024-07-13T22:09:39Z",
+        "created_at": "2020-03-19T18:07:12Z"
+      },
+      {
+        "name": "hal_ambiq",
+        "description": "HAL for Ambiq devices",
+        "url": "https://github.com/zephyrproject-rtos/hal_ambiq",
+        "stars": 4,
+        "forks": 10,
+        "language": "C",
+        "pushed_at": "2025-05-21T09:16:24Z",
+        "created_at": "2023-07-14T09:17:17Z"
+      },
+      {
+        "name": "hal_atmel",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/hal_atmel",
+        "stars": 11,
+        "forks": 43,
+        "language": "C",
+        "pushed_at": "2025-04-01T18:36:03Z",
+        "created_at": "2019-04-06T22:26:15Z"
+      },
+      {
+        "name": "hal_bouffalolab",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/hal_bouffalolab",
+        "stars": 1,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2025-05-17T22:04:49Z",
+        "created_at": "2025-03-12T11:43:32Z"
+      },
+      {
+        "name": "hal_cypress",
+        "description": "HAL module for Cypress devices",
+        "url": "https://github.com/zephyrproject-rtos/hal_cypress",
+        "stars": 1,
+        "forks": 4,
+        "language": "C",
+        "pushed_at": "2021-04-28T15:33:25Z",
+        "created_at": "2019-04-06T22:26:26Z"
+      },
+      {
+        "name": "hal_espressif",
+        "description": "HAL and SDK for ESP32 and other hardware from Espressif",
+        "url": "https://github.com/zephyrproject-rtos/hal_espressif",
+        "stars": 50,
+        "forks": 61,
+        "language": "C",
+        "pushed_at": "2025-05-21T11:47:50Z",
+        "created_at": "2020-11-11T17:16:24Z"
+      },
+      {
+        "name": "hal_ethos_u",
+        "description": "HAL for Arm Ethos-U NPUs",
+        "url": "https://github.com/zephyrproject-rtos/hal_ethos_u",
+        "stars": 5,
+        "forks": 7,
+        "language": "C++",
+        "pushed_at": "2024-11-20T17:09:32Z",
+        "created_at": "2021-11-17T17:47:08Z"
+      },
+      {
+        "name": "hal_gigadevice",
+        "description": "HAL for GigaDevice devices",
+        "url": "https://github.com/zephyrproject-rtos/hal_gigadevice",
+        "stars": 9,
+        "forks": 15,
+        "language": "C",
+        "pushed_at": "2023-10-05T15:21:22Z",
+        "created_at": "2021-10-05T14:10:02Z"
+      },
+      {
+        "name": "hal_hpmicro",
+        "description": "HPMicro HAL",
+        "url": "https://github.com/zephyrproject-rtos/hal_hpmicro",
+        "stars": 1,
+        "forks": 3,
+        "language": "C",
+        "pushed_at": "2024-02-19T07:27:29Z",
+        "created_at": "2023-05-04T13:52:33Z"
+      },
+      {
+        "name": "hal_infineon",
+        "description": "HAL for Infineon ICs",
+        "url": "https://github.com/zephyrproject-rtos/hal_infineon",
+        "stars": 15,
+        "forks": 17,
+        "language": "C",
+        "pushed_at": "2025-05-09T04:50:48Z",
+        "created_at": "2020-05-08T17:30:49Z"
+      },
+      {
+        "name": "hal_intel",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/hal_intel",
+        "stars": 0,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2025-03-25T08:13:43Z",
+        "created_at": "2023-07-27T10:47:04Z"
+      },
+      {
+        "name": "hal_microchip",
+        "description": "HAL module for Microchip devices",
+        "url": "https://github.com/zephyrproject-rtos/hal_microchip",
+        "stars": 9,
+        "forks": 17,
+        "language": "C",
+        "pushed_at": "2025-05-21T13:42:05Z",
+        "created_at": "2019-04-06T22:26:50Z"
+      },
+      {
+        "name": "hal_nordic",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/hal_nordic",
+        "stars": 33,
+        "forks": 129,
+        "language": "C",
+        "pushed_at": "2025-05-15T09:29:20Z",
+        "created_at": "2019-04-06T22:26:39Z"
+      },
+      {
+        "name": "hal_nrfx",
+        "description": "DEPRECATED repository. Do **not** change or delete.",
+        "url": "https://github.com/zephyrproject-rtos/hal_nrfx",
+        "stars": 2,
+        "forks": 4,
+        "language": "C",
+        "pushed_at": "2019-08-15T15:02:41Z",
+        "created_at": "2019-08-15T13:19:49Z"
+      },
+      {
+        "name": "hal_nuvoton",
+        "description": "HAL module for Nuvoton ICs",
+        "url": "https://github.com/zephyrproject-rtos/hal_nuvoton",
+        "stars": 2,
+        "forks": 15,
+        "language": "C",
+        "pushed_at": "2025-04-04T09:51:43Z",
+        "created_at": "2020-06-22T10:54:18Z"
+      },
+      {
+        "name": "hal_nxp",
+        "description": "HAL module for NXP SoCs",
+        "url": "https://github.com/zephyrproject-rtos/hal_nxp",
+        "stars": 36,
+        "forks": 151,
+        "language": "C",
+        "pushed_at": "2025-05-21T19:35:41Z",
+        "created_at": "2019-04-06T22:26:02Z"
+      },
+      {
+        "name": "hal_openisa",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/hal_openisa",
+        "stars": 1,
+        "forks": 12,
+        "language": "C",
+        "pushed_at": "2023-10-10T18:18:56Z",
+        "created_at": "2019-04-06T22:27:22Z"
+      },
+      {
+        "name": "hal_qmsi",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/hal_qmsi",
+        "stars": 1,
+        "forks": 3,
+        "language": "C",
+        "pushed_at": "2019-05-30T20:59:27Z",
+        "created_at": "2019-04-05T02:40:36Z"
+      },
+      {
+        "name": "hal_quicklogic",
+        "description": "HAL for QuickLogic devices",
+        "url": "https://github.com/zephyrproject-rtos/hal_quicklogic",
+        "stars": 1,
+        "forks": 9,
+        "language": "C",
+        "pushed_at": "2024-05-13T07:03:21Z",
+        "created_at": "2020-04-09T14:10:06Z"
+      },
+      {
+        "name": "hal_renesas",
+        "description": "HAL for Renesas devices",
+        "url": "https://github.com/zephyrproject-rtos/hal_renesas",
+        "stars": 4,
+        "forks": 13,
+        "language": "C",
+        "pushed_at": "2025-05-15T10:03:48Z",
+        "created_at": "2022-08-16T10:28:21Z"
+      },
+      {
+        "name": "hal_rpi_pico",
+        "description": "HAL module for Raspberry Pico",
+        "url": "https://github.com/zephyrproject-rtos/hal_rpi_pico",
+        "stars": 14,
+        "forks": 14,
+        "language": "C",
+        "pushed_at": "2025-01-22T21:45:56Z",
+        "created_at": "2022-01-19T16:38:02Z"
+      },
+      {
+        "name": "hal_silabs",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/hal_silabs",
+        "stars": 8,
+        "forks": 68,
+        "language": "C",
+        "pushed_at": "2025-05-20T13:05:12Z",
+        "created_at": "2019-04-06T22:27:02Z"
+      },
+      {
+        "name": "hal_st",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/hal_st",
+        "stars": 16,
+        "forks": 27,
+        "language": "C",
+        "pushed_at": "2025-04-28T16:00:24Z",
+        "created_at": "2019-04-05T02:46:38Z"
+      },
+      {
+        "name": "hal_stm32",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/hal_stm32",
+        "stars": 119,
+        "forks": 131,
+        "language": "C",
+        "pushed_at": "2025-05-21T12:42:41Z",
+        "created_at": "2019-06-07T16:54:35Z"
+      },
+      {
+        "name": "hal_tdk",
+        "description": "HAL for TDK sensor devices",
+        "url": "https://github.com/zephyrproject-rtos/hal_tdk",
+        "stars": 2,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2025-04-04T07:24:34Z",
+        "created_at": "2024-09-05T10:33:47Z"
+      },
+      {
+        "name": "hal_telink",
+        "description": "HAL for Telink devices",
+        "url": "https://github.com/zephyrproject-rtos/hal_telink",
+        "stars": 1,
+        "forks": 15,
+        "language": "C",
+        "pushed_at": "2024-05-29T16:45:32Z",
+        "created_at": "2021-06-11T16:24:12Z"
+      },
+      {
+        "name": "hal_ti",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/hal_ti",
+        "stars": 12,
+        "forks": 52,
+        "language": "C",
+        "pushed_at": "2025-05-14T05:31:53Z",
+        "created_at": "2019-04-06T22:27:14Z"
+      },
+      {
+        "name": "hal_unisoc",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/hal_unisoc",
+        "stars": 2,
+        "forks": 4,
+        "language": "C",
+        "pushed_at": "2020-07-17T11:32:57Z",
+        "created_at": "2019-11-07T14:49:29Z"
+      },
+      {
+        "name": "hal_wch",
+        "description": "HAL module for WCH CH32V",
+        "url": "https://github.com/zephyrproject-rtos/hal_wch",
+        "stars": 3,
+        "forks": 4,
+        "language": "C",
+        "pushed_at": "2025-04-21T17:29:06Z",
+        "created_at": "2024-08-23T02:09:59Z"
+      },
+      {
+        "name": "hal_wurthelektronik",
+        "description": "HAL for Würth Elektronik devices",
+        "url": "https://github.com/zephyrproject-rtos/hal_wurthelektronik",
+        "stars": 3,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2023-09-07T09:04:00Z",
+        "created_at": "2022-08-12T15:00:35Z"
+      },
+      {
+        "name": "hal_xtensa",
+        "description": "Zephyr repository tracking https://github.com/foss-xtensa/xtensa-hal",
+        "url": "https://github.com/zephyrproject-rtos/hal_xtensa",
+        "stars": 4,
+        "forks": 22,
+        "language": "C",
+        "pushed_at": "2024-12-02T16:43:16Z",
+        "created_at": "2019-12-03T16:56:57Z"
+      },
+      {
+        "name": "hardware_test_results",
+        "description": "A repo for collecting test results and for managing validation reports.",
+        "url": "https://github.com/zephyrproject-rtos/hardware_test_results",
+        "stars": 1,
+        "forks": 3,
+        "language": "Python",
+        "pushed_at": "2024-07-26T14:21:37Z",
+        "created_at": "2023-12-07T11:04:28Z"
+      },
+      {
+        "name": "hostap",
+        "description": "Zephyr repository tracking https://w1.fi/cgit/hostap/",
+        "url": "https://github.com/zephyrproject-rtos/hostap",
+        "stars": 4,
+        "forks": 19,
+        "language": "C",
+        "pushed_at": "2025-04-17T10:27:00Z",
+        "created_at": "2023-10-19T13:30:45Z"
+      },
+      {
+        "name": "infrastructure",
+        "description": "Zephyr Project Infrastructure Management",
+        "url": "https://github.com/zephyrproject-rtos/infrastructure",
+        "stars": 1,
+        "forks": 2,
+        "language": "HCL",
+        "pushed_at": "2025-04-11T13:45:13Z",
+        "created_at": "2022-03-25T11:59:06Z"
+      },
+      {
+        "name": "infrastructure-old",
+        "description": "Zephyr Infrastructure Issue Tracker (obsolete)",
+        "url": "https://github.com/zephyrproject-rtos/infrastructure-old",
+        "stars": 8,
+        "forks": 5,
+        "language": "未指定",
+        "pushed_at": "2022-11-21T17:53:03Z",
+        "created_at": "2017-07-28T10:35:00Z"
+      },
+      {
+        "name": "infrastructure-status",
+        "description": "Zephyr Infrastructure Status Page",
+        "url": "https://github.com/zephyrproject-rtos/infrastructure-status",
+        "stars": 0,
+        "forks": 1,
+        "language": "TypeScript",
+        "pushed_at": "2024-06-16T05:12:11Z",
+        "created_at": "2024-06-13T14:24:27Z"
+      },
+      {
+        "name": "jlink-zephyr",
+        "description": "J-Link Zephyr RTOS plugin",
+        "url": "https://github.com/zephyrproject-rtos/jlink-zephyr",
+        "stars": 33,
+        "forks": 5,
+        "language": "C",
+        "pushed_at": "2024-02-02T06:12:34Z",
+        "created_at": "2024-01-22T18:36:09Z"
+      },
+      {
+        "name": "Kconfiglib",
+        "description": "Canonical upstream for https://pypi.org/project/kconfiglib/ (replaces inactive https://github.com/ulfalizer/Kconfiglib)",
+        "url": "https://github.com/zephyrproject-rtos/Kconfiglib",
+        "stars": 15,
+        "forks": 8,
+        "language": "Python",
+        "pushed_at": "2024-10-04T09:51:31Z",
+        "created_at": "2024-08-14T15:21:37Z"
+      },
+      {
+        "name": "libjaylink",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/libjaylink",
+        "stars": 1,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2020-02-01T16:20:55Z",
+        "created_at": "2020-02-01T16:05:46Z"
+      },
+      {
+        "name": "liblc3",
+        "description": "Fork of https://github.com/google/liblc3",
+        "url": "https://github.com/zephyrproject-rtos/liblc3",
+        "stars": 1,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2025-02-11T14:20:05Z",
+        "created_at": "2022-08-12T14:53:31Z"
+      },
+      {
+        "name": "liblc3codec",
+        "description": "LC3 codec implementation",
+        "url": "https://github.com/zephyrproject-rtos/liblc3codec",
+        "stars": 66,
+        "forks": 39,
+        "language": "C++",
+        "pushed_at": "2023-08-07T19:47:59Z",
+        "created_at": "2021-03-17T12:45:23Z"
+      },
+      {
+        "name": "libmctp",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/libmctp",
+        "stars": 0,
+        "forks": 2,
+        "language": "未指定",
+        "pushed_at": "2025-01-15T14:54:41Z",
+        "created_at": "2024-11-19T15:06:08Z"
+      },
+      {
+        "name": "libmetal",
+        "description": "The libmetal module specific for use with Zephyr. This is not a mirror of the official libmetal repo.",
+        "url": "https://github.com/zephyrproject-rtos/libmetal",
+        "stars": 12,
+        "forks": 19,
+        "language": "C",
+        "pushed_at": "2025-04-01T14:20:35Z",
+        "created_at": "2019-05-09T12:38:43Z"
+      },
+      {
+        "name": "libsbc",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/libsbc",
+        "stars": 0,
+        "forks": 1,
+        "language": "未指定",
+        "pushed_at": "2025-04-21T14:40:27Z",
+        "created_at": "2025-03-13T17:15:36Z"
+      },
+      {
+        "name": "littlefs",
+        "description": "littlefs module for Zephyr, not a mirror of the official littlefs repository",
+        "url": "https://github.com/zephyrproject-rtos/littlefs",
+        "stars": 18,
+        "forks": 20,
+        "language": "C",
+        "pushed_at": "2025-05-20T12:45:10Z",
+        "created_at": "2019-07-25T10:15:53Z"
+      },
+      {
+        "name": "llvm-project",
+        "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+        "url": "https://github.com/zephyrproject-rtos/llvm-project",
+        "stars": 0,
+        "forks": 0,
+        "language": "LLVM",
+        "pushed_at": "2024-11-25T00:29:35Z",
+        "created_at": "2024-10-15T11:54:10Z"
+      },
+      {
+        "name": "loramac-node",
+        "description": "Zephyr repository tracking https://github.com/Lora-net/LoRaMac-node",
+        "url": "https://github.com/zephyrproject-rtos/loramac-node",
+        "stars": 21,
+        "forks": 27,
+        "language": "C",
+        "pushed_at": "2024-04-03T15:54:02Z",
+        "created_at": "2019-08-31T08:51:31Z"
+      },
+      {
+        "name": "lvgl",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/lvgl",
+        "stars": 74,
+        "forks": 53,
+        "language": "C",
+        "pushed_at": "2025-02-20T07:16:03Z",
+        "created_at": "2019-07-03T23:41:05Z"
+      },
+      {
+        "name": "lz4",
+        "description": "Extremely Fast Compression algorithm",
+        "url": "https://github.com/zephyrproject-rtos/lz4",
+        "stars": 1,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2024-08-07T12:45:45Z",
+        "created_at": "2021-02-18T11:45:21Z"
+      },
+      {
+        "name": "mbedtls",
+        "description": "mbedtls module for Zephyr, this is not a mirror of the official mbedtls repository.",
+        "url": "https://github.com/zephyrproject-rtos/mbedtls",
+        "stars": 21,
+        "forks": 60,
+        "language": "C",
+        "pushed_at": "2025-04-01T06:30:51Z",
+        "created_at": "2019-05-09T12:44:35Z"
+      },
+      {
+        "name": "mcuboot",
+        "description": "Secure boot for 32-bit Microcontrollers!",
+        "url": "https://github.com/zephyrproject-rtos/mcuboot",
+        "stars": 27,
+        "forks": 75,
+        "language": "C",
+        "pushed_at": "2025-05-02T07:07:02Z",
+        "created_at": "2019-09-11T15:06:53Z"
+      },
+      {
+        "name": "mcumgr",
+        "description": "Upstream repo is https://github.com/apache/mynewt-mcumgr",
+        "url": "https://github.com/zephyrproject-rtos/mcumgr",
+        "stars": 29,
+        "forks": 31,
+        "language": "C",
+        "pushed_at": "2022-11-16T10:41:08Z",
+        "created_at": "2019-05-23T02:31:03Z"
+      },
+      {
+        "name": "meta-zephyr-sdk",
+        "description": "Zephyr SDK (obsolete)",
+        "url": "https://github.com/zephyrproject-rtos/meta-zephyr-sdk",
+        "stars": 45,
+        "forks": 29,
+        "language": "C",
+        "pushed_at": "2019-01-10T16:17:01Z",
+        "created_at": "2016-06-14T20:38:26Z"
+      },
+      {
+        "name": "mipi-sys-t",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/mipi-sys-t",
+        "stars": 7,
+        "forks": 10,
+        "language": "C",
+        "pushed_at": "2025-02-08T16:06:34Z",
+        "created_at": "2019-10-23T11:37:29Z"
+      },
+      {
+        "name": "nanopb",
+        "description": "Protocol Buffers with small code size",
+        "url": "https://github.com/zephyrproject-rtos/nanopb",
+        "stars": 3,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2025-02-10T19:35:08Z",
+        "created_at": "2021-03-26T16:18:53Z"
+      },
+      {
+        "name": "net-tools",
+        "description": "Network tools for testing with Qemu",
+        "url": "https://github.com/zephyrproject-rtos/net-tools",
+        "stars": 38,
+        "forks": 37,
+        "language": "C",
+        "pushed_at": "2025-05-21T05:11:11Z",
+        "created_at": "2016-06-14T20:44:51Z"
+      },
+      {
+        "name": "newlib-cygwin",
+        "description": "Newlib source for building Zephyr SDK",
+        "url": "https://github.com/zephyrproject-rtos/newlib-cygwin",
+        "stars": 2,
+        "forks": 8,
+        "language": "C",
+        "pushed_at": "2025-04-29T13:29:48Z",
+        "created_at": "2020-06-04T13:33:57Z"
+      },
+      {
+        "name": "nffs",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/nffs",
+        "stars": 5,
+        "forks": 3,
+        "language": "C",
+        "pushed_at": "2019-12-10T01:46:55Z",
+        "created_at": "2019-05-23T19:11:46Z"
+      },
+      {
+        "name": "nrf_hw_models",
+        "description": "Mirror of https://github.com/BabbleSim/ext_NRF_hw_models/ (PRs or issues should be filed there)",
+        "url": "https://github.com/zephyrproject-rtos/nrf_hw_models",
+        "stars": 2,
+        "forks": 14,
+        "language": "C",
+        "pushed_at": "2025-05-19T12:37:46Z",
+        "created_at": "2019-11-18T09:44:45Z"
+      },
+      {
+        "name": "nrf_wifi",
+        "description": "nRF Wi-Fi framework",
+        "url": "https://github.com/zephyrproject-rtos/nrf_wifi",
+        "stars": 0,
+        "forks": 14,
+        "language": "C",
+        "pushed_at": "2025-05-21T09:40:44Z",
+        "created_at": "2024-11-20T17:42:16Z"
+      },
+      {
+        "name": "open-amp",
+        "description": "open-amp module for zephyr, this is not an official mirror of the open-amp repo",
+        "url": "https://github.com/zephyrproject-rtos/open-amp",
+        "stars": 10,
+        "forks": 19,
+        "language": "C",
+        "pushed_at": "2025-04-01T14:20:52Z",
+        "created_at": "2019-05-09T12:41:06Z"
+      },
+      {
+        "name": "openocd",
+        "description": "OpenOCD with Zephyr patches for building Zephyr SDK",
+        "url": "https://github.com/zephyrproject-rtos/openocd",
+        "stars": 37,
+        "forks": 51,
+        "language": "C",
+        "pushed_at": "2025-05-18T16:12:37Z",
+        "created_at": "2017-08-06T13:58:10Z"
+      },
+      {
+        "name": "openthread",
+        "description": "openthread module for Zephyr, not a mirror of the official openthread repository",
+        "url": "https://github.com/zephyrproject-rtos/openthread",
+        "stars": 29,
+        "forks": 40,
+        "language": "C++",
+        "pushed_at": "2025-01-10T12:15:29Z",
+        "created_at": "2019-07-23T09:18:08Z"
+      },
+      {
+        "name": "optiga-trust",
+        "description": "Zephyr repository tracking Infineon's Optiga Trust X and M frameworks",
+        "url": "https://github.com/zephyrproject-rtos/optiga-trust",
+        "stars": 3,
+        "forks": 3,
+        "language": "未指定",
+        "pushed_at": "2020-03-09T10:24:29Z",
+        "created_at": "2019-12-05T15:14:57Z"
+      },
+      {
+        "name": "oss-eu-2022-zephyr-app",
+        "description": "Application for the OSS EU 2022 Zephyr Mini-Summit",
+        "url": "https://github.com/zephyrproject-rtos/oss-eu-2022-zephyr-app",
+        "stars": 5,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2023-05-08T14:04:59Z",
+        "created_at": "2022-09-09T09:45:11Z"
+      },
+      {
+        "name": "PDCurses",
+        "description": "PDCurses - a curses library for environments that don't fit the termcap/terminfo model.",
+        "url": "https://github.com/zephyrproject-rtos/PDCurses",
+        "stars": 5,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2024-10-03T02:48:45Z",
+        "created_at": "2022-11-02T11:35:19Z"
+      },
+      {
+        "name": "percepio",
+        "description": "Repository containing all open source Percepio projects. TraceRecorder is software for tracing real-time applications. DFM is the target source code for DevAlert.",
+        "url": "https://github.com/zephyrproject-rtos/percepio",
+        "stars": 0,
+        "forks": 3,
+        "language": "C",
+        "pushed_at": "2025-01-24T15:12:08Z",
+        "created_at": "2023-09-03T22:25:12Z"
+      },
+      {
+        "name": "picolibc",
+        "description": "picolibc - a C library designed for embedded 32- and 64- bit systems.",
+        "url": "https://github.com/zephyrproject-rtos/picolibc",
+        "stars": 5,
+        "forks": 15,
+        "language": "C",
+        "pushed_at": "2025-05-17T00:28:42Z",
+        "created_at": "2022-04-05T09:46:33Z"
+      },
+      {
+        "name": "poky",
+        "description": "Mirror of https://git.yoctoproject.org/poky/ for building Zephyr SDK",
+        "url": "https://github.com/zephyrproject-rtos/poky",
+        "stars": 2,
+        "forks": 0,
+        "language": "Python",
+        "pushed_at": "2025-05-07T00:52:49Z",
+        "created_at": "2022-11-05T09:40:46Z"
+      },
+      {
+        "name": "pr-dashboard",
+        "description": "Pull Request Dashboard",
+        "url": "https://github.com/zephyrproject-rtos/pr-dashboard",
+        "stars": 4,
+        "forks": 2,
+        "language": "HTML",
+        "pushed_at": "2025-01-16T16:50:52Z",
+        "created_at": "2024-12-20T13:03:01Z"
+      },
+      {
+        "name": "proposals",
+        "description": "Zephyr Enhancement Proposals and Blue Prints",
+        "url": "https://github.com/zephyrproject-rtos/proposals",
+        "stars": 2,
+        "forks": 2,
+        "language": "未指定",
+        "pushed_at": "2021-02-17T15:10:23Z",
+        "created_at": "2020-12-07T18:46:31Z"
+      },
+      {
+        "name": "psa-arch-tests",
+        "description": "Tests for verifying implementations of TBSA-v8M and the PSA Developer APIs",
+        "url": "https://github.com/zephyrproject-rtos/psa-arch-tests",
+        "stars": 1,
+        "forks": 10,
+        "language": "C",
+        "pushed_at": "2024-05-10T11:08:02Z",
+        "created_at": "2021-10-19T15:24:26Z"
+      },
+      {
+        "name": "python-devicetree",
+        "description": "Python devicetree library",
+        "url": "https://github.com/zephyrproject-rtos/python-devicetree",
+        "stars": 15,
+        "forks": 4,
+        "language": "Python",
+        "pushed_at": "2022-10-10T11:14:15Z",
+        "created_at": "2021-03-11T18:23:00Z"
+      },
+      {
+        "name": "qemu",
+        "description": "QEMU source for building Zephyr SDK",
+        "url": "https://github.com/zephyrproject-rtos/qemu",
+        "stars": 8,
+        "forks": 5,
+        "language": "C",
+        "pushed_at": "2025-05-17T10:00:05Z",
+        "created_at": "2017-05-14T13:42:38Z"
+      },
+      {
+        "name": "qm_old",
+        "description": "Quality Management and QA/Verification plans and reports",
+        "url": "https://github.com/zephyrproject-rtos/qm_old",
+        "stars": 7,
+        "forks": 6,
+        "language": "Perl",
+        "pushed_at": "2020-02-24T11:36:21Z",
+        "created_at": "2018-06-13T21:24:53Z"
+      },
+      {
+        "name": "reqmgmt",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/reqmgmt",
+        "stars": 16,
+        "forks": 16,
+        "language": "Python",
+        "pushed_at": "2025-03-12T08:00:43Z",
+        "created_at": "2021-04-15T20:42:14Z"
+      },
+      {
+        "name": "rimage",
+        "description": "DSP firmware image creation and signing tool",
+        "url": "https://github.com/zephyrproject-rtos/rimage",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2023-09-05T10:25:27Z",
+        "created_at": "2023-09-05T10:48:25Z"
+      },
+      {
+        "name": "rtos-benchmark",
+        "description": "RTOS Benchmark",
+        "url": "https://github.com/zephyrproject-rtos/rtos-benchmark",
+        "stars": 43,
+        "forks": 17,
+        "language": "C",
+        "pushed_at": "2025-03-04T18:32:23Z",
+        "created_at": "2022-05-16T16:18:05Z"
+      },
+      {
+        "name": "safety-doc",
+        "description": "Traceability and Architecture for Safety",
+        "url": "https://github.com/zephyrproject-rtos/safety-doc",
+        "stars": 2,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-04-21T11:53:23Z",
+        "created_at": "2025-04-18T12:57:02Z"
+      },
+      {
+        "name": "sdk-ng",
+        "description": "Zephyr SDK (Toolchains, Development Tools)",
+        "url": "https://github.com/zephyrproject-rtos/sdk-ng",
+        "stars": 204,
+        "forks": 157,
+        "language": "C",
+        "pushed_at": "2025-05-22T02:11:28Z",
+        "created_at": "2017-05-30T03:13:29Z"
+      },
+      {
+        "name": "sdk-ng-testing",
+        "description": "For testing purposes only.",
+        "url": "https://github.com/zephyrproject-rtos/sdk-ng-testing",
+        "stars": 2,
+        "forks": 5,
+        "language": "C",
+        "pushed_at": "2025-04-02T21:43:28Z",
+        "created_at": "2022-02-04T11:19:20Z"
+      },
+      {
+        "name": "seabios",
+        "description": "SeaBIOS source for Zephyr SDK x86 QEMU",
+        "url": "https://github.com/zephyrproject-rtos/seabios",
+        "stars": 1,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2022-06-12T18:35:30Z",
+        "created_at": "2020-07-14T22:41:04Z"
+      },
+      {
+        "name": "segger",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/segger",
+        "stars": 8,
+        "forks": 34,
+        "language": "C",
+        "pushed_at": "2024-12-17T07:30:33Z",
+        "created_at": "2019-05-23T19:47:45Z"
+      },
+      {
+        "name": "sof",
+        "description": "Sound Open Firmware",
+        "url": "https://github.com/zephyrproject-rtos/sof",
+        "stars": 3,
+        "forks": 15,
+        "language": "C",
+        "pushed_at": "2024-12-03T19:25:28Z",
+        "created_at": "2020-12-08T16:09:28Z"
+      },
+      {
+        "name": "swg-scripts",
+        "description": "Security Working Group Scripts",
+        "url": "https://github.com/zephyrproject-rtos/swg-scripts",
+        "stars": 1,
+        "forks": 3,
+        "language": "Rust",
+        "pushed_at": "2022-02-07T19:46:19Z",
+        "created_at": "2020-08-11T20:30:55Z"
+      },
+      {
+        "name": "system-dt-playground",
+        "description": "Temp repo for sharing activities around system devicetree and Zephyr",
+        "url": "https://github.com/zephyrproject-rtos/system-dt-playground",
+        "stars": 2,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2021-11-18T13:13:52Z",
+        "created_at": "2021-03-11T17:40:47Z"
+      },
+      {
+        "name": "tart-sdk-build-macos",
+        "description": "Tart macOS image for building the Zephyr SDK",
+        "url": "https://github.com/zephyrproject-rtos/tart-sdk-build-macos",
+        "stars": 0,
+        "forks": 1,
+        "language": "HCL",
+        "pushed_at": "2024-09-29T13:43:10Z",
+        "created_at": "2024-09-18T10:04:10Z"
+      },
+      {
+        "name": "tensorflow",
+        "description": "An Open Source Machine Learning Framework for Everyone",
+        "url": "https://github.com/zephyrproject-rtos/tensorflow",
+        "stars": 1,
+        "forks": 2,
+        "language": "C++",
+        "pushed_at": "2021-04-28T19:25:01Z",
+        "created_at": "2021-04-28T17:33:40Z"
+      },
+      {
+        "name": "terraform-aws-eks-blueprints",
+        "description": "Configure and deploy complete EKS clusters.",
+        "url": "https://github.com/zephyrproject-rtos/terraform-aws-eks-blueprints",
+        "stars": 1,
+        "forks": 0,
+        "language": "HCL",
+        "pushed_at": "2023-08-19T14:42:57Z",
+        "created_at": "2022-10-26T13:59:53Z"
+      },
+      {
+        "name": "tests_influx_grafana",
+        "description": "Used for footprint tracking",
+        "url": "https://github.com/zephyrproject-rtos/tests_influx_grafana",
+        "stars": 1,
+        "forks": 1,
+        "language": "Python",
+        "pushed_at": "2021-08-30T15:22:42Z",
+        "created_at": "2021-08-30T15:15:50Z"
+      },
+      {
+        "name": "test_results",
+        "description": "Consolidated test results",
+        "url": "https://github.com/zephyrproject-rtos/test_results",
+        "stars": 8,
+        "forks": 12,
+        "language": "Python",
+        "pushed_at": "2025-05-15T02:48:27Z",
+        "created_at": "2020-03-16T13:27:23Z"
+      },
+      {
+        "name": "tf-m-tests",
+        "description": "Zephyr repository tracking https://git.trustedfirmware.org/TF-M/tf-m-tests.git",
+        "url": "https://github.com/zephyrproject-rtos/tf-m-tests",
+        "stars": 3,
+        "forks": 14,
+        "language": "C",
+        "pushed_at": "2025-04-23T07:06:41Z",
+        "created_at": "2021-10-19T15:21:51Z"
+      },
+      {
+        "name": "tflite-micro",
+        "description": "TensorFlow Lite for Microcontrollers",
+        "url": "https://github.com/zephyrproject-rtos/tflite-micro",
+        "stars": 4,
+        "forks": 4,
+        "language": "C++",
+        "pushed_at": "2025-02-11T17:50:54Z",
+        "created_at": "2021-07-14T15:25:08Z"
+      },
+      {
+        "name": "thrift",
+        "description": "Apache Thrift",
+        "url": "https://github.com/zephyrproject-rtos/thrift",
+        "stars": 1,
+        "forks": 0,
+        "language": "C++",
+        "pushed_at": "2024-06-19T18:15:52Z",
+        "created_at": "2023-01-26T07:20:38Z"
+      },
+      {
+        "name": "tinycbor",
+        "description": "Concise Binary Object Representation (CBOR) Library",
+        "url": "https://github.com/zephyrproject-rtos/tinycbor",
+        "stars": 5,
+        "forks": 9,
+        "language": "C",
+        "pushed_at": "2022-04-07T10:33:32Z",
+        "created_at": "2018-02-06T16:53:38Z"
+      },
+      {
+        "name": "tinycrypt",
+        "description": "Zephyr repository tracking https://github.com/intel/tinycrypt",
+        "url": "https://github.com/zephyrproject-rtos/tinycrypt",
+        "stars": 2,
+        "forks": 8,
+        "language": "C",
+        "pushed_at": "2024-03-04T14:22:55Z",
+        "created_at": "2020-03-20T10:39:47Z"
+      },
+      {
+        "name": "tomlc99",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/tomlc99",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2020-09-15T08:57:03Z",
+        "created_at": "2023-09-05T10:49:35Z"
+      },
+      {
+        "name": "TraceRecorderSource",
+        "description": "Trace Recorder source code for use with Percepio's Tracealyzer",
+        "url": "https://github.com/zephyrproject-rtos/TraceRecorderSource",
+        "stars": 1,
+        "forks": 8,
+        "language": "C",
+        "pushed_at": "2023-07-19T11:52:48Z",
+        "created_at": "2021-05-06T20:01:30Z"
+      },
+      {
+        "name": "trusted-firmware-a",
+        "description": "Zephyr repository tracking https://git.trustedfirmware.org/TF-A/trusted-firmware-a.git/",
+        "url": "https://github.com/zephyrproject-rtos/trusted-firmware-a",
+        "stars": 1,
+        "forks": 6,
+        "language": "C",
+        "pushed_at": "2024-06-20T19:29:06Z",
+        "created_at": "2022-07-14T08:35:31Z"
+      },
+      {
+        "name": "trusted-firmware-m",
+        "description": "Zephyr repository tracking https://git.trustedfirmware.org/plugins/gitiles/TF-M/trusted-firmware-m.git",
+        "url": "https://github.com/zephyrproject-rtos/trusted-firmware-m",
+        "stars": 36,
+        "forks": 59,
+        "language": "C",
+        "pushed_at": "2025-05-12T08:07:30Z",
+        "created_at": "2019-11-22T11:53:18Z"
+      },
+      {
+        "name": "twister",
+        "description": "[DEPRICATED] Project won't be continued.",
+        "url": "https://github.com/zephyrproject-rtos/twister",
+        "stars": 10,
+        "forks": 9,
+        "language": "Python",
+        "pushed_at": "2023-07-31T08:51:52Z",
+        "created_at": "2022-06-03T16:52:09Z"
+      },
+      {
+        "name": "uoscore-uedhoc",
+        "description": "Zephyr downstream of https://github.com/eriptic/uoscore-uedhoc",
+        "url": "https://github.com/zephyrproject-rtos/uoscore-uedhoc",
+        "stars": 3,
+        "forks": 3,
+        "language": "C",
+        "pushed_at": "2025-02-13T11:05:44Z",
+        "created_at": "2022-07-01T14:41:40Z"
+      },
+      {
+        "name": "west",
+        "description": "West, Zephyr's meta-tool",
+        "url": "https://github.com/zephyrproject-rtos/west",
+        "stars": 262,
+        "forks": 135,
+        "language": "Python",
+        "pushed_at": "2025-05-12T10:30:56Z",
+        "created_at": "2018-05-23T13:56:05Z"
+      },
+      {
+        "name": "windows-curses",
+        "description": "Windows Curses Python module",
+        "url": "https://github.com/zephyrproject-rtos/windows-curses",
+        "stars": 191,
+        "forks": 33,
+        "language": "C",
+        "pushed_at": "2025-01-11T00:00:41Z",
+        "created_at": "2018-04-30T14:19:44Z"
+      },
+      {
+        "name": "zcbor",
+        "description": "Code generation from CDDL descriptions.",
+        "url": "https://github.com/zephyrproject-rtos/zcbor",
+        "stars": 8,
+        "forks": 7,
+        "language": "C",
+        "pushed_at": "2024-11-12T11:57:31Z",
+        "created_at": "2022-03-15T10:38:21Z"
+      },
+      {
+        "name": "zephyr",
+        "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+        "url": "https://github.com/zephyrproject-rtos/zephyr",
+        "stars": 12136,
+        "forks": 7382,
+        "language": "C",
+        "pushed_at": "2025-05-22T02:53:18Z",
+        "created_at": "2016-05-26T17:54:19Z"
+      },
+      {
+        "name": "zephyr-lang-rust",
+        "description": "Support for Zephyr applications written in Rust",
+        "url": "https://github.com/zephyrproject-rtos/zephyr-lang-rust",
+        "stars": 132,
+        "forks": 22,
+        "language": "Rust",
+        "pushed_at": "2025-05-21T21:30:28Z",
+        "created_at": "2024-09-11T18:29:43Z"
+      },
+      {
+        "name": "zephyr-merge-list",
+        "description": "Zephyr Merge List",
+        "url": "https://github.com/zephyrproject-rtos/zephyr-merge-list",
+        "stars": 3,
+        "forks": 2,
+        "language": "Python",
+        "pushed_at": "2025-01-16T16:56:31Z",
+        "created_at": "2024-03-25T11:47:35Z"
+      },
+      {
+        "name": "zephyr-testing",
+        "description": "Test Repo, Do not clone! Use zephyr repo  instead",
+        "url": "https://github.com/zephyrproject-rtos/zephyr-testing",
+        "stars": 16,
+        "forks": 26,
+        "language": "C",
+        "pushed_at": "2025-05-21T19:16:26Z",
+        "created_at": "2017-04-26T03:08:46Z"
+      },
+      {
+        "name": "zscilib",
+        "description": "An open-source scientific computing library for embedded systems running Zephyr OS or standalone.",
+        "url": "https://github.com/zephyrproject-rtos/zscilib",
+        "stars": 150,
+        "forks": 29,
+        "language": "C",
+        "pushed_at": "2025-05-12T13:09:10Z",
+        "created_at": "2019-02-16T11:21:35Z"
       }
     ]
   }
