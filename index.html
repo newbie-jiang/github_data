@@ -60,35 +60,61 @@
       currentRepos.sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at));
     }
 
-    function renderPage(page) {
-      currentPage = page;
-      const start = (page - 1) * ITEMS_PER_PAGE;
-      const end = start + ITEMS_PER_PAGE;
-      const pageRepos = currentRepos.slice(start, end);
+   function renderPage(page) {
+  currentPage = page;
+  const start = (page - 1) * ITEMS_PER_PAGE;
+  const end = start + ITEMS_PER_PAGE;
+  const pageRepos = currentRepos.slice(start, end);
 
-      const repoList = document.getElementById('repo-list');
-      repoList.innerHTML = pageRepos.map(repo => `
-        <div class="bg-white rounded-xl shadow-md p-4 hover:shadow-lg transition-all">
-          <div class="flex justify-between items-center">
-            <a href="${repo.url}" target="_blank" class="text-lg font-bold text-blue-600 hover:underline">${repo.name}</a>
-            <span class="bg-gray-200 text-xs rounded px-2">${repo.language || "未知"}</span>
-          </div>
-          <div class="text-gray-600 mb-2">${repo.description || "无简介"}</div>
-          <div class="flex justify-between items-center text-sm text-gray-500">
-            <div>
-              <span>⭐${repo.stars}</span>
-              <span class="ml-2">🍴${repo.forks}</span>
-            </div>
-            <div>
-              <span>🧑‍💻 ${repo.username}</span>
-            </div>
-          </div>
-          <div class="text-xs text-gray-400 mt-1">最后提交：${repo.pushed_at.split('T')[0]}</div>
+  const now = new Date();
+
+  const repoList = document.getElementById('repo-list');
+  repoList.innerHTML = pageRepos.map(repo => {
+    // 转换最后提交时间字符串为 Date 对象
+    const pushedDate = new Date(repo.pushed_at);
+    // 计算距离现在的时间差（毫秒）
+    const diffMs = now - pushedDate;
+    // 24小时毫秒数
+    const day24Ms = 24 * 60 * 60 * 1000;
+    // 24小时内视为最近提交
+    const isRecent = diffMs <= day24Ms;
+
+    // 格式化时间，显示到秒：YYYY-MM-DD HH:mm:ss
+    const y = pushedDate.getFullYear();
+    const m = String(pushedDate.getMonth() + 1).padStart(2, '0');
+    const d = String(pushedDate.getDate()).padStart(2, '0');
+    const hh = String(pushedDate.getHours()).padStart(2, '0');
+    const mm = String(pushedDate.getMinutes()).padStart(2, '0');
+    const ss = String(pushedDate.getSeconds()).padStart(2, '0');
+    const formattedTime = `${y}-${m}-${d} ${hh}:${mm}:${ss}`;
+
+    // 设置不同样式区分是否最近提交
+    const timeClass = isRecent ? 'text-green-600 font-semibold' : 'text-gray-400';
+
+    return `
+      <div class="bg-white rounded-xl shadow-md p-4 hover:shadow-lg transition-all">
+        <div class="flex justify-between items-center">
+          <a href="${repo.url}" target="_blank" class="text-lg font-bold text-blue-600 hover:underline">${repo.name}</a>
+          <span class="bg-gray-200 text-xs rounded px-2">${repo.language || "未知"}</span>
         </div>
-      `).join('');
+        <div class="text-gray-600 mb-2">${repo.description || "无简介"}</div>
+        <div class="flex justify-between items-center text-sm text-gray-500">
+          <div>
+            <span>⭐${repo.stars}</span>
+            <span class="ml-2">🍴${repo.forks}</span>
+          </div>
+          <div>
+            <span>🧑‍💻 ${repo.username}</span>
+          </div>
+        </div>
+        <div class="text-xs mt-1 ${timeClass}">最后提交：${formattedTime}</div>
+      </div>
+    `;
+  }).join('');
 
-      renderPagination();
-    }
+  renderPagination();
+}
+
 
     function renderPagination() {
       const totalPages = Math.ceil(currentRepos.length / ITEMS_PER_PAGE);
