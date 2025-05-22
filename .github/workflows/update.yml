@@ -39,10 +39,8 @@ jobs:
         with:
           commit_message: "auto: update repos_data.json"
           branch: gh-pages
-          repository: ${{ github.repository }}
-         
           commit_user_name: github-actions
           commit_user_email: github-actions@github.com
           commit_author: github-actions <github-actions@github.com>
-          # 注意这里 file_pattern 必须是 gh-pages/repos_data.json，如果只写repos_data.json可能无效
-          file_pattern: gh-pages/repos_data.json
+          file_pattern: repos_data.json
+        working-directory: gh-pages
