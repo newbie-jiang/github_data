@@ -23,7 +23,7 @@ jobs:
         run: pip install requests
 
       - name: Run fetch_github.py
-        run: python fetch_github.py
+        run: python scripts/fetch_github.py
 
       - name: Checkout gh-pages branch
         uses: actions/checkout@v4
