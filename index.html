@@ -29,51 +29,45 @@
   <script>
     const ITEMS_PER_PAGE = 50;
     let allData = [];
-    let currentPage = 1;
     let currentRepos = [];
+    let currentPage = 1;
 
-    fetch("repos_data.json")
-      .then((resp) => resp.json())
-      .then((data) => {
-        allData = data;
-        const userSelect = document.getElementById("user-select");
-        userSelect.innerHTML = data
-          .map((u) => `<option value="${u.username}">${u.username}</option>`)
-          .join("");
-        renderRepos("all", 1);
-      });
-
-    document.getElementById("user-select").addEventListener("change", (e) => {
-      renderRepos(e.target.value, 1);
-    });
-    document.getElementById("show-all").addEventListener("click", () => {
-      renderRepos("all", 1);
+    fetch('repos_data.json').then(resp => resp.json()).then(data => {
+      allData = data;
+      const userSelect = document.getElementById('user-select');
+      userSelect.innerHTML = data.map(u => `<option value="${u.username}">${u.username}</option>`).join('');
+      setCurrentRepos('all');
+      renderPage(1);
     });
 
-    function renderRepos(user, page = 1) {
-      let repos = [];
-      if (user === "all") {
-        repos = allData
-          .map((u) => u.repos.map((r) => ({ ...r, username: u.username })))
-          .flat();
+    document.getElementById('user-select').addEventListener('change', e => {
+      setCurrentRepos(e.target.value);
+      renderPage(1);
+    });
+
+    document.getElementById('show-all').addEventListener('click', () => {
+      document.getElementById('user-select').value = 'all';
+      setCurrentRepos('all');
+      renderPage(1);
+    });
+
+    function setCurrentRepos(user) {
+      if(user === 'all') {
+        currentRepos = allData.map(u => u.repos.map(r => ({...r, username: u.username}))).flat();
       } else {
-        repos = allData
-          .filter((u) => u.username === user)
-          .map((u) => u.repos.map((r) => ({ ...r, username: u.username })))
-          .flat();
+        currentRepos = allData.filter(u => u.username === user).map(u => u.repos.map(r => ({...r, username: u.username}))).flat();
       }
-      repos.sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at));
+      currentRepos.sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at));
+    }
 
-      currentRepos = repos;
+    function renderPage(page) {
       currentPage = page;
-
       const start = (page - 1) * ITEMS_PER_PAGE;
       const end = start + ITEMS_PER_PAGE;
-      const pageRepos = repos.slice(start, end);
+      const pageRepos = currentRepos.slice(start, end);
 
-      document.getElementById("repo-list").innerHTML = pageRepos
-        .map(
-          (repo) => `
+      const repoList = document.getElementById('repo-list');
+      repoList.innerHTML = pageRepos.map(repo => `
         <div class="bg-white rounded-xl shadow-md p-4 hover:shadow-lg transition-all">
           <div class="flex justify-between items-center">
             <a href="${repo.url}" target="_blank" class="text-lg font-bold text-blue-600 hover:underline">${repo.name}</a>
@@ -89,29 +83,25 @@
               <span>🧑‍💻 ${repo.username}</span>
             </div>
           </div>
-          <div class="text-xs text-gray-400 mt-1">最后提交：${repo.pushed_at.split("T")[0]}</div>
+          <div class="text-xs text-gray-400 mt-1">最后提交：${repo.pushed_at.split('T')[0]}</div>
         </div>
-      `
-        )
-        .join("");
+      `).join('');
 
-      renderPagination(repos.length, page);
+      renderPagination();
     }
 
-    function renderPagination(totalItems, currentPage) {
-      const totalPages = Math.ceil(totalItems / ITEMS_PER_PAGE);
-      const container = document.getElementById("pagination");
-      container.innerHTML = "";
+    function renderPagination() {
+      const totalPages = Math.ceil(currentRepos.length / ITEMS_PER_PAGE);
+      const container = document.getElementById('pagination');
+      container.innerHTML = '';
 
       if (totalPages <= 1) return;
 
-      for (let i = 1; i <= totalPages; i++) {
-        const btn = document.createElement("button");
+      for(let i = 1; i <= totalPages; i++) {
+        const btn = document.createElement('button');
         btn.textContent = i;
-        btn.className = `px-3 py-1 rounded ${
-          i === currentPage ? "bg-blue-500 text-white" : "bg-gray-200"
-        }`;
-        btn.onclick = () => renderRepos(document.getElementById("user-select").value, i);
+        btn.className = `px-3 py-1 rounded ${i === currentPage ? 'bg-blue-500 text-white' : 'bg-gray-200'}`;
+        btn.onclick = () => renderPage(i);
         container.appendChild(btn);
       }
     }
