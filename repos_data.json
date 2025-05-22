@@ -13,6 +13,16 @@
         "created_at": "2024-10-24T08:14:42Z"
       },
       {
+        "name": "actions_stm32_cmake_test",
+        "description": "github actions自动化编译stm32 cmake project test",
+        "url": "https://github.com/newbie-jiang/actions_stm32_cmake_test",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-05-22T13:43:49Z",
+        "created_at": "2025-05-22T13:24:24Z"
+      },
+      {
         "name": "AES",
         "description": "Public Domain C Library of Cryptographic functions. Including: MD5, SHA1, SHA256, SHA512, RC4, AES, AES-CTR, AES-OFB, AES-CBC",
         "url": "https://github.com/newbie-jiang/AES",
@@ -169,7 +179,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-05-22T12:43:19Z",
+        "pushed_at": "2025-05-22T13:20:57Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3527,9 +3537,9 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 12139,
-        "forks": 7381,
+        "forks": 7382,
         "language": "C",
-        "pushed_at": "2025-05-22T11:45:07Z",
+        "pushed_at": "2025-05-22T13:25:12Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -3559,7 +3569,7 @@
         "stars": 16,
         "forks": 26,
         "language": "C",
-        "pushed_at": "2025-05-22T11:22:59Z",
+        "pushed_at": "2025-05-22T13:41:38Z",
         "created_at": "2017-04-26T03:08:46Z"
       },
       {
@@ -10996,7 +11006,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15250,
+        "stars": 15251,
         "forks": 7660,
         "language": "C",
         "pushed_at": "2025-05-21T06:28:09Z",
@@ -11669,7 +11679,7 @@
         "stars": 42,
         "forks": 27,
         "language": "C++",
-        "pushed_at": "2025-05-22T10:13:11Z",
+        "pushed_at": "2025-05-22T13:22:54Z",
         "created_at": "2024-01-18T07:20:01Z"
       },
       {
@@ -12389,7 +12399,7 @@
         "stars": 11,
         "forks": 2,
         "language": "Rust",
-        "pushed_at": "2025-05-22T12:40:14Z",
+        "pushed_at": "2025-05-22T13:45:11Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
