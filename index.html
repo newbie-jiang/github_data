@@ -9,9 +9,14 @@
     rel="stylesheet"
   />
 </head>
-<body class="bg-gray-100 min-h-screen">
+<body class="bg-gray-100 min-h-screen relative">
   <div class="container mx-auto p-4">
-    <h1 class="text-3xl font-bold mb-4">GitHub 多用户仓库展示</h1>
+    <div class="flex justify-between items-center mb-4">
+      <h1 class="text-3xl font-bold">GitHub 多用户仓库展示</h1>
+      <!-- 最后更新时间显示 -->
+      <div id="last-update" class="text-gray-600 text-sm"></div>
+    </div>
+
     <div class="mb-4 flex gap-4 items-center">
       <label class="font-semibold">选择用户：</label>
       <select id="user-select" class="p-2 border rounded"></select>
@@ -21,7 +26,10 @@
       >
         全部仓库
       </button>
+      <!-- 当前用户仓库数显示 -->
+      <div id="repo-count" class="ml-auto font-semibold text-gray-700"></div>
     </div>
+
     <div id="repo-list" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"></div>
     <div id="pagination" class="mt-4 flex justify-center gap-2"></div>
   </div>
@@ -32,23 +40,49 @@
     let currentRepos = [];
     let currentPage = 1;
 
+    // 格式化日期时间函数
+    function formatDateTime(date) {
+      const y = date.getFullYear();
+      const m = String(date.getMonth() + 1).padStart(2, '0');
+      const d = String(date.getDate()).padStart(2, '0');
+      const hh = String(date.getHours()).padStart(2, '0');
+      const mm = String(date.getMinutes()).padStart(2, '0');
+      const ss = String(date.getSeconds()).padStart(2, '0');
+      return `${y}-${m}-${d} ${hh}:${mm}:${ss}`;
+    }
+
     fetch('repos_data.json').then(resp => resp.json()).then(data => {
       allData = data;
+
+      // 设置最后更新时间（用最新提交时间作为最后更新，也可以用当前时间）
+      let lastUpdateDate = new Date(0);
+      allData.forEach(user => {
+        user.repos.forEach(repo => {
+          const pushed = new Date(repo.pushed_at);
+          if (pushed > lastUpdateDate) lastUpdateDate = pushed;
+        });
+      });
+      document.getElementById('last-update').textContent = '数据最后更新时间：' + formatDateTime(lastUpdateDate);
+
       const userSelect = document.getElementById('user-select');
       userSelect.innerHTML = data.map(u => `<option value="${u.username}">${u.username}</option>`).join('');
       setCurrentRepos('all');
       renderPage(1);
+      updateRepoCount('all');
     });
 
     document.getElementById('user-select').addEventListener('change', e => {
-      setCurrentRepos(e.target.value);
+      const user = e.target.value;
+      setCurrentRepos(user);
       renderPage(1);
+      updateRepoCount(user);
     });
 
     document.getElementById('show-all').addEventListener('click', () => {
       document.getElementById('user-select').value = 'all';
       setCurrentRepos('all');
       renderPage(1);
+      updateRepoCount('all');
     });
 
     function setCurrentRepos(user) {
@@ -60,61 +94,57 @@
       currentRepos.sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at));
     }
 
-   function renderPage(page) {
-  currentPage = page;
-  const start = (page - 1) * ITEMS_PER_PAGE;
-  const end = start + ITEMS_PER_PAGE;
-  const pageRepos = currentRepos.slice(start, end);
+    function updateRepoCount(user) {
+      let count = 0;
+      if(user === 'all') {
+        count = allData.reduce((acc, u) => acc + u.repos.length, 0);
+      } else {
+        const userObj = allData.find(u => u.username === user);
+        count = userObj ? userObj.repos.length : 0;
+      }
+      document.getElementById('repo-count').textContent = `仓库总数: ${count}`;
+    }
 
-  const now = new Date();
+    function renderPage(page) {
+      currentPage = page;
+      const start = (page - 1) * ITEMS_PER_PAGE;
+      const end = start + ITEMS_PER_PAGE;
+      const pageRepos = currentRepos.slice(start, end);
 
-  const repoList = document.getElementById('repo-list');
-  repoList.innerHTML = pageRepos.map(repo => {
-    // 转换最后提交时间字符串为 Date 对象
-    const pushedDate = new Date(repo.pushed_at);
-    // 计算距离现在的时间差（毫秒）
-    const diffMs = now - pushedDate;
-    // 24小时毫秒数
-    const day24Ms = 24 * 60 * 60 * 1000;
-    // 24小时内视为最近提交
-    const isRecent = diffMs <= day24Ms;
+      const now = new Date();
 
-    // 格式化时间，显示到秒：YYYY-MM-DD HH:mm:ss
-    const y = pushedDate.getFullYear();
-    const m = String(pushedDate.getMonth() + 1).padStart(2, '0');
-    const d = String(pushedDate.getDate()).padStart(2, '0');
-    const hh = String(pushedDate.getHours()).padStart(2, '0');
-    const mm = String(pushedDate.getMinutes()).padStart(2, '0');
-    const ss = String(pushedDate.getSeconds()).padStart(2, '0');
-    const formattedTime = `${y}-${m}-${d} ${hh}:${mm}:${ss}`;
+      const repoList = document.getElementById('repo-list');
+      repoList.innerHTML = pageRepos.map(repo => {
+        const pushedDate = new Date(repo.pushed_at);
+        const diffMs = now - pushedDate;
+        const day24Ms = 24 * 60 * 60 * 1000;
+        const isRecent = diffMs <= day24Ms;
+        const formattedTime = formatDateTime(pushedDate);
+        const timeClass = isRecent ? 'text-green-600 font-semibold' : 'text-gray-400';
 
-    // 设置不同样式区分是否最近提交
-    const timeClass = isRecent ? 'text-green-600 font-semibold' : 'text-gray-400';
-
-    return `
-      <div class="bg-white rounded-xl shadow-md p-4 hover:shadow-lg transition-all">
-        <div class="flex justify-between items-center">
-          <a href="${repo.url}" target="_blank" class="text-lg font-bold text-blue-600 hover:underline">${repo.name}</a>
-          <span class="bg-gray-200 text-xs rounded px-2">${repo.language || "未知"}</span>
-        </div>
-        <div class="text-gray-600 mb-2">${repo.description || "无简介"}</div>
-        <div class="flex justify-between items-center text-sm text-gray-500">
-          <div>
-            <span>⭐${repo.stars}</span>
-            <span class="ml-2">🍴${repo.forks}</span>
+        return `
+          <div class="bg-white rounded-xl shadow-md p-4 hover:shadow-lg transition-all">
+            <div class="flex justify-between items-center">
+              <a href="${repo.url}" target="_blank" class="text-lg font-bold text-blue-600 hover:underline">${repo.name}</a>
+              <span class="bg-gray-200 text-xs rounded px-2">${repo.language || "未知"}</span>
+            </div>
+            <div class="text-gray-600 mb-2">${repo.description || "无简介"}</div>
+            <div class="flex justify-between items-center text-sm text-gray-500">
+              <div>
+                <span>⭐${repo.stars}</span>
+                <span class="ml-2">🍴${repo.forks}</span>
+              </div>
+              <div>
+                <span>🧑‍💻 ${repo.username}</span>
+              </div>
+            </div>
+            <div class="text-xs mt-1 ${timeClass}">最后提交：${formattedTime}</div>
           </div>
-          <div>
-            <span>🧑‍💻 ${repo.username}</span>
-          </div>
-        </div>
-        <div class="text-xs mt-1 ${timeClass}">最后提交：${formattedTime}</div>
-      </div>
-    `;
-  }).join('');
+        `;
+      }).join('');
 
-  renderPagination();
-}
-
+      renderPagination();
+    }
 
     function renderPagination() {
       const totalPages = Math.ceil(currentRepos.length / ITEMS_PER_PAGE);
