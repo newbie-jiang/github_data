@@ -1,7 +1,668 @@
 [
   {
     "username": "newbie-jiang",
-    "repos": []
+    "repos": [
+      {
+        "name": "-stm32h750xb-VL53L8CX",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/-stm32h750xb-VL53L8CX",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-03-03T07:15:49Z",
+        "created_at": "2024-10-24T08:14:42Z"
+      },
+      {
+        "name": "actions_stm32_cmake_test",
+        "description": "github actions自动化编译stm32 cmake project test",
+        "url": "https://github.com/newbie-jiang/actions_stm32_cmake_test",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-05-23T12:51:57Z",
+        "created_at": "2025-05-22T13:24:24Z"
+      },
+      {
+        "name": "AES",
+        "description": "Public Domain C Library of Cryptographic functions. Including: MD5, SHA1, SHA256, SHA512, RC4, AES, AES-CTR, AES-OFB, AES-CBC",
+        "url": "https://github.com/newbie-jiang/AES",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-06-06T19:05:34Z",
+        "created_at": "2023-12-26T13:50:53Z"
+      },
+      {
+        "name": "amb82-mini-RTL8735B",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/amb82-mini-RTL8735B",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-01-14T07:17:27Z",
+        "created_at": "2024-10-16T03:21:53Z"
+      },
+      {
+        "name": "ameba-rtos",
+        "description": "Realtek Offical IOT Software Development Kit for Ameba Series SoCs: (AmebaSmart AmebaLite AmebaDplus)",
+        "url": "https://github.com/newbie-jiang/ameba-rtos",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-05-13T03:35:46Z",
+        "created_at": "2025-05-13T07:44:32Z"
+      },
+      {
+        "name": "ameba-rtos-pro2",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/ameba-rtos-pro2",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-05-23T06:59:37Z",
+        "created_at": "2025-05-23T07:20:45Z"
+      },
+      {
+        "name": "art-pi-qspi-fatfs",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/art-pi-qspi-fatfs",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-05-14T09:01:06Z",
+        "created_at": "2025-05-14T09:01:06Z"
+      },
+      {
+        "name": "at32-surt-sd-data-to-spiflash",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/at32-surt-sd-data-to-spiflash",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-08-05T00:52:05Z",
+        "created_at": "2024-08-05T00:49:59Z"
+      },
+      {
+        "name": "awesome-actions",
+        "description": "A curated list of awesome actions to use on GitHub",
+        "url": "https://github.com/newbie-jiang/awesome-actions",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2024-09-01T20:32:39Z",
+        "created_at": "2025-05-22T09:22:57Z"
+      },
+      {
+        "name": "awesome-python",
+        "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+        "url": "https://github.com/newbie-jiang/awesome-python",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2024-01-06T12:05:33Z",
+        "created_at": "2024-01-12T18:45:45Z"
+      },
+      {
+        "name": "chatbot-ui",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/chatbot-ui",
+        "stars": 0,
+        "forks": 0,
+        "language": "TypeScript",
+        "pushed_at": "2023-04-13T07:02:55Z",
+        "created_at": "2023-04-13T07:02:52Z"
+      },
+      {
+        "name": "chatgpt-on-wechat",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/chatgpt-on-wechat",
+        "stars": 0,
+        "forks": 0,
+        "language": "Python",
+        "pushed_at": "2023-04-13T05:40:28Z",
+        "created_at": "2023-04-13T05:40:26Z"
+      },
+      {
+        "name": "cmake_learning",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/cmake_learning",
+        "stars": 0,
+        "forks": 0,
+        "language": "C++",
+        "pushed_at": "2024-12-21T06:32:51Z",
+        "created_at": "2024-12-21T06:26:19Z"
+      },
+      {
+        "name": "docusaurus",
+        "description": "Easy to maintain open source documentation websites.",
+        "url": "https://github.com/newbie-jiang/docusaurus",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-05-22T17:58:23Z",
+        "created_at": "2025-05-23T14:05:04Z"
+      },
+      {
+        "name": "drawio-desktop",
+        "description": "Official electron build of draw.io",
+        "url": "https://github.com/newbie-jiang/drawio-desktop",
+        "stars": 0,
+        "forks": 0,
+        "language": "JavaScript",
+        "pushed_at": "2025-04-22T08:29:15Z",
+        "created_at": "2025-04-22T08:25:37Z"
+      },
+      {
+        "name": "ESP32_ApplicationShield",
+        "description": "Sample code for the ESP32 DevkitC 32E and HTPAd Application Shield (written in the Arduino IDE).",
+        "url": "https://github.com/newbie-jiang/ESP32_ApplicationShield",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-02-24T05:30:28Z",
+        "created_at": "2025-05-08T08:17:33Z"
+      },
+      {
+        "name": "FATFS-QSPI",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/FATFS-QSPI",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-05-14T09:11:31Z",
+        "created_at": "2024-05-07T11:29:00Z"
+      },
+      {
+        "name": "FramePack",
+        "description": "Lets make video diffusion practical!",
+        "url": "https://github.com/newbie-jiang/FramePack",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-04-23T08:41:31Z",
+        "created_at": "2025-04-23T16:26:39Z"
+      },
+      {
+        "name": "github_api",
+        "description": "使用github api抓取数据",
+        "url": "https://github.com/newbie-jiang/github_api",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "pushed_at": "2025-05-21T12:36:03Z",
+        "created_at": "2025-05-21T12:34:57Z"
+      },
+      {
+        "name": "github_data",
+        "description": "使用github api 自动化获取数据",
+        "url": "https://github.com/newbie-jiang/github_data",
+        "stars": 0,
+        "forks": 0,
+        "language": "Python",
+        "pushed_at": "2025-05-26T07:57:20Z",
+        "created_at": "2025-05-21T13:02:50Z"
+      },
+      {
+        "name": "GoogleTranslateIpCheck",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/GoogleTranslateIpCheck",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2023-12-17T12:10:18Z",
+        "created_at": "2023-12-24T16:37:53Z"
+      },
+      {
+        "name": "gpt4all",
+        "description": "gpt4all: open-source LLM chatbots that you can run anywhere",
+        "url": "https://github.com/newbie-jiang/gpt4all",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2024-01-03T03:03:40Z",
+        "created_at": "2024-01-03T08:59:11Z"
+      },
+      {
+        "name": "hpm_sdk",
+        "description": "No PR will be accepted for now, but feel free to submit issue, very appreciated.",
+        "url": "https://github.com/newbie-jiang/hpm_sdk",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-03-31T23:22:45Z",
+        "created_at": "2025-05-22T15:40:07Z"
+      },
+      {
+        "name": "insulin_pump_fr8016ha",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/insulin_pump_fr8016ha",
+        "stars": 3,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-03-21T09:05:35Z",
+        "created_at": "2024-10-26T10:12:30Z"
+      },
+      {
+        "name": "istoreos",
+        "description": "提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-22.03）",
+        "url": "https://github.com/newbie-jiang/istoreos",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2024-01-12T06:30:58Z",
+        "created_at": "2024-01-12T08:58:33Z"
+      },
+      {
+        "name": "jxsite",
+        "description": "520解说创建的静态单页导航网站，镜像网站合集",
+        "url": "https://github.com/newbie-jiang/jxsite",
+        "stars": 0,
+        "forks": 0,
+        "language": "CSS",
+        "pushed_at": "2024-11-27T05:41:15Z",
+        "created_at": "2024-10-14T00:25:01Z"
+      },
+      {
+        "name": "linux",
+        "description": "Linux kernel source tree",
+        "url": "https://github.com/newbie-jiang/linux",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2023-11-08T09:36:49Z",
+        "created_at": "2023-12-13T18:24:03Z"
+      },
+      {
+        "name": "linux-imx",
+        "description": "i.MX Linux kernel",
+        "url": "https://github.com/newbie-jiang/linux-imx",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2023-12-08T14:00:40Z",
+        "created_at": "2023-12-13T18:07:25Z"
+      },
+      {
+        "name": "LVGL9.1-CodeBlocks-simulation",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/LVGL9.1-CodeBlocks-simulation",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-08-18T13:50:55Z",
+        "created_at": "2024-08-18T10:12:24Z"
+      },
+      {
+        "name": "mcuboot_stm32g0b1",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/mcuboot_stm32g0b1",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2023-05-08T09:31:28Z",
+        "created_at": "2025-05-13T09:49:53Z"
+      },
+      {
+        "name": "middleware",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/middleware",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-11-29T09:15:38Z",
+        "created_at": "2024-11-27T09:06:18Z"
+      },
+      {
+        "name": "mkimage",
+        "description": "mkimage工具用于给程序附加头部信息",
+        "url": "https://github.com/newbie-jiang/mkimage",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2023-12-20T14:10:05Z",
+        "created_at": "2023-12-19T14:41:59Z"
+      },
+      {
+        "name": "openai-realtime-embedded-sdk",
+        "description": "A SDK to using the Realtime API with Microcontrollers like the ESP32",
+        "url": "https://github.com/newbie-jiang/openai-realtime-embedded-sdk",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-01-05T02:57:51Z",
+        "created_at": "2025-01-21T06:09:37Z"
+      },
+      {
+        "name": "OpenWrt_RockChip",
+        "description": "基于 lede-rockchip 源码建构 rockchip 的 OpenWrt 固件。",
+        "url": "https://github.com/newbie-jiang/OpenWrt_RockChip",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2024-07-23T09:28:03Z",
+        "created_at": "2024-08-22T07:23:54Z"
+      },
+      {
+        "name": "openwrt_x86",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/openwrt_x86",
+        "stars": 1,
+        "forks": 0,
+        "language": "Shell",
+        "pushed_at": "2023-04-21T01:54:07Z",
+        "created_at": "2023-04-21T01:38:02Z"
+      },
+      {
+        "name": "python-matplotlib-tools",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/python-matplotlib-tools",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-11-27T03:27:27Z",
+        "created_at": "2024-11-26T06:27:10Z"
+      },
+      {
+        "name": "qzmodem",
+        "description": "qzmodem is a ZModem protocol implementation for Qt, which does not rely on any library other than Qt and can be used across platforms.",
+        "url": "https://github.com/newbie-jiang/qzmodem",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2024-03-27T05:23:56Z",
+        "created_at": "2024-04-08T12:26:45Z"
+      },
+      {
+        "name": "rr",
+        "description": "Redpill Recovery (arpl-i18n)",
+        "url": "https://github.com/newbie-jiang/rr",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2024-03-31T00:21:15Z",
+        "created_at": "2024-03-31T07:00:59Z"
+      },
+      {
+        "name": "SerialPortYmodem",
+        "description": "串口通过 YMODEM 协议进行文件传输",
+        "url": "https://github.com/newbie-jiang/SerialPortYmodem",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2018-12-25T00:48:59Z",
+        "created_at": "2023-12-31T05:34:16Z"
+      },
+      {
+        "name": "SSPanel-UIM",
+        "description": "Multi-purpose proxy service management system",
+        "url": "https://github.com/newbie-jiang/SSPanel-UIM",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2024-12-02T22:12:17Z",
+        "created_at": "2024-12-12T08:57:29Z"
+      },
+      {
+        "name": "starter-workflows",
+        "description": "Accelerating new GitHub Actions workflows ",
+        "url": "https://github.com/newbie-jiang/starter-workflows",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-04-24T15:59:57Z",
+        "created_at": "2025-05-22T01:36:52Z"
+      },
+      {
+        "name": "STM32-_bootloader",
+        "description": " SD to QSPI       jump to qspi address start",
+        "url": "https://github.com/newbie-jiang/STM32-_bootloader",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-11-06T13:07:18Z",
+        "created_at": "2023-10-17T04:51:45Z"
+      },
+      {
+        "name": "stm32AES",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/stm32AES",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2024-06-10T04:12:05Z",
+        "created_at": "2024-06-11T10:42:23Z"
+      },
+      {
+        "name": "STM32CubeH7",
+        "description": "STM32Cube MCU Full Package for the STM32H7 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
+        "url": "https://github.com/newbie-jiang/STM32CubeH7",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2023-12-12T22:14:54Z",
+        "created_at": "2023-12-13T18:14:31Z"
+      },
+      {
+        "name": "STM32CubeH7RS",
+        "description": "STM32Cube MCU Full Package for the STM32H7RS series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST)",
+        "url": "https://github.com/newbie-jiang/STM32CubeH7RS",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-04-24T08:47:11Z",
+        "created_at": "2025-05-13T04:00:15Z"
+      },
+      {
+        "name": "STM32F103RBT6-CT117E-",
+        "description": "创建了一个远程仓库，名字为Github",
+        "url": "https://github.com/newbie-jiang/STM32F103RBT6-CT117E-",
+        "stars": 3,
+        "forks": 12,
+        "language": "未指定",
+        "pushed_at": "2021-05-30T06:51:31Z",
+        "created_at": "2021-04-24T13:54:22Z"
+      },
+      {
+        "name": "stm32f429",
+        "description": "Keil projects and libraries for STM32F4xx devices",
+        "url": "https://github.com/newbie-jiang/stm32f429",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2022-12-16T05:41:42Z",
+        "created_at": "2023-12-27T20:15:02Z"
+      },
+      {
+        "name": "STM32H7-AP6212-demo",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/STM32H7-AP6212-demo",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2024-12-06T03:13:45Z",
+        "created_at": "2025-04-23T09:55:02Z"
+      },
+      {
+        "name": "STM32H7-bootloader-Dual-app",
+        "description": "基于STM32H750的Bootloader 双APP + SD卡升级方案",
+        "url": "https://github.com/newbie-jiang/STM32H7-bootloader-Dual-app",
+        "stars": 5,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2023-12-31T05:17:00Z",
+        "created_at": "2023-10-19T14:17:43Z"
+      },
+      {
+        "name": "STM32H7-W25Qxx-VSCode-Ext-Loader",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/STM32H7-W25Qxx-VSCode-Ext-Loader",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2024-12-14T03:42:05Z",
+        "created_at": "2024-12-16T04:32:39Z"
+      },
+      {
+        "name": "STM32H750XB",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/STM32H750XB",
+        "stars": 1,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2023-08-15T05:47:30Z",
+        "created_at": "2023-07-05T23:57:03Z"
+      },
+      {
+        "name": "STM32H7_BOOTROM_SOFTEARE",
+        "description": "软件跳转到BOOT_ROM区域",
+        "url": "https://github.com/newbie-jiang/STM32H7_BOOTROM_SOFTEARE",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-12-10T10:36:06Z",
+        "created_at": "2023-12-10T10:28:18Z"
+      },
+      {
+        "name": "stm32l475-zephyr-bsp",
+        "description": "Zephyr Examples (SPI LCD / LVGL / MCUBoot / IMU)",
+        "url": "https://github.com/newbie-jiang/stm32l475-zephyr-bsp",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2024-11-09T15:40:54Z",
+        "created_at": "2025-04-23T09:04:01Z"
+      },
+      {
+        "name": "tiny-AES-c",
+        "description": "Small portable AES128/192/256 in C",
+        "url": "https://github.com/newbie-jiang/tiny-AES-c",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2023-06-26T09:56:41Z",
+        "created_at": "2023-12-26T15:10:05Z"
+      },
+      {
+        "name": "touchgfx-freertos",
+        "description": "touchgfx-freertos-stm32h7",
+        "url": "https://github.com/newbie-jiang/touchgfx-freertos",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-01-04T11:47:44Z",
+        "created_at": "2024-01-02T14:00:20Z"
+      },
+      {
+        "name": "u-boot",
+        "description": "\"Das U-Boot\" Source Tree",
+        "url": "https://github.com/newbie-jiang/u-boot",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2023-12-06T16:33:32Z",
+        "created_at": "2023-12-13T18:15:42Z"
+      },
+      {
+        "name": "uboot-imx",
+        "description": "i.MX U-Boot",
+        "url": "https://github.com/newbie-jiang/uboot-imx",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2023-12-08T13:57:38Z",
+        "created_at": "2023-12-13T18:08:18Z"
+      },
+      {
+        "name": "ubuntu",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/ubuntu",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2023-12-10T17:03:26Z",
+        "created_at": "2023-12-10T15:04:59Z"
+      },
+      {
+        "name": "v2board",
+        "description": "🚀A multiple proxy protocol manage panel application interface",
+        "url": "https://github.com/newbie-jiang/v2board",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2024-03-19T03:02:35Z",
+        "created_at": "2024-12-12T09:13:12Z"
+      },
+      {
+        "name": "wechatbot-webhook",
+        "description": "run a wechat bot as a http service, 部署一个支持消息收发的微信 Webhook 机器人🤖",
+        "url": "https://github.com/newbie-jiang/wechatbot-webhook",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2024-01-10T03:53:52Z",
+        "created_at": "2024-01-10T14:40:49Z"
+      },
+      {
+        "name": "WeChatRobot",
+        "description": "微信HOOK、微信机器人   wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK",
+        "url": "https://github.com/newbie-jiang/WeChatRobot",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2023-12-02T13:52:44Z",
+        "created_at": "2024-01-12T15:13:09Z"
+      },
+      {
+        "name": "wecomchan",
+        "description": "通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。可以看成Server酱的开源替代方案之一。",
+        "url": "https://github.com/newbie-jiang/wecomchan",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2022-09-11T14:14:39Z",
+        "created_at": "2024-01-10T14:25:02Z"
+      },
+      {
+        "name": "x-cube-azrtos-h7rs",
+        "description": "X-CUBE-AZRTOS-H7RS (Azure RTOS Software Expansion for STM32Cube) provides a full integration of Microsoft Azure RTOS in the STM32Cube environment for the STM32H7R/S series of microcontrollers.",
+        "url": "https://github.com/newbie-jiang/x-cube-azrtos-h7rs",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-03-26T11:17:05Z",
+        "created_at": "2025-05-18T10:54:25Z"
+      },
+      {
+        "name": "yt-dlp",
+        "description": "A feature-rich command-line audio/video downloader",
+        "url": "https://github.com/newbie-jiang/yt-dlp",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-04-06T23:26:45Z",
+        "created_at": "2025-04-12T05:34:47Z"
+      },
+      {
+        "name": "zephyr",
+        "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+        "url": "https://github.com/newbie-jiang/zephyr",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-04-03T06:43:37Z",
+        "created_at": "2025-04-03T07:18:14Z"
+      },
+      {
+        "name": "ZSWatch",
+        "description": "ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.",
+        "url": "https://github.com/newbie-jiang/ZSWatch",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-04-17T13:26:36Z",
+        "created_at": "2025-04-23T08:37:21Z"
+      }
+    ]
   },
   {
     "username": "LibDriver",
@@ -1005,6 +1666,316 @@
         "language": "C",
         "pushed_at": "2025-04-18T16:03:57Z",
         "created_at": "2021-05-16T07:10:25Z"
+      },
+      {
+        "name": "sht35",
+        "description": "SHT35 full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/sht35",
+        "stars": 41,
+        "forks": 21,
+        "language": "C",
+        "pushed_at": "2025-04-18T16:05:54Z",
+        "created_at": "2024-03-08T15:04:54Z"
+      },
+      {
+        "name": "sht4x",
+        "description": "SHT4X(SHT40, SHT41, SHT45) full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/sht4x",
+        "stars": 31,
+        "forks": 7,
+        "language": "C",
+        "pushed_at": "2025-04-18T15:59:56Z",
+        "created_at": "2023-06-23T07:03:40Z"
+      },
+      {
+        "name": "sps30",
+        "description": "SPS30 full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/sps30",
+        "stars": 27,
+        "forks": 13,
+        "language": "C",
+        "pushed_at": "2025-04-18T16:08:34Z",
+        "created_at": "2021-07-14T16:40:50Z"
+      },
+      {
+        "name": "ssd1306",
+        "description": "SSD1306 full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/ssd1306",
+        "stars": 499,
+        "forks": 102,
+        "language": "C",
+        "pushed_at": "2025-04-19T03:41:35Z",
+        "created_at": "2021-05-16T07:14:21Z"
+      },
+      {
+        "name": "ssd1309",
+        "description": "SSD1309 full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/ssd1309",
+        "stars": 42,
+        "forks": 7,
+        "language": "C",
+        "pushed_at": "2025-04-19T03:43:28Z",
+        "created_at": "2024-10-01T14:12:21Z"
+      },
+      {
+        "name": "ssd1315",
+        "description": "SSD1315 full-featured driver for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/ssd1315",
+        "stars": 52,
+        "forks": 6,
+        "language": "C",
+        "pushed_at": "2025-04-19T03:45:51Z",
+        "created_at": "2024-11-28T12:25:57Z"
+      },
+      {
+        "name": "ssd1351",
+        "description": "SSD1351 full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/ssd1351",
+        "stars": 26,
+        "forks": 16,
+        "language": "C",
+        "pushed_at": "2025-04-19T03:47:51Z",
+        "created_at": "2021-05-16T07:16:19Z"
+      },
+      {
+        "name": "ssd1681",
+        "description": "SSD1681 full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/ssd1681",
+        "stars": 23,
+        "forks": 6,
+        "language": "C",
+        "pushed_at": "2025-04-19T03:49:49Z",
+        "created_at": "2022-09-11T07:23:25Z"
+      },
+      {
+        "name": "st7789",
+        "description": "ST7789 full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/st7789",
+        "stars": 284,
+        "forks": 49,
+        "language": "C",
+        "pushed_at": "2025-04-19T03:51:33Z",
+        "created_at": "2023-06-05T15:05:09Z"
+      },
+      {
+        "name": "st7920",
+        "description": "ST7920 full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/st7920",
+        "stars": 45,
+        "forks": 22,
+        "language": "C",
+        "pushed_at": "2025-04-26T10:22:24Z",
+        "created_at": "2022-03-19T11:55:05Z"
+      },
+      {
+        "name": "sts3x",
+        "description": "STS3X(STS30, STS31, STS35) full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/sts3x",
+        "stars": 8,
+        "forks": 5,
+        "language": "C",
+        "pushed_at": "2025-04-19T04:02:32Z",
+        "created_at": "2024-08-31T03:51:46Z"
+      },
+      {
+        "name": "sts4x",
+        "description": "STS4X(STS40) full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/sts4x",
+        "stars": 7,
+        "forks": 5,
+        "language": "C",
+        "pushed_at": "2025-04-19T04:04:33Z",
+        "created_at": "2024-09-01T07:34:45Z"
+      },
+      {
+        "name": "sx1262",
+        "description": "SX1262 full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/sx1262",
+        "stars": 94,
+        "forks": 6,
+        "language": "C",
+        "pushed_at": "2025-04-19T04:17:50Z",
+        "created_at": "2024-10-13T05:37:33Z"
+      },
+      {
+        "name": "sx1268",
+        "description": "SX1268 full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/sx1268",
+        "stars": 52,
+        "forks": 28,
+        "language": "C",
+        "pushed_at": "2025-04-19T04:19:54Z",
+        "created_at": "2022-03-25T16:14:43Z"
+      },
+      {
+        "name": "syn6288",
+        "description": "SYN6288 full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/syn6288",
+        "stars": 17,
+        "forks": 4,
+        "language": "C",
+        "pushed_at": "2025-04-19T04:21:56Z",
+        "created_at": "2021-05-16T07:19:17Z"
+      },
+      {
+        "name": "syn6288e",
+        "description": "SYN6288E full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/syn6288e",
+        "stars": 6,
+        "forks": 6,
+        "language": "C",
+        "pushed_at": "2025-04-19T04:24:55Z",
+        "created_at": "2024-05-28T14:57:43Z"
+      },
+      {
+        "name": "syn6658",
+        "description": "SYN6658 full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/syn6658",
+        "stars": 8,
+        "forks": 5,
+        "language": "C",
+        "pushed_at": "2025-04-19T04:28:06Z",
+        "created_at": "2024-08-25T13:09:47Z"
+      },
+      {
+        "name": "syn6988",
+        "description": "SYN6988 full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/syn6988",
+        "stars": 7,
+        "forks": 5,
+        "language": "C",
+        "pushed_at": "2025-04-19T04:43:56Z",
+        "created_at": "2024-08-26T04:45:57Z"
+      },
+      {
+        "name": "tcs34725",
+        "description": "TCS34725 full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/tcs34725",
+        "stars": 21,
+        "forks": 6,
+        "language": "C",
+        "pushed_at": "2025-04-19T04:53:14Z",
+        "created_at": "2021-05-16T07:21:12Z"
+      },
+      {
+        "name": "tea5767",
+        "description": "TEA5767 full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/tea5767",
+        "stars": 47,
+        "forks": 31,
+        "language": "C",
+        "pushed_at": "2025-04-19T04:54:51Z",
+        "created_at": "2022-11-12T04:14:53Z"
+      },
+      {
+        "name": "tm1637",
+        "description": "TM1637 full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/tm1637",
+        "stars": 3,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2025-04-19T05:11:00Z",
+        "created_at": "2024-04-01T15:30:19Z"
+      },
+      {
+        "name": "tm1638",
+        "description": "TM1638 full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/tm1638",
+        "stars": 26,
+        "forks": 7,
+        "language": "C",
+        "pushed_at": "2025-04-19T05:58:58Z",
+        "created_at": "2024-03-24T02:46:54Z"
+      },
+      {
+        "name": "tpl0501",
+        "description": "TPL0501 full-featured driver for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/tpl0501",
+        "stars": 8,
+        "forks": 5,
+        "language": "C",
+        "pushed_at": "2025-04-19T06:16:17Z",
+        "created_at": "2024-10-09T15:04:03Z"
+      },
+      {
+        "name": "tsl2561",
+        "description": "TSL2561 full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/tsl2561",
+        "stars": 25,
+        "forks": 9,
+        "language": "C",
+        "pushed_at": "2025-04-19T06:18:19Z",
+        "created_at": "2021-05-16T07:23:18Z"
+      },
+      {
+        "name": "ttp229",
+        "description": "TTP229 full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/ttp229",
+        "stars": 20,
+        "forks": 5,
+        "language": "C",
+        "pushed_at": "2025-04-19T06:20:02Z",
+        "created_at": "2024-07-28T09:30:09Z"
+      },
+      {
+        "name": "uvis25",
+        "description": "UVIS25 full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/uvis25",
+        "stars": 12,
+        "forks": 4,
+        "language": "C",
+        "pushed_at": "2025-04-19T06:22:56Z",
+        "created_at": "2021-05-16T07:25:19Z"
+      },
+      {
+        "name": "vs1053b",
+        "description": "VS1053B full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/vs1053b",
+        "stars": 42,
+        "forks": 12,
+        "language": "C",
+        "pushed_at": "2025-04-19T06:32:48Z",
+        "created_at": "2023-07-09T11:25:02Z"
+      },
+      {
+        "name": "w25qxx",
+        "description": "W25QXX(W25Q80, W25Q16, W25Q32, W25Q64, W25Q128, W25Q256, W25Q512, W25Q01, W25Q02) full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/w25qxx",
+        "stars": 579,
+        "forks": 65,
+        "language": "C",
+        "pushed_at": "2025-05-18T09:36:02Z",
+        "created_at": "2021-08-22T04:06:21Z"
+      },
+      {
+        "name": "wm8978",
+        "description": "WM8978 full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/wm8978",
+        "stars": 46,
+        "forks": 8,
+        "language": "C",
+        "pushed_at": "2025-04-19T06:36:36Z",
+        "created_at": "2023-08-27T12:14:26Z"
+      },
+      {
+        "name": "ws2812b",
+        "description": "WS2812B full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/ws2812b",
+        "stars": 174,
+        "forks": 39,
+        "language": "C",
+        "pushed_at": "2025-04-19T06:40:34Z",
+        "created_at": "2021-11-02T17:14:34Z"
+      },
+      {
+        "name": "wt588e02b",
+        "description": "WT588E02B full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/wt588e02b",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-04-19T06:38:50Z",
+        "created_at": "2025-02-12T14:48:59Z"
       }
     ]
   },
@@ -2010,6 +2981,636 @@
         "language": "C",
         "pushed_at": "2024-04-03T15:54:02Z",
         "created_at": "2019-08-31T08:51:31Z"
+      },
+      {
+        "name": "lvgl",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/lvgl",
+        "stars": 75,
+        "forks": 53,
+        "language": "C",
+        "pushed_at": "2025-02-20T07:16:03Z",
+        "created_at": "2019-07-03T23:41:05Z"
+      },
+      {
+        "name": "lz4",
+        "description": "Extremely Fast Compression algorithm",
+        "url": "https://github.com/zephyrproject-rtos/lz4",
+        "stars": 1,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2024-08-07T12:45:45Z",
+        "created_at": "2021-02-18T11:45:21Z"
+      },
+      {
+        "name": "mbedtls",
+        "description": "mbedtls module for Zephyr, this is not a mirror of the official mbedtls repository.",
+        "url": "https://github.com/zephyrproject-rtos/mbedtls",
+        "stars": 21,
+        "forks": 60,
+        "language": "C",
+        "pushed_at": "2025-04-01T06:30:51Z",
+        "created_at": "2019-05-09T12:44:35Z"
+      },
+      {
+        "name": "mcuboot",
+        "description": "Secure boot for 32-bit Microcontrollers!",
+        "url": "https://github.com/zephyrproject-rtos/mcuboot",
+        "stars": 28,
+        "forks": 76,
+        "language": "C",
+        "pushed_at": "2025-05-02T07:07:02Z",
+        "created_at": "2019-09-11T15:06:53Z"
+      },
+      {
+        "name": "mcumgr",
+        "description": "Upstream repo is https://github.com/apache/mynewt-mcumgr",
+        "url": "https://github.com/zephyrproject-rtos/mcumgr",
+        "stars": 29,
+        "forks": 31,
+        "language": "C",
+        "pushed_at": "2022-11-16T10:41:08Z",
+        "created_at": "2019-05-23T02:31:03Z"
+      },
+      {
+        "name": "meta-zephyr-sdk",
+        "description": "Zephyr SDK (obsolete)",
+        "url": "https://github.com/zephyrproject-rtos/meta-zephyr-sdk",
+        "stars": 45,
+        "forks": 29,
+        "language": "C",
+        "pushed_at": "2019-01-10T16:17:01Z",
+        "created_at": "2016-06-14T20:38:26Z"
+      },
+      {
+        "name": "mipi-sys-t",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/mipi-sys-t",
+        "stars": 7,
+        "forks": 10,
+        "language": "C",
+        "pushed_at": "2025-02-08T16:06:34Z",
+        "created_at": "2019-10-23T11:37:29Z"
+      },
+      {
+        "name": "nanopb",
+        "description": "Protocol Buffers with small code size",
+        "url": "https://github.com/zephyrproject-rtos/nanopb",
+        "stars": 3,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2025-02-10T19:35:08Z",
+        "created_at": "2021-03-26T16:18:53Z"
+      },
+      {
+        "name": "net-tools",
+        "description": "Network tools for testing with Qemu",
+        "url": "https://github.com/zephyrproject-rtos/net-tools",
+        "stars": 38,
+        "forks": 37,
+        "language": "C",
+        "pushed_at": "2025-05-21T05:11:11Z",
+        "created_at": "2016-06-14T20:44:51Z"
+      },
+      {
+        "name": "newlib-cygwin",
+        "description": "Newlib source for building Zephyr SDK",
+        "url": "https://github.com/zephyrproject-rtos/newlib-cygwin",
+        "stars": 2,
+        "forks": 8,
+        "language": "C",
+        "pushed_at": "2025-04-29T13:29:48Z",
+        "created_at": "2020-06-04T13:33:57Z"
+      },
+      {
+        "name": "nffs",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/nffs",
+        "stars": 5,
+        "forks": 3,
+        "language": "C",
+        "pushed_at": "2019-12-10T01:46:55Z",
+        "created_at": "2019-05-23T19:11:46Z"
+      },
+      {
+        "name": "nrf_hw_models",
+        "description": "Mirror of https://github.com/BabbleSim/ext_NRF_hw_models/ (PRs or issues should be filed there)",
+        "url": "https://github.com/zephyrproject-rtos/nrf_hw_models",
+        "stars": 2,
+        "forks": 14,
+        "language": "C",
+        "pushed_at": "2025-05-19T12:37:46Z",
+        "created_at": "2019-11-18T09:44:45Z"
+      },
+      {
+        "name": "nrf_wifi",
+        "description": "nRF Wi-Fi framework",
+        "url": "https://github.com/zephyrproject-rtos/nrf_wifi",
+        "stars": 0,
+        "forks": 14,
+        "language": "C",
+        "pushed_at": "2025-05-21T09:40:44Z",
+        "created_at": "2024-11-20T17:42:16Z"
+      },
+      {
+        "name": "open-amp",
+        "description": "open-amp module for zephyr, this is not an official mirror of the open-amp repo",
+        "url": "https://github.com/zephyrproject-rtos/open-amp",
+        "stars": 10,
+        "forks": 19,
+        "language": "C",
+        "pushed_at": "2025-04-01T14:20:52Z",
+        "created_at": "2019-05-09T12:41:06Z"
+      },
+      {
+        "name": "openocd",
+        "description": "OpenOCD with Zephyr patches for building Zephyr SDK",
+        "url": "https://github.com/zephyrproject-rtos/openocd",
+        "stars": 38,
+        "forks": 51,
+        "language": "C",
+        "pushed_at": "2025-05-18T16:12:37Z",
+        "created_at": "2017-08-06T13:58:10Z"
+      },
+      {
+        "name": "openthread",
+        "description": "openthread module for Zephyr, not a mirror of the official openthread repository",
+        "url": "https://github.com/zephyrproject-rtos/openthread",
+        "stars": 29,
+        "forks": 40,
+        "language": "C++",
+        "pushed_at": "2025-01-10T12:15:29Z",
+        "created_at": "2019-07-23T09:18:08Z"
+      },
+      {
+        "name": "optiga-trust",
+        "description": "Zephyr repository tracking Infineon's Optiga Trust X and M frameworks",
+        "url": "https://github.com/zephyrproject-rtos/optiga-trust",
+        "stars": 3,
+        "forks": 3,
+        "language": "未指定",
+        "pushed_at": "2020-03-09T10:24:29Z",
+        "created_at": "2019-12-05T15:14:57Z"
+      },
+      {
+        "name": "oss-eu-2022-zephyr-app",
+        "description": "Application for the OSS EU 2022 Zephyr Mini-Summit",
+        "url": "https://github.com/zephyrproject-rtos/oss-eu-2022-zephyr-app",
+        "stars": 5,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2023-05-08T14:04:59Z",
+        "created_at": "2022-09-09T09:45:11Z"
+      },
+      {
+        "name": "PDCurses",
+        "description": "PDCurses - a curses library for environments that don't fit the termcap/terminfo model.",
+        "url": "https://github.com/zephyrproject-rtos/PDCurses",
+        "stars": 5,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2024-10-03T02:48:45Z",
+        "created_at": "2022-11-02T11:35:19Z"
+      },
+      {
+        "name": "percepio",
+        "description": "Repository containing all open source Percepio projects. TraceRecorder is software for tracing real-time applications. DFM is the target source code for DevAlert.",
+        "url": "https://github.com/zephyrproject-rtos/percepio",
+        "stars": 0,
+        "forks": 3,
+        "language": "C",
+        "pushed_at": "2025-01-24T15:12:08Z",
+        "created_at": "2023-09-03T22:25:12Z"
+      },
+      {
+        "name": "picolibc",
+        "description": "picolibc - a C library designed for embedded 32- and 64- bit systems.",
+        "url": "https://github.com/zephyrproject-rtos/picolibc",
+        "stars": 5,
+        "forks": 15,
+        "language": "C",
+        "pushed_at": "2025-05-17T00:28:42Z",
+        "created_at": "2022-04-05T09:46:33Z"
+      },
+      {
+        "name": "poky",
+        "description": "Mirror of https://git.yoctoproject.org/poky/ for building Zephyr SDK",
+        "url": "https://github.com/zephyrproject-rtos/poky",
+        "stars": 2,
+        "forks": 0,
+        "language": "Python",
+        "pushed_at": "2025-05-07T00:52:49Z",
+        "created_at": "2022-11-05T09:40:46Z"
+      },
+      {
+        "name": "pr-dashboard",
+        "description": "Pull Request Dashboard",
+        "url": "https://github.com/zephyrproject-rtos/pr-dashboard",
+        "stars": 4,
+        "forks": 2,
+        "language": "HTML",
+        "pushed_at": "2025-01-16T16:50:52Z",
+        "created_at": "2024-12-20T13:03:01Z"
+      },
+      {
+        "name": "proposals",
+        "description": "Zephyr Enhancement Proposals and Blue Prints",
+        "url": "https://github.com/zephyrproject-rtos/proposals",
+        "stars": 2,
+        "forks": 2,
+        "language": "未指定",
+        "pushed_at": "2021-02-17T15:10:23Z",
+        "created_at": "2020-12-07T18:46:31Z"
+      },
+      {
+        "name": "psa-arch-tests",
+        "description": "Tests for verifying implementations of TBSA-v8M and the PSA Developer APIs",
+        "url": "https://github.com/zephyrproject-rtos/psa-arch-tests",
+        "stars": 1,
+        "forks": 10,
+        "language": "C",
+        "pushed_at": "2024-05-10T11:08:02Z",
+        "created_at": "2021-10-19T15:24:26Z"
+      },
+      {
+        "name": "python-devicetree",
+        "description": "Python devicetree library",
+        "url": "https://github.com/zephyrproject-rtos/python-devicetree",
+        "stars": 15,
+        "forks": 4,
+        "language": "Python",
+        "pushed_at": "2022-10-10T11:14:15Z",
+        "created_at": "2021-03-11T18:23:00Z"
+      },
+      {
+        "name": "qemu",
+        "description": "QEMU source for building Zephyr SDK",
+        "url": "https://github.com/zephyrproject-rtos/qemu",
+        "stars": 8,
+        "forks": 5,
+        "language": "C",
+        "pushed_at": "2025-05-17T10:00:05Z",
+        "created_at": "2017-05-14T13:42:38Z"
+      },
+      {
+        "name": "qm_old",
+        "description": "Quality Management and QA/Verification plans and reports",
+        "url": "https://github.com/zephyrproject-rtos/qm_old",
+        "stars": 7,
+        "forks": 6,
+        "language": "Perl",
+        "pushed_at": "2020-02-24T11:36:21Z",
+        "created_at": "2018-06-13T21:24:53Z"
+      },
+      {
+        "name": "reqmgmt",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/reqmgmt",
+        "stars": 16,
+        "forks": 16,
+        "language": "Python",
+        "pushed_at": "2025-03-12T08:00:43Z",
+        "created_at": "2021-04-15T20:42:14Z"
+      },
+      {
+        "name": "rimage",
+        "description": "DSP firmware image creation and signing tool",
+        "url": "https://github.com/zephyrproject-rtos/rimage",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2023-09-05T10:25:27Z",
+        "created_at": "2023-09-05T10:48:25Z"
+      },
+      {
+        "name": "rtos-benchmark",
+        "description": "RTOS Benchmark",
+        "url": "https://github.com/zephyrproject-rtos/rtos-benchmark",
+        "stars": 43,
+        "forks": 17,
+        "language": "C",
+        "pushed_at": "2025-03-04T18:32:23Z",
+        "created_at": "2022-05-16T16:18:05Z"
+      },
+      {
+        "name": "safety-doc",
+        "description": "Traceability and Architecture for Safety",
+        "url": "https://github.com/zephyrproject-rtos/safety-doc",
+        "stars": 2,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-04-21T11:53:23Z",
+        "created_at": "2025-04-18T12:57:02Z"
+      },
+      {
+        "name": "sdk-ng",
+        "description": "Zephyr SDK (Toolchains, Development Tools)",
+        "url": "https://github.com/zephyrproject-rtos/sdk-ng",
+        "stars": 204,
+        "forks": 157,
+        "language": "C",
+        "pushed_at": "2025-05-25T12:10:03Z",
+        "created_at": "2017-05-30T03:13:29Z"
+      },
+      {
+        "name": "sdk-ng-testing",
+        "description": "For testing purposes only.",
+        "url": "https://github.com/zephyrproject-rtos/sdk-ng-testing",
+        "stars": 2,
+        "forks": 5,
+        "language": "C",
+        "pushed_at": "2025-04-02T21:43:28Z",
+        "created_at": "2022-02-04T11:19:20Z"
+      },
+      {
+        "name": "seabios",
+        "description": "SeaBIOS source for Zephyr SDK x86 QEMU",
+        "url": "https://github.com/zephyrproject-rtos/seabios",
+        "stars": 1,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2022-06-12T18:35:30Z",
+        "created_at": "2020-07-14T22:41:04Z"
+      },
+      {
+        "name": "segger",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/segger",
+        "stars": 8,
+        "forks": 34,
+        "language": "C",
+        "pushed_at": "2024-12-17T07:30:33Z",
+        "created_at": "2019-05-23T19:47:45Z"
+      },
+      {
+        "name": "sof",
+        "description": "Sound Open Firmware",
+        "url": "https://github.com/zephyrproject-rtos/sof",
+        "stars": 3,
+        "forks": 15,
+        "language": "C",
+        "pushed_at": "2024-12-03T19:25:28Z",
+        "created_at": "2020-12-08T16:09:28Z"
+      },
+      {
+        "name": "swg-scripts",
+        "description": "Security Working Group Scripts",
+        "url": "https://github.com/zephyrproject-rtos/swg-scripts",
+        "stars": 1,
+        "forks": 3,
+        "language": "Rust",
+        "pushed_at": "2022-02-07T19:46:19Z",
+        "created_at": "2020-08-11T20:30:55Z"
+      },
+      {
+        "name": "system-dt-playground",
+        "description": "Temp repo for sharing activities around system devicetree and Zephyr",
+        "url": "https://github.com/zephyrproject-rtos/system-dt-playground",
+        "stars": 2,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2021-11-18T13:13:52Z",
+        "created_at": "2021-03-11T17:40:47Z"
+      },
+      {
+        "name": "tart-sdk-build-macos",
+        "description": "Tart macOS image for building the Zephyr SDK",
+        "url": "https://github.com/zephyrproject-rtos/tart-sdk-build-macos",
+        "stars": 0,
+        "forks": 1,
+        "language": "HCL",
+        "pushed_at": "2024-09-29T13:43:10Z",
+        "created_at": "2024-09-18T10:04:10Z"
+      },
+      {
+        "name": "tensorflow",
+        "description": "An Open Source Machine Learning Framework for Everyone",
+        "url": "https://github.com/zephyrproject-rtos/tensorflow",
+        "stars": 1,
+        "forks": 2,
+        "language": "C++",
+        "pushed_at": "2021-04-28T19:25:01Z",
+        "created_at": "2021-04-28T17:33:40Z"
+      },
+      {
+        "name": "terraform-aws-eks-blueprints",
+        "description": "Configure and deploy complete EKS clusters.",
+        "url": "https://github.com/zephyrproject-rtos/terraform-aws-eks-blueprints",
+        "stars": 1,
+        "forks": 0,
+        "language": "HCL",
+        "pushed_at": "2023-08-19T14:42:57Z",
+        "created_at": "2022-10-26T13:59:53Z"
+      },
+      {
+        "name": "tests_influx_grafana",
+        "description": "Used for footprint tracking",
+        "url": "https://github.com/zephyrproject-rtos/tests_influx_grafana",
+        "stars": 1,
+        "forks": 1,
+        "language": "Python",
+        "pushed_at": "2021-08-30T15:22:42Z",
+        "created_at": "2021-08-30T15:15:50Z"
+      },
+      {
+        "name": "test_results",
+        "description": "Consolidated test results",
+        "url": "https://github.com/zephyrproject-rtos/test_results",
+        "stars": 8,
+        "forks": 12,
+        "language": "Python",
+        "pushed_at": "2025-05-15T02:48:27Z",
+        "created_at": "2020-03-16T13:27:23Z"
+      },
+      {
+        "name": "tf-m-tests",
+        "description": "Zephyr repository tracking https://git.trustedfirmware.org/TF-M/tf-m-tests.git",
+        "url": "https://github.com/zephyrproject-rtos/tf-m-tests",
+        "stars": 3,
+        "forks": 14,
+        "language": "C",
+        "pushed_at": "2025-04-23T07:06:41Z",
+        "created_at": "2021-10-19T15:21:51Z"
+      },
+      {
+        "name": "tflite-micro",
+        "description": "TensorFlow Lite for Microcontrollers",
+        "url": "https://github.com/zephyrproject-rtos/tflite-micro",
+        "stars": 4,
+        "forks": 4,
+        "language": "C++",
+        "pushed_at": "2025-02-11T17:50:54Z",
+        "created_at": "2021-07-14T15:25:08Z"
+      },
+      {
+        "name": "thrift",
+        "description": "Apache Thrift",
+        "url": "https://github.com/zephyrproject-rtos/thrift",
+        "stars": 1,
+        "forks": 0,
+        "language": "C++",
+        "pushed_at": "2024-06-19T18:15:52Z",
+        "created_at": "2023-01-26T07:20:38Z"
+      },
+      {
+        "name": "tinycbor",
+        "description": "Concise Binary Object Representation (CBOR) Library",
+        "url": "https://github.com/zephyrproject-rtos/tinycbor",
+        "stars": 5,
+        "forks": 9,
+        "language": "C",
+        "pushed_at": "2022-04-07T10:33:32Z",
+        "created_at": "2018-02-06T16:53:38Z"
+      },
+      {
+        "name": "tinycrypt",
+        "description": "Zephyr repository tracking https://github.com/intel/tinycrypt",
+        "url": "https://github.com/zephyrproject-rtos/tinycrypt",
+        "stars": 2,
+        "forks": 8,
+        "language": "C",
+        "pushed_at": "2024-03-04T14:22:55Z",
+        "created_at": "2020-03-20T10:39:47Z"
+      },
+      {
+        "name": "tomlc99",
+        "description": "（无简介）",
+        "url": "https://github.com/zephyrproject-rtos/tomlc99",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2020-09-15T08:57:03Z",
+        "created_at": "2023-09-05T10:49:35Z"
+      },
+      {
+        "name": "TraceRecorderSource",
+        "description": "Trace Recorder source code for use with Percepio's Tracealyzer",
+        "url": "https://github.com/zephyrproject-rtos/TraceRecorderSource",
+        "stars": 1,
+        "forks": 8,
+        "language": "C",
+        "pushed_at": "2023-07-19T11:52:48Z",
+        "created_at": "2021-05-06T20:01:30Z"
+      },
+      {
+        "name": "trusted-firmware-a",
+        "description": "Zephyr repository tracking https://git.trustedfirmware.org/TF-A/trusted-firmware-a.git/",
+        "url": "https://github.com/zephyrproject-rtos/trusted-firmware-a",
+        "stars": 1,
+        "forks": 6,
+        "language": "C",
+        "pushed_at": "2024-06-20T19:29:06Z",
+        "created_at": "2022-07-14T08:35:31Z"
+      },
+      {
+        "name": "trusted-firmware-m",
+        "description": "Zephyr repository tracking https://git.trustedfirmware.org/plugins/gitiles/TF-M/trusted-firmware-m.git",
+        "url": "https://github.com/zephyrproject-rtos/trusted-firmware-m",
+        "stars": 36,
+        "forks": 58,
+        "language": "C",
+        "pushed_at": "2025-05-12T08:07:30Z",
+        "created_at": "2019-11-22T11:53:18Z"
+      },
+      {
+        "name": "twister",
+        "description": "[DEPRICATED] Project won't be continued.",
+        "url": "https://github.com/zephyrproject-rtos/twister",
+        "stars": 10,
+        "forks": 9,
+        "language": "Python",
+        "pushed_at": "2023-07-31T08:51:52Z",
+        "created_at": "2022-06-03T16:52:09Z"
+      },
+      {
+        "name": "uoscore-uedhoc",
+        "description": "Zephyr downstream of https://github.com/eriptic/uoscore-uedhoc",
+        "url": "https://github.com/zephyrproject-rtos/uoscore-uedhoc",
+        "stars": 3,
+        "forks": 3,
+        "language": "C",
+        "pushed_at": "2025-02-13T11:05:44Z",
+        "created_at": "2022-07-01T14:41:40Z"
+      },
+      {
+        "name": "west",
+        "description": "West, Zephyr's meta-tool",
+        "url": "https://github.com/zephyrproject-rtos/west",
+        "stars": 262,
+        "forks": 135,
+        "language": "Python",
+        "pushed_at": "2025-05-22T13:51:49Z",
+        "created_at": "2018-05-23T13:56:05Z"
+      },
+      {
+        "name": "windows-curses",
+        "description": "Windows Curses Python module",
+        "url": "https://github.com/zephyrproject-rtos/windows-curses",
+        "stars": 191,
+        "forks": 33,
+        "language": "C",
+        "pushed_at": "2025-01-11T00:00:41Z",
+        "created_at": "2018-04-30T14:19:44Z"
+      },
+      {
+        "name": "zcbor",
+        "description": "Code generation from CDDL descriptions.",
+        "url": "https://github.com/zephyrproject-rtos/zcbor",
+        "stars": 8,
+        "forks": 7,
+        "language": "C",
+        "pushed_at": "2024-11-12T11:57:31Z",
+        "created_at": "2022-03-15T10:38:21Z"
+      },
+      {
+        "name": "zephyr",
+        "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+        "url": "https://github.com/zephyrproject-rtos/zephyr",
+        "stars": 12161,
+        "forks": 7395,
+        "language": "C",
+        "pushed_at": "2025-05-26T07:20:09Z",
+        "created_at": "2016-05-26T17:54:19Z"
+      },
+      {
+        "name": "zephyr-lang-rust",
+        "description": "Support for Zephyr applications written in Rust",
+        "url": "https://github.com/zephyrproject-rtos/zephyr-lang-rust",
+        "stars": 133,
+        "forks": 22,
+        "language": "Rust",
+        "pushed_at": "2025-05-23T19:23:21Z",
+        "created_at": "2024-09-11T18:29:43Z"
+      },
+      {
+        "name": "zephyr-merge-list",
+        "description": "Zephyr Merge List",
+        "url": "https://github.com/zephyrproject-rtos/zephyr-merge-list",
+        "stars": 3,
+        "forks": 2,
+        "language": "Python",
+        "pushed_at": "2025-01-16T16:56:31Z",
+        "created_at": "2024-03-25T11:47:35Z"
+      },
+      {
+        "name": "zephyr-testing",
+        "description": "Test Repo, Do not clone! Use zephyr repo  instead",
+        "url": "https://github.com/zephyrproject-rtos/zephyr-testing",
+        "stars": 16,
+        "forks": 26,
+        "language": "C",
+        "pushed_at": "2025-05-23T14:07:26Z",
+        "created_at": "2017-04-26T03:08:46Z"
+      },
+      {
+        "name": "zscilib",
+        "description": "An open-source scientific computing library for embedded systems running Zephyr OS or standalone.",
+        "url": "https://github.com/zephyrproject-rtos/zscilib",
+        "stars": 150,
+        "forks": 29,
+        "language": "C",
+        "pushed_at": "2025-05-12T13:09:10Z",
+        "created_at": "2019-02-16T11:21:35Z"
       }
     ]
   },
@@ -2023,6 +3624,367 @@
   },
   {
     "username": "Ameba-AIoT",
-    "repos": []
+    "repos": [
+      {
+        "name": ".github",
+        "description": "（无简介）",
+        "url": "https://github.com/Ameba-AIoT/.github",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2024-10-22T08:37:54Z",
+        "created_at": "2024-10-22T08:26:41Z"
+      },
+      {
+        "name": "ameba-amazon-freertos",
+        "description": "Amazon-freertos with Realtek modifications and demo example for Ameba Series SOCs",
+        "url": "https://github.com/Ameba-AIoT/ameba-amazon-freertos",
+        "stars": 1,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2025-05-16T03:15:31Z",
+        "created_at": "2024-07-02T07:21:14Z"
+      },
+      {
+        "name": "ameba-arduino-1",
+        "description": "Ameba1 Arduino third-party package SDK",
+        "url": "https://github.com/Ameba-AIoT/ameba-arduino-1",
+        "stars": 11,
+        "forks": 5,
+        "language": "C",
+        "pushed_at": "2024-02-16T08:11:06Z",
+        "created_at": "2020-01-07T08:37:52Z"
+      },
+      {
+        "name": "ameba-arduino-d",
+        "description": "AmebaD Arduino third-party package SDK",
+        "url": "https://github.com/Ameba-AIoT/ameba-arduino-d",
+        "stars": 108,
+        "forks": 60,
+        "language": "C",
+        "pushed_at": "2025-05-06T09:34:42Z",
+        "created_at": "2020-01-07T08:37:22Z"
+      },
+      {
+        "name": "ameba-arduino-doc",
+        "description": "Documents for Ameba AIoT Arduino SDK",
+        "url": "https://github.com/Ameba-AIoT/ameba-arduino-doc",
+        "stars": 1,
+        "forks": 5,
+        "language": "Python",
+        "pushed_at": "2025-05-06T09:42:50Z",
+        "created_at": "2024-08-08T10:12:08Z"
+      },
+      {
+        "name": "ameba-arduino-pro2",
+        "description": "AmebaPro2 Arduino third-party package SDK",
+        "url": "https://github.com/Ameba-AIoT/ameba-arduino-pro2",
+        "stars": 59,
+        "forks": 26,
+        "language": "C",
+        "pushed_at": "2025-05-23T06:45:42Z",
+        "created_at": "2022-08-30T03:30:26Z"
+      },
+      {
+        "name": "ameba-docs",
+        "description": "Ameba documents homepage",
+        "url": "https://github.com/Ameba-AIoT/ameba-docs",
+        "stars": 1,
+        "forks": 2,
+        "language": "Python",
+        "pushed_at": "2025-03-17T02:19:36Z",
+        "created_at": "2024-08-22T09:05:08Z"
+      },
+      {
+        "name": "ameba-iot-docs",
+        "description": "Realtek Offical Technical Documentations for Ameba Series SoCs  (AmebaSmart/AmebaLite/AmebaDPlus)",
+        "url": "https://github.com/Ameba-AIoT/ameba-iot-docs",
+        "stars": 0,
+        "forks": 2,
+        "language": "未指定",
+        "pushed_at": "2025-04-24T08:14:19Z",
+        "created_at": "2025-03-06T04:51:07Z"
+      },
+      {
+        "name": "ameba-linux-development",
+        "description": "Ameba Linux development. Supported IC Series: AmebaSmart.",
+        "url": "https://github.com/Ameba-AIoT/ameba-linux-development",
+        "stars": 0,
+        "forks": 2,
+        "language": "Roff",
+        "pushed_at": "2025-05-19T07:20:14Z",
+        "created_at": "2024-06-11T11:28:33Z"
+      },
+      {
+        "name": "ameba-linux-firmware",
+        "description": "Ameba Firmware for Linux. Supported IC Series: AmebaSmart.",
+        "url": "https://github.com/Ameba-AIoT/ameba-linux-firmware",
+        "stars": 0,
+        "forks": 3,
+        "language": "C",
+        "pushed_at": "2025-05-20T08:14:05Z",
+        "created_at": "2024-06-13T12:26:00Z"
+      },
+      {
+        "name": "ameba-linux-manifest",
+        "description": "Ameba Linux Release Manifest. Supported IC Series: AmebaSmart.",
+        "url": "https://github.com/Ameba-AIoT/ameba-linux-manifest",
+        "stars": 4,
+        "forks": 6,
+        "language": "未指定",
+        "pushed_at": "2025-05-19T10:55:58Z",
+        "created_at": "2024-05-10T02:01:04Z"
+      },
+      {
+        "name": "ameba-linux-tests",
+        "description": "Ameba Linux test packages. Supported IC Series: AmebaSmart.",
+        "url": "https://github.com/Ameba-AIoT/ameba-linux-tests",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-05-19T07:20:17Z",
+        "created_at": "2024-07-23T11:41:56Z"
+      },
+      {
+        "name": "ameba-linux-tools",
+        "description": "Ameba Linux SDK tools. Supported IC Series: AmebaSmart.",
+        "url": "https://github.com/Ameba-AIoT/ameba-linux-tools",
+        "stars": 1,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2025-05-19T11:37:57Z",
+        "created_at": "2024-05-23T08:44:07Z"
+      },
+      {
+        "name": "ameba-OTA-UI",
+        "description": "（无简介）",
+        "url": "https://github.com/Ameba-AIoT/ameba-OTA-UI",
+        "stars": 1,
+        "forks": 2,
+        "language": "TypeScript",
+        "pushed_at": "2024-07-30T08:50:59Z",
+        "created_at": "2024-07-26T07:58:52Z"
+      },
+      {
+        "name": "ameba-rtos",
+        "description": "Realtek Offical IOT Software Development Kit for Ameba Series SoCs: (AmebaSmart AmebaLite AmebaDplus)",
+        "url": "https://github.com/Ameba-AIoT/ameba-rtos",
+        "stars": 40,
+        "forks": 33,
+        "language": "C",
+        "pushed_at": "2025-05-26T01:28:29Z",
+        "created_at": "2024-05-10T02:00:41Z"
+      },
+      {
+        "name": "ameba-rtos-d",
+        "description": "AmebaD SoC SDK",
+        "url": "https://github.com/Ameba-AIoT/ameba-rtos-d",
+        "stars": 7,
+        "forks": 8,
+        "language": "C",
+        "pushed_at": "2025-02-17T05:40:16Z",
+        "created_at": "2024-07-09T03:05:43Z"
+      },
+      {
+        "name": "ameba-rtos-matter",
+        "description": "Realtek Official Matter Software Development Kit for Ameba Series SoCs",
+        "url": "https://github.com/Ameba-AIoT/ameba-rtos-matter",
+        "stars": 8,
+        "forks": 6,
+        "language": "C",
+        "pushed_at": "2025-05-19T12:29:38Z",
+        "created_at": "2024-07-15T03:58:42Z"
+      },
+      {
+        "name": "ameba-rtos-pro2",
+        "description": "（无简介）",
+        "url": "https://github.com/Ameba-AIoT/ameba-rtos-pro2",
+        "stars": 9,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2025-05-23T11:13:06Z",
+        "created_at": "2024-05-02T09:27:01Z"
+      },
+      {
+        "name": "ameba-rtos-pro2-doc",
+        "description": "Technical documents of Ameba AIoT",
+        "url": "https://github.com/Ameba-AIoT/ameba-rtos-pro2-doc",
+        "stars": 1,
+        "forks": 1,
+        "language": "Python",
+        "pushed_at": "2024-11-26T06:50:08Z",
+        "created_at": "2024-08-02T10:41:52Z"
+      },
+      {
+        "name": "ameba-rtos-z2",
+        "description": "Realtek Official IoT Software Development Kit for AmebaZ2 SoC",
+        "url": "https://github.com/Ameba-AIoT/ameba-rtos-z2",
+        "stars": 11,
+        "forks": 9,
+        "language": "C",
+        "pushed_at": "2025-04-28T02:09:24Z",
+        "created_at": "2024-07-05T06:36:54Z"
+      },
+      {
+        "name": "ameba-tool-rtos-pro2",
+        "description": "ameba tools for rtos-pro2",
+        "url": "https://github.com/Ameba-AIoT/ameba-tool-rtos-pro2",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2024-05-27T06:22:47Z",
+        "created_at": "2024-05-27T06:21:27Z"
+      },
+      {
+        "name": "ameba-toolchain",
+        "description": "（无简介）",
+        "url": "https://github.com/Ameba-AIoT/ameba-toolchain",
+        "stars": 1,
+        "forks": 1,
+        "language": "未指定",
+        "pushed_at": "2025-05-09T09:24:21Z",
+        "created_at": "2024-05-10T09:06:53Z"
+      },
+      {
+        "name": "ameba-zephyr-manifest",
+        "description": "ameba-zephyr-manifest",
+        "url": "https://github.com/Ameba-AIoT/ameba-zephyr-manifest",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2024-11-20T11:18:47Z",
+        "created_at": "2024-11-20T11:18:47Z"
+      },
+      {
+        "name": "atf-ameba",
+        "description": "Ameba Trusted Firmware-A. Supported IC Series: AmebaSmart.",
+        "url": "https://github.com/Ameba-AIoT/atf-ameba",
+        "stars": 0,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2025-05-19T07:20:09Z",
+        "created_at": "2024-06-07T10:11:38Z"
+      },
+      {
+        "name": "connectedhomeip",
+        "description": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
+        "url": "https://github.com/Ameba-AIoT/connectedhomeip",
+        "stars": 0,
+        "forks": 2,
+        "language": "C++",
+        "pushed_at": "2025-05-23T14:00:59Z",
+        "created_at": "2025-03-07T07:32:30Z"
+      },
+      {
+        "name": "linux-ameba",
+        "description": "Ameba Linux kernel. Supported IC Series: AmebaSmart.",
+        "url": "https://github.com/Ameba-AIoT/linux-ameba",
+        "stars": 2,
+        "forks": 7,
+        "language": "C",
+        "pushed_at": "2025-05-19T07:19:54Z",
+        "created_at": "2024-05-23T08:41:00Z"
+      },
+      {
+        "name": "meta-realtek",
+        "description": "Ameba Yocto Project BSP Layer. Supported IC Series: AmebaSmart.",
+        "url": "https://github.com/Ameba-AIoT/meta-realtek",
+        "stars": 0,
+        "forks": 2,
+        "language": "Python",
+        "pushed_at": "2025-05-19T07:19:47Z",
+        "created_at": "2024-05-23T08:42:55Z"
+      },
+      {
+        "name": "meta-realtek-matter",
+        "description": "Ameba Yocto Matter. Supported IC Series: AmebaSmart.",
+        "url": "https://github.com/Ameba-AIoT/meta-realtek-matter",
+        "stars": 1,
+        "forks": 2,
+        "language": "BitBake",
+        "pushed_at": "2025-03-24T03:06:14Z",
+        "created_at": "2024-08-22T09:55:14Z"
+      },
+      {
+        "name": "nuwa",
+        "description": "（无简介）",
+        "url": "https://github.com/Ameba-AIoT/nuwa",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-05-17T08:38:31Z",
+        "created_at": "2025-01-22T08:28:54Z"
+      },
+      {
+        "name": "nuwa_hal_realtek",
+        "description": "（无简介）",
+        "url": "https://github.com/Ameba-AIoT/nuwa_hal_realtek",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-05-17T08:36:52Z",
+        "created_at": "2025-03-04T09:23:06Z"
+      },
+      {
+        "name": "nuwa_tools",
+        "description": "（无简介）",
+        "url": "https://github.com/Ameba-AIoT/nuwa_tools",
+        "stars": 0,
+        "forks": 0,
+        "language": "Python",
+        "pushed_at": "2025-05-16T10:04:22Z",
+        "created_at": "2025-03-04T09:23:23Z"
+      },
+      {
+        "name": "optee_build-ameba",
+        "description": "Ameba OP-TEE build. Supported IC Series: AmebaSmart.",
+        "url": "https://github.com/Ameba-AIoT/optee_build-ameba",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-05-19T07:20:01Z",
+        "created_at": "2024-05-23T08:45:20Z"
+      },
+      {
+        "name": "optee_client-ameba",
+        "description": "Ameba OP-TEE client. Supported IC Series: AmebaSmart.",
+        "url": "https://github.com/Ameba-AIoT/optee_client-ameba",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-01-16T03:31:24Z",
+        "created_at": "2024-05-23T08:46:06Z"
+      },
+      {
+        "name": "optee_os-ameba",
+        "description": "Ameba OP-TEE OS. Supported IC Series: AmebaSmart.",
+        "url": "https://github.com/Ameba-AIoT/optee_os-ameba",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-05-19T07:20:06Z",
+        "created_at": "2024-05-23T08:45:42Z"
+      },
+      {
+        "name": "u-boot-ameba",
+        "description": "Ameba U-Boot. Supported IC Series: AmebaSmart.",
+        "url": "https://github.com/Ameba-AIoT/u-boot-ameba",
+        "stars": 0,
+        "forks": 3,
+        "language": "C",
+        "pushed_at": "2025-05-19T07:19:58Z",
+        "created_at": "2024-06-13T11:43:53Z"
+      },
+      {
+        "name": "zephyr",
+        "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+        "url": "https://github.com/Ameba-AIoT/zephyr",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-05-17T08:33:56Z",
+        "created_at": "2025-03-04T09:28:58Z"
+      }
+    ]
   }
 ]
