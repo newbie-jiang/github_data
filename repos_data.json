@@ -199,7 +199,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-05-28T08:16:22Z",
+        "pushed_at": "2025-05-28T08:43:23Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3016,7 +3016,7 @@
         "name": "mcuboot",
         "description": "Secure boot for 32-bit Microcontrollers!",
         "url": "https://github.com/zephyrproject-rtos/mcuboot",
-        "stars": 28,
+        "stars": 29,
         "forks": 76,
         "language": "C",
         "pushed_at": "2025-05-02T07:07:02Z",
@@ -6942,7 +6942,7 @@
         "description": "The camera middleware library simplifies the development process for applications that require camera functionality by abstracting hardware-specific details.",
         "url": "https://github.com/STMicroelectronics/stm32-mw-camera",
         "stars": 2,
-        "forks": 0,
+        "forks": 1,
         "language": "C",
         "pushed_at": "2025-05-21T15:01:15Z",
         "created_at": "2025-02-03T13:33:33Z"
@@ -10012,7 +10012,7 @@
         "description": "The X-CUBE-ISP is an image signal processing (ISP) tuning software. It targets STM32 microcontrollers embedding an ISP camera pipeline called DCMIPP. It offers advanced image quality tuning services, enabling developers to easily create ISP-based applications.",
         "url": "https://github.com/STMicroelectronics/x-cube-isp",
         "stars": 2,
-        "forks": 0,
+        "forks": 1,
         "language": "C",
         "pushed_at": "2025-03-07T15:01:28Z",
         "created_at": "2025-02-04T09:19:45Z"
@@ -10081,7 +10081,7 @@
         "name": "x-cube-n6-ai-people-detection-tracking",
         "description": "（无简介）",
         "url": "https://github.com/STMicroelectronics/x-cube-n6-ai-people-detection-tracking",
-        "stars": 1,
+        "stars": 2,
         "forks": 0,
         "language": "C",
         "pushed_at": "2025-05-20T06:56:02Z",
@@ -11376,7 +11376,7 @@
         "name": "esp-now",
         "description": "A connectionless Wi-Fi communication protocol",
         "url": "https://github.com/espressif/esp-now",
-        "stars": 612,
+        "stars": 613,
         "forks": 108,
         "language": "C",
         "pushed_at": "2025-04-21T12:47:06Z",
