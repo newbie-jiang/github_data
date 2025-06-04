@@ -209,7 +209,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-04T14:37:27Z",
+        "pushed_at": "2025-06-04T14:58:47Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -411,6 +411,16 @@
         "language": "未指定",
         "pushed_at": "2024-03-31T00:21:15Z",
         "created_at": "2024-03-31T07:00:59Z"
+      },
+      {
+        "name": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
+        "url": "https://github.com/newbie-jiang/rt-thread",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-05-31T11:50:07Z",
+        "created_at": "2025-06-04T15:11:49Z"
       },
       {
         "name": "SerialPortYmodem",
@@ -1628,6 +1638,16 @@
         "created_at": "2023-09-25T12:52:19Z"
       },
       {
+        "name": "sen5x",
+        "description": "SEN5X(SEN50, SEN54, SEN55) full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/sen5x",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-06-04T15:03:41Z",
+        "created_at": "2025-06-04T15:03:41Z"
+      },
+      {
         "name": "sfa30",
         "description": "SFA30 full-featured driver library for general-purpose MCU and Linux.",
         "url": "https://github.com/libdriver/sfa30",
@@ -2369,7 +2389,7 @@
         "stars": 178,
         "forks": 100,
         "language": "Shell",
-        "pushed_at": "2025-06-02T15:54:36Z",
+        "pushed_at": "2025-06-04T15:24:41Z",
         "created_at": "2018-11-10T16:04:21Z"
       },
       {
@@ -3606,10 +3626,10 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12221,
+        "stars": 12222,
         "forks": 7441,
         "language": "C",
-        "pushed_at": "2025-06-04T12:38:45Z",
+        "pushed_at": "2025-06-04T15:04:31Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -3619,7 +3639,7 @@
         "stars": 137,
         "forks": 24,
         "language": "Rust",
-        "pushed_at": "2025-06-04T13:57:47Z",
+        "pushed_at": "2025-06-04T15:29:38Z",
         "created_at": "2024-09-11T18:29:43Z"
       },
       {
@@ -9684,7 +9704,7 @@
         "stars": 11,
         "forks": 3,
         "language": "C",
-        "pushed_at": "2025-06-04T14:45:41Z",
+        "pushed_at": "2025-06-04T15:26:33Z",
         "created_at": "2024-04-12T13:29:12Z"
       },
       {
@@ -10189,7 +10209,7 @@
       },
       {
         "name": "x-cube-st67w61",
-        "description": "（无简介）",
+        "description": "The X-CUBE-ST67W61 expansion software package is a set of software components implementing host applications driving a Wi-Fi® and Bluetooth® LE coprocessor (ST67W611M1).",
         "url": "https://github.com/STMicroelectronics/x-cube-st67w61",
         "stars": 0,
         "forks": 0,
@@ -10329,7 +10349,7 @@
         "stars": 14864,
         "forks": 7632,
         "language": "C++",
-        "pushed_at": "2025-06-04T14:40:56Z",
+        "pushed_at": "2025-06-04T15:27:56Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -11086,8 +11106,8 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15359,
-        "forks": 7685,
+        "stars": 15360,
+        "forks": 7686,
         "language": "C",
         "pushed_at": "2025-06-04T10:08:00Z",
         "created_at": "2016-08-17T10:40:35Z"
@@ -11266,7 +11286,7 @@
         "name": "esp-iot-solution",
         "description": "Espressif IoT Library. IoT Device Drivers, Documentations and Solutions.",
         "url": "https://github.com/espressif/esp-iot-solution",
-        "stars": 2246,
+        "stars": 2247,
         "forks": 856,
         "language": "C",
         "pushed_at": "2025-06-03T09:44:04Z",
