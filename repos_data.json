@@ -183,6 +183,16 @@
         "created_at": "2025-04-23T16:26:39Z"
       },
       {
+        "name": "fsp",
+        "description": "Flexible Software Package (FSP) for Renesas RA MCU Family",
+        "url": "https://github.com/newbie-jiang/fsp",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-04-21T17:02:05Z",
+        "created_at": "2025-06-04T06:03:26Z"
+      },
+      {
         "name": "github_api",
         "description": "使用github api抓取数据",
         "url": "https://github.com/newbie-jiang/github_api",
@@ -199,7 +209,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-04T05:50:50Z",
+        "pushed_at": "2025-06-04T05:59:50Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -301,6 +311,16 @@
         "language": "未指定",
         "pushed_at": "2023-05-08T09:31:28Z",
         "created_at": "2025-05-13T09:49:53Z"
+      },
+      {
+        "name": "mcupsdk-core",
+        "description": "TI MCU+ SDK core source code repository with drivers, protocol stacks and example applications",
+        "url": "https://github.com/newbie-jiang/mcupsdk-core",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-05-20T12:49:52Z",
+        "created_at": "2025-06-04T06:04:29Z"
       },
       {
         "name": "mcux-sdk",
@@ -1731,7 +1751,7 @@
         "name": "ssd1315",
         "description": "SSD1315 full-featured driver for general-purpose MCU and Linux.",
         "url": "https://github.com/libdriver/ssd1315",
-        "stars": 52,
+        "stars": 53,
         "forks": 6,
         "language": "C",
         "pushed_at": "2025-04-19T03:45:51Z",
@@ -3576,7 +3596,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12216,
+        "stars": 12217,
         "forks": 7439,
         "language": "C",
         "pushed_at": "2025-06-04T04:40:33Z",
@@ -10609,7 +10629,7 @@
         "stars": 11,
         "forks": 1,
         "language": "C",
-        "pushed_at": "2025-06-02T06:19:58Z",
+        "pushed_at": "2025-06-04T06:32:07Z",
         "created_at": "2024-09-20T12:10:01Z"
       },
       {
@@ -10736,7 +10756,7 @@
         "name": "esp-brookesia",
         "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
         "url": "https://github.com/espressif/esp-brookesia",
-        "stars": 100,
+        "stars": 105,
         "forks": 11,
         "language": "C",
         "pushed_at": "2025-06-03T02:30:07Z",
@@ -10969,7 +10989,7 @@
         "stars": 21,
         "forks": 5,
         "language": "C",
-        "pushed_at": "2025-05-26T13:13:58Z",
+        "pushed_at": "2025-06-04T06:28:15Z",
         "created_at": "2024-11-27T06:37:49Z"
       },
       {
@@ -11036,7 +11056,7 @@
         "name": "esp-hosted-mcu",
         "description": "（无简介）",
         "url": "https://github.com/espressif/esp-hosted-mcu",
-        "stars": 21,
+        "stars": 20,
         "forks": 6,
         "language": "C",
         "pushed_at": "2025-05-29T08:48:06Z",
@@ -11296,7 +11316,7 @@
         "name": "esp-matter",
         "description": "Espressif's SDK for Matter",
         "url": "https://github.com/espressif/esp-matter",
-        "stars": 831,
+        "stars": 832,
         "forks": 190,
         "language": "C++",
         "pushed_at": "2025-06-03T03:43:05Z",
@@ -11409,7 +11429,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-06-04T04:06:57Z",
+        "pushed_at": "2025-06-04T06:03:42Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -11636,7 +11656,7 @@
         "name": "esp-skainet",
         "description": "Espressif intelligent voice assistant",
         "url": "https://github.com/espressif/esp-skainet",
-        "stars": 713,
+        "stars": 712,
         "forks": 159,
         "language": "C",
         "pushed_at": "2025-05-27T11:55:28Z",
@@ -12439,7 +12459,7 @@
         "stars": 13,
         "forks": 2,
         "language": "Rust",
-        "pushed_at": "2025-06-03T10:59:13Z",
+        "pushed_at": "2025-06-04T06:29:48Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
