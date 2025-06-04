@@ -209,7 +209,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-04T13:51:50Z",
+        "pushed_at": "2025-06-04T14:32:46Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -679,7 +679,7 @@
         "stars": 0,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-04-03T06:43:37Z",
+        "pushed_at": "2025-06-04T14:18:34Z",
         "created_at": "2025-04-03T07:18:14Z"
       },
       {
@@ -3606,7 +3606,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12220,
+        "stars": 12221,
         "forks": 7440,
         "language": "C",
         "pushed_at": "2025-06-04T12:38:45Z",
@@ -8031,7 +8031,7 @@
         "name": "STM32CubeF1",
         "description": "STM32Cube MCU Full Package for the STM32F1 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
         "url": "https://github.com/STMicroelectronics/STM32CubeF1",
-        "stars": 583,
+        "stars": 582,
         "forks": 184,
         "language": "HTML",
         "pushed_at": "2025-04-08T08:23:36Z",
@@ -9684,7 +9684,7 @@
         "stars": 11,
         "forks": 3,
         "language": "C",
-        "pushed_at": "2025-06-03T15:31:27Z",
+        "pushed_at": "2025-06-04T14:21:25Z",
         "created_at": "2024-04-12T13:29:12Z"
       },
       {
@@ -10188,6 +10188,16 @@
         "created_at": "2022-08-30T08:39:53Z"
       },
       {
+        "name": "x-cube-st67w61",
+        "description": "（无简介）",
+        "url": "https://github.com/STMicroelectronics/x-cube-st67w61",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-06-04T14:10:25Z",
+        "created_at": "2025-06-04T14:10:25Z"
+      },
+      {
         "name": "x-cube-subg2",
         "description": "X-CUBE-SUBG2 is an expansion software package for STM32Cube. The software runs on the STM32 and includes drivers that recognize the Sub-1 GHz RF communication for S2-LP.",
         "url": "https://github.com/STMicroelectronics/x-cube-subg2",
@@ -10319,7 +10329,7 @@
         "stars": 14864,
         "forks": 7632,
         "language": "C++",
-        "pushed_at": "2025-06-04T13:35:54Z",
+        "pushed_at": "2025-06-04T14:34:06Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -10489,7 +10499,7 @@
         "stars": 35,
         "forks": 28,
         "language": "C++",
-        "pushed_at": "2025-06-04T13:46:08Z",
+        "pushed_at": "2025-06-04T14:17:21Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -10766,7 +10776,7 @@
         "name": "esp-brookesia",
         "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
         "url": "https://github.com/espressif/esp-brookesia",
-        "stars": 120,
+        "stars": 121,
         "forks": 15,
         "language": "C",
         "pushed_at": "2025-06-03T02:30:07Z",
@@ -11119,7 +11129,7 @@
         "stars": 6,
         "forks": 4,
         "language": "Python",
-        "pushed_at": "2025-05-29T16:48:04Z",
+        "pushed_at": "2025-06-04T14:24:26Z",
         "created_at": "2022-08-18T14:19:53Z"
       },
       {
@@ -11689,7 +11699,7 @@
         "stars": 1,
         "forks": 2,
         "language": "C",
-        "pushed_at": "2025-05-28T19:02:35Z",
+        "pushed_at": "2025-06-04T14:26:45Z",
         "created_at": "2025-03-14T09:57:58Z"
       },
       {
@@ -12246,7 +12256,7 @@
         "name": "esptool-js",
         "description": "Javascript implementation of flasher tool for Espressif chips, running in web browser using WebSerial.",
         "url": "https://github.com/espressif/esptool-js",
-        "stars": 357,
+        "stars": 356,
         "forks": 123,
         "language": "TypeScript",
         "pushed_at": "2025-05-28T07:33:24Z",
