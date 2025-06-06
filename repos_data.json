@@ -219,7 +219,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-06T07:55:53Z",
+        "pushed_at": "2025-06-06T08:23:51Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -921,7 +921,7 @@
         "name": "ba111",
         "description": "BA111 full-featured driver library for general-purpose MCU and Linux.",
         "url": "https://github.com/libdriver/ba111",
-        "stars": 0,
+        "stars": 1,
         "forks": 1,
         "language": "C",
         "pushed_at": "2025-05-18T09:27:51Z",
@@ -2187,7 +2187,7 @@
         "description": "Zephyr repository tracking https://github.com/CANopenNode/CANopenNode",
         "url": "https://github.com/zephyrproject-rtos/canopennode",
         "stars": 10,
-        "forks": 14,
+        "forks": 15,
         "language": "C",
         "pushed_at": "2023-10-06T13:59:00Z",
         "created_at": "2020-01-16T17:27:20Z"
@@ -2247,7 +2247,7 @@
         "description": "Embedded C/C++ web server (obsolete)",
         "url": "https://github.com/zephyrproject-rtos/civetweb",
         "stars": 2,
-        "forks": 10,
+        "forks": 11,
         "language": "C",
         "pushed_at": "2022-04-29T18:26:01Z",
         "created_at": "2019-09-11T15:13:13Z"
@@ -2257,7 +2257,7 @@
         "description": "Zephyr repository tracking https://github.com/ARM-software/CMSIS_5",
         "url": "https://github.com/zephyrproject-rtos/cmsis",
         "stars": 10,
-        "forks": 41,
+        "forks": 42,
         "language": "C",
         "pushed_at": "2025-06-03T10:41:15Z",
         "created_at": "2020-03-19T15:59:59Z"
@@ -2477,7 +2477,7 @@
         "description": "Mirror of https://github.com/EDTTool/EDTT (PRs or issues should be filed there)",
         "url": "https://github.com/zephyrproject-rtos/edtt",
         "stars": 1,
-        "forks": 6,
+        "forks": 7,
         "language": "Python",
         "pushed_at": "2024-08-27T14:40:45Z",
         "created_at": "2019-12-16T16:34:32Z"
@@ -2517,7 +2517,7 @@
         "description": "This implementation of file system is developed by ELM Chan",
         "url": "https://github.com/zephyrproject-rtos/fatfs",
         "stars": 16,
-        "forks": 30,
+        "forks": 31,
         "language": "C",
         "pushed_at": "2025-02-14T11:06:31Z",
         "created_at": "2019-05-23T01:27:04Z"
@@ -2597,7 +2597,7 @@
         "description": "（无简介）",
         "url": "https://github.com/zephyrproject-rtos/hal_altera",
         "stars": 3,
-        "forks": 8,
+        "forks": 9,
         "language": "C",
         "pushed_at": "2024-07-13T22:09:39Z",
         "created_at": "2020-03-19T18:07:12Z"
@@ -3647,9 +3647,9 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 12227,
-        "forks": 7449,
+        "forks": 7450,
         "language": "C",
-        "pushed_at": "2025-06-06T08:19:58Z",
+        "pushed_at": "2025-06-06T08:29:44Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -9592,7 +9592,7 @@
         "description": "Configuration files, examples and tools for the Machine Learning Core feature (MLC) available in STMicroelectronics MEMS sensors. Some examples of devices including MLC: LSM6DSOX, LSM6DSRX, ISM330DHCX, IIS2ICLX, LSM6DSO32X, ASM330LHHX, LSM6DSV16X, LIS2DUX12, LIS2DUXS12, LSM6DSV16BX, ASM330LHHXG1, LSM6DSV32X",
         "url": "https://github.com/STMicroelectronics/STMems_Machine_Learning_Core",
         "stars": 196,
-        "forks": 70,
+        "forks": 71,
         "language": "C",
         "pushed_at": "2025-04-03T14:13:24Z",
         "created_at": "2019-06-19T14:15:22Z"
@@ -13029,7 +13029,7 @@
         "stars": 1231,
         "forks": 326,
         "language": "TypeScript",
-        "pushed_at": "2025-06-05T08:59:00Z",
+        "pushed_at": "2025-06-06T08:39:19Z",
         "created_at": "2018-11-21T03:27:08Z"
       },
       {
