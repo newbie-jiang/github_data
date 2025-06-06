@@ -173,6 +173,16 @@
         "created_at": "2024-05-07T11:29:00Z"
       },
       {
+        "name": "FlashDB",
+        "description": "An ultra-lightweight database that supports key-value and time series data |  一款支持 KV 数据和时序数据的超轻量级数据库",
+        "url": "https://github.com/newbie-jiang/FlashDB",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2024-12-30T04:32:36Z",
+        "created_at": "2025-06-06T02:11:08Z"
+      },
+      {
         "name": "FramePack",
         "description": "Lets make video diffusion practical!",
         "url": "https://github.com/newbie-jiang/FramePack",
@@ -209,7 +219,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-05T23:55:53Z",
+        "pushed_at": "2025-06-06T01:22:44Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -2919,7 +2929,7 @@
         "stars": 1,
         "forks": 2,
         "language": "HCL",
-        "pushed_at": "2025-06-03T07:37:21Z",
+        "pushed_at": "2025-06-06T02:54:58Z",
         "created_at": "2022-03-25T11:59:06Z"
       },
       {
@@ -3636,8 +3646,8 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12225,
-        "forks": 7447,
+        "stars": 12226,
+        "forks": 7448,
         "language": "C",
         "pushed_at": "2025-06-05T20:18:40Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -8241,7 +8251,7 @@
         "name": "STM32CubeN6",
         "description": "STM32Cube MCU Full Package for the STM32N6 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST)",
         "url": "https://github.com/STMicroelectronics/STM32CubeN6",
-        "stars": 19,
+        "stars": 20,
         "forks": 7,
         "language": "C",
         "pushed_at": "2025-04-16T09:24:32Z",
@@ -9582,7 +9592,7 @@
         "description": "Configuration files, examples and tools for the Machine Learning Core feature (MLC) available in STMicroelectronics MEMS sensors. Some examples of devices including MLC: LSM6DSOX, LSM6DSRX, ISM330DHCX, IIS2ICLX, LSM6DSO32X, ASM330LHHX, LSM6DSV16X, LIS2DUX12, LIS2DUXS12, LSM6DSV16BX, ASM330LHHXG1, LSM6DSV32X",
         "url": "https://github.com/STMicroelectronics/STMems_Machine_Learning_Core",
         "stars": 196,
-        "forks": 69,
+        "forks": 70,
         "language": "C",
         "pushed_at": "2025-04-03T14:13:24Z",
         "created_at": "2019-06-19T14:15:22Z"
@@ -10529,7 +10539,7 @@
         "stars": 35,
         "forks": 28,
         "language": "C++",
-        "pushed_at": "2025-06-05T23:18:15Z",
+        "pushed_at": "2025-06-06T02:25:09Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -10697,7 +10707,7 @@
         "description": "AT application for ESP32/ESP32-C2/ESP32-C3/ESP32-C6/ESP8266",
         "url": "https://github.com/espressif/esp-at",
         "stars": 1017,
-        "forks": 978,
+        "forks": 977,
         "language": "C",
         "pushed_at": "2025-06-05T12:03:23Z",
         "created_at": "2017-01-11T15:36:52Z"
@@ -10796,7 +10806,7 @@
         "name": "esp-box",
         "description": "The ESP-BOX is a new generation AIoT development platform released by Espressif Systems.",
         "url": "https://github.com/espressif/esp-box",
-        "stars": 1009,
+        "stars": 1010,
         "forks": 227,
         "language": "HTML",
         "pushed_at": "2025-03-03T10:57:16Z",
@@ -10806,7 +10816,7 @@
         "name": "esp-brookesia",
         "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
         "url": "https://github.com/espressif/esp-brookesia",
-        "stars": 126,
+        "stars": 127,
         "forks": 15,
         "language": "C",
         "pushed_at": "2025-06-03T02:30:07Z",
@@ -10979,7 +10989,7 @@
         "stars": 8,
         "forks": 5,
         "language": "C",
-        "pushed_at": "2025-05-28T12:41:47Z",
+        "pushed_at": "2025-06-06T02:41:48Z",
         "created_at": "2024-04-26T09:48:01Z"
       },
       {
@@ -11097,7 +11107,7 @@
         "description": "Hosted Solution (Linux/MCU) with ESP32 (Wi-Fi + BT + BLE)",
         "url": "https://github.com/espressif/esp-hosted",
         "stars": 809,
-        "forks": 190,
+        "forks": 191,
         "language": "C",
         "pushed_at": "2025-06-03T09:33:41Z",
         "created_at": "2020-06-11T09:09:31Z"
@@ -11207,7 +11217,7 @@
         "description": "（无简介）",
         "url": "https://github.com/espressif/esp-idf-provisioning-ios",
         "stars": 148,
-        "forks": 67,
+        "forks": 68,
         "language": "Swift",
         "pushed_at": "2025-05-23T12:34:41Z",
         "created_at": "2018-09-12T07:37:02Z"
@@ -11367,7 +11377,7 @@
         "description": "Espressif's SDK for Matter",
         "url": "https://github.com/espressif/esp-matter",
         "stars": 836,
-        "forks": 191,
+        "forks": 192,
         "language": "C++",
         "pushed_at": "2025-06-05T10:08:49Z",
         "created_at": "2022-05-18T10:02:59Z"
@@ -11479,7 +11489,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-06-06T00:06:00Z",
+        "pushed_at": "2025-06-06T02:32:37Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -11706,7 +11716,7 @@
         "name": "esp-skainet",
         "description": "Espressif intelligent voice assistant",
         "url": "https://github.com/espressif/esp-skainet",
-        "stars": 713,
+        "stars": 714,
         "forks": 159,
         "language": "C",
         "pushed_at": "2025-05-27T11:55:28Z",
@@ -13016,7 +13026,7 @@
         "name": "vscode-esp-idf-extension",
         "description": "Visual Studio Code extension for ESP-IDF projects",
         "url": "https://github.com/espressif/vscode-esp-idf-extension",
-        "stars": 1230,
+        "stars": 1231,
         "forks": 326,
         "language": "TypeScript",
         "pushed_at": "2025-06-05T08:59:00Z",
