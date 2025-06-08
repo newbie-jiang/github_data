@@ -1,7 +1,7 @@
 import requests
 import json
 
-USERS = ["newbie-jiang", "LibDriver","zephyrproject-rtos","STMicroelectronics","espressif","Ameba-AIoT"]  # 在这里加你想展示的用户名
+USERS = ["newbie-jiang", "LibDriver","zephyrproject-rtos","STMicroelectronics","espressif","Ameba-AIoT","stm32-hotspot"]  # 在这里加你想展示的用户名
 OUTPUT_PATH = "repos_data.json"
 
 def fetch_repos(username):
