@@ -229,7 +229,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-11T23:55:10Z",
+        "pushed_at": "2025-06-12T01:17:27Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -591,6 +591,16 @@
         "language": "未指定",
         "pushed_at": "2024-11-09T15:40:54Z",
         "created_at": "2025-04-23T09:04:01Z"
+      },
+      {
+        "name": "submodule_test",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/submodule_test",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-06-12T02:49:08Z",
+        "created_at": "2025-06-12T02:23:39Z"
       },
       {
         "name": "tiny-AES-c",
@@ -3669,7 +3679,7 @@
         "stars": 12257,
         "forks": 7483,
         "language": "C",
-        "pushed_at": "2025-06-11T23:26:23Z",
+        "pushed_at": "2025-06-12T01:32:06Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -10387,7 +10397,7 @@
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
         "stars": 14899,
-        "forks": 7633,
+        "forks": 7634,
         "language": "C++",
         "pushed_at": "2025-06-11T12:47:39Z",
         "created_at": "2016-10-06T06:04:20Z"
@@ -10559,7 +10569,7 @@
         "stars": 36,
         "forks": 28,
         "language": "C++",
-        "pushed_at": "2025-06-11T21:52:12Z",
+        "pushed_at": "2025-06-12T01:29:07Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11146,7 +11156,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15421,
+        "stars": 15423,
         "forks": 7698,
         "language": "C",
         "pushed_at": "2025-06-11T06:13:17Z",
@@ -11509,7 +11519,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-06-12T00:05:57Z",
+        "pushed_at": "2025-06-12T02:32:35Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -11746,7 +11756,7 @@
         "name": "esp-sr",
         "description": "Speech recognition",
         "url": "https://github.com/espressif/esp-sr",
-        "stars": 961,
+        "stars": 962,
         "forks": 144,
         "language": "C",
         "pushed_at": "2025-06-06T08:19:50Z",
@@ -13309,7 +13319,7 @@
       },
       {
         "name": "ameba-rtos-pro2",
-        "description": "（无简介）",
+        "description": "Realtek Official IoT Software Development Kit for Ameba Series SoC: (Ameba Pro2)",
         "url": "https://github.com/Ameba-AIoT/ameba-rtos-pro2",
         "stars": 14,
         "forks": 6,
