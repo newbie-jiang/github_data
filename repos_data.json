@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-16T08:44:45Z",
+        "pushed_at": "2025-06-16T08:59:29Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -341,6 +341,16 @@
         "language": "C",
         "pushed_at": "2024-08-18T13:50:55Z",
         "created_at": "2024-08-18T10:12:24Z"
+      },
+      {
+        "name": "lvgl_9_2",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/lvgl_9_2",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-06-16T09:14:22Z",
+        "created_at": "2025-06-16T09:06:52Z"
       },
       {
         "name": "mcuboot_stm32g0b1",
@@ -5034,7 +5044,7 @@
         "stars": 1,
         "forks": 1,
         "language": "C",
-        "pushed_at": "2025-06-16T06:42:49Z",
+        "pushed_at": "2025-06-16T09:00:14Z",
         "created_at": "2021-04-08T20:29:08Z"
       },
       {
@@ -9684,7 +9694,7 @@
         "stars": 780,
         "forks": 525,
         "language": "C",
-        "pushed_at": "2025-05-07T14:25:36Z",
+        "pushed_at": "2025-06-16T09:05:40Z",
         "created_at": "2018-01-18T14:21:53Z"
       },
       {
@@ -10439,7 +10449,7 @@
         "stars": 14920,
         "forks": 7641,
         "language": "C++",
-        "pushed_at": "2025-06-16T08:12:33Z",
+        "pushed_at": "2025-06-16T09:22:48Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -10899,7 +10909,7 @@
         "stars": 289,
         "forks": 148,
         "language": "C",
-        "pushed_at": "2025-06-16T08:28:29Z",
+        "pushed_at": "2025-06-16T09:30:36Z",
         "created_at": "2021-09-14T09:33:04Z"
       },
       {
@@ -10996,7 +11006,7 @@
         "name": "esp-dl",
         "description": "Espressif deep-learning library for AIoT applications",
         "url": "https://github.com/espressif/esp-dl",
-        "stars": 725,
+        "stars": 724,
         "forks": 142,
         "language": "Assembly",
         "pushed_at": "2025-06-13T04:22:51Z",
@@ -11196,7 +11206,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15461,
+        "stars": 15463,
         "forks": 7704,
         "language": "C",
         "pushed_at": "2025-06-15T21:19:46Z",
@@ -12519,7 +12529,7 @@
         "stars": 340,
         "forks": 130,
         "language": "Java",
-        "pushed_at": "2025-06-16T06:33:14Z",
+        "pushed_at": "2025-06-16T09:27:50Z",
         "created_at": "2019-09-16T02:21:43Z"
       },
       {
@@ -13099,7 +13109,7 @@
         "stars": 1243,
         "forks": 329,
         "language": "TypeScript",
-        "pushed_at": "2025-06-16T08:27:33Z",
+        "pushed_at": "2025-06-16T09:27:16Z",
         "created_at": "2018-11-21T03:27:08Z"
       },
       {
@@ -15677,7 +15687,7 @@
         "description": "The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.",
         "url": "https://github.com/openai/chatgpt-retrieval-plugin",
         "stars": 21194,
-        "forks": 3684,
+        "forks": 3683,
         "language": "Python",
         "pushed_at": "2024-07-04T22:00:16Z",
         "created_at": "2023-03-23T06:06:22Z"
@@ -16636,7 +16646,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 11468,
+        "stars": 11471,
         "forks": 1677,
         "language": "Python",
         "pushed_at": "2025-06-16T07:30:15Z",
@@ -16816,8 +16826,8 @@
         "name": "openai-realtime-api-beta",
         "description": "Node.js + JavaScript reference client for the Realtime API (beta)",
         "url": "https://github.com/openai/openai-realtime-api-beta",
-        "stars": 965,
-        "forks": 282,
+        "stars": 966,
+        "forks": 283,
         "language": "JavaScript",
         "pushed_at": "2024-11-07T22:51:02Z",
         "created_at": "2024-09-30T21:11:38Z"
@@ -16826,8 +16836,8 @@
         "name": "openai-realtime-console",
         "description": "React app for inspecting, building and debugging with the Realtime API",
         "url": "https://github.com/openai/openai-realtime-console",
-        "stars": 3285,
-        "forks": 1265,
+        "stars": 3286,
+        "forks": 1266,
         "language": "JavaScript",
         "pushed_at": "2025-03-11T22:18:59Z",
         "created_at": "2024-09-30T19:00:38Z"
@@ -16866,7 +16876,7 @@
         "name": "openai-responses-starter-app",
         "description": "Starter app to build with the OpenAI Responses API",
         "url": "https://github.com/openai/openai-responses-starter-app",
-        "stars": 312,
+        "stars": 313,
         "forks": 108,
         "language": "TypeScript",
         "pushed_at": "2025-06-09T22:03:51Z",
@@ -17377,7 +17387,7 @@
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
         "stars": 19927,
-        "forks": 2108,
+        "forks": 2109,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
         "created_at": "2024-02-22T20:53:54Z"
@@ -17546,8 +17556,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 83334,
-        "forks": 10118,
+        "stars": 83335,
+        "forks": 10119,
         "language": "Python",
         "pushed_at": "2025-05-13T18:22:39Z",
         "created_at": "2022-09-16T20:02:54Z"
