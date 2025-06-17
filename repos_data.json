@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-17T15:51:13Z",
+        "pushed_at": "2025-06-17T16:00:24Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -1871,7 +1871,7 @@
         "name": "ssd1315",
         "description": "SSD1315 full-featured driver for general-purpose MCU and Linux.",
         "url": "https://github.com/libdriver/ssd1315",
-        "stars": 53,
+        "stars": 52,
         "forks": 6,
         "language": "C",
         "pushed_at": "2025-04-19T03:45:51Z",
@@ -4474,7 +4474,7 @@
         "stars": 7,
         "forks": 5,
         "language": "C",
-        "pushed_at": "2024-03-04T10:14:29Z",
+        "pushed_at": "2025-06-17T16:09:54Z",
         "created_at": "2020-01-17T15:53:28Z"
       },
       {
@@ -8021,7 +8021,7 @@
         "name": "stm32ai-modelzoo-services",
         "description": "AI Model Zoo services for STM32 devices",
         "url": "https://github.com/STMicroelectronics/stm32ai-modelzoo-services",
-        "stars": 51,
+        "stars": 52,
         "forks": 14,
         "language": "C",
         "pushed_at": "2025-05-20T12:29:53Z",
@@ -8161,7 +8161,7 @@
         "name": "STM32CubeF2",
         "description": "STM32Cube MCU Full Package for the STM32F2 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
         "url": "https://github.com/STMicroelectronics/STM32CubeF2",
-        "stars": 50,
+        "stars": 51,
         "forks": 25,
         "language": "C",
         "pushed_at": "2025-06-05T13:50:12Z",
@@ -8284,7 +8284,7 @@
         "stars": 44,
         "forks": 32,
         "language": "C",
-        "pushed_at": "2025-05-22T15:55:06Z",
+        "pushed_at": "2025-06-17T16:17:41Z",
         "created_at": "2020-01-13T14:40:21Z"
       },
       {
@@ -9764,7 +9764,7 @@
         "stars": 2,
         "forks": 0,
         "language": "C",
-        "pushed_at": "2025-06-17T13:46:15Z",
+        "pushed_at": "2025-06-17T16:03:11Z",
         "created_at": "2025-05-19T13:09:38Z"
       },
       {
@@ -10619,7 +10619,7 @@
         "stars": 36,
         "forks": 28,
         "language": "C++",
-        "pushed_at": "2025-06-17T14:30:09Z",
+        "pushed_at": "2025-06-17T16:32:08Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11129,7 +11129,7 @@
         "stars": 34,
         "forks": 7,
         "language": "C",
-        "pushed_at": "2025-06-17T07:53:48Z",
+        "pushed_at": "2025-06-17T16:02:00Z",
         "created_at": "2024-11-27T06:37:49Z"
       },
       {
@@ -11507,7 +11507,7 @@
         "description": "（无简介）",
         "url": "https://github.com/espressif/esp-moonlight",
         "stars": 60,
-        "forks": 35,
+        "forks": 36,
         "language": "C",
         "pushed_at": "2023-11-30T13:36:28Z",
         "created_at": "2020-05-14T03:09:28Z"
@@ -11569,7 +11569,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-06-17T14:02:59Z",
+        "pushed_at": "2025-06-17T16:03:23Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12529,7 +12529,7 @@
         "stars": 340,
         "forks": 130,
         "language": "Java",
-        "pushed_at": "2025-06-17T12:03:18Z",
+        "pushed_at": "2025-06-17T16:31:37Z",
         "created_at": "2019-09-16T02:21:43Z"
       },
       {
@@ -15676,7 +15676,7 @@
         "name": "build-hours",
         "description": "Build hours code to share.",
         "url": "https://github.com/openai/build-hours",
-        "stars": 289,
+        "stars": 290,
         "forks": 62,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-06-17T15:48:27Z",
@@ -15736,7 +15736,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29425,
+        "stars": 29426,
         "forks": 3632,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -15766,7 +15766,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 29120,
+        "stars": 29122,
         "forks": 3204,
         "language": "Rust",
         "pushed_at": "2025-06-17T11:36:36Z",
@@ -16656,10 +16656,10 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 11516,
-        "forks": 1690,
+        "stars": 11518,
+        "forks": 1691,
         "language": "Python",
-        "pushed_at": "2025-06-17T15:48:53Z",
+        "pushed_at": "2025-06-17T16:19:58Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -16696,10 +16696,10 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 64683,
+        "stars": 64684,
         "forks": 10670,
         "language": "MDX",
-        "pushed_at": "2025-06-17T01:35:21Z",
+        "pushed_at": "2025-06-17T16:08:20Z",
         "created_at": "2022-03-11T02:08:53Z"
       },
       {
@@ -16936,7 +16936,7 @@
         "name": "openai-testing-agent-demo",
         "description": "Demo of a UI testing agent using the OpenAI CUA model and the Responses API.",
         "url": "https://github.com/openai/openai-testing-agent-demo",
-        "stars": 490,
+        "stars": 492,
         "forks": 48,
         "language": "TypeScript",
         "pushed_at": "2025-06-17T10:18:47Z",
@@ -17017,7 +17017,7 @@
         "description": "Point cloud diffusion for 3D model synthesis",
         "url": "https://github.com/openai/point-e",
         "stars": 6729,
-        "forks": 791,
+        "forks": 790,
         "language": "Python",
         "pushed_at": "2024-07-04T19:05:34Z",
         "created_at": "2022-12-06T16:32:13Z"
@@ -17566,7 +17566,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 83426,
+        "stars": 83427,
         "forks": 10131,
         "language": "Python",
         "pushed_at": "2025-05-13T18:22:39Z",
