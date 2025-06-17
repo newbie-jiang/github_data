@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-17T11:42:53Z",
+        "pushed_at": "2025-06-17T11:52:20Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3727,7 +3727,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 12287,
-        "forks": 7504,
+        "forks": 7505,
         "language": "C",
         "pushed_at": "2025-06-17T06:20:39Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -10446,8 +10446,8 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 14921,
-        "forks": 7641,
+        "stars": 14922,
+        "forks": 7642,
         "language": "C++",
         "pushed_at": "2025-06-17T11:15:54Z",
         "created_at": "2016-10-06T06:04:20Z"
@@ -11036,7 +11036,7 @@
         "name": "esp-drone",
         "description": "Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.",
         "url": "https://github.com/espressif/esp-drone",
-        "stars": 1125,
+        "stars": 1126,
         "forks": 293,
         "language": "C",
         "pushed_at": "2025-03-18T03:31:03Z",
@@ -11206,8 +11206,8 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15474,
-        "forks": 7705,
+        "stars": 15475,
+        "forks": 7706,
         "language": "C",
         "pushed_at": "2025-06-15T21:19:46Z",
         "created_at": "2016-08-17T10:40:35Z"
@@ -11569,7 +11569,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-06-17T10:04:22Z",
+        "pushed_at": "2025-06-17T12:03:26Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12366,8 +12366,8 @@
         "name": "esptool",
         "description": "Serial utility for flashing, provisioning, and interacting with Espressif SoCs",
         "url": "https://github.com/espressif/esptool",
-        "stars": 5917,
-        "forks": 1431,
+        "stars": 5918,
+        "forks": 1432,
         "language": "Python",
         "pushed_at": "2025-06-17T11:15:08Z",
         "created_at": "2014-09-06T14:50:29Z"
@@ -12389,7 +12389,7 @@
         "stars": 2,
         "forks": 8,
         "language": "Linker Script",
-        "pushed_at": "2025-05-13T09:08:07Z",
+        "pushed_at": "2025-06-17T12:06:47Z",
         "created_at": "2024-05-28T10:09:55Z"
       },
       {
@@ -12529,7 +12529,7 @@
         "stars": 340,
         "forks": 130,
         "language": "Java",
-        "pushed_at": "2025-06-17T11:45:05Z",
+        "pushed_at": "2025-06-17T12:03:18Z",
         "created_at": "2019-09-16T02:21:43Z"
       },
       {
@@ -12599,7 +12599,7 @@
         "stars": 13,
         "forks": 2,
         "language": "Rust",
-        "pushed_at": "2025-06-17T10:06:21Z",
+        "pushed_at": "2025-06-17T12:04:12Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
@@ -15766,8 +15766,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 29109,
-        "forks": 3198,
+        "stars": 29110,
+        "forks": 3199,
         "language": "Rust",
         "pushed_at": "2025-06-17T11:36:36Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16117,7 +16117,7 @@
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
         "stars": 23680,
-        "forks": 5681,
+        "forks": 5682,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
         "created_at": "2019-02-11T04:21:59Z"
@@ -16656,7 +16656,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 11509,
+        "stars": 11510,
         "forks": 1689,
         "language": "Python",
         "pushed_at": "2025-06-16T19:51:02Z",
@@ -16696,7 +16696,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 64681,
+        "stars": 64682,
         "forks": 10666,
         "language": "MDX",
         "pushed_at": "2025-06-17T01:35:21Z",
@@ -16796,7 +16796,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27058,
+        "stars": 27059,
         "forks": 3985,
         "language": "Python",
         "pushed_at": "2025-06-17T05:04:30Z",
@@ -17436,7 +17436,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 14841,
+        "stars": 14842,
         "forks": 1086,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
