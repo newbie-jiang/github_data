@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-16T23:45:01Z",
+        "pushed_at": "2025-06-16T23:54:03Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -1791,7 +1791,7 @@
         "name": "sht2x",
         "description": "SHT2X(SHT20, SHT21, SHT25) full-featured driver library for general-purpose MCU and Linux.",
         "url": "https://github.com/libdriver/sht2x",
-        "stars": 19,
+        "stars": 20,
         "forks": 1,
         "language": "C",
         "pushed_at": "2025-04-18T15:58:13Z",
@@ -1901,7 +1901,7 @@
         "name": "st7789",
         "description": "ST7789 full-featured driver library for general-purpose MCU and Linux.",
         "url": "https://github.com/libdriver/st7789",
-        "stars": 285,
+        "stars": 286,
         "forks": 49,
         "language": "C",
         "pushed_at": "2025-04-19T03:51:33Z",
@@ -7252,7 +7252,7 @@
         "description": "MCUboot is an OS- and HW-independent secure bootloader for 32-bit MCUs aiming at defining a common infrastructure for the bootloader and the system flash layout on microcontroller systems, and at providing a secure bootloader that enables simple software upgrades.",
         "url": "https://github.com/STMicroelectronics/stm32-mw-mcuboot",
         "stars": 28,
-        "forks": 3,
+        "forks": 4,
         "language": "C",
         "pushed_at": "2025-05-13T15:05:48Z",
         "created_at": "2024-07-10T08:48:03Z"
@@ -11367,7 +11367,7 @@
         "description": "ESP Insights: A remote diagnostics/observability framework for connected devices",
         "url": "https://github.com/espressif/esp-insights",
         "stars": 124,
-        "forks": 37,
+        "forks": 38,
         "language": "C",
         "pushed_at": "2025-05-30T12:43:26Z",
         "created_at": "2021-07-01T06:24:40Z"
@@ -11569,7 +11569,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-06-16T22:03:02Z",
+        "pushed_at": "2025-06-17T00:06:13Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -11806,7 +11806,7 @@
         "name": "esp-sr",
         "description": "Speech recognition",
         "url": "https://github.com/espressif/esp-sr",
-        "stars": 966,
+        "stars": 967,
         "forks": 145,
         "language": "C",
         "pushed_at": "2025-06-16T12:27:51Z",
@@ -12599,7 +12599,7 @@
         "stars": 13,
         "forks": 2,
         "language": "Rust",
-        "pushed_at": "2025-06-16T21:34:22Z",
+        "pushed_at": "2025-06-17T00:06:59Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
@@ -15384,7 +15384,7 @@
         "stars": 11199,
         "forks": 5187,
         "language": "C",
-        "pushed_at": "2025-06-16T15:35:13Z",
+        "pushed_at": "2025-06-17T00:32:59Z",
         "created_at": "2013-01-02T14:49:21Z"
       },
       {
@@ -15462,7 +15462,7 @@
         "description": "build kernel/rootfs/bootloader for rt-smart",
         "url": "https://github.com/RT-Thread/smart-build",
         "stars": 1,
-        "forks": 8,
+        "forks": 9,
         "language": "C",
         "pushed_at": "2025-06-14T20:38:48Z",
         "created_at": "2024-12-10T02:23:12Z"
@@ -15736,7 +15736,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29413,
+        "stars": 29414,
         "forks": 3628,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -15766,8 +15766,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 29072,
-        "forks": 3191,
+        "stars": 29075,
+        "forks": 3193,
         "language": "Rust",
         "pushed_at": "2025-06-16T08:32:41Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16206,7 +16206,7 @@
         "name": "gym",
         "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
         "url": "https://github.com/openai/gym",
-        "stars": 36112,
+        "stars": 36113,
         "forks": 8677,
         "language": "Python",
         "pushed_at": "2024-10-11T20:07:05Z",
@@ -16266,7 +16266,7 @@
         "name": "human-eval",
         "description": "Code for the paper \"Evaluating Large Language Models Trained on Code\"",
         "url": "https://github.com/openai/human-eval",
-        "stars": 2782,
+        "stars": 2783,
         "forks": 394,
         "language": "Python",
         "pushed_at": "2025-01-17T18:22:17Z",
@@ -16649,15 +16649,15 @@
         "stars": 476,
         "forks": 75,
         "language": "TypeScript",
-        "pushed_at": "2025-06-16T23:20:25Z",
+        "pushed_at": "2025-06-17T00:58:07Z",
         "created_at": "2025-05-31T00:08:49Z"
       },
       {
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 11489,
-        "forks": 1686,
+        "stars": 11490,
+        "forks": 1687,
         "language": "Python",
         "pushed_at": "2025-06-16T19:51:02Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -16696,17 +16696,17 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 64671,
+        "stars": 64672,
         "forks": 10663,
         "language": "MDX",
-        "pushed_at": "2025-06-16T15:42:02Z",
+        "pushed_at": "2025-06-17T00:21:52Z",
         "created_at": "2022-03-11T02:08:53Z"
       },
       {
         "name": "openai-cua-sample-app",
         "description": "Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.",
         "url": "https://github.com/openai/openai-cua-sample-app",
-        "stars": 959,
+        "stars": 960,
         "forks": 268,
         "language": "Python",
         "pushed_at": "2025-04-24T17:36:50Z",
@@ -16726,7 +16726,7 @@
         "name": "openai-dotnet",
         "description": "The official .NET library for the OpenAI API",
         "url": "https://github.com/openai/openai-dotnet",
-        "stars": 2078,
+        "stars": 2079,
         "forks": 268,
         "language": "C#",
         "pushed_at": "2025-05-09T18:31:23Z",
@@ -16759,7 +16759,7 @@
         "stars": 1922,
         "forks": 152,
         "language": "Go",
-        "pushed_at": "2025-06-16T20:35:03Z",
+        "pushed_at": "2025-06-17T00:09:30Z",
         "created_at": "2024-07-22T19:29:26Z"
       },
       {
@@ -16769,17 +16769,17 @@
         "stars": 894,
         "forks": 123,
         "language": "Kotlin",
-        "pushed_at": "2025-06-16T19:37:13Z",
+        "pushed_at": "2025-06-17T00:13:32Z",
         "created_at": "2024-10-31T17:42:57Z"
       },
       {
         "name": "openai-node",
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
-        "stars": 9347,
+        "stars": 9348,
         "forks": 1121,
         "language": "TypeScript",
-        "pushed_at": "2025-06-16T19:22:45Z",
+        "pushed_at": "2025-06-17T00:10:46Z",
         "created_at": "2021-12-14T22:32:58Z"
       },
       {
@@ -16799,7 +16799,7 @@
         "stars": 27054,
         "forks": 3982,
         "language": "Python",
-        "pushed_at": "2025-06-16T22:26:37Z",
+        "pushed_at": "2025-06-17T00:10:22Z",
         "created_at": "2020-10-25T23:23:54Z"
       },
       {
@@ -16826,7 +16826,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 5865,
+        "stars": 5866,
         "forks": 771,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T14:47:04Z",
@@ -16899,7 +16899,7 @@
         "stars": 230,
         "forks": 14,
         "language": "Ruby",
-        "pushed_at": "2025-06-16T19:05:49Z",
+        "pushed_at": "2025-06-17T00:10:36Z",
         "created_at": "2025-03-05T18:31:42Z"
       },
       {
@@ -17306,7 +17306,7 @@
         "name": "simple-evals",
         "description": "（无简介）",
         "url": "https://github.com/openai/simple-evals",
-        "stars": 3700,
+        "stars": 3701,
         "forks": 366,
         "language": "Python",
         "pushed_at": "2025-05-13T17:36:18Z",
@@ -17566,7 +17566,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 83364,
+        "stars": 83368,
         "forks": 10128,
         "language": "Python",
         "pushed_at": "2025-05-13T18:22:39Z",
