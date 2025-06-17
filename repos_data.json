@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-17T03:45:31Z",
+        "pushed_at": "2025-06-17T04:16:42Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3726,7 +3726,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12283,
+        "stars": 12284,
         "forks": 7502,
         "language": "C",
         "pushed_at": "2025-06-16T18:15:32Z",
@@ -4422,7 +4422,7 @@
         "description": "Provides the STM32Cube MCU Component \"cmsis_device_h7\" of the STM32H7 series.",
         "url": "https://github.com/STMicroelectronics/cmsis-device-h7",
         "stars": 36,
-        "forks": 23,
+        "forks": 24,
         "language": "C",
         "pushed_at": "2025-03-19T13:13:06Z",
         "created_at": "2019-12-18T15:55:41Z"
@@ -4432,7 +4432,7 @@
         "description": "Provides the STM32Cube MCU Component \"cmsis_device\" of the STM32H7RS series.",
         "url": "https://github.com/STMicroelectronics/cmsis-device-h7rs",
         "stars": 1,
-        "forks": 3,
+        "forks": 4,
         "language": "C",
         "pushed_at": "2025-02-25T16:05:31Z",
         "created_at": "2024-03-21T09:12:25Z"
@@ -4442,7 +4442,7 @@
         "description": "Provides the STM32Cube MCU Component \"cmsis_device_l0\" of the STM32L0 series.",
         "url": "https://github.com/STMicroelectronics/cmsis-device-l0",
         "stars": 6,
-        "forks": 7,
+        "forks": 8,
         "language": "C",
         "pushed_at": "2025-03-19T13:58:35Z",
         "created_at": "2019-12-18T15:57:50Z"
@@ -4462,7 +4462,7 @@
         "description": "Provides the STM32Cube MCU Component \"cmsis_device_l4\" of the STM32L4 series.",
         "url": "https://github.com/STMicroelectronics/cmsis-device-l4",
         "stars": 4,
-        "forks": 4,
+        "forks": 5,
         "language": "C",
         "pushed_at": "2024-07-24T15:13:55Z",
         "created_at": "2019-12-18T16:04:07Z"
@@ -4472,7 +4472,7 @@
         "description": "Provides the STM32Cube MCU Component \"cmsis_device_l5\" of the STM32L5 series.",
         "url": "https://github.com/STMicroelectronics/cmsis-device-l5",
         "stars": 7,
-        "forks": 4,
+        "forks": 5,
         "language": "C",
         "pushed_at": "2024-03-04T10:14:29Z",
         "created_at": "2020-01-17T15:53:28Z"
@@ -4512,7 +4512,7 @@
         "description": "Provides the STM32Cube MCU Component \"cmsis_device_u5\" of the STM32U5 series.",
         "url": "https://github.com/STMicroelectronics/cmsis-device-u5",
         "stars": 9,
-        "forks": 4,
+        "forks": 5,
         "language": "C",
         "pushed_at": "2025-05-08T09:13:47Z",
         "created_at": "2021-07-09T16:06:51Z"
@@ -4522,7 +4522,7 @@
         "description": "Provides the STM32Cube MCU Component \"cmsis_device_wb\" of the STM32WB series.",
         "url": "https://github.com/STMicroelectronics/cmsis-device-wb",
         "stars": 6,
-        "forks": 6,
+        "forks": 7,
         "language": "C",
         "pushed_at": "2024-07-02T14:12:29Z",
         "created_at": "2019-12-18T15:49:54Z"
@@ -4552,7 +4552,7 @@
         "description": "Provides the STM32Cube MCU Component \"cmsis_device_wl\" of the STM32WL series.",
         "url": "https://github.com/STMicroelectronics/cmsis-device-wl",
         "stars": 3,
-        "forks": 5,
+        "forks": 6,
         "language": "C",
         "pushed_at": "2023-05-24T08:12:36Z",
         "created_at": "2020-11-25T09:10:23Z"
@@ -10999,7 +10999,7 @@
         "stars": 457,
         "forks": 194,
         "language": "Python",
-        "pushed_at": "2025-06-12T11:31:51Z",
+        "pushed_at": "2025-06-17T04:18:31Z",
         "created_at": "2020-04-27T01:08:18Z"
       },
       {
@@ -15767,7 +15767,7 @@
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
         "stars": 29086,
-        "forks": 3194,
+        "forks": 3193,
         "language": "Rust",
         "pushed_at": "2025-06-16T08:32:41Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16646,7 +16646,7 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 481,
+        "stars": 483,
         "forks": 76,
         "language": "TypeScript",
         "pushed_at": "2025-06-17T00:58:07Z",
@@ -16696,7 +16696,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 64675,
+        "stars": 64676,
         "forks": 10664,
         "language": "MDX",
         "pushed_at": "2025-06-17T01:35:21Z",
@@ -16776,7 +16776,7 @@
         "name": "openai-node",
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
-        "stars": 9348,
+        "stars": 9349,
         "forks": 1121,
         "language": "TypeScript",
         "pushed_at": "2025-06-17T00:10:46Z",
@@ -17566,7 +17566,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 83376,
+        "stars": 83377,
         "forks": 10129,
         "language": "Python",
         "pushed_at": "2025-05-13T18:22:39Z",
