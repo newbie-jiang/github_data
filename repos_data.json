@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-18T08:49:57Z",
+        "pushed_at": "2025-06-18T09:00:47Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3706,7 +3706,7 @@
         "name": "west",
         "description": "West, Zephyr's meta-tool",
         "url": "https://github.com/zephyrproject-rtos/west",
-        "stars": 266,
+        "stars": 267,
         "forks": 135,
         "language": "Python",
         "pushed_at": "2025-06-01T21:30:02Z",
@@ -3736,7 +3736,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12297,
+        "stars": 12300,
         "forks": 7510,
         "language": "C",
         "pushed_at": "2025-06-18T08:56:34Z",
@@ -10879,7 +10879,7 @@
         "stars": 4,
         "forks": 2,
         "language": "C++",
-        "pushed_at": "2025-04-27T01:45:01Z",
+        "pushed_at": "2025-06-18T09:13:11Z",
         "created_at": "2025-03-26T07:41:46Z"
       },
       {
@@ -10896,7 +10896,7 @@
         "name": "esp-box",
         "description": "The ESP-BOX is a new generation AIoT development platform released by Espressif Systems.",
         "url": "https://github.com/espressif/esp-box",
-        "stars": 1022,
+        "stars": 1023,
         "forks": 230,
         "language": "HTML",
         "pushed_at": "2025-03-03T10:57:16Z",
@@ -10929,7 +10929,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-04-27T08:29:00Z",
+        "pushed_at": "2025-06-18T09:14:37Z",
         "created_at": "2025-04-27T03:56:17Z"
       },
       {
@@ -11216,7 +11216,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15482,
+        "stars": 15483,
         "forks": 7707,
         "language": "C",
         "pushed_at": "2025-06-18T07:04:15Z",
@@ -11399,7 +11399,7 @@
         "stars": 2262,
         "forks": 862,
         "language": "C",
-        "pushed_at": "2025-06-05T12:20:40Z",
+        "pushed_at": "2025-06-18T09:10:13Z",
         "created_at": "2017-08-08T12:32:16Z"
       },
       {
@@ -12379,7 +12379,7 @@
         "stars": 5918,
         "forks": 1432,
         "language": "Python",
-        "pushed_at": "2025-06-17T11:15:08Z",
+        "pushed_at": "2025-06-18T09:13:37Z",
         "created_at": "2014-09-06T14:50:29Z"
       },
       {
@@ -12509,7 +12509,7 @@
         "stars": 3,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-18T07:18:23Z",
+        "pushed_at": "2025-06-18T09:20:52Z",
         "created_at": "2025-01-06T13:01:33Z"
       },
       {
@@ -13119,7 +13119,7 @@
         "stars": 1244,
         "forks": 329,
         "language": "TypeScript",
-        "pushed_at": "2025-06-18T07:21:44Z",
+        "pushed_at": "2025-06-18T09:13:37Z",
         "created_at": "2018-11-21T03:27:08Z"
       },
       {
@@ -15746,7 +15746,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29436,
+        "stars": 29437,
         "forks": 3633,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16666,8 +16666,8 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 11545,
-        "forks": 1695,
+        "stars": 11547,
+        "forks": 1696,
         "language": "Python",
         "pushed_at": "2025-06-18T00:48:52Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -16706,8 +16706,8 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 64703,
-        "forks": 10673,
+        "stars": 64705,
+        "forks": 10674,
         "language": "MDX",
         "pushed_at": "2025-06-17T19:59:40Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -16816,7 +16816,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27065,
+        "stars": 27066,
         "forks": 3987,
         "language": "Python",
         "pushed_at": "2025-06-18T05:04:23Z",
@@ -17586,7 +17586,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 83471,
+        "stars": 83473,
         "forks": 10138,
         "language": "Python",
         "pushed_at": "2025-05-13T18:22:39Z",
