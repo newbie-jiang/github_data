@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-19T17:51:37Z",
+        "pushed_at": "2025-06-19T18:00:54Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -1311,7 +1311,7 @@
         "name": "ina226",
         "description": "INA226 full-featured driver library for general-purpose MCU and Linux.",
         "url": "https://github.com/libdriver/ina226",
-        "stars": 29,
+        "stars": 30,
         "forks": 1,
         "language": "C",
         "pushed_at": "2025-04-17T15:38:34Z",
@@ -3737,7 +3737,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 12317,
-        "forks": 7518,
+        "forks": 7517,
         "language": "C",
         "pushed_at": "2025-06-19T12:12:54Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -11169,7 +11169,7 @@
         "stars": 20,
         "forks": 23,
         "language": "Shell",
-        "pushed_at": "2025-06-19T05:05:56Z",
+        "pushed_at": "2025-06-19T18:01:01Z",
         "created_at": "2023-03-09T13:39:06Z"
       },
       {
@@ -11216,7 +11216,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15515,
+        "stars": 15517,
         "forks": 7709,
         "language": "C",
         "pushed_at": "2025-06-19T00:58:40Z",
@@ -11579,7 +11579,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-06-19T16:03:05Z",
+        "pushed_at": "2025-06-19T18:03:09Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -15776,8 +15776,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 29258,
-        "forks": 3237,
+        "stars": 29257,
+        "forks": 3239,
         "language": "Rust",
         "pushed_at": "2025-06-19T14:10:16Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16206,7 +16206,7 @@
         "name": "grok",
         "description": "（无简介）",
         "url": "https://github.com/openai/grok",
-        "stars": 4147,
+        "stars": 4148,
         "forks": 558,
         "language": "Python",
         "pushed_at": "2024-03-19T07:03:15Z",
@@ -16666,18 +16666,18 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 526,
-        "forks": 80,
+        "stars": 528,
+        "forks": 81,
         "language": "TypeScript",
-        "pushed_at": "2025-06-19T04:57:09Z",
+        "pushed_at": "2025-06-19T18:04:52Z",
         "created_at": "2025-05-31T00:08:49Z"
       },
       {
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 11602,
-        "forks": 1705,
+        "stars": 11603,
+        "forks": 1707,
         "language": "Python",
         "pushed_at": "2025-06-19T06:47:44Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -16717,7 +16717,7 @@
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
         "stars": 64732,
-        "forks": 10682,
+        "forks": 10683,
         "language": "MDX",
         "pushed_at": "2025-06-18T21:48:28Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -16726,8 +16726,8 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 282,
-        "forks": 51,
+        "stars": 298,
+        "forks": 57,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
         "created_at": "2025-06-14T03:07:09Z"
@@ -16759,7 +16759,7 @@
         "stars": 2082,
         "forks": 267,
         "language": "C#",
-        "pushed_at": "2025-06-19T17:46:25Z",
+        "pushed_at": "2025-06-19T18:02:29Z",
         "created_at": "2024-04-25T23:27:40Z"
       },
       {
@@ -16857,7 +16857,7 @@
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
         "stars": 5887,
-        "forks": 775,
+        "forks": 776,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T14:47:04Z",
         "created_at": "2025-01-16T01:29:28Z"
@@ -17226,7 +17226,7 @@
         "name": "roboschool",
         "description": "DEPRECATED: Open-source software for robot simulation, integrated with OpenAI Gym.",
         "url": "https://github.com/openai/roboschool",
-        "stars": 2152,
+        "stars": 2153,
         "forks": 487,
         "language": "Python",
         "pushed_at": "2023-04-02T11:37:04Z",
@@ -17297,7 +17297,7 @@
         "description": "Example MCP server compatible with Deep Research",
         "url": "https://github.com/openai/sample-deep-research-mcp",
         "stars": 16,
-        "forks": 3,
+        "forks": 4,
         "language": "Python",
         "pushed_at": "2025-06-18T22:47:50Z",
         "created_at": "2025-06-02T21:58:16Z"
@@ -17597,7 +17597,7 @@
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
         "stars": 83549,
-        "forks": 10150,
+        "forks": 10151,
         "language": "Python",
         "pushed_at": "2025-05-13T18:22:39Z",
         "created_at": "2022-09-16T20:02:54Z"
