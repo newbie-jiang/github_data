@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-20T14:18:53Z",
+        "pushed_at": "2025-06-20T14:39:36Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -11217,7 +11217,7 @@
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
         "stars": 15592,
-        "forks": 7712,
+        "forks": 7711,
         "language": "C",
         "pushed_at": "2025-06-19T20:46:05Z",
         "created_at": "2016-08-17T10:40:35Z"
@@ -11397,7 +11397,7 @@
         "description": "Espressif IoT Library. IoT Device Drivers, Documentations and Solutions.",
         "url": "https://github.com/espressif/esp-iot-solution",
         "stars": 2261,
-        "forks": 864,
+        "forks": 863,
         "language": "C",
         "pushed_at": "2025-06-18T13:18:24Z",
         "created_at": "2017-08-08T12:32:16Z"
@@ -11979,7 +11979,7 @@
         "stars": 9,
         "forks": 2,
         "language": "C",
-        "pushed_at": "2025-06-20T14:36:33Z",
+        "pushed_at": "2025-06-20T14:42:43Z",
         "created_at": "2024-09-17T09:36:55Z"
       },
       {
@@ -14754,12 +14754,12 @@
       },
       {
         "name": "STM32WBA-BLE-Audio-Broadcast-Assistant",
-        "description": "（无简介）",
+        "description": "The objective of this project is to provide an example of the implementation of the Broadcast Assistant role from the Bluetooth® LE Audio specification using the STM32 Bluetooth® LE Audio library on the STM32WBA MCUs.",
         "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-Audio-Broadcast-Assistant",
         "stars": 0,
         "forks": 0,
-        "language": "未指定",
-        "pushed_at": "2025-06-20T14:22:09Z",
+        "language": "C",
+        "pushed_at": "2025-06-20T14:41:33Z",
         "created_at": "2025-06-20T14:22:08Z"
       },
       {
@@ -15786,7 +15786,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 29313,
+        "stars": 29314,
         "forks": 3252,
         "language": "Rust",
         "pushed_at": "2025-06-19T14:10:16Z",
@@ -16056,7 +16056,7 @@
         "name": "following-instructions-human-feedback",
         "description": "（无简介）",
         "url": "https://github.com/openai/following-instructions-human-feedback",
-        "stars": 1224,
+        "stars": 1225,
         "forks": 145,
         "language": "未指定",
         "pushed_at": "2022-12-11T19:58:53Z",
@@ -16677,7 +16677,7 @@
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
         "stars": 543,
-        "forks": 85,
+        "forks": 86,
         "language": "TypeScript",
         "pushed_at": "2025-06-19T18:04:52Z",
         "created_at": "2025-05-31T00:08:49Z"
@@ -16736,8 +16736,8 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 855,
-        "forks": 167,
+        "stars": 869,
+        "forks": 168,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
         "created_at": "2025-06-14T03:07:09Z"
@@ -17476,7 +17476,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 14874,
+        "stars": 14875,
         "forks": 1090,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
