@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-23T08:31:01Z",
+        "pushed_at": "2025-06-23T08:53:11Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3769,7 +3769,7 @@
         "stars": 16,
         "forks": 25,
         "language": "C",
-        "pushed_at": "2025-06-16T11:40:41Z",
+        "pushed_at": "2025-06-23T09:08:18Z",
         "created_at": "2017-04-26T03:08:46Z"
       },
       {
@@ -8294,7 +8294,7 @@
         "stars": 45,
         "forks": 32,
         "language": "C",
-        "pushed_at": "2025-06-17T16:17:41Z",
+        "pushed_at": "2025-06-23T08:59:05Z",
         "created_at": "2020-01-13T14:40:21Z"
       },
       {
@@ -10457,9 +10457,9 @@
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
         "stars": 14954,
-        "forks": 7644,
+        "forks": 7645,
         "language": "C++",
-        "pushed_at": "2025-06-23T03:18:50Z",
+        "pushed_at": "2025-06-23T09:13:10Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -10797,7 +10797,7 @@
         "description": "AT application for ESP32/ESP32-C2/ESP32-C3/ESP32-C6/ESP8266",
         "url": "https://github.com/espressif/esp-at",
         "stars": 1026,
-        "forks": 988,
+        "forks": 989,
         "language": "C",
         "pushed_at": "2025-06-19T07:18:22Z",
         "created_at": "2017-01-11T15:36:52Z"
@@ -10916,7 +10916,7 @@
         "name": "esp-bsp",
         "description": "Board support components for Espressif development boards",
         "url": "https://github.com/espressif/esp-bsp",
-        "stars": 294,
+        "stars": 295,
         "forks": 150,
         "language": "C",
         "pushed_at": "2025-06-23T08:37:58Z",
@@ -11216,7 +11216,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15616,
+        "stars": 15617,
         "forks": 7712,
         "language": "C",
         "pushed_at": "2025-06-23T06:14:30Z",
@@ -13119,7 +13119,7 @@
         "stars": 1245,
         "forks": 329,
         "language": "TypeScript",
-        "pushed_at": "2025-06-23T08:40:13Z",
+        "pushed_at": "2025-06-23T09:06:24Z",
         "created_at": "2018-11-21T03:27:08Z"
       },
       {
@@ -15757,7 +15757,7 @@
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
         "stars": 29497,
-        "forks": 3643,
+        "forks": 3644,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
         "created_at": "2020-12-16T11:24:42Z"
@@ -16296,7 +16296,7 @@
         "name": "human-eval",
         "description": "Code for the paper \"Evaluating Large Language Models Trained on Code\"",
         "url": "https://github.com/openai/human-eval",
-        "stars": 2787,
+        "stars": 2788,
         "forks": 395,
         "language": "Python",
         "pushed_at": "2025-01-17T18:22:17Z",
@@ -16686,10 +16686,10 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 11790,
+        "stars": 11791,
         "forks": 1745,
         "language": "Python",
-        "pushed_at": "2025-06-23T06:40:50Z",
+        "pushed_at": "2025-06-23T09:14:27Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -16726,7 +16726,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 64830,
+        "stars": 64832,
         "forks": 10706,
         "language": "MDX",
         "pushed_at": "2025-06-20T15:03:21Z",
@@ -16736,8 +16736,8 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 3403,
-        "forks": 496,
+        "stars": 3434,
+        "forks": 497,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
         "created_at": "2025-06-14T03:07:09Z"
@@ -16866,8 +16866,8 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 5914,
-        "forks": 781,
+        "stars": 5915,
+        "forks": 782,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T14:47:04Z",
         "created_at": "2025-01-16T01:29:28Z"
@@ -16966,7 +16966,7 @@
         "name": "openai-support-agent-demo",
         "description": "Demo of a customer support agent interface using NextJS and the OpenAI Responses API with File Search",
         "url": "https://github.com/openai/openai-support-agent-demo",
-        "stars": 102,
+        "stars": 103,
         "forks": 41,
         "language": "TypeScript",
         "pushed_at": "2025-05-28T12:04:58Z",
@@ -17436,7 +17436,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 19975,
+        "stars": 19976,
         "forks": 2119,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
@@ -17606,7 +17606,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 83725,
+        "stars": 83728,
         "forks": 10181,
         "language": "Python",
         "pushed_at": "2025-05-13T18:22:39Z",
