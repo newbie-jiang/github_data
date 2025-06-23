@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-23T21:53:17Z",
+        "pushed_at": "2025-06-23T22:12:31Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -9701,7 +9701,7 @@
         "name": "STMems_Standard_C_drivers",
         "description": "Platform-independent drivers for STMicroelectronics MEMS motion and environmental sensors, based on standard C programming language.",
         "url": "https://github.com/STMicroelectronics/STMems_Standard_C_drivers",
-        "stars": 780,
+        "stars": 781,
         "forks": 525,
         "language": "C",
         "pushed_at": "2025-06-16T09:05:40Z",
@@ -15757,7 +15757,7 @@
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
         "stars": 29505,
-        "forks": 3644,
+        "forks": 3645,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
         "created_at": "2020-12-16T11:24:42Z"
@@ -15786,8 +15786,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 29516,
-        "forks": 3294,
+        "stars": 29518,
+        "forks": 3295,
         "language": "Rust",
         "pushed_at": "2025-06-23T11:09:45Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16676,7 +16676,7 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 600,
+        "stars": 601,
         "forks": 101,
         "language": "TypeScript",
         "pushed_at": "2025-06-21T05:33:55Z",
@@ -16689,7 +16689,7 @@
         "stars": 11819,
         "forks": 1752,
         "language": "Python",
-        "pushed_at": "2025-06-23T21:12:10Z",
+        "pushed_at": "2025-06-23T22:26:32Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -16726,7 +16726,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 64846,
+        "stars": 64847,
         "forks": 10708,
         "language": "MDX",
         "pushed_at": "2025-06-23T22:11:42Z",
@@ -16736,7 +16736,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 4073,
+        "stars": 4080,
         "forks": 572,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -16836,8 +16836,8 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27128,
-        "forks": 4008,
+        "stars": 27129,
+        "forks": 4009,
         "language": "Python",
         "pushed_at": "2025-06-23T18:48:30Z",
         "created_at": "2020-10-25T23:23:54Z"
@@ -16867,7 +16867,7 @@
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
         "stars": 5922,
-        "forks": 782,
+        "forks": 783,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T14:47:04Z",
         "created_at": "2025-01-16T01:29:28Z"
@@ -16889,7 +16889,7 @@
         "stars": 3297,
         "forks": 1275,
         "language": "JavaScript",
-        "pushed_at": "2025-03-11T22:18:59Z",
+        "pushed_at": "2025-06-23T22:31:28Z",
         "created_at": "2024-09-30T19:00:38Z"
       },
       {
@@ -17607,7 +17607,7 @@
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
         "stars": 83763,
-        "forks": 10187,
+        "forks": 10188,
         "language": "Python",
         "pushed_at": "2025-05-13T18:22:39Z",
         "created_at": "2022-09-16T20:02:54Z"
