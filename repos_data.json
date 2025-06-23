@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-23T19:49:07Z",
+        "pushed_at": "2025-06-23T19:57:58Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -1791,7 +1791,7 @@
         "name": "sht2x",
         "description": "SHT2X(SHT20, SHT21, SHT25) full-featured driver library for general-purpose MCU and Linux.",
         "url": "https://github.com/libdriver/sht2x",
-        "stars": 21,
+        "stars": 22,
         "forks": 1,
         "language": "C",
         "pushed_at": "2025-04-18T15:58:13Z",
@@ -3739,7 +3739,7 @@
         "stars": 12336,
         "forks": 7533,
         "language": "C",
-        "pushed_at": "2025-06-23T19:49:07Z",
+        "pushed_at": "2025-06-23T20:04:22Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -10677,7 +10677,7 @@
         "description": "Developer Portal",
         "url": "https://github.com/espressif/developer-portal",
         "stars": 17,
-        "forks": 40,
+        "forks": 41,
         "language": "HTML",
         "pushed_at": "2025-06-17T08:58:40Z",
         "created_at": "2024-02-08T09:26:09Z"
@@ -11219,7 +11219,7 @@
         "stars": 15624,
         "forks": 7714,
         "language": "C",
-        "pushed_at": "2025-06-23T06:14:30Z",
+        "pushed_at": "2025-06-23T20:09:00Z",
         "created_at": "2016-08-17T10:40:35Z"
       },
       {
@@ -11579,7 +11579,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-06-23T18:03:19Z",
+        "pushed_at": "2025-06-23T20:03:20Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -15786,7 +15786,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 29512,
+        "stars": 29513,
         "forks": 3292,
         "language": "Rust",
         "pushed_at": "2025-06-23T11:09:45Z",
@@ -15896,7 +15896,7 @@
         "name": "dallify-discord-bot",
         "description": "Example code for using OpenAI’s NodeJS SDK with discord.js SDK to create a Discord Bot that uses Slash Commands.",
         "url": "https://github.com/openai/dallify-discord-bot",
-        "stars": 147,
+        "stars": 148,
         "forks": 47,
         "language": "TypeScript",
         "pushed_at": "2024-01-03T20:42:52Z",
@@ -16186,7 +16186,7 @@
         "name": "gpt-discord-bot",
         "description": "Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.",
         "url": "https://github.com/openai/gpt-discord-bot",
-        "stars": 1824,
+        "stars": 1825,
         "forks": 668,
         "language": "Python",
         "pushed_at": "2024-06-07T10:53:58Z",
@@ -16676,7 +16676,7 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 598,
+        "stars": 599,
         "forks": 100,
         "language": "TypeScript",
         "pushed_at": "2025-06-21T05:33:55Z",
@@ -16726,8 +16726,8 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 64842,
-        "forks": 10706,
+        "stars": 64845,
+        "forks": 10707,
         "language": "MDX",
         "pushed_at": "2025-06-20T15:03:21Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -16736,8 +16736,8 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 4005,
-        "forks": 564,
+        "stars": 4019,
+        "forks": 566,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
         "created_at": "2025-06-14T03:07:09Z"
@@ -16766,7 +16766,7 @@
         "name": "openai-dotnet",
         "description": "The official .NET library for the OpenAI API",
         "url": "https://github.com/openai/openai-dotnet",
-        "stars": 2088,
+        "stars": 2089,
         "forks": 272,
         "language": "C#",
         "pushed_at": "2025-06-23T18:12:45Z",
@@ -16866,7 +16866,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 5920,
+        "stars": 5922,
         "forks": 782,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T14:47:04Z",
@@ -16917,7 +16917,7 @@
         "description": "（无简介）",
         "url": "https://github.com/openai/openai-realtime-twilio-demo",
         "stars": 365,
-        "forks": 119,
+        "forks": 120,
         "language": "TypeScript",
         "pushed_at": "2024-12-30T16:38:04Z",
         "created_at": "2024-12-16T21:04:00Z"
