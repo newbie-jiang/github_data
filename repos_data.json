@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-24T09:56:00Z",
+        "pushed_at": "2025-06-24T10:20:16Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3736,7 +3736,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12342,
+        "stars": 12343,
         "forks": 7536,
         "language": "C",
         "pushed_at": "2025-06-24T07:17:03Z",
@@ -7314,7 +7314,7 @@
         "stars": 0,
         "forks": 0,
         "language": "C",
-        "pushed_at": "2025-06-19T13:12:48Z",
+        "pushed_at": "2025-06-24T10:40:00Z",
         "created_at": "2025-04-29T12:28:03Z"
       },
       {
@@ -7394,7 +7394,7 @@
         "stars": 0,
         "forks": 0,
         "language": "C",
-        "pushed_at": "2025-06-24T10:19:18Z",
+        "pushed_at": "2025-06-24T10:32:09Z",
         "created_at": "2025-04-29T12:33:08Z"
       },
       {
@@ -8042,7 +8042,7 @@
         "description": "AI Model Zoo services for STM32 devices",
         "url": "https://github.com/STMicroelectronics/stm32ai-modelzoo-services",
         "stars": 53,
-        "forks": 16,
+        "forks": 17,
         "language": "C",
         "pushed_at": "2025-05-20T12:29:53Z",
         "created_at": "2024-11-12T13:43:27Z"
@@ -10509,7 +10509,7 @@
         "stars": 14958,
         "forks": 7646,
         "language": "C++",
-        "pushed_at": "2025-06-24T10:19:50Z",
+        "pushed_at": "2025-06-24T10:27:23Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -10729,7 +10729,7 @@
         "stars": 17,
         "forks": 41,
         "language": "HTML",
-        "pushed_at": "2025-06-17T08:58:40Z",
+        "pushed_at": "2025-06-24T10:37:47Z",
         "created_at": "2024-02-08T09:26:09Z"
       },
       {
@@ -11939,7 +11939,7 @@
         "stars": 44,
         "forks": 26,
         "language": "C++",
-        "pushed_at": "2025-06-23T12:49:20Z",
+        "pushed_at": "2025-06-24T10:32:25Z",
         "created_at": "2024-01-18T07:20:01Z"
       },
       {
@@ -12429,7 +12429,7 @@
         "stars": 5924,
         "forks": 1434,
         "language": "Python",
-        "pushed_at": "2025-06-19T21:50:38Z",
+        "pushed_at": "2025-06-24T10:23:26Z",
         "created_at": "2014-09-06T14:50:29Z"
       },
       {
@@ -15766,7 +15766,7 @@
         "name": "chatgpt-retrieval-plugin",
         "description": "The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.",
         "url": "https://github.com/openai/chatgpt-retrieval-plugin",
-        "stars": 21193,
+        "stars": 21194,
         "forks": 3684,
         "language": "Python",
         "pushed_at": "2024-07-04T22:00:16Z",
@@ -15839,7 +15839,7 @@
         "stars": 29542,
         "forks": 3302,
         "language": "Rust",
-        "pushed_at": "2025-06-23T11:09:45Z",
+        "pushed_at": "2025-06-24T10:23:00Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16726,7 +16726,7 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 612,
+        "stars": 613,
         "forks": 103,
         "language": "TypeScript",
         "pushed_at": "2025-06-24T07:03:38Z",
@@ -16736,7 +16736,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 11855,
+        "stars": 11856,
         "forks": 1758,
         "language": "Python",
         "pushed_at": "2025-06-24T07:57:16Z",
@@ -16776,8 +16776,8 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 64856,
-        "forks": 10711,
+        "stars": 64857,
+        "forks": 10712,
         "language": "MDX",
         "pushed_at": "2025-06-24T03:37:37Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -16786,8 +16786,8 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 4513,
-        "forks": 623,
+        "stars": 4530,
+        "forks": 628,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
         "created_at": "2025-06-14T03:07:09Z"
@@ -17656,7 +17656,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 83788,
+        "stars": 83791,
         "forks": 10189,
         "language": "Python",
         "pushed_at": "2025-05-13T18:22:39Z",
