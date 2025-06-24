@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-24T14:41:48Z",
+        "pushed_at": "2025-06-24T14:52:34Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -7223,8 +7223,8 @@
         "url": "https://github.com/STMicroelectronics/stm32-mw-libjpeg",
         "stars": 0,
         "forks": 0,
-        "language": "未指定",
-        "pushed_at": "2025-04-29T12:30:14Z",
+        "language": "C",
+        "pushed_at": "2025-06-24T15:07:48Z",
         "created_at": "2025-04-29T12:30:12Z"
       },
       {
@@ -10777,7 +10777,7 @@
         "description": "Espressif Advanced Development Framework",
         "url": "https://github.com/espressif/esp-adf",
         "stars": 1948,
-        "forks": 772,
+        "forks": 773,
         "language": "C",
         "pushed_at": "2025-06-24T06:11:47Z",
         "created_at": "2018-04-02T07:03:49Z"
@@ -10847,7 +10847,7 @@
         "description": "AT application for ESP32/ESP32-C2/ESP32-C3/ESP32-C6/ESP8266",
         "url": "https://github.com/espressif/esp-at",
         "stars": 1026,
-        "forks": 989,
+        "forks": 990,
         "language": "C",
         "pushed_at": "2025-06-24T11:03:14Z",
         "created_at": "2017-01-11T15:36:52Z"
@@ -15836,7 +15836,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 29551,
+        "stars": 29552,
         "forks": 3302,
         "language": "Rust",
         "pushed_at": "2025-06-24T10:23:00Z",
@@ -16046,7 +16046,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 16435,
+        "stars": 16436,
         "forks": 2739,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -16739,7 +16739,7 @@
         "stars": 11868,
         "forks": 1764,
         "language": "Python",
-        "pushed_at": "2025-06-24T11:02:58Z",
+        "pushed_at": "2025-06-24T14:57:59Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -16776,7 +16776,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 64862,
+        "stars": 64863,
         "forks": 10714,
         "language": "MDX",
         "pushed_at": "2025-06-24T03:37:37Z",
@@ -16786,7 +16786,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 4586,
+        "stars": 4589,
         "forks": 640,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -16916,8 +16916,8 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 5932,
-        "forks": 784,
+        "stars": 5933,
+        "forks": 785,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T14:47:04Z",
         "created_at": "2025-01-16T01:29:28Z"
@@ -17656,7 +17656,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 83796,
+        "stars": 83797,
         "forks": 10189,
         "language": "Python",
         "pushed_at": "2025-05-13T18:22:39Z",
