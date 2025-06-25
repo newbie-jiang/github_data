@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-24T23:58:30Z",
+        "pushed_at": "2025-06-25T02:00:44Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -2122,7 +2122,7 @@
         "description": "WT588E02B full-featured driver library for general-purpose MCU and Linux.",
         "url": "https://github.com/libdriver/wt588e02b",
         "stars": 9,
-        "forks": 0,
+        "forks": 1,
         "language": "C",
         "pushed_at": "2025-04-19T06:38:50Z",
         "created_at": "2025-02-12T14:48:59Z"
@@ -3737,7 +3737,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 12350,
-        "forks": 7537,
+        "forks": 7536,
         "language": "C",
         "pushed_at": "2025-06-24T23:15:27Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -7322,7 +7322,7 @@
         "description": "Provides the USB Device library part of the STM32Cube MCU Component \"middleware\" for all STM32xx series.",
         "url": "https://github.com/STMicroelectronics/stm32-mw-usb-device",
         "stars": 120,
-        "forks": 21,
+        "forks": 22,
         "language": "C",
         "pushed_at": "2025-04-15T14:00:31Z",
         "created_at": "2020-07-16T10:42:48Z"
@@ -10509,7 +10509,7 @@
         "stars": 14960,
         "forks": 7646,
         "language": "C++",
-        "pushed_at": "2025-06-25T01:01:20Z",
+        "pushed_at": "2025-06-25T03:13:47Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -10867,7 +10867,7 @@
         "description": "AWS IoT SDK for ESP32 based chipsets",
         "url": "https://github.com/espressif/esp-aws-iot",
         "stars": 297,
-        "forks": 179,
+        "forks": 180,
         "language": "C",
         "pushed_at": "2024-08-30T11:12:46Z",
         "created_at": "2019-03-25T12:38:24Z"
@@ -10876,7 +10876,7 @@
         "name": "esp-azure",
         "description": "SDK to connect ESP8266 and ESP32 to Microsoft Azure IoT services",
         "url": "https://github.com/espressif/esp-azure",
-        "stars": 186,
+        "stars": 187,
         "forks": 95,
         "language": "C",
         "pushed_at": "2023-03-30T13:25:22Z",
@@ -10956,7 +10956,7 @@
         "name": "esp-brookesia",
         "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
         "url": "https://github.com/espressif/esp-brookesia",
-        "stars": 232,
+        "stars": 233,
         "forks": 26,
         "language": "C",
         "pushed_at": "2025-06-17T02:43:34Z",
@@ -11016,7 +11016,7 @@
         "name": "esp-csi",
         "description": "Applications based on Wi-Fi CSI (Channel state information), such as indoor positioning, human detection",
         "url": "https://github.com/espressif/esp-csi",
-        "stars": 800,
+        "stars": 801,
         "forks": 119,
         "language": "C",
         "pushed_at": "2025-04-23T10:58:50Z",
@@ -11069,7 +11069,7 @@
         "stars": 733,
         "forks": 142,
         "language": "Assembly",
-        "pushed_at": "2025-06-17T04:52:03Z",
+        "pushed_at": "2025-06-25T02:32:23Z",
         "created_at": "2018-11-16T04:01:02Z"
       },
       {
@@ -11096,7 +11096,7 @@
         "name": "esp-drone",
         "description": "Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.",
         "url": "https://github.com/espressif/esp-drone",
-        "stars": 1136,
+        "stars": 1137,
         "forks": 295,
         "language": "C",
         "pushed_at": "2025-03-18T03:31:03Z",
@@ -11629,7 +11629,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-06-25T00:05:53Z",
+        "pushed_at": "2025-06-25T02:34:35Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -11719,7 +11719,7 @@
         "stars": 530,
         "forks": 181,
         "language": "C",
-        "pushed_at": "2025-06-24T06:34:14Z",
+        "pushed_at": "2025-06-25T02:46:12Z",
         "created_at": "2020-01-30T09:18:17Z"
       },
       {
@@ -11866,7 +11866,7 @@
         "name": "esp-sr",
         "description": "Speech recognition",
         "url": "https://github.com/espressif/esp-sr",
-        "stars": 975,
+        "stars": 976,
         "forks": 148,
         "language": "C",
         "pushed_at": "2025-06-23T06:46:16Z",
@@ -11909,7 +11909,7 @@
         "stars": 9,
         "forks": 4,
         "language": "未指定",
-        "pushed_at": "2025-06-24T10:18:04Z",
+        "pushed_at": "2025-06-25T02:22:49Z",
         "created_at": "2021-07-07T05:50:42Z"
       },
       {
@@ -12016,7 +12016,7 @@
         "name": "esp-who",
         "description": "Face detection and recognition framework",
         "url": "https://github.com/espressif/esp-who",
-        "stars": 1863,
+        "stars": 1862,
         "forks": 492,
         "language": "C",
         "pushed_at": "2025-06-24T08:00:14Z",
@@ -12249,7 +12249,7 @@
         "stars": 178,
         "forks": 73,
         "language": "Shell",
-        "pushed_at": "2025-06-24T07:16:54Z",
+        "pushed_at": "2025-06-25T02:44:41Z",
         "created_at": "2016-08-17T14:15:53Z"
       },
       {
@@ -12426,8 +12426,8 @@
         "name": "esptool",
         "description": "Serial utility for flashing, provisioning, and interacting with Espressif SoCs",
         "url": "https://github.com/espressif/esptool",
-        "stars": 5923,
-        "forks": 1434,
+        "stars": 5924,
+        "forks": 1435,
         "language": "Python",
         "pushed_at": "2025-06-24T13:25:56Z",
         "created_at": "2014-09-06T14:50:29Z"
@@ -13404,7 +13404,7 @@
         "stars": 41,
         "forks": 36,
         "language": "C",
-        "pushed_at": "2025-06-24T01:39:56Z",
+        "pushed_at": "2025-06-25T03:11:46Z",
         "created_at": "2024-05-10T02:00:41Z"
       },
       {
@@ -13614,7 +13614,7 @@
         "stars": 0,
         "forks": 0,
         "language": "C",
-        "pushed_at": "2025-06-20T03:16:51Z",
+        "pushed_at": "2025-06-25T03:03:13Z",
         "created_at": "2025-03-04T09:28:58Z"
       }
     ]
@@ -15454,7 +15454,7 @@
         "stars": 11228,
         "forks": 5198,
         "language": "C",
-        "pushed_at": "2025-06-24T16:09:47Z",
+        "pushed_at": "2025-06-25T02:02:43Z",
         "created_at": "2013-01-02T14:49:21Z"
       },
       {
@@ -15806,8 +15806,8 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29522,
-        "forks": 3646,
+        "stars": 29524,
+        "forks": 3647,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
         "created_at": "2020-12-16T11:24:42Z"
@@ -15836,10 +15836,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 29581,
-        "forks": 3308,
+        "stars": 29580,
+        "forks": 3310,
         "language": "Rust",
-        "pushed_at": "2025-06-25T01:43:36Z",
+        "pushed_at": "2025-06-25T03:15:07Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16086,7 +16086,7 @@
         "name": "finetune-transformer-lm",
         "description": "Code and model for the paper \"Improving Language Understanding by Generative Pre-Training\"",
         "url": "https://github.com/openai/finetune-transformer-lm",
-        "stars": 2215,
+        "stars": 2216,
         "forks": 506,
         "language": "Python",
         "pushed_at": "2019-01-25T09:52:16Z",
@@ -16646,7 +16646,7 @@
         "name": "mujoco-py",
         "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
         "url": "https://github.com/openai/mujoco-py",
-        "stars": 3012,
+        "stars": 3013,
         "forks": 823,
         "language": "Cython",
         "pushed_at": "2023-12-10T12:47:21Z",
@@ -16727,7 +16727,7 @@
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
         "stars": 621,
-        "forks": 105,
+        "forks": 106,
         "language": "TypeScript",
         "pushed_at": "2025-06-25T00:58:54Z",
         "created_at": "2025-05-31T00:08:49Z"
@@ -16736,8 +16736,8 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 11885,
-        "forks": 1774,
+        "stars": 11893,
+        "forks": 1776,
         "language": "Python",
         "pushed_at": "2025-06-25T01:42:12Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -16776,7 +16776,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 64872,
+        "stars": 64874,
         "forks": 10719,
         "language": "MDX",
         "pushed_at": "2025-06-24T03:37:37Z",
@@ -16786,8 +16786,8 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 4710,
-        "forks": 653,
+        "stars": 4736,
+        "forks": 655,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
         "created_at": "2025-06-14T03:07:09Z"
@@ -16866,7 +16866,7 @@
         "name": "openai-node",
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
-        "stars": 9378,
+        "stars": 9379,
         "forks": 1129,
         "language": "TypeScript",
         "pushed_at": "2025-06-24T20:28:40Z",
@@ -16886,7 +16886,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27140,
+        "stars": 27142,
         "forks": 4014,
         "language": "Python",
         "pushed_at": "2025-06-24T22:04:50Z",
@@ -16937,7 +16937,7 @@
         "description": "React app for inspecting, building and debugging with the Realtime API",
         "url": "https://github.com/openai/openai-realtime-console",
         "stars": 3298,
-        "forks": 1278,
+        "forks": 1279,
         "language": "JavaScript",
         "pushed_at": "2025-06-23T22:48:16Z",
         "created_at": "2024-09-30T19:00:38Z"
@@ -16977,7 +16977,7 @@
         "description": "Starter app to build with the OpenAI Responses API",
         "url": "https://github.com/openai/openai-responses-starter-app",
         "stars": 331,
-        "forks": 114,
+        "forks": 115,
         "language": "TypeScript",
         "pushed_at": "2025-06-09T22:03:51Z",
         "created_at": "2025-03-11T14:29:27Z"
@@ -17146,7 +17146,7 @@
         "name": "prm800k",
         "description": "800,000 step-level correctness labels on LLM solutions to MATH problems",
         "url": "https://github.com/openai/prm800k",
-        "stars": 2014,
+        "stars": 2015,
         "forks": 119,
         "language": "Python",
         "pushed_at": "2023-06-01T17:41:14Z",
@@ -17436,7 +17436,7 @@
         "name": "spinningup",
         "description": "An educational resource to help anyone learn deep reinforcement learning.",
         "url": "https://github.com/openai/spinningup",
-        "stars": 10988,
+        "stars": 10990,
         "forks": 2352,
         "language": "Python",
         "pushed_at": "2024-08-05T03:30:30Z",
@@ -17526,7 +17526,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 14914,
+        "stars": 14915,
         "forks": 1096,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
@@ -17656,7 +17656,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 83812,
+        "stars": 83814,
         "forks": 10190,
         "language": "Python",
         "pushed_at": "2025-05-13T18:22:39Z",
