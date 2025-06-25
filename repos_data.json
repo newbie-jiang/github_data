@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-25T08:37:26Z",
+        "pushed_at": "2025-06-25T08:56:20Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -1691,7 +1691,7 @@
         "name": "pmsx003",
         "description": "PMSX003(PMS1003, PMS3003, PMS5003, PMS6003, PMS7003, PMS9003M, PMSA003) full-featured driver library for general-purpose MCU and Linux.",
         "url": "https://github.com/libdriver/pmsx003",
-        "stars": 62,
+        "stars": 63,
         "forks": 10,
         "language": "C",
         "pushed_at": "2025-05-12T17:02:48Z",
@@ -3229,7 +3229,7 @@
         "stars": 3,
         "forks": 2,
         "language": "C",
-        "pushed_at": "2025-02-10T19:35:08Z",
+        "pushed_at": "2025-06-25T09:09:32Z",
         "created_at": "2021-03-26T16:18:53Z"
       },
       {
@@ -3737,7 +3737,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 12351,
-        "forks": 7537,
+        "forks": 7538,
         "language": "C",
         "pushed_at": "2025-06-25T08:53:51Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -4591,7 +4591,7 @@
         "name": "compost-rpc",
         "description": "RPC protocol generator. Abstracts communication between a PC and an MCU. Basically it allows you to call functions on your MCU from a PC.",
         "url": "https://github.com/STMicroelectronics/compost-rpc",
-        "stars": 3,
+        "stars": 4,
         "forks": 1,
         "language": "Python",
         "pushed_at": "2025-06-24T13:45:55Z",
@@ -8044,7 +8044,7 @@
         "stars": 55,
         "forks": 17,
         "language": "C",
-        "pushed_at": "2025-05-20T12:29:53Z",
+        "pushed_at": "2025-06-25T09:17:51Z",
         "created_at": "2024-11-12T13:43:27Z"
       },
       {
@@ -8171,7 +8171,7 @@
         "name": "STM32CubeF1",
         "description": "STM32Cube MCU Full Package for the STM32F1 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
         "url": "https://github.com/STMicroelectronics/STM32CubeF1",
-        "stars": 591,
+        "stars": 592,
         "forks": 185,
         "language": "HTML",
         "pushed_at": "2025-06-05T13:43:35Z",
@@ -10729,7 +10729,7 @@
         "stars": 17,
         "forks": 41,
         "language": "HTML",
-        "pushed_at": "2025-06-24T10:37:47Z",
+        "pushed_at": "2025-06-25T09:12:03Z",
         "created_at": "2024-02-08T09:26:09Z"
       },
       {
@@ -11189,7 +11189,7 @@
         "stars": 39,
         "forks": 10,
         "language": "C",
-        "pushed_at": "2025-06-20T12:32:27Z",
+        "pushed_at": "2025-06-25T09:12:34Z",
         "created_at": "2024-11-27T06:37:49Z"
       },
       {
@@ -11247,7 +11247,7 @@
         "description": "Hosted Solution (Linux/MCU) with ESP32 (Wi-Fi + BT + BLE)",
         "url": "https://github.com/espressif/esp-hosted",
         "stars": 827,
-        "forks": 192,
+        "forks": 193,
         "language": "C",
         "pushed_at": "2025-06-10T08:14:55Z",
         "created_at": "2020-06-11T09:09:31Z"
@@ -11266,10 +11266,10 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15636,
+        "stars": 15637,
         "forks": 7716,
         "language": "C",
-        "pushed_at": "2025-06-24T23:16:21Z",
+        "pushed_at": "2025-06-25T09:19:38Z",
         "created_at": "2016-08-17T10:40:35Z"
       },
       {
@@ -11939,7 +11939,7 @@
         "stars": 44,
         "forks": 26,
         "language": "C++",
-        "pushed_at": "2025-06-24T12:13:57Z",
+        "pushed_at": "2025-06-25T09:21:00Z",
         "created_at": "2024-01-18T07:20:01Z"
       },
       {
@@ -13614,7 +13614,7 @@
         "stars": 0,
         "forks": 0,
         "language": "C",
-        "pushed_at": "2025-06-25T03:03:13Z",
+        "pushed_at": "2025-06-25T08:58:45Z",
         "created_at": "2025-03-04T09:28:58Z"
       }
     ]
@@ -15291,7 +15291,7 @@
         "name": "env",
         "description": "Python Scripts for RT-Thread/ENV",
         "url": "https://github.com/RT-Thread/env",
-        "stars": 63,
+        "stars": 64,
         "forks": 53,
         "language": "Python",
         "pushed_at": "2025-04-08T06:31:27Z",
@@ -15452,7 +15452,7 @@
         "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
         "url": "https://github.com/RT-Thread/rt-thread",
         "stars": 11229,
-        "forks": 5198,
+        "forks": 5199,
         "language": "C",
         "pushed_at": "2025-06-25T07:06:45Z",
         "created_at": "2013-01-02T14:49:21Z"
@@ -15836,10 +15836,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 29597,
+        "stars": 29598,
         "forks": 3314,
         "language": "Rust",
-        "pushed_at": "2025-06-25T08:34:42Z",
+        "pushed_at": "2025-06-25T09:17:56Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16046,7 +16046,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 16440,
+        "stars": 16441,
         "forks": 2740,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -16276,7 +16276,7 @@
         "name": "guided-diffusion",
         "description": "（无简介）",
         "url": "https://github.com/openai/guided-diffusion",
-        "stars": 6851,
+        "stars": 6852,
         "forks": 864,
         "language": "Python",
         "pushed_at": "2024-07-02T11:26:50Z",
@@ -16346,7 +16346,7 @@
         "name": "human-eval",
         "description": "Code for the paper \"Evaluating Large Language Models Trained on Code\"",
         "url": "https://github.com/openai/human-eval",
-        "stars": 2795,
+        "stars": 2796,
         "forks": 395,
         "language": "Python",
         "pushed_at": "2025-01-17T18:22:17Z",
@@ -16736,10 +16736,10 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 11913,
+        "stars": 11915,
         "forks": 1779,
         "language": "Python",
-        "pushed_at": "2025-06-25T08:22:14Z",
+        "pushed_at": "2025-06-25T08:59:46Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -16786,8 +16786,8 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 4834,
-        "forks": 667,
+        "stars": 4838,
+        "forks": 671,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
         "created_at": "2025-06-14T03:07:09Z"
@@ -16976,8 +16976,8 @@
         "name": "openai-responses-starter-app",
         "description": "Starter app to build with the OpenAI Responses API",
         "url": "https://github.com/openai/openai-responses-starter-app",
-        "stars": 331,
-        "forks": 116,
+        "stars": 332,
+        "forks": 117,
         "language": "TypeScript",
         "pushed_at": "2025-06-09T22:03:51Z",
         "created_at": "2025-03-11T14:29:27Z"
