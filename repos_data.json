@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-25T06:47:17Z",
+        "pushed_at": "2025-06-25T07:00:09Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3736,7 +3736,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12350,
+        "stars": 12351,
         "forks": 7537,
         "language": "C",
         "pushed_at": "2025-06-25T06:14:32Z",
@@ -8352,7 +8352,7 @@
         "description": "STM32Cube MCU Full Package for the STM32N6 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST)",
         "url": "https://github.com/STMicroelectronics/STM32CubeN6",
         "stars": 22,
-        "forks": 7,
+        "forks": 8,
         "language": "C",
         "pushed_at": "2025-04-16T09:24:32Z",
         "created_at": "2025-01-10T13:16:58Z"
@@ -9691,7 +9691,7 @@
         "name": "STMems_Machine_Learning_Core",
         "description": "Configuration files, examples and tools for the Machine Learning Core feature (MLC) available in STMicroelectronics MEMS sensors. Some examples of devices including MLC: LSM6DSOX, LSM6DSRX, ISM330DHCX, IIS2ICLX, LSM6DSO32X, ASM330LHHX, LSM6DSV16X, LIS2DUX12, LIS2DUXS12, LSM6DSV16BX, ASM330LHHXG1, LSM6DSV32X",
         "url": "https://github.com/STMicroelectronics/STMems_Machine_Learning_Core",
-        "stars": 197,
+        "stars": 198,
         "forks": 72,
         "language": "C",
         "pushed_at": "2025-04-03T14:13:24Z",
@@ -9994,7 +9994,7 @@
         "stars": 66,
         "forks": 81,
         "language": "C",
-        "pushed_at": "2025-06-16T11:34:32Z",
+        "pushed_at": "2025-06-25T07:19:30Z",
         "created_at": "2019-01-30T08:30:48Z"
       },
       {
@@ -10969,7 +10969,7 @@
         "stars": 295,
         "forks": 151,
         "language": "C",
-        "pushed_at": "2025-06-25T05:38:23Z",
+        "pushed_at": "2025-06-25T07:25:27Z",
         "created_at": "2021-09-14T09:33:04Z"
       },
       {
@@ -15454,7 +15454,7 @@
         "stars": 11229,
         "forks": 5198,
         "language": "C",
-        "pushed_at": "2025-06-25T06:02:28Z",
+        "pushed_at": "2025-06-25T07:06:45Z",
         "created_at": "2013-01-02T14:49:21Z"
       },
       {
@@ -15806,7 +15806,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29528,
+        "stars": 29532,
         "forks": 3647,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -15836,8 +15836,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 29593,
-        "forks": 3312,
+        "stars": 29594,
+        "forks": 3313,
         "language": "Rust",
         "pushed_at": "2025-06-25T05:19:32Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16736,10 +16736,10 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 11906,
+        "stars": 11908,
         "forks": 1778,
         "language": "Python",
-        "pushed_at": "2025-06-25T06:52:56Z",
+        "pushed_at": "2025-06-25T07:26:23Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -16776,7 +16776,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 64880,
+        "stars": 64881,
         "forks": 10721,
         "language": "MDX",
         "pushed_at": "2025-06-24T03:37:37Z",
@@ -16786,7 +16786,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 4807,
+        "stars": 4810,
         "forks": 665,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -16886,7 +16886,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27147,
+        "stars": 27148,
         "forks": 4015,
         "language": "Python",
         "pushed_at": "2025-06-25T05:05:11Z",
@@ -16916,7 +16916,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 5939,
+        "stars": 5940,
         "forks": 787,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T14:47:04Z",
@@ -17656,8 +17656,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 83829,
-        "forks": 10195,
+        "stars": 83832,
+        "forks": 10196,
         "language": "Python",
         "pushed_at": "2025-05-13T18:22:39Z",
         "created_at": "2022-09-16T20:02:54Z"
