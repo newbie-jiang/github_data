@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-25T05:52:04Z",
+        "pushed_at": "2025-06-25T06:14:59Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -8382,7 +8382,7 @@
         "description": "Full Firmware Package for the STM32U5 series: HAL+LL drivers, CMSIS, BSP, MW, plus a set of Projects (examples and demos) running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits).",
         "url": "https://github.com/STMicroelectronics/STM32CubeU5",
         "stars": 140,
-        "forks": 78,
+        "forks": 79,
         "language": "C",
         "pushed_at": "2025-05-08T09:36:03Z",
         "created_at": "2021-07-08T11:59:02Z"
@@ -10829,7 +10829,7 @@
         "stars": 11,
         "forks": 2,
         "language": "C",
-        "pushed_at": "2025-06-23T03:47:09Z",
+        "pushed_at": "2025-06-25T06:25:36Z",
         "created_at": "2024-09-20T12:10:01Z"
       },
       {
@@ -10967,7 +10967,7 @@
         "description": "Board support components for Espressif development boards",
         "url": "https://github.com/espressif/esp-bsp",
         "stars": 295,
-        "forks": 150,
+        "forks": 151,
         "language": "C",
         "pushed_at": "2025-06-25T05:38:23Z",
         "created_at": "2021-09-14T09:33:04Z"
@@ -11266,8 +11266,8 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15635,
-        "forks": 7715,
+        "stars": 15636,
+        "forks": 7716,
         "language": "C",
         "pushed_at": "2025-06-24T23:16:21Z",
         "created_at": "2016-08-17T10:40:35Z"
@@ -11866,7 +11866,7 @@
         "name": "esp-sr",
         "description": "Speech recognition",
         "url": "https://github.com/espressif/esp-sr",
-        "stars": 976,
+        "stars": 977,
         "forks": 148,
         "language": "C",
         "pushed_at": "2025-06-23T06:46:16Z",
@@ -12029,7 +12029,7 @@
         "stars": 9,
         "forks": 2,
         "language": "C",
-        "pushed_at": "2025-06-23T10:19:49Z",
+        "pushed_at": "2025-06-25T06:45:26Z",
         "created_at": "2024-09-17T09:36:55Z"
       },
       {
@@ -12659,7 +12659,7 @@
         "stars": 13,
         "forks": 2,
         "language": "Rust",
-        "pushed_at": "2025-06-24T12:30:11Z",
+        "pushed_at": "2025-06-25T06:23:44Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
@@ -15696,7 +15696,7 @@
         "name": "baselines",
         "description": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
         "url": "https://github.com/openai/baselines",
-        "stars": 16328,
+        "stars": 16327,
         "forks": 4908,
         "language": "Python",
         "pushed_at": "2024-08-01T21:31:33Z",
@@ -15836,8 +15836,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 29590,
-        "forks": 3311,
+        "stars": 29592,
+        "forks": 3312,
         "language": "Rust",
         "pushed_at": "2025-06-25T05:19:32Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16197,7 +16197,7 @@
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
         "stars": 23695,
-        "forks": 5688,
+        "forks": 5689,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
         "created_at": "2019-02-11T04:21:59Z"
@@ -16666,7 +16666,7 @@
         "name": "multi-agent-emergence-environments",
         "description": "Environment generation code for the paper \"Emergent Tool Use From Multi-Agent Autocurricula\"",
         "url": "https://github.com/openai/multi-agent-emergence-environments",
-        "stars": 1717,
+        "stars": 1718,
         "forks": 317,
         "language": "Python",
         "pushed_at": "2024-07-30T20:54:31Z",
@@ -16736,7 +16736,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 11904,
+        "stars": 11905,
         "forks": 1777,
         "language": "Python",
         "pushed_at": "2025-06-25T05:54:11Z",
@@ -16776,7 +16776,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 64878,
+        "stars": 64880,
         "forks": 10721,
         "language": "MDX",
         "pushed_at": "2025-06-24T03:37:37Z",
@@ -16786,8 +16786,8 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 4787,
-        "forks": 660,
+        "stars": 4798,
+        "forks": 664,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
         "created_at": "2025-06-14T03:07:09Z"
@@ -16886,7 +16886,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27146,
+        "stars": 27147,
         "forks": 4015,
         "language": "Python",
         "pushed_at": "2025-06-25T05:05:11Z",
@@ -16916,7 +16916,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 5938,
+        "stars": 5939,
         "forks": 787,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T14:47:04Z",
@@ -16977,7 +16977,7 @@
         "description": "Starter app to build with the OpenAI Responses API",
         "url": "https://github.com/openai/openai-responses-starter-app",
         "stars": 331,
-        "forks": 115,
+        "forks": 116,
         "language": "TypeScript",
         "pushed_at": "2025-06-09T22:03:51Z",
         "created_at": "2025-03-11T14:29:27Z"
@@ -17656,8 +17656,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 83826,
-        "forks": 10194,
+        "stars": 83828,
+        "forks": 10195,
         "language": "Python",
         "pushed_at": "2025-05-13T18:22:39Z",
         "created_at": "2022-09-16T20:02:54Z"
