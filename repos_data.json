@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-26T16:33:06Z",
+        "pushed_at": "2025-06-26T16:53:08Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3716,7 +3716,7 @@
         "name": "windows-curses",
         "description": "Windows Curses Python module",
         "url": "https://github.com/zephyrproject-rtos/windows-curses",
-        "stars": 191,
+        "stars": 192,
         "forks": 33,
         "language": "C",
         "pushed_at": "2025-01-11T00:00:41Z",
@@ -10679,7 +10679,7 @@
         "stars": 36,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-06-26T15:25:08Z",
+        "pushed_at": "2025-06-26T16:58:10Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -12829,7 +12829,7 @@
         "stars": 245,
         "forks": 23,
         "language": "LLVM",
-        "pushed_at": "2025-06-26T16:31:41Z",
+        "pushed_at": "2025-06-26T17:02:44Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15806,7 +15806,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29553,
+        "stars": 29554,
         "forks": 3647,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -15836,8 +15836,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 29818,
-        "forks": 3346,
+        "stars": 29820,
+        "forks": 3347,
         "language": "Rust",
         "pushed_at": "2025-06-26T16:03:38Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16046,7 +16046,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 16453,
+        "stars": 16454,
         "forks": 2742,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -16736,7 +16736,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 11974,
+        "stars": 11976,
         "forks": 1795,
         "language": "Python",
         "pushed_at": "2025-06-26T03:53:13Z",
@@ -16779,14 +16779,14 @@
         "stars": 64910,
         "forks": 10734,
         "language": "MDX",
-        "pushed_at": "2025-06-26T16:44:39Z",
+        "pushed_at": "2025-06-26T17:06:55Z",
         "created_at": "2022-03-11T02:08:53Z"
       },
       {
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5068,
+        "stars": 5069,
         "forks": 711,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -16849,7 +16849,7 @@
         "stars": 1964,
         "forks": 154,
         "language": "Go",
-        "pushed_at": "2025-06-26T16:51:32Z",
+        "pushed_at": "2025-06-26T16:58:18Z",
         "created_at": "2024-07-22T19:29:26Z"
       },
       {
@@ -16859,7 +16859,7 @@
         "stars": 907,
         "forks": 126,
         "language": "Kotlin",
-        "pushed_at": "2025-06-26T14:09:11Z",
+        "pushed_at": "2025-06-26T17:02:55Z",
         "created_at": "2024-10-31T17:42:57Z"
       },
       {
@@ -16869,7 +16869,7 @@
         "stars": 9391,
         "forks": 1132,
         "language": "TypeScript",
-        "pushed_at": "2025-06-26T16:52:09Z",
+        "pushed_at": "2025-06-26T16:57:52Z",
         "created_at": "2021-12-14T22:32:58Z"
       },
       {
@@ -16887,9 +16887,9 @@
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
         "stars": 27167,
-        "forks": 4019,
+        "forks": 4018,
         "language": "Python",
-        "pushed_at": "2025-06-26T16:51:24Z",
+        "pushed_at": "2025-06-26T16:57:09Z",
         "created_at": "2020-10-25T23:23:54Z"
       },
       {
@@ -17007,7 +17007,7 @@
         "description": "Sample apps to help developers get started with Structured Outputs",
         "url": "https://github.com/openai/openai-structured-outputs-samples",
         "stars": 644,
-        "forks": 62,
+        "forks": 61,
         "language": "TypeScript",
         "pushed_at": "2025-01-10T16:37:50Z",
         "created_at": "2024-12-16T03:25:29Z"
@@ -17526,7 +17526,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 14931,
+        "stars": 14932,
         "forks": 1104,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
@@ -17656,7 +17656,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 83927,
+        "stars": 83928,
         "forks": 10214,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
