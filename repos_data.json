@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-26T09:17:44Z",
+        "pushed_at": "2025-06-26T09:39:26Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -1691,7 +1691,7 @@
         "name": "pmsx003",
         "description": "PMSX003(PMS1003, PMS3003, PMS5003, PMS6003, PMS7003, PMS9003M, PMSA003) full-featured driver library for general-purpose MCU and Linux.",
         "url": "https://github.com/libdriver/pmsx003",
-        "stars": 63,
+        "stars": 64,
         "forks": 10,
         "language": "C",
         "pushed_at": "2025-05-12T17:02:48Z",
@@ -4252,7 +4252,7 @@
         "description": "Provides the B-U585I-IOT02A board driver, part of the STM32Cube BSP Component for STM32U5 series.",
         "url": "https://github.com/STMicroelectronics/b-u585i-iot02a-bsp",
         "stars": 8,
-        "forks": 5,
+        "forks": 6,
         "language": "C",
         "pushed_at": "2024-07-01T14:03:34Z",
         "created_at": "2021-12-13T11:03:53Z"
@@ -4752,7 +4752,7 @@
         "description": "The FP-IND-DATALOGMC function pack for STEVAL-STWINBX1 and EVLSPIN32G4-ACT is a powerful integrated toolkit for the next generation of smart actuators. It is derived from FP-SNS-DATALOG2 function pack and it allows the collection of heterogeneous data. Please check st.com where a more recent version of the software might be available.",
         "url": "https://github.com/STMicroelectronics/fp-ind-datalogmc",
         "stars": 2,
-        "forks": 0,
+        "forks": 1,
         "language": "C",
         "pushed_at": "2025-02-14T10:54:35Z",
         "created_at": "2023-12-14T13:29:57Z"
@@ -4772,7 +4772,7 @@
         "description": "The FP-SNS-DATALOG1 function pack provides a comprehensive solution to save data from any combination of sensors and microphones configured up to the maximum sampling rate available on STWIN and SensorTile.box",
         "url": "https://github.com/STMicroelectronics/fp-sns-datalog1",
         "stars": 9,
-        "forks": 1,
+        "forks": 2,
         "language": "C",
         "pushed_at": "2024-12-10T15:23:01Z",
         "created_at": "2023-07-13T14:14:49Z"
@@ -4782,7 +4782,7 @@
         "description": "The FP-SNS-DATALOG2 function pack represents an evolution of FP-SNS-DATALOG1 and provides a comprehensive solution for saving data from any combination of sensors and microphones configured up to the maximum sampling rate. Please check st.com where a more recent version of the software might be available.",
         "url": "https://github.com/STMicroelectronics/fp-sns-datalog2",
         "stars": 19,
-        "forks": 5,
+        "forks": 6,
         "language": "C",
         "pushed_at": "2025-04-14T08:33:43Z",
         "created_at": "2023-01-24T16:01:29Z"
@@ -6412,7 +6412,7 @@
         "description": "The STDATALOG_PYSDK is a comprehensive Python framework designed to facilitate the capture, processing, and visualization of data from a wide range of sources. It was formerly known as HSDPython_SDK, previously distributed in FP-SNS-DATALOG2 and FP-IND-DATALOGMC function packs.",
         "url": "https://github.com/STMicroelectronics/stdatalog-pysdk",
         "stars": 3,
-        "forks": 1,
+        "forks": 2,
         "language": "CSS",
         "pushed_at": "2025-04-23T14:43:26Z",
         "created_at": "2025-02-14T08:57:03Z"
@@ -7182,7 +7182,7 @@
         "description": "Provides the FreeRTOS library part of the STM32Cube MCU Component \"middleware\" for all STM32xx series.",
         "url": "https://github.com/STMicroelectronics/stm32-mw-freertos",
         "stars": 29,
-        "forks": 11,
+        "forks": 12,
         "language": "C",
         "pushed_at": "2025-06-23T16:24:01Z",
         "created_at": "2020-07-16T10:35:55Z"
@@ -7222,7 +7222,7 @@
         "description": "（无简介）",
         "url": "https://github.com/STMicroelectronics/stm32-mw-libjpeg",
         "stars": 0,
-        "forks": 0,
+        "forks": 1,
         "language": "C",
         "pushed_at": "2025-06-24T15:59:33Z",
         "created_at": "2025-04-29T12:30:12Z"
@@ -7291,7 +7291,7 @@
         "name": "stm32-mw-openbl",
         "description": "Provides the Open Bootloader library, part of the STM32Cube MCU Component \"middleware\", for all STM32xx series.",
         "url": "https://github.com/STMicroelectronics/stm32-mw-openbl",
-        "stars": 219,
+        "stars": 220,
         "forks": 48,
         "language": "C",
         "pushed_at": "2025-06-05T15:18:50Z",
@@ -8022,7 +8022,7 @@
         "description": "（无简介）",
         "url": "https://github.com/STMicroelectronics/stm32ai-datalogger",
         "stars": 12,
-        "forks": 2,
+        "forks": 3,
         "language": "C",
         "pushed_at": "2021-06-28T13:39:18Z",
         "created_at": "2021-06-21T16:01:09Z"
@@ -8042,7 +8042,7 @@
         "description": "AI Model Zoo services for STM32 devices",
         "url": "https://github.com/STMicroelectronics/stm32ai-modelzoo-services",
         "stars": 56,
-        "forks": 17,
+        "forks": 18,
         "language": "C",
         "pushed_at": "2025-06-25T09:17:51Z",
         "created_at": "2024-11-12T13:43:27Z"
@@ -8092,7 +8092,7 @@
         "description": "This repo is the entry point to all other STM32 MCU/MPU AI-related GitHub repos.",
         "url": "https://github.com/STMicroelectronics/STM32AI_Overall_Offer",
         "stars": 34,
-        "forks": 3,
+        "forks": 4,
         "language": "未指定",
         "pushed_at": "2025-06-20T14:29:24Z",
         "created_at": "2023-06-20T11:09:43Z"
@@ -8232,7 +8232,7 @@
         "description": "STM32Cube MCU Full Package for the STM32G4 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
         "url": "https://github.com/STMicroelectronics/STM32CubeG4",
         "stars": 224,
-        "forks": 109,
+        "forks": 110,
         "language": "C",
         "pushed_at": "2025-06-17T11:04:03Z",
         "created_at": "2019-04-19T09:25:19Z"
@@ -8252,7 +8252,7 @@
         "description": "STM32Cube MCU Full Package for the STM32H7 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
         "url": "https://github.com/STMicroelectronics/STM32CubeH7",
         "stars": 602,
-        "forks": 329,
+        "forks": 330,
         "language": "C",
         "pushed_at": "2025-06-17T11:10:23Z",
         "created_at": "2019-04-19T09:59:43Z"
@@ -8752,7 +8752,7 @@
         "description": "Provides the STM32Cube MCU Component \"hal_driver\" of the STM32G4 series.",
         "url": "https://github.com/STMicroelectronics/stm32g4xx-hal-driver",
         "stars": 29,
-        "forks": 16,
+        "forks": 17,
         "language": "C",
         "pushed_at": "2025-06-17T08:36:18Z",
         "created_at": "2020-01-29T14:24:01Z"
@@ -12659,7 +12659,7 @@
         "stars": 13,
         "forks": 2,
         "language": "Rust",
-        "pushed_at": "2025-06-26T07:19:38Z",
+        "pushed_at": "2025-06-26T09:48:56Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
@@ -12829,7 +12829,7 @@
         "stars": 245,
         "forks": 23,
         "language": "LLVM",
-        "pushed_at": "2025-06-26T09:14:59Z",
+        "pushed_at": "2025-06-26T09:46:40Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15806,7 +15806,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29549,
+        "stars": 29550,
         "forks": 3646,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -15836,7 +15836,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 29748,
+        "stars": 29749,
         "forks": 3338,
         "language": "Rust",
         "pushed_at": "2025-06-26T07:36:01Z",
@@ -16736,7 +16736,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 11965,
+        "stars": 11966,
         "forks": 1794,
         "language": "Python",
         "pushed_at": "2025-06-26T03:53:13Z",
@@ -16786,8 +16786,8 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5024,
-        "forks": 703,
+        "stars": 5025,
+        "forks": 704,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
         "created_at": "2025-06-14T03:07:09Z"
@@ -17356,8 +17356,8 @@
         "name": "sample-deep-research-mcp",
         "description": "Example MCP server compatible with Deep Research",
         "url": "https://github.com/openai/sample-deep-research-mcp",
-        "stars": 25,
-        "forks": 7,
+        "stars": 26,
+        "forks": 8,
         "language": "Python",
         "pushed_at": "2025-06-25T21:03:02Z",
         "created_at": "2025-06-02T21:58:16Z"
@@ -17426,7 +17426,7 @@
         "name": "sparse_autoencoder",
         "description": "（无简介）",
         "url": "https://github.com/openai/sparse_autoencoder",
-        "stars": 494,
+        "stars": 495,
         "forks": 54,
         "language": "Python",
         "pushed_at": "2024-07-19T02:28:43Z",
