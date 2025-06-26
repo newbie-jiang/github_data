@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-26T17:46:12Z",
+        "pushed_at": "2025-06-26T17:55:12Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3736,7 +3736,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12360,
+        "stars": 12361,
         "forks": 7552,
         "language": "C",
         "pushed_at": "2025-06-26T16:04:19Z",
@@ -10679,7 +10679,7 @@
         "stars": 36,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-06-26T17:29:12Z",
+        "pushed_at": "2025-06-26T18:00:14Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11629,7 +11629,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-06-26T16:03:22Z",
+        "pushed_at": "2025-06-26T18:03:43Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -11737,7 +11737,7 @@
         "description": "ESP RainMaker Android app sources",
         "url": "https://github.com/espressif/esp-rainmaker-android",
         "stars": 122,
-        "forks": 66,
+        "forks": 67,
         "language": "Java",
         "pushed_at": "2025-06-25T10:33:09Z",
         "created_at": "2020-05-28T15:00:00Z"
@@ -12829,7 +12829,7 @@
         "stars": 245,
         "forks": 23,
         "language": "LLVM",
-        "pushed_at": "2025-06-26T17:33:40Z",
+        "pushed_at": "2025-06-26T18:04:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15836,10 +15836,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 29824,
+        "stars": 29827,
         "forks": 3347,
         "language": "Rust",
-        "pushed_at": "2025-06-26T16:03:38Z",
+        "pushed_at": "2025-06-26T18:12:17Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16009,7 +16009,7 @@
         "stars": 18,
         "forks": 4,
         "language": "Python",
-        "pushed_at": "2025-06-17T20:26:28Z",
+        "pushed_at": "2025-06-26T18:19:37Z",
         "created_at": "2025-06-17T19:54:53Z"
       },
       {
@@ -16216,7 +16216,7 @@
         "name": "gpt-3",
         "description": "GPT-3: Language Models are Few-Shot Learners",
         "url": "https://github.com/openai/gpt-3",
-        "stars": 15758,
+        "stars": 15757,
         "forks": 2305,
         "language": "未指定",
         "pushed_at": "2020-09-18T22:06:11Z",
@@ -16776,17 +16776,17 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 64910,
+        "stars": 64912,
         "forks": 10734,
         "language": "MDX",
-        "pushed_at": "2025-06-26T17:41:11Z",
+        "pushed_at": "2025-06-26T18:21:20Z",
         "created_at": "2022-03-11T02:08:53Z"
       },
       {
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5073,
+        "stars": 5076,
         "forks": 711,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -16797,7 +16797,7 @@
         "description": "Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.",
         "url": "https://github.com/openai/openai-cua-sample-app",
         "stars": 976,
-        "forks": 280,
+        "forks": 281,
         "language": "Python",
         "pushed_at": "2025-04-24T17:36:50Z",
         "created_at": "2025-03-11T14:57:29Z"
@@ -16886,7 +16886,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27167,
+        "stars": 27168,
         "forks": 4019,
         "language": "Python",
         "pushed_at": "2025-06-26T17:45:07Z",
@@ -16917,7 +16917,7 @@
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
         "stars": 5950,
-        "forks": 793,
+        "forks": 794,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T14:47:04Z",
         "created_at": "2025-01-16T01:29:28Z"
@@ -17436,7 +17436,7 @@
         "name": "spinningup",
         "description": "An educational resource to help anyone learn deep reinforcement learning.",
         "url": "https://github.com/openai/spinningup",
-        "stars": 10996,
+        "stars": 10997,
         "forks": 2353,
         "language": "Python",
         "pushed_at": "2024-08-05T03:30:30Z",
@@ -17656,7 +17656,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 83930,
+        "stars": 83932,
         "forks": 10214,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
