@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-25T23:49:02Z",
+        "pushed_at": "2025-06-25T23:58:06Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -2619,7 +2619,7 @@
         "stars": 4,
         "forks": 26,
         "language": "C++",
-        "pushed_at": "2025-06-06T22:35:19Z",
+        "pushed_at": "2025-06-26T01:51:55Z",
         "created_at": "2021-04-19T15:28:42Z"
       },
       {
@@ -3736,10 +3736,10 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12357,
+        "stars": 12358,
         "forks": 7545,
         "language": "C",
-        "pushed_at": "2025-06-25T12:09:46Z",
+        "pushed_at": "2025-06-26T01:55:58Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -11067,7 +11067,7 @@
         "description": "Espressif deep-learning library for AIoT applications",
         "url": "https://github.com/espressif/esp-dl",
         "stars": 735,
-        "forks": 142,
+        "forks": 143,
         "language": "Assembly",
         "pushed_at": "2025-06-25T02:32:23Z",
         "created_at": "2018-11-16T04:01:02Z"
@@ -11266,7 +11266,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15641,
+        "stars": 15643,
         "forks": 7717,
         "language": "C",
         "pushed_at": "2025-06-25T09:19:38Z",
@@ -11326,7 +11326,7 @@
         "name": "esp-idf-nvs-partition-gen",
         "description": "NVS Partition Generator tool",
         "url": "https://github.com/espressif/esp-idf-nvs-partition-gen",
-        "stars": 9,
+        "stars": 10,
         "forks": 6,
         "language": "Python",
         "pushed_at": "2025-05-08T15:13:21Z",
@@ -11516,10 +11516,10 @@
         "name": "esp-matter",
         "description": "Espressif's SDK for Matter",
         "url": "https://github.com/espressif/esp-matter",
-        "stars": 838,
+        "stars": 839,
         "forks": 194,
         "language": "C++",
-        "pushed_at": "2025-06-24T04:20:43Z",
+        "pushed_at": "2025-06-26T01:49:48Z",
         "created_at": "2022-05-18T10:02:59Z"
       },
       {
@@ -11629,7 +11629,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-06-25T22:03:03Z",
+        "pushed_at": "2025-06-26T00:06:04Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -11909,7 +11909,7 @@
         "stars": 9,
         "forks": 4,
         "language": "未指定",
-        "pushed_at": "2025-06-25T02:22:49Z",
+        "pushed_at": "2025-06-26T01:30:01Z",
         "created_at": "2021-07-07T05:50:42Z"
       },
       {
@@ -12949,7 +12949,7 @@
         "stars": 28,
         "forks": 9,
         "language": "C++",
-        "pushed_at": "2025-06-25T23:46:09Z",
+        "pushed_at": "2025-06-26T00:17:07Z",
         "created_at": "2021-03-01T07:44:10Z"
       },
       {
@@ -13274,7 +13274,7 @@
         "stars": 1,
         "forks": 2,
         "language": "C",
-        "pushed_at": "2025-06-24T01:14:49Z",
+        "pushed_at": "2025-06-26T01:06:33Z",
         "created_at": "2024-07-02T07:21:14Z"
       },
       {
@@ -15806,8 +15806,8 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29536,
-        "forks": 3647,
+        "stars": 29538,
+        "forks": 3646,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
         "created_at": "2020-12-16T11:24:42Z"
@@ -15836,8 +15836,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 29679,
-        "forks": 3323,
+        "stars": 29688,
+        "forks": 3326,
         "language": "Rust",
         "pushed_at": "2025-06-25T23:41:23Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -15846,8 +15846,8 @@
         "name": "codex-universal",
         "description": "Base docker image used in Codex environments",
         "url": "https://github.com/openai/codex-universal",
-        "stars": 452,
-        "forks": 97,
+        "stars": 453,
+        "forks": 99,
         "language": "Dockerfile",
         "pushed_at": "2025-05-28T03:10:36Z",
         "created_at": "2025-05-11T05:20:12Z"
@@ -15917,7 +15917,7 @@
         "description": "PyTorch package for the discrete VAE used for DALL·E.",
         "url": "https://github.com/openai/DALL-E",
         "stars": 10869,
-        "forks": 1923,
+        "forks": 1922,
         "language": "Python",
         "pushed_at": "2024-01-31T15:42:28Z",
         "created_at": "2021-02-23T23:01:11Z"
@@ -16046,7 +16046,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 16447,
+        "stars": 16448,
         "forks": 2741,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -16736,7 +16736,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 11944,
+        "stars": 11947,
         "forks": 1788,
         "language": "Python",
         "pushed_at": "2025-06-25T23:41:48Z",
@@ -16777,7 +16777,7 @@
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
         "stars": 64887,
-        "forks": 10725,
+        "forks": 10726,
         "language": "MDX",
         "pushed_at": "2025-06-25T17:11:46Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -16786,8 +16786,8 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 4948,
-        "forks": 691,
+        "stars": 4972,
+        "forks": 695,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
         "created_at": "2025-06-14T03:07:09Z"
@@ -16797,7 +16797,7 @@
         "description": "Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.",
         "url": "https://github.com/openai/openai-cua-sample-app",
         "stars": 976,
-        "forks": 279,
+        "forks": 280,
         "language": "Python",
         "pushed_at": "2025-04-24T17:36:50Z",
         "created_at": "2025-03-11T14:57:29Z"
@@ -16886,8 +16886,8 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27157,
-        "forks": 4017,
+        "stars": 27158,
+        "forks": 4018,
         "language": "Python",
         "pushed_at": "2025-06-25T05:05:11Z",
         "created_at": "2020-10-25T23:23:54Z"
@@ -17016,7 +17016,7 @@
         "name": "openai-support-agent-demo",
         "description": "Demo of a customer support agent interface using NextJS and the OpenAI Responses API with File Search",
         "url": "https://github.com/openai/openai-support-agent-demo",
-        "stars": 109,
+        "stars": 110,
         "forks": 44,
         "language": "TypeScript",
         "pushed_at": "2025-05-28T12:04:58Z",
@@ -17026,7 +17026,7 @@
         "name": "openai-testing-agent-demo",
         "description": "Demo of a UI testing agent using the OpenAI CUA model and the Responses API.",
         "url": "https://github.com/openai/openai-testing-agent-demo",
-        "stars": 602,
+        "stars": 603,
         "forks": 66,
         "language": "TypeScript",
         "pushed_at": "2025-06-17T10:18:47Z",
@@ -17396,7 +17396,7 @@
         "name": "simple-evals",
         "description": "（无简介）",
         "url": "https://github.com/openai/simple-evals",
-        "stars": 3743,
+        "stars": 3744,
         "forks": 370,
         "language": "Python",
         "pushed_at": "2025-05-13T17:36:18Z",
@@ -17487,7 +17487,7 @@
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
         "stars": 19990,
-        "forks": 2120,
+        "forks": 2121,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
         "created_at": "2024-02-22T20:53:54Z"
@@ -17656,10 +17656,10 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 83873,
+        "stars": 83877,
         "forks": 10206,
         "language": "Python",
-        "pushed_at": "2025-06-25T23:55:15Z",
+        "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
       },
       {
