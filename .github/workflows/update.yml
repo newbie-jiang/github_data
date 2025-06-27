@@ -2,7 +2,7 @@ name: Update GitHub Data
 
 on:
   schedule:
-    - cron: '*/3 * * * *'
+    - cron: '*/20 * * * *'
   workflow_dispatch:
 
 jobs:
