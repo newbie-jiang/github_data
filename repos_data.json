@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-27T14:39:30Z",
+        "pushed_at": "2025-06-27T14:51:48Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -1691,7 +1691,7 @@
         "name": "pmsx003",
         "description": "PMSX003(PMS1003, PMS3003, PMS5003, PMS6003, PMS7003, PMS9003M, PMSA003) full-featured driver library for general-purpose MCU and Linux.",
         "url": "https://github.com/libdriver/pmsx003",
-        "stars": 65,
+        "stars": 66,
         "forks": 11,
         "language": "C",
         "pushed_at": "2025-05-12T17:02:48Z",
@@ -3736,10 +3736,10 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12372,
+        "stars": 12373,
         "forks": 7561,
         "language": "C",
-        "pushed_at": "2025-06-27T14:50:44Z",
+        "pushed_at": "2025-06-27T15:11:01Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -10679,7 +10679,7 @@
         "stars": 36,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-06-27T00:12:07Z",
+        "pushed_at": "2025-06-27T15:13:22Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -10776,7 +10776,7 @@
         "name": "esp-adf",
         "description": "Espressif Advanced Development Framework",
         "url": "https://github.com/espressif/esp-adf",
-        "stars": 1951,
+        "stars": 1952,
         "forks": 772,
         "language": "C",
         "pushed_at": "2025-06-25T04:26:02Z",
@@ -11249,7 +11249,7 @@
         "stars": 829,
         "forks": 193,
         "language": "C",
-        "pushed_at": "2025-06-26T08:03:28Z",
+        "pushed_at": "2025-06-27T14:56:58Z",
         "created_at": "2020-06-11T09:09:31Z"
       },
       {
@@ -12806,7 +12806,7 @@
         "name": "kicad-libraries",
         "description": "KiCad libraries for Espressif SoCs, modules, and DevKits.",
         "url": "https://github.com/espressif/kicad-libraries",
-        "stars": 927,
+        "stars": 928,
         "forks": 128,
         "language": "Python",
         "pushed_at": "2025-02-04T16:47:29Z",
@@ -12829,7 +12829,7 @@
         "stars": 245,
         "forks": 23,
         "language": "LLVM",
-        "pushed_at": "2025-06-27T14:35:39Z",
+        "pushed_at": "2025-06-27T15:06:39Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15836,7 +15836,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 29938,
+        "stars": 29940,
         "forks": 3369,
         "language": "Rust",
         "pushed_at": "2025-06-27T06:35:46Z",
@@ -16736,10 +16736,10 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12013,
+        "stars": 12015,
         "forks": 1814,
         "language": "Python",
-        "pushed_at": "2025-06-27T14:41:20Z",
+        "pushed_at": "2025-06-27T15:09:56Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -16776,8 +16776,8 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 64938,
-        "forks": 10741,
+        "stars": 64940,
+        "forks": 10742,
         "language": "MDX",
         "pushed_at": "2025-06-27T13:28:02Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -16786,8 +16786,8 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5168,
-        "forks": 735,
+        "stars": 5170,
+        "forks": 736,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
         "created_at": "2025-06-14T03:07:09Z"
@@ -16847,7 +16847,7 @@
         "description": "The official Go library for the OpenAI API",
         "url": "https://github.com/openai/openai-go",
         "stars": 1970,
-        "forks": 155,
+        "forks": 156,
         "language": "Go",
         "pushed_at": "2025-06-27T05:07:33Z",
         "created_at": "2024-07-22T19:29:26Z"
@@ -16857,7 +16857,7 @@
         "description": "The official Java library for the OpenAI API",
         "url": "https://github.com/openai/openai-java",
         "stars": 907,
-        "forks": 126,
+        "forks": 127,
         "language": "Kotlin",
         "pushed_at": "2025-06-26T23:47:43Z",
         "created_at": "2024-10-31T17:42:57Z"
@@ -17026,7 +17026,7 @@
         "name": "openai-testing-agent-demo",
         "description": "Demo of a UI testing agent using the OpenAI CUA model and the Responses API.",
         "url": "https://github.com/openai/openai-testing-agent-demo",
-        "stars": 608,
+        "stars": 609,
         "forks": 69,
         "language": "TypeScript",
         "pushed_at": "2025-06-17T10:18:47Z",
@@ -17356,7 +17356,7 @@
         "name": "sample-deep-research-mcp",
         "description": "Example MCP server compatible with Deep Research",
         "url": "https://github.com/openai/sample-deep-research-mcp",
-        "stars": 29,
+        "stars": 30,
         "forks": 8,
         "language": "Python",
         "pushed_at": "2025-06-25T21:03:02Z",
@@ -17656,7 +17656,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 83989,
+        "stars": 83991,
         "forks": 10216,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
