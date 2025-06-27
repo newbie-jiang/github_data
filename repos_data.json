@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-27T04:05:31Z",
+        "pushed_at": "2025-06-27T04:44:42Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3739,7 +3739,7 @@
         "stars": 12366,
         "forks": 7556,
         "language": "C",
-        "pushed_at": "2025-06-27T03:19:19Z",
+        "pushed_at": "2025-06-27T04:51:26Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -11369,7 +11369,7 @@
         "stars": 15,
         "forks": 3,
         "language": "Python",
-        "pushed_at": "2025-06-19T05:33:25Z",
+        "pushed_at": "2025-06-27T04:52:17Z",
         "created_at": "2023-06-02T11:44:10Z"
       },
       {
@@ -11557,7 +11557,7 @@
         "description": "ESP-Modbus - the officially suppported library for Modbus protocol (serial RS485 + TCP over WiFi or Ethernet).",
         "url": "https://github.com/espressif/esp-modbus",
         "stars": 147,
-        "forks": 62,
+        "forks": 63,
         "language": "C",
         "pushed_at": "2025-06-16T12:03:39Z",
         "created_at": "2022-04-05T09:43:59Z"
@@ -15697,7 +15697,7 @@
         "description": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
         "url": "https://github.com/openai/baselines",
         "stars": 16331,
-        "forks": 4908,
+        "forks": 4909,
         "language": "Python",
         "pushed_at": "2024-08-01T21:31:33Z",
         "created_at": "2017-05-24T01:58:13Z"
@@ -15836,7 +15836,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 29885,
+        "stars": 29887,
         "forks": 3360,
         "language": "Rust",
         "pushed_at": "2025-06-26T23:16:56Z",
@@ -16737,7 +16737,7 @@
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
         "stars": 11999,
-        "forks": 1800,
+        "forks": 1801,
         "language": "Python",
         "pushed_at": "2025-06-27T02:16:03Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -16776,8 +16776,8 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 64921,
-        "forks": 10736,
+        "stars": 64923,
+        "forks": 10738,
         "language": "MDX",
         "pushed_at": "2025-06-27T01:34:24Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -16786,7 +16786,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5123,
+        "stars": 5126,
         "forks": 725,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -16816,7 +16816,7 @@
         "name": "openai-dotnet",
         "description": "The official .NET library for the OpenAI API",
         "url": "https://github.com/openai/openai-dotnet",
-        "stars": 2101,
+        "stars": 2102,
         "forks": 276,
         "language": "C#",
         "pushed_at": "2025-06-26T22:05:40Z",
@@ -16846,10 +16846,10 @@
         "name": "openai-go",
         "description": "The official Go library for the OpenAI API",
         "url": "https://github.com/openai/openai-go",
-        "stars": 1965,
+        "stars": 1966,
         "forks": 154,
         "language": "Go",
-        "pushed_at": "2025-06-27T01:14:23Z",
+        "pushed_at": "2025-06-27T05:07:33Z",
         "created_at": "2024-07-22T19:29:26Z"
       },
       {
@@ -16869,7 +16869,7 @@
         "stars": 9392,
         "forks": 1132,
         "language": "TypeScript",
-        "pushed_at": "2025-06-26T23:18:48Z",
+        "pushed_at": "2025-06-27T05:08:32Z",
         "created_at": "2021-12-14T22:32:58Z"
       },
       {
@@ -16927,7 +16927,7 @@
         "description": "Node.js + JavaScript reference client for the Realtime API (beta)",
         "url": "https://github.com/openai/openai-realtime-api-beta",
         "stars": 970,
-        "forks": 285,
+        "forks": 286,
         "language": "JavaScript",
         "pushed_at": "2024-11-07T22:51:02Z",
         "created_at": "2024-09-30T21:11:38Z"
@@ -16976,7 +16976,7 @@
         "name": "openai-responses-starter-app",
         "description": "Starter app to build with the OpenAI Responses API",
         "url": "https://github.com/openai/openai-responses-starter-app",
-        "stars": 333,
+        "stars": 334,
         "forks": 118,
         "language": "TypeScript",
         "pushed_at": "2025-06-09T22:03:51Z",
@@ -17376,7 +17376,7 @@
         "name": "shap-e",
         "description": "Generate 3D objects conditioned on text or images",
         "url": "https://github.com/openai/shap-e",
-        "stars": 11952,
+        "stars": 11953,
         "forks": 1012,
         "language": "Python",
         "pushed_at": "2024-06-22T19:19:14Z",
@@ -17436,7 +17436,7 @@
         "name": "spinningup",
         "description": "An educational resource to help anyone learn deep reinforcement learning.",
         "url": "https://github.com/openai/spinningup",
-        "stars": 10999,
+        "stars": 11000,
         "forks": 2353,
         "language": "Python",
         "pushed_at": "2024-08-05T03:30:30Z",
@@ -17656,8 +17656,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 83951,
-        "forks": 10215,
+        "stars": 83952,
+        "forks": 10214,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
