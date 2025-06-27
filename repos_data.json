@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-27T20:36:36Z",
+        "pushed_at": "2025-06-27T20:47:21Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -2879,7 +2879,7 @@
         "stars": 14,
         "forks": 15,
         "language": "C",
-        "pushed_at": "2025-06-15T07:40:35Z",
+        "pushed_at": "2025-06-27T21:10:03Z",
         "created_at": "2022-01-19T16:38:02Z"
       },
       {
@@ -3679,7 +3679,7 @@
         "stars": 36,
         "forks": 60,
         "language": "C",
-        "pushed_at": "2025-06-17T19:47:37Z",
+        "pushed_at": "2025-06-27T20:59:50Z",
         "created_at": "2019-11-22T11:53:18Z"
       },
       {
@@ -3737,7 +3737,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 12375,
-        "forks": 7561,
+        "forks": 7562,
         "language": "C",
         "pushed_at": "2025-06-27T19:19:40Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -6052,7 +6052,7 @@
         "description": "oe-manifest",
         "url": "https://github.com/STMicroelectronics/oe-manifest",
         "stars": 67,
-        "forks": 40,
+        "forks": 41,
         "language": "未指定",
         "pushed_at": "2025-06-27T14:33:27Z",
         "created_at": "2019-01-15T16:29:51Z"
@@ -10679,7 +10679,7 @@
         "stars": 36,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-06-27T19:53:12Z",
+        "pushed_at": "2025-06-27T20:55:13Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11269,7 +11269,7 @@
         "stars": 15658,
         "forks": 7723,
         "language": "C",
-        "pushed_at": "2025-06-27T20:42:46Z",
+        "pushed_at": "2025-06-27T21:10:27Z",
         "created_at": "2016-08-17T10:40:35Z"
       },
       {
@@ -12417,7 +12417,7 @@
         "description": "Latest ESP8266 SDK based on FreeRTOS, esp-idf style.",
         "url": "https://github.com/espressif/ESP8266_RTOS_SDK",
         "stars": 3447,
-        "forks": 1588,
+        "forks": 1589,
         "language": "C",
         "pushed_at": "2025-05-09T10:38:46Z",
         "created_at": "2014-12-05T09:27:12Z"
@@ -12829,7 +12829,7 @@
         "stars": 245,
         "forks": 23,
         "language": "LLVM",
-        "pushed_at": "2025-06-27T20:22:37Z",
+        "pushed_at": "2025-06-27T20:54:42Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15836,7 +15836,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 29964,
+        "stars": 29965,
         "forks": 3375,
         "language": "Rust",
         "pushed_at": "2025-06-27T20:20:28Z",
@@ -16739,7 +16739,7 @@
         "stars": 12023,
         "forks": 1816,
         "language": "Python",
-        "pushed_at": "2025-06-27T18:42:33Z",
+        "pushed_at": "2025-06-27T20:57:53Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -16849,7 +16849,7 @@
         "stars": 1970,
         "forks": 156,
         "language": "Go",
-        "pushed_at": "2025-06-27T17:06:51Z",
+        "pushed_at": "2025-06-27T21:12:12Z",
         "created_at": "2024-07-22T19:29:26Z"
       },
       {
@@ -16869,7 +16869,7 @@
         "stars": 9393,
         "forks": 1133,
         "language": "TypeScript",
-        "pushed_at": "2025-06-27T16:47:11Z",
+        "pushed_at": "2025-06-27T21:12:43Z",
         "created_at": "2021-12-14T22:32:58Z"
       },
       {
@@ -16989,7 +16989,7 @@
         "stars": 252,
         "forks": 16,
         "language": "Ruby",
-        "pushed_at": "2025-06-27T16:47:38Z",
+        "pushed_at": "2025-06-27T21:13:04Z",
         "created_at": "2025-03-05T18:31:42Z"
       },
       {
@@ -17396,7 +17396,7 @@
         "name": "simple-evals",
         "description": "（无简介）",
         "url": "https://github.com/openai/simple-evals",
-        "stars": 3750,
+        "stars": 3751,
         "forks": 372,
         "language": "Python",
         "pushed_at": "2025-05-13T17:36:18Z",
@@ -17436,7 +17436,7 @@
         "name": "spinningup",
         "description": "An educational resource to help anyone learn deep reinforcement learning.",
         "url": "https://github.com/openai/spinningup",
-        "stars": 11004,
+        "stars": 11005,
         "forks": 2353,
         "language": "Python",
         "pushed_at": "2024-08-05T03:30:30Z",
@@ -17656,7 +17656,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84007,
+        "stars": 84009,
         "forks": 10216,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
