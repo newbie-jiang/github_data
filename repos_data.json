@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-27T23:33:25Z",
+        "pushed_at": "2025-06-27T23:46:07Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3736,10 +3736,10 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12376,
+        "stars": 12378,
         "forks": 7562,
         "language": "C",
-        "pushed_at": "2025-06-27T23:28:50Z",
+        "pushed_at": "2025-06-27T23:52:40Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -10509,7 +10509,7 @@
         "stars": 14970,
         "forks": 7648,
         "language": "C++",
-        "pushed_at": "2025-06-27T16:30:27Z",
+        "pushed_at": "2025-06-28T01:00:17Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -10679,7 +10679,7 @@
         "stars": 36,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-06-27T20:55:13Z",
+        "pushed_at": "2025-06-28T01:02:14Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -10776,7 +10776,7 @@
         "name": "esp-adf",
         "description": "Espressif Advanced Development Framework",
         "url": "https://github.com/espressif/esp-adf",
-        "stars": 1953,
+        "stars": 1954,
         "forks": 774,
         "language": "C",
         "pushed_at": "2025-06-25T04:26:02Z",
@@ -10967,7 +10967,7 @@
         "description": "Board support components for Espressif development boards",
         "url": "https://github.com/espressif/esp-bsp",
         "stars": 295,
-        "forks": 152,
+        "forks": 153,
         "language": "C",
         "pushed_at": "2025-06-26T13:08:46Z",
         "created_at": "2021-09-14T09:33:04Z"
@@ -11267,7 +11267,7 @@
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
         "stars": 15658,
-        "forks": 7723,
+        "forks": 7724,
         "language": "C",
         "pushed_at": "2025-06-27T23:29:41Z",
         "created_at": "2016-08-17T10:40:35Z"
@@ -11629,7 +11629,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-06-27T22:03:10Z",
+        "pushed_at": "2025-06-28T00:05:46Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12247,7 +12247,7 @@
         "description": "ESP32 WiFi stack precompiled libraries",
         "url": "https://github.com/espressif/esp32-wifi-lib",
         "stars": 178,
-        "forks": 73,
+        "forks": 74,
         "language": "Shell",
         "pushed_at": "2025-06-26T12:42:43Z",
         "created_at": "2016-08-17T14:15:53Z"
@@ -12416,7 +12416,7 @@
         "name": "ESP8266_RTOS_SDK",
         "description": "Latest ESP8266 SDK based on FreeRTOS, esp-idf style.",
         "url": "https://github.com/espressif/ESP8266_RTOS_SDK",
-        "stars": 3447,
+        "stars": 3448,
         "forks": 1589,
         "language": "C",
         "pushed_at": "2025-05-09T10:38:46Z",
@@ -12436,7 +12436,7 @@
         "name": "esptool-js",
         "description": "Javascript implementation of flasher tool for Espressif chips, running in web browser using WebSerial.",
         "url": "https://github.com/espressif/esptool-js",
-        "stars": 366,
+        "stars": 367,
         "forks": 127,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T11:45:06Z",
@@ -12829,7 +12829,7 @@
         "stars": 245,
         "forks": 23,
         "language": "LLVM",
-        "pushed_at": "2025-06-27T23:32:36Z",
+        "pushed_at": "2025-06-28T00:03:38Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15746,7 +15746,7 @@
         "name": "build-hours",
         "description": "Build hours code to share.",
         "url": "https://github.com/openai/build-hours",
-        "stars": 325,
+        "stars": 331,
         "forks": 72,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-06-17T18:39:26Z",
@@ -15807,7 +15807,7 @@
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
         "stars": 29576,
-        "forks": 3649,
+        "forks": 3650,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
         "created_at": "2020-12-16T11:24:42Z"
@@ -15836,8 +15836,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 29974,
-        "forks": 3376,
+        "stars": 29976,
+        "forks": 3377,
         "language": "Rust",
         "pushed_at": "2025-06-27T23:30:10Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16736,8 +16736,8 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12026,
-        "forks": 1820,
+        "stars": 12027,
+        "forks": 1821,
         "language": "Python",
         "pushed_at": "2025-06-27T20:57:53Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -16776,7 +16776,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 64945,
+        "stars": 64947,
         "forks": 10743,
         "language": "MDX",
         "pushed_at": "2025-06-27T13:28:02Z",
@@ -16786,7 +16786,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5187,
+        "stars": 5190,
         "forks": 740,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -16916,7 +16916,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 5961,
+        "stars": 5962,
         "forks": 796,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T14:47:04Z",
@@ -17207,7 +17207,7 @@
         "description": "Code for the paper \"Exploration by Random Network Distillation\"",
         "url": "https://github.com/openai/random-network-distillation",
         "stars": 901,
-        "forks": 163,
+        "forks": 164,
         "language": "Python",
         "pushed_at": "2020-10-01T16:53:54Z",
         "created_at": "2018-10-16T20:28:02Z"
@@ -17376,7 +17376,7 @@
         "name": "shap-e",
         "description": "Generate 3D objects conditioned on text or images",
         "url": "https://github.com/openai/shap-e",
-        "stars": 11954,
+        "stars": 11955,
         "forks": 1012,
         "language": "Python",
         "pushed_at": "2024-06-22T19:19:14Z",
@@ -17656,8 +17656,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84011,
-        "forks": 10217,
+        "stars": 84010,
+        "forks": 10218,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
