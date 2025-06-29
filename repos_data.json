@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-29T15:34:08Z",
+        "pushed_at": "2025-06-29T15:46:16Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3236,7 +3236,7 @@
         "name": "nanopb",
         "description": "Protocol Buffers with small code size",
         "url": "https://github.com/zephyrproject-rtos/nanopb",
-        "stars": 3,
+        "stars": 4,
         "forks": 2,
         "language": "C",
         "pushed_at": "2025-06-25T09:09:32Z",
@@ -8602,7 +8602,7 @@
         "description": "Provides the STM32Cube MCU Component \"hal_driver\" of the STM32F4 series.",
         "url": "https://github.com/STMicroelectronics/stm32f4xx-hal-driver",
         "stars": 146,
-        "forks": 59,
+        "forks": 58,
         "language": "C",
         "pushed_at": "2025-05-22T15:32:40Z",
         "created_at": "2020-01-29T14:35:22Z"
@@ -11639,7 +11639,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-06-29T14:02:54Z",
+        "pushed_at": "2025-06-29T16:03:04Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12839,7 +12839,7 @@
         "stars": 245,
         "forks": 23,
         "language": "LLVM",
-        "pushed_at": "2025-06-29T15:15:38Z",
+        "pushed_at": "2025-06-29T15:47:38Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15816,7 +15816,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29596,
+        "stars": 29597,
         "forks": 3650,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -15846,8 +15846,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30078,
-        "forks": 3399,
+        "stars": 30077,
+        "forks": 3403,
         "language": "Rust",
         "pushed_at": "2025-06-29T12:45:25Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16747,7 +16747,7 @@
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
         "stars": 12082,
-        "forks": 1836,
+        "forks": 1837,
         "language": "Python",
         "pushed_at": "2025-06-28T06:36:33Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -16786,8 +16786,8 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 64975,
-        "forks": 10755,
+        "stars": 64976,
+        "forks": 10756,
         "language": "MDX",
         "pushed_at": "2025-06-27T13:28:02Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -16856,7 +16856,7 @@
         "name": "openai-go",
         "description": "The official Go library for the OpenAI API",
         "url": "https://github.com/openai/openai-go",
-        "stars": 1973,
+        "stars": 1974,
         "forks": 157,
         "language": "Go",
         "pushed_at": "2025-06-29T05:09:06Z",
@@ -16926,7 +16926,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 5974,
+        "stars": 5975,
         "forks": 800,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T14:47:04Z",
@@ -16987,7 +16987,7 @@
         "description": "Starter app to build with the OpenAI Responses API",
         "url": "https://github.com/openai/openai-responses-starter-app",
         "stars": 339,
-        "forks": 118,
+        "forks": 119,
         "language": "TypeScript",
         "pushed_at": "2025-06-09T22:03:51Z",
         "created_at": "2025-03-11T14:29:27Z"
@@ -17497,7 +17497,7 @@
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
         "stars": 20005,
-        "forks": 2127,
+        "forks": 2128,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
         "created_at": "2024-02-22T20:53:54Z"
@@ -17666,7 +17666,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84094,
+        "stars": 84096,
         "forks": 10234,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
