@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-06-30T14:40:42Z",
+        "pushed_at": "2025-06-30T15:19:38Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -7229,7 +7229,7 @@
       },
       {
         "name": "stm32-mw-libjpeg",
-        "description": "（无简介）",
+        "description": "Customized version of the LibJPEG V8d codec by the Independent JPEG Group (IJG) for JPEG image encoding and decoding, tailored for the STM32Cube ecosystem.",
         "url": "https://github.com/STMicroelectronics/stm32-mw-libjpeg",
         "stars": 0,
         "forks": 1,
@@ -7319,7 +7319,7 @@
       },
       {
         "name": "stm32-mw-touchsensing",
-        "description": "（无简介）",
+        "description": "Middleware library providing touch sensing support for STM32 microcontrollers and leveraging the Touch Sensing Controller (TSC) peripheral, based on a charge transfer mechanism, as well as hardware-assisted touch sensing.",
         "url": "https://github.com/STMicroelectronics/stm32-mw-touchsensing",
         "stars": 0,
         "forks": 0,
@@ -10689,7 +10689,7 @@
         "stars": 36,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-06-30T13:57:13Z",
+        "pushed_at": "2025-06-30T15:30:14Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -10979,7 +10979,7 @@
         "stars": 295,
         "forks": 154,
         "language": "C",
-        "pushed_at": "2025-06-26T13:08:46Z",
+        "pushed_at": "2025-06-30T15:29:21Z",
         "created_at": "2021-09-14T09:33:04Z"
       },
       {
@@ -12839,7 +12839,7 @@
         "stars": 245,
         "forks": 23,
         "language": "LLVM",
-        "pushed_at": "2025-06-30T14:52:40Z",
+        "pushed_at": "2025-06-30T15:24:38Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16747,7 +16747,7 @@
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
         "stars": 671,
-        "forks": 118,
+        "forks": 119,
         "language": "TypeScript",
         "pushed_at": "2025-06-25T09:46:31Z",
         "created_at": "2025-05-31T00:08:49Z"
@@ -16889,7 +16889,7 @@
         "stars": 9403,
         "forks": 1133,
         "language": "TypeScript",
-        "pushed_at": "2025-06-30T05:09:34Z",
+        "pushed_at": "2025-06-30T15:24:51Z",
         "created_at": "2021-12-14T22:32:58Z"
       },
       {
@@ -17546,7 +17546,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 14959,
+        "stars": 14960,
         "forks": 1106,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
@@ -17676,7 +17676,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84148,
+        "stars": 84149,
         "forks": 10243,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
