@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-02T13:18:39Z",
+        "pushed_at": "2025-07-02T13:46:18Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -2597,7 +2597,7 @@
         "description": "Example out-of-tree application that is also a module",
         "url": "https://github.com/zephyrproject-rtos/example-application",
         "stars": 283,
-        "forks": 162,
+        "forks": 163,
         "language": "C",
         "pushed_at": "2025-06-20T11:15:37Z",
         "created_at": "2021-01-12T13:16:13Z"
@@ -3759,7 +3759,7 @@
         "stars": 12401,
         "forks": 7575,
         "language": "C",
-        "pushed_at": "2025-07-02T00:04:00Z",
+        "pushed_at": "2025-07-02T13:56:51Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -4514,7 +4514,7 @@
         "stars": 3,
         "forks": 1,
         "language": "C",
-        "pushed_at": "2025-02-19T08:41:06Z",
+        "pushed_at": "2025-07-02T14:16:39Z",
         "created_at": "2025-01-10T13:16:06Z"
       },
       {
@@ -8051,7 +8051,7 @@
         "name": "stm32ai-modelzoo",
         "description": "AI Model Zoo for STM32 devices",
         "url": "https://github.com/STMicroelectronics/stm32ai-modelzoo",
-        "stars": 442,
+        "stars": 443,
         "forks": 100,
         "language": "未指定",
         "pushed_at": "2025-05-20T10:25:08Z",
@@ -8181,7 +8181,7 @@
         "name": "STM32CubeF0",
         "description": "STM32Cube MCU Full Package for the STM32F0 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
         "url": "https://github.com/STMicroelectronics/STM32CubeF0",
-        "stars": 167,
+        "stars": 168,
         "forks": 65,
         "language": "C",
         "pushed_at": "2025-06-05T13:32:37Z",
@@ -10749,7 +10749,7 @@
         "stars": 17,
         "forks": 42,
         "language": "HTML",
-        "pushed_at": "2025-07-01T07:33:25Z",
+        "pushed_at": "2025-07-02T13:47:43Z",
         "created_at": "2024-02-08T09:26:09Z"
       },
       {
@@ -10867,7 +10867,7 @@
         "description": "AT application for ESP32/ESP32-C2/ESP32-C3/ESP32-C6/ESP8266",
         "url": "https://github.com/espressif/esp-at",
         "stars": 1031,
-        "forks": 997,
+        "forks": 998,
         "language": "C",
         "pushed_at": "2025-07-01T11:20:20Z",
         "created_at": "2017-01-11T15:36:52Z"
@@ -10976,7 +10976,7 @@
         "name": "esp-brookesia",
         "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
         "url": "https://github.com/espressif/esp-brookesia",
-        "stars": 245,
+        "stars": 246,
         "forks": 28,
         "language": "C",
         "pushed_at": "2025-06-17T02:43:34Z",
@@ -11649,7 +11649,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-02T12:03:23Z",
+        "pushed_at": "2025-07-02T14:03:12Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12849,7 +12849,7 @@
         "stars": 246,
         "forks": 23,
         "language": "LLVM",
-        "pushed_at": "2025-07-02T13:35:40Z",
+        "pushed_at": "2025-07-02T14:07:41Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15622,7 +15622,7 @@
         "description": "VSCode Extension for RT-Thread and RT-Thread Smart development",
         "url": "https://github.com/RT-Thread/vscode-rt-smart",
         "stars": 3,
-        "forks": 4,
+        "forks": 5,
         "language": "TypeScript",
         "pushed_at": "2025-05-25T14:42:43Z",
         "created_at": "2024-07-31T01:00:59Z"
@@ -15836,7 +15836,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29639,
+        "stars": 29640,
         "forks": 3654,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16076,7 +16076,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 16484,
+        "stars": 16485,
         "forks": 2745,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -16806,7 +16806,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65026,
+        "stars": 65027,
         "forks": 10778,
         "language": "MDX",
         "pushed_at": "2025-06-27T13:28:02Z",
@@ -16816,7 +16816,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5352,
+        "stars": 5353,
         "forks": 779,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -17186,7 +17186,7 @@
         "name": "procgen",
         "description": "Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments",
         "url": "https://github.com/openai/procgen",
-        "stars": 1080,
+        "stars": 1081,
         "forks": 215,
         "language": "C++",
         "pushed_at": "2024-01-03T19:05:02Z",
@@ -17556,7 +17556,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 14990,
+        "stars": 14992,
         "forks": 1110,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
@@ -17686,7 +17686,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84242,
+        "stars": 84245,
         "forks": 10259,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
