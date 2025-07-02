@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-02T10:18:58Z",
+        "pushed_at": "2025-07-02T10:43:26Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3727,7 +3727,7 @@
         "description": "West, Zephyr's meta-tool",
         "url": "https://github.com/zephyrproject-rtos/west",
         "stars": 271,
-        "forks": 135,
+        "forks": 136,
         "language": "Python",
         "pushed_at": "2025-07-01T22:10:45Z",
         "created_at": "2018-05-23T13:56:05Z"
@@ -4612,7 +4612,7 @@
         "description": "RPC protocol generator. Abstracts communication between a PC and an MCU. Basically it allows you to call functions on your MCU from a PC.",
         "url": "https://github.com/STMicroelectronics/compost-rpc",
         "stars": 6,
-        "forks": 1,
+        "forks": 2,
         "language": "Python",
         "pushed_at": "2025-06-24T13:45:55Z",
         "created_at": "2025-06-24T08:50:15Z"
@@ -8261,7 +8261,7 @@
         "name": "STM32CubeH5",
         "description": "Full firmware package for STM32H5 series containing CMSIS, HAL-LL, BSP drivers, MW libraries plus a set of projects.",
         "url": "https://github.com/STMicroelectronics/STM32CubeH5",
-        "stars": 69,
+        "stars": 70,
         "forks": 17,
         "language": "C",
         "pushed_at": "2025-06-03T08:14:25Z",
@@ -11286,10 +11286,10 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15692,
+        "stars": 15693,
         "forks": 7737,
         "language": "C",
-        "pushed_at": "2025-07-02T07:43:54Z",
+        "pushed_at": "2025-07-02T10:46:00Z",
         "created_at": "2016-08-17T10:40:35Z"
       },
       {
@@ -11609,7 +11609,7 @@
         "stars": 91,
         "forks": 62,
         "language": "C",
-        "pushed_at": "2025-06-18T10:56:27Z",
+        "pushed_at": "2025-07-02T10:55:19Z",
         "created_at": "2019-03-14T06:09:28Z"
       },
       {
@@ -11959,7 +11959,7 @@
         "stars": 45,
         "forks": 26,
         "language": "C++",
-        "pushed_at": "2025-07-02T09:55:44Z",
+        "pushed_at": "2025-07-02T11:00:09Z",
         "created_at": "2024-01-18T07:20:01Z"
       },
       {
@@ -12609,7 +12609,7 @@
         "stars": 338,
         "forks": 130,
         "language": "Java",
-        "pushed_at": "2025-07-02T05:51:20Z",
+        "pushed_at": "2025-07-02T11:15:14Z",
         "created_at": "2019-09-16T02:21:43Z"
       },
       {
@@ -12849,7 +12849,7 @@
         "stars": 246,
         "forks": 23,
         "language": "LLVM",
-        "pushed_at": "2025-07-02T10:26:39Z",
+        "pushed_at": "2025-07-02T10:57:39Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13199,7 +13199,7 @@
         "stars": 1251,
         "forks": 330,
         "language": "TypeScript",
-        "pushed_at": "2025-07-02T10:33:56Z",
+        "pushed_at": "2025-07-02T11:01:13Z",
         "created_at": "2018-11-21T03:27:08Z"
       },
       {
@@ -15867,7 +15867,7 @@
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
         "stars": 30265,
-        "forks": 3446,
+        "forks": 3447,
         "language": "Rust",
         "pushed_at": "2025-07-01T22:00:32Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16766,7 +16766,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12195,
+        "stars": 12196,
         "forks": 1864,
         "language": "Python",
         "pushed_at": "2025-06-30T09:52:01Z",
@@ -16897,7 +16897,7 @@
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
         "stars": 9415,
-        "forks": 1137,
+        "forks": 1136,
         "language": "TypeScript",
         "pushed_at": "2025-07-02T05:09:46Z",
         "created_at": "2021-12-14T22:32:58Z"
@@ -16916,7 +16916,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27231,
+        "stars": 27232,
         "forks": 4026,
         "language": "Python",
         "pushed_at": "2025-07-02T05:05:09Z",
@@ -17686,8 +17686,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84235,
-        "forks": 10254,
+        "stars": 84236,
+        "forks": 10255,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
