@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-02T09:20:44Z",
+        "pushed_at": "2025-07-02T09:50:05Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -5981,7 +5981,7 @@
         "name": "meta-st-x-linux-isp",
         "description": "X-LINUX-ISP is a free of charge open-source software package providing ISP (Image Signal Processing) image quality software targeting the STM32MP25x series that embed an ISP camera pipeline called DCMIPP.",
         "url": "https://github.com/STMicroelectronics/meta-st-x-linux-isp",
-        "stars": 5,
+        "stars": 6,
         "forks": 1,
         "language": "Python",
         "pushed_at": "2025-04-02T14:58:56Z",
@@ -11286,7 +11286,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15691,
+        "stars": 15692,
         "forks": 7737,
         "language": "C",
         "pushed_at": "2025-07-02T07:43:54Z",
@@ -11329,7 +11329,7 @@
         "stars": 7,
         "forks": 5,
         "language": "Python",
-        "pushed_at": "2025-07-01T12:57:04Z",
+        "pushed_at": "2025-07-02T09:54:38Z",
         "created_at": "2022-08-18T14:19:53Z"
       },
       {
@@ -11649,7 +11649,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-02T08:03:22Z",
+        "pushed_at": "2025-07-02T10:03:04Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -11886,7 +11886,7 @@
         "name": "esp-sr",
         "description": "Speech recognition",
         "url": "https://github.com/espressif/esp-sr",
-        "stars": 991,
+        "stars": 992,
         "forks": 150,
         "language": "C",
         "pushed_at": "2025-06-23T06:46:16Z",
@@ -11959,7 +11959,7 @@
         "stars": 45,
         "forks": 26,
         "language": "C++",
-        "pushed_at": "2025-07-01T13:38:55Z",
+        "pushed_at": "2025-07-02T09:55:44Z",
         "created_at": "2024-01-18T07:20:01Z"
       },
       {
@@ -12437,7 +12437,7 @@
         "description": "Latest ESP8266 SDK based on FreeRTOS, esp-idf style.",
         "url": "https://github.com/espressif/ESP8266_RTOS_SDK",
         "stars": 3451,
-        "forks": 1591,
+        "forks": 1592,
         "language": "C",
         "pushed_at": "2025-05-09T10:38:46Z",
         "created_at": "2014-12-05T09:27:12Z"
@@ -12849,7 +12849,7 @@
         "stars": 246,
         "forks": 23,
         "language": "LLVM",
-        "pushed_at": "2025-07-02T09:23:37Z",
+        "pushed_at": "2025-07-02T09:54:39Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15746,7 +15746,7 @@
         "name": "blocksparse",
         "description": "Efficient GPU kernels for block-sparse matrix multiplication and convolution",
         "url": "https://github.com/openai/blocksparse",
-        "stars": 1042,
+        "stars": 1043,
         "forks": 198,
         "language": "Cuda",
         "pushed_at": "2023-06-08T11:01:25Z",
@@ -16226,7 +16226,7 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 23723,
+        "stars": 23722,
         "forks": 5692,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
@@ -16306,7 +16306,7 @@
         "name": "guided-diffusion",
         "description": "（无简介）",
         "url": "https://github.com/openai/guided-diffusion",
-        "stars": 6873,
+        "stars": 6874,
         "forks": 865,
         "language": "Python",
         "pushed_at": "2024-07-02T11:26:50Z",
@@ -16887,7 +16887,7 @@
         "description": "The official Java library for the OpenAI API",
         "url": "https://github.com/openai/openai-java",
         "stars": 915,
-        "forks": 132,
+        "forks": 133,
         "language": "Kotlin",
         "pushed_at": "2025-07-01T17:11:07Z",
         "created_at": "2024-10-31T17:42:57Z"
@@ -16916,7 +16916,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27230,
+        "stars": 27231,
         "forks": 4026,
         "language": "Python",
         "pushed_at": "2025-07-02T05:05:09Z",
@@ -17556,7 +17556,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 14988,
+        "stars": 14989,
         "forks": 1109,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
@@ -17686,7 +17686,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84232,
+        "stars": 84235,
         "forks": 10254,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
