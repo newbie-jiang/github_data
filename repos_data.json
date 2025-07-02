@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-02T17:37:31Z",
+        "pushed_at": "2025-07-02T17:48:45Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3756,7 +3756,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12401,
+        "stars": 12403,
         "forks": 7577,
         "language": "C",
         "pushed_at": "2025-07-02T13:56:51Z",
@@ -10699,7 +10699,7 @@
         "stars": 36,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-07-02T15:03:13Z",
+        "pushed_at": "2025-07-02T18:08:10Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11286,7 +11286,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15696,
+        "stars": 15697,
         "forks": 7737,
         "language": "C",
         "pushed_at": "2025-07-02T10:46:00Z",
@@ -11649,7 +11649,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-02T16:15:59Z",
+        "pushed_at": "2025-07-02T18:03:46Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12436,7 +12436,7 @@
         "name": "ESP8266_RTOS_SDK",
         "description": "Latest ESP8266 SDK based on FreeRTOS, esp-idf style.",
         "url": "https://github.com/espressif/ESP8266_RTOS_SDK",
-        "stars": 3451,
+        "stars": 3452,
         "forks": 1593,
         "language": "C",
         "pushed_at": "2025-05-09T10:38:46Z",
@@ -12849,7 +12849,7 @@
         "stars": 246,
         "forks": 23,
         "language": "LLVM",
-        "pushed_at": "2025-07-02T17:46:37Z",
+        "pushed_at": "2025-07-02T18:17:38Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15481,7 +15481,7 @@
         "name": "rt-thread",
         "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
         "url": "https://github.com/RT-Thread/rt-thread",
-        "stars": 11243,
+        "stars": 11244,
         "forks": 5205,
         "language": "C",
         "pushed_at": "2025-07-02T06:50:24Z",
@@ -15866,8 +15866,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30276,
-        "forks": 3451,
+        "stars": 30278,
+        "forks": 3452,
         "language": "Rust",
         "pushed_at": "2025-07-01T22:00:32Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16316,7 +16316,7 @@
         "name": "gym",
         "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
         "url": "https://github.com/openai/gym",
-        "stars": 36183,
+        "stars": 36184,
         "forks": 8683,
         "language": "Python",
         "pushed_at": "2024-10-11T20:07:05Z",
@@ -16816,7 +16816,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5356,
+        "stars": 5357,
         "forks": 779,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -16849,7 +16849,7 @@
         "stars": 2113,
         "forks": 278,
         "language": "C#",
-        "pushed_at": "2025-07-02T06:33:33Z",
+        "pushed_at": "2025-07-02T18:01:17Z",
         "created_at": "2024-04-25T23:27:40Z"
       },
       {
@@ -16899,7 +16899,7 @@
         "stars": 9419,
         "forks": 1137,
         "language": "TypeScript",
-        "pushed_at": "2025-07-02T05:09:46Z",
+        "pushed_at": "2025-07-02T18:10:58Z",
         "created_at": "2021-12-14T22:32:58Z"
       },
       {
@@ -17641,6 +17641,66 @@
         "language": "Python",
         "pushed_at": "2018-11-22T00:40:29Z",
         "created_at": "2016-06-07T17:53:42Z"
+      },
+      {
+        "name": "weak-to-strong",
+        "description": "（无简介）",
+        "url": "https://github.com/openai/weak-to-strong",
+        "stars": 2528,
+        "forks": 307,
+        "language": "Python",
+        "pushed_at": "2024-05-19T23:30:56Z",
+        "created_at": "2023-12-13T23:53:13Z"
+      },
+      {
+        "name": "web-crawl-q-and-a-example",
+        "description": "Learn how to crawl your website and build a Q/A bot with the OpenAI API",
+        "url": "https://github.com/openai/web-crawl-q-and-a-example",
+        "stars": 313,
+        "forks": 181,
+        "language": "Jupyter Notebook",
+        "pushed_at": "2024-07-23T11:53:25Z",
+        "created_at": "2023-10-02T18:37:39Z"
+      },
+      {
+        "name": "websockify",
+        "description": "Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service. Implementations in Python, C, Node.js and Ruby.",
+        "url": "https://github.com/openai/websockify",
+        "stars": 27,
+        "forks": 29,
+        "language": "Python",
+        "pushed_at": "2016-11-07T06:39:01Z",
+        "created_at": "2016-11-18T20:36:06Z"
+      },
+      {
+        "name": "weightnorm",
+        "description": "Example code for Weight Normalization, from \"Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks\"",
+        "url": "https://github.com/openai/weightnorm",
+        "stars": 364,
+        "forks": 117,
+        "language": "Python",
+        "pushed_at": "2018-11-22T00:36:32Z",
+        "created_at": "2016-12-03T15:54:26Z"
+      },
+      {
+        "name": "whisper",
+        "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+        "url": "https://github.com/openai/whisper",
+        "stars": 84250,
+        "forks": 10261,
+        "language": "Python",
+        "pushed_at": "2025-06-26T01:05:52Z",
+        "created_at": "2022-09-16T20:02:54Z"
+      },
+      {
+        "name": "zbarlight",
+        "description": "A simple wrapper for zbar",
+        "url": "https://github.com/openai/zbarlight",
+        "stars": 3,
+        "forks": 15,
+        "language": "Python",
+        "pushed_at": "2016-12-09T04:37:05Z",
+        "created_at": "2016-11-05T22:59:16Z"
       }
     ]
   }
