@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-03T09:40:10Z",
+        "pushed_at": "2025-07-03T09:52:33Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3777,7 +3777,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 12406,
-        "forks": 7579,
+        "forks": 7580,
         "language": "C",
         "pushed_at": "2025-07-02T23:42:14Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -8081,7 +8081,7 @@
         "name": "stm32ai-modelzoo-services",
         "description": "AI Model Zoo services for STM32 devices",
         "url": "https://github.com/STMicroelectronics/stm32ai-modelzoo-services",
-        "stars": 55,
+        "stars": 56,
         "forks": 20,
         "language": "C",
         "pushed_at": "2025-06-25T09:17:51Z",
@@ -8481,7 +8481,7 @@
         "name": "STM32Cube_MCU_Overall_Offer",
         "description": "This repo describes all STM32 MCU related GitHub projects. The open source offer for the STM32 MCU products",
         "url": "https://github.com/STMicroelectronics/STM32Cube_MCU_Overall_Offer",
-        "stars": 635,
+        "stars": 636,
         "forks": 104,
         "language": "未指定",
         "pushed_at": "2025-06-30T16:23:07Z",
@@ -10817,7 +10817,7 @@
         "description": "Espressif Advanced Development Framework",
         "url": "https://github.com/espressif/esp-adf",
         "stars": 1957,
-        "forks": 778,
+        "forks": 779,
         "language": "C",
         "pushed_at": "2025-06-25T04:26:02Z",
         "created_at": "2018-04-02T07:03:49Z"
@@ -10997,7 +10997,7 @@
         "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
         "url": "https://github.com/espressif/esp-brookesia",
         "stars": 249,
-        "forks": 28,
+        "forks": 29,
         "language": "C",
         "pushed_at": "2025-06-17T02:43:34Z",
         "created_at": "2024-07-16T03:41:15Z"
@@ -11227,7 +11227,7 @@
         "description": "Espressif General Multimedia Framework (ESP-GMF)",
         "url": "https://github.com/espressif/esp-gmf",
         "stars": 41,
-        "forks": 11,
+        "forks": 12,
         "language": "C",
         "pushed_at": "2025-06-30T14:52:30Z",
         "created_at": "2024-11-27T06:37:49Z"
@@ -11306,8 +11306,8 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15703,
-        "forks": 7741,
+        "stars": 15704,
+        "forks": 7742,
         "language": "C",
         "pushed_at": "2025-07-02T23:26:59Z",
         "created_at": "2016-08-17T10:40:35Z"
@@ -11669,7 +11669,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-03T08:03:14Z",
+        "pushed_at": "2025-07-03T10:03:49Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -11906,7 +11906,7 @@
         "name": "esp-sr",
         "description": "Speech recognition",
         "url": "https://github.com/espressif/esp-sr",
-        "stars": 995,
+        "stars": 996,
         "forks": 150,
         "language": "C",
         "pushed_at": "2025-06-23T06:46:16Z",
@@ -12139,7 +12139,7 @@
         "stars": 278,
         "forks": 52,
         "language": "C",
-        "pushed_at": "2025-06-18T08:50:28Z",
+        "pushed_at": "2025-07-03T10:01:14Z",
         "created_at": "2022-08-16T21:18:27Z"
       },
       {
@@ -12869,7 +12869,7 @@
         "stars": 246,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-03T09:31:37Z",
+        "pushed_at": "2025-07-03T10:03:38Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13219,7 +13219,7 @@
         "stars": 1252,
         "forks": 330,
         "language": "TypeScript",
-        "pushed_at": "2025-07-03T09:25:42Z",
+        "pushed_at": "2025-07-03T10:14:37Z",
         "created_at": "2018-11-21T03:27:08Z"
       },
       {
@@ -15746,7 +15746,7 @@
         "name": "baselines",
         "description": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
         "url": "https://github.com/openai/baselines",
-        "stars": 16334,
+        "stars": 16333,
         "forks": 4913,
         "language": "Python",
         "pushed_at": "2024-08-01T21:31:33Z",
@@ -16266,7 +16266,7 @@
         "name": "gpt-3",
         "description": "GPT-3: Language Models are Few-Shot Learners",
         "url": "https://github.com/openai/gpt-3",
-        "stars": 15756,
+        "stars": 15755,
         "forks": 2305,
         "language": "未指定",
         "pushed_at": "2020-09-18T22:06:11Z",
@@ -16396,7 +16396,7 @@
         "name": "human-eval",
         "description": "Code for the paper \"Evaluating Large Language Models Trained on Code\"",
         "url": "https://github.com/openai/human-eval",
-        "stars": 2810,
+        "stars": 2811,
         "forks": 397,
         "language": "Python",
         "pushed_at": "2025-01-17T18:22:17Z",
@@ -16786,8 +16786,8 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12230,
-        "forks": 1872,
+        "stars": 12232,
+        "forks": 1873,
         "language": "Python",
         "pushed_at": "2025-07-03T05:26:33Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -16927,7 +16927,7 @@
         "description": "OpenAPI specification for the OpenAI API",
         "url": "https://github.com/openai/openai-openapi",
         "stars": 2090,
-        "forks": 459,
+        "forks": 460,
         "language": "未指定",
         "pushed_at": "2025-06-17T14:47:31Z",
         "created_at": "2021-12-14T22:18:57Z"
@@ -17576,7 +17576,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 14996,
+        "stars": 14997,
         "forks": 1110,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
@@ -17706,8 +17706,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84282,
-        "forks": 10271,
+        "stars": 84284,
+        "forks": 10272,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
