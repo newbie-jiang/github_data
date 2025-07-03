@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-03T03:11:49Z",
+        "pushed_at": "2025-07-03T04:02:15Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -10292,7 +10292,7 @@
         "description": "An AI software application package demonstrating complex use case on STM32N6 product: camera capture, people detection inference on NPU, H264 encoding and USB UVC streaming to host.",
         "url": "https://github.com/STMicroelectronics/x-cube-n6-ai-h264-usb-uvc",
         "stars": 3,
-        "forks": 0,
+        "forks": 1,
         "language": "C",
         "pushed_at": "2025-05-20T07:06:35Z",
         "created_at": "2025-04-22T12:38:08Z"
@@ -11649,7 +11649,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-03T02:34:36Z",
+        "pushed_at": "2025-07-03T04:10:37Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -11919,7 +11919,7 @@
         "stars": 153,
         "forks": 38,
         "language": "C",
-        "pushed_at": "2025-07-02T07:16:50Z",
+        "pushed_at": "2025-07-03T04:22:27Z",
         "created_at": "2022-06-15T12:06:21Z"
       },
       {
@@ -13199,7 +13199,7 @@
         "stars": 1252,
         "forks": 330,
         "language": "TypeScript",
-        "pushed_at": "2025-07-03T02:26:52Z",
+        "pushed_at": "2025-07-03T04:37:58Z",
         "created_at": "2018-11-21T03:27:08Z"
       },
       {
@@ -15836,7 +15836,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29643,
+        "stars": 29645,
         "forks": 3654,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -15866,7 +15866,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30297,
+        "stars": 30298,
         "forks": 3454,
         "language": "Rust",
         "pushed_at": "2025-07-01T22:00:32Z",
@@ -16226,7 +16226,7 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 23723,
+        "stars": 23724,
         "forks": 5693,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
@@ -16376,7 +16376,7 @@
         "name": "human-eval",
         "description": "Code for the paper \"Evaluating Large Language Models Trained on Code\"",
         "url": "https://github.com/openai/human-eval",
-        "stars": 2807,
+        "stars": 2808,
         "forks": 397,
         "language": "Python",
         "pushed_at": "2025-01-17T18:22:17Z",
@@ -16766,7 +16766,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12220,
+        "stars": 12221,
         "forks": 1867,
         "language": "Python",
         "pushed_at": "2025-06-30T09:52:01Z",
@@ -16947,7 +16947,7 @@
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
         "stars": 5991,
-        "forks": 815,
+        "forks": 816,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T14:47:04Z",
         "created_at": "2025-01-16T01:29:28Z"
@@ -17686,8 +17686,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84269,
-        "forks": 10263,
+        "stars": 84270,
+        "forks": 10264,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
