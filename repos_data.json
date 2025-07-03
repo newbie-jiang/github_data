@@ -249,7 +249,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-02T23:34:47Z",
+        "pushed_at": "2025-07-02T23:47:22Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -1811,7 +1811,7 @@
         "name": "sht2x",
         "description": "SHT2X(SHT20, SHT21, SHT25) full-featured driver library for general-purpose MCU and Linux.",
         "url": "https://github.com/libdriver/sht2x",
-        "stars": 27,
+        "stars": 28,
         "forks": 1,
         "language": "C",
         "pushed_at": "2025-04-18T15:58:13Z",
@@ -2889,7 +2889,7 @@
         "stars": 4,
         "forks": 14,
         "language": "C",
-        "pushed_at": "2025-06-25T08:32:32Z",
+        "pushed_at": "2025-07-03T01:12:22Z",
         "created_at": "2022-08-16T10:28:21Z"
       },
       {
@@ -10527,9 +10527,9 @@
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
         "stars": 15004,
-        "forks": 7650,
+        "forks": 7651,
         "language": "C++",
-        "pushed_at": "2025-07-02T21:19:20Z",
+        "pushed_at": "2025-07-03T01:01:36Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -10699,7 +10699,7 @@
         "stars": 36,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-07-02T23:18:13Z",
+        "pushed_at": "2025-07-03T01:22:12Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11117,7 +11117,7 @@
         "description": "Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.",
         "url": "https://github.com/espressif/esp-drone",
         "stars": 1153,
-        "forks": 302,
+        "forks": 303,
         "language": "C",
         "pushed_at": "2025-03-18T03:31:03Z",
         "created_at": "2020-06-22T07:14:49Z"
@@ -11649,7 +11649,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-02T22:03:06Z",
+        "pushed_at": "2025-07-03T00:06:31Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12849,7 +12849,7 @@
         "stars": 246,
         "forks": 23,
         "language": "LLVM",
-        "pushed_at": "2025-07-02T23:33:39Z",
+        "pushed_at": "2025-07-03T01:07:40Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -12969,7 +12969,7 @@
         "stars": 28,
         "forks": 9,
         "language": "C++",
-        "pushed_at": "2025-07-02T19:20:09Z",
+        "pushed_at": "2025-07-03T01:01:08Z",
         "created_at": "2021-03-01T07:44:10Z"
       },
       {
@@ -13196,10 +13196,10 @@
         "name": "vscode-esp-idf-extension",
         "description": "Visual Studio Code extension for ESP-IDF projects",
         "url": "https://github.com/espressif/vscode-esp-idf-extension",
-        "stars": 1251,
+        "stars": 1252,
         "forks": 330,
         "language": "TypeScript",
-        "pushed_at": "2025-07-02T11:01:13Z",
+        "pushed_at": "2025-07-03T00:29:09Z",
         "created_at": "2018-11-21T03:27:08Z"
       },
       {
@@ -15866,7 +15866,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30286,
+        "stars": 30291,
         "forks": 3454,
         "language": "Rust",
         "pushed_at": "2025-07-01T22:00:32Z",
@@ -16427,7 +16427,7 @@
         "description": "Release for Improved Denoising Diffusion Probabilistic Models",
         "url": "https://github.com/openai/improved-diffusion",
         "stars": 3611,
-        "forks": 520,
+        "forks": 519,
         "language": "Python",
         "pushed_at": "2024-07-18T02:45:29Z",
         "created_at": "2021-02-08T20:56:01Z"
@@ -16626,7 +16626,7 @@
         "name": "mle-bench",
         "description": "MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering",
         "url": "https://github.com/openai/mle-bench",
-        "stars": 779,
+        "stars": 780,
         "forks": 103,
         "language": "Python",
         "pushed_at": "2025-06-19T11:01:22Z",
@@ -16766,7 +16766,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12210,
+        "stars": 12213,
         "forks": 1866,
         "language": "Python",
         "pushed_at": "2025-06-30T09:52:01Z",
@@ -16806,7 +16806,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65033,
+        "stars": 65036,
         "forks": 10781,
         "language": "MDX",
         "pushed_at": "2025-06-27T13:28:02Z",
@@ -16816,7 +16816,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5359,
+        "stars": 5364,
         "forks": 779,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -16849,7 +16849,7 @@
         "stars": 2115,
         "forks": 279,
         "language": "C#",
-        "pushed_at": "2025-07-02T23:20:04Z",
+        "pushed_at": "2025-07-03T00:06:15Z",
         "created_at": "2024-04-25T23:27:40Z"
       },
       {
@@ -16896,7 +16896,7 @@
         "name": "openai-node",
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
-        "stars": 9420,
+        "stars": 9419,
         "forks": 1137,
         "language": "TypeScript",
         "pushed_at": "2025-07-02T21:28:22Z",
@@ -16947,7 +16947,7 @@
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
         "stars": 5991,
-        "forks": 813,
+        "forks": 814,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T14:47:04Z",
         "created_at": "2025-01-16T01:29:28Z"
@@ -16966,7 +16966,7 @@
         "name": "openai-realtime-console",
         "description": "React app for inspecting, building and debugging with the Realtime API",
         "url": "https://github.com/openai/openai-realtime-console",
-        "stars": 3314,
+        "stars": 3315,
         "forks": 1286,
         "language": "JavaScript",
         "pushed_at": "2025-06-23T22:48:16Z",
@@ -17016,7 +17016,7 @@
         "name": "openai-ruby",
         "description": "Official Ruby SDK for the OpenAI API",
         "url": "https://github.com/openai/openai-ruby",
-        "stars": 259,
+        "stars": 260,
         "forks": 18,
         "language": "Ruby",
         "pushed_at": "2025-06-30T17:28:42Z",
@@ -17556,7 +17556,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 14992,
+        "stars": 14993,
         "forks": 1110,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
@@ -17686,7 +17686,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84263,
+        "stars": 84265,
         "forks": 10262,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
