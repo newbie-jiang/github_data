@@ -259,7 +259,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-04T23:32:05Z",
+        "pushed_at": "2025-07-04T23:46:04Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3799,7 +3799,7 @@
         "stars": 12412,
         "forks": 7589,
         "language": "C",
-        "pushed_at": "2025-07-04T20:51:55Z",
+        "pushed_at": "2025-07-05T00:21:47Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -10847,7 +10847,7 @@
         "description": "（无简介）",
         "url": "https://github.com/espressif/esp-adf-libs",
         "stars": 81,
-        "forks": 48,
+        "forks": 49,
         "language": "C",
         "pushed_at": "2025-05-13T10:11:20Z",
         "created_at": "2018-04-02T07:04:20Z"
@@ -11689,7 +11689,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-04T22:02:59Z",
+        "pushed_at": "2025-07-05T00:05:48Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -11927,7 +11927,7 @@
         "description": "Speech recognition",
         "url": "https://github.com/espressif/esp-sr",
         "stars": 998,
-        "forks": 150,
+        "forks": 151,
         "language": "C",
         "pushed_at": "2025-06-23T06:46:16Z",
         "created_at": "2019-07-29T13:27:25Z"
@@ -12889,7 +12889,7 @@
         "stars": 246,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-04T23:22:38Z",
+        "pushed_at": "2025-07-05T00:57:39Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15837,7 +15837,7 @@
         "description": "The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.",
         "url": "https://github.com/openai/chatgpt-retrieval-plugin",
         "stars": 21188,
-        "forks": 3681,
+        "forks": 3680,
         "language": "Python",
         "pushed_at": "2024-07-04T22:00:16Z",
         "created_at": "2023-03-23T06:06:22Z"
@@ -15876,7 +15876,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29677,
+        "stars": 29678,
         "forks": 3655,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -15906,8 +15906,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30413,
-        "forks": 3467,
+        "stars": 30416,
+        "forks": 3469,
         "language": "Rust",
         "pushed_at": "2025-07-01T22:00:32Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16416,7 +16416,7 @@
         "name": "human-eval",
         "description": "Code for the paper \"Evaluating Large Language Models Trained on Code\"",
         "url": "https://github.com/openai/human-eval",
-        "stars": 2814,
+        "stars": 2815,
         "forks": 397,
         "language": "Python",
         "pushed_at": "2025-01-17T18:22:17Z",
@@ -16806,7 +16806,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12290,
+        "stars": 12291,
         "forks": 1883,
         "language": "Python",
         "pushed_at": "2025-07-04T11:22:55Z",
@@ -16846,7 +16846,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65066,
+        "stars": 65067,
         "forks": 10791,
         "language": "MDX",
         "pushed_at": "2025-06-27T13:28:02Z",
@@ -16866,7 +16866,7 @@
         "name": "openai-cua-sample-app",
         "description": "Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.",
         "url": "https://github.com/openai/openai-cua-sample-app",
-        "stars": 986,
+        "stars": 987,
         "forks": 289,
         "language": "Python",
         "pushed_at": "2025-04-24T17:36:50Z",
@@ -16957,7 +16957,7 @@
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
         "stars": 27250,
-        "forks": 4031,
+        "forks": 4032,
         "language": "Python",
         "pushed_at": "2025-07-04T05:05:31Z",
         "created_at": "2020-10-25T23:23:54Z"
@@ -17036,7 +17036,7 @@
         "name": "openai-realtime-twilio-demo",
         "description": "（无简介）",
         "url": "https://github.com/openai/openai-realtime-twilio-demo",
-        "stars": 376,
+        "stars": 377,
         "forks": 123,
         "language": "TypeScript",
         "pushed_at": "2024-12-30T16:38:04Z",
@@ -17726,8 +17726,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84369,
-        "forks": 10282,
+        "stars": 84373,
+        "forks": 10283,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
