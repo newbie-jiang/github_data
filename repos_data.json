@@ -269,7 +269,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-07T09:22:00Z",
+        "pushed_at": "2025-07-07T09:49:59Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -10596,10 +10596,10 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15022,
+        "stars": 15023,
         "forks": 7656,
         "language": "C++",
-        "pushed_at": "2025-07-07T09:18:28Z",
+        "pushed_at": "2025-07-07T10:01:51Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -10769,7 +10769,7 @@
         "stars": 36,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-07-07T07:43:09Z",
+        "pushed_at": "2025-07-07T10:18:11Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -10819,7 +10819,7 @@
         "stars": 17,
         "forks": 42,
         "language": "HTML",
-        "pushed_at": "2025-07-02T13:47:43Z",
+        "pushed_at": "2025-07-07T10:16:38Z",
         "created_at": "2024-02-08T09:26:09Z"
       },
       {
@@ -11049,7 +11049,7 @@
         "stars": 255,
         "forks": 36,
         "language": "C",
-        "pushed_at": "2025-07-07T09:35:53Z",
+        "pushed_at": "2025-07-07T10:15:16Z",
         "created_at": "2024-07-16T03:41:15Z"
       },
       {
@@ -11719,7 +11719,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-07T08:03:29Z",
+        "pushed_at": "2025-07-07T10:03:12Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -11956,7 +11956,7 @@
         "name": "esp-sr",
         "description": "Speech recognition",
         "url": "https://github.com/espressif/esp-sr",
-        "stars": 1000,
+        "stars": 1001,
         "forks": 151,
         "language": "C",
         "pushed_at": "2025-06-23T06:46:16Z",
@@ -12029,7 +12029,7 @@
         "stars": 46,
         "forks": 27,
         "language": "C++",
-        "pushed_at": "2025-07-04T19:16:00Z",
+        "pushed_at": "2025-07-07T10:15:02Z",
         "created_at": "2024-01-18T07:20:01Z"
       },
       {
@@ -13249,7 +13249,7 @@
         "stars": 8,
         "forks": 4,
         "language": "Python",
-        "pushed_at": "2025-06-09T22:16:01Z",
+        "pushed_at": "2025-07-07T10:17:06Z",
         "created_at": "2022-06-22T12:35:43Z"
       },
       {
@@ -13269,7 +13269,7 @@
         "stars": 1254,
         "forks": 330,
         "language": "TypeScript",
-        "pushed_at": "2025-07-07T09:44:19Z",
+        "pushed_at": "2025-07-07T10:09:50Z",
         "created_at": "2018-11-21T03:27:08Z"
       },
       {
@@ -15846,7 +15846,7 @@
         "name": "build-hours",
         "description": "Build hours code to share.",
         "url": "https://github.com/openai/build-hours",
-        "stars": 370,
+        "stars": 371,
         "forks": 76,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-06-17T18:39:26Z",
@@ -15936,7 +15936,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30512,
+        "stars": 30515,
         "forks": 3490,
         "language": "Rust",
         "pushed_at": "2025-07-06T18:02:18Z",
@@ -16146,7 +16146,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 16515,
+        "stars": 16517,
         "forks": 2747,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -16386,7 +16386,7 @@
         "name": "gym",
         "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
         "url": "https://github.com/openai/gym",
-        "stars": 36203,
+        "stars": 36204,
         "forks": 8683,
         "language": "Python",
         "pushed_at": "2024-10-11T20:07:05Z",
@@ -16876,7 +16876,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65108,
+        "stars": 65109,
         "forks": 10801,
         "language": "MDX",
         "pushed_at": "2025-07-07T08:52:39Z",
@@ -17017,7 +17017,7 @@
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
         "stars": 6003,
-        "forks": 815,
+        "forks": 817,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T14:47:04Z",
         "created_at": "2025-01-16T01:29:28Z"
@@ -17626,7 +17626,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 15030,
+        "stars": 15031,
         "forks": 1117,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
@@ -17756,8 +17756,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84487,
-        "forks": 10305,
+        "stars": 84488,
+        "forks": 10306,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -17801,7 +17801,7 @@
         "name": "abi-aa",
         "description": "Application Binary Interface for the Arm® Architecture",
         "url": "https://github.com/ARM-software/abi-aa",
-        "stars": 1086,
+        "stars": 1087,
         "forks": 206,
         "language": "HTML",
         "pushed_at": "2025-06-25T10:09:56Z",
@@ -18231,7 +18231,7 @@
         "name": "CMSIS-DSP",
         "description": "CMSIS-DSP embedded compute library for Cortex-M and Cortex-A",
         "url": "https://github.com/ARM-software/CMSIS-DSP",
-        "stars": 746,
+        "stars": 747,
         "forks": 180,
         "language": "C",
         "pushed_at": "2025-06-16T12:52:18Z",
@@ -18371,7 +18371,7 @@
         "name": "CMSIS_6",
         "description": "CMSIS version 6 (successor of CMSIS_5)",
         "url": "https://github.com/ARM-software/CMSIS_6",
-        "stars": 287,
+        "stars": 288,
         "forks": 103,
         "language": "C",
         "pushed_at": "2025-06-24T08:54:11Z",
