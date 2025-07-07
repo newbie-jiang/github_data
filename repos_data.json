@@ -269,7 +269,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-07T13:47:42Z",
+        "pushed_at": "2025-07-07T14:17:43Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3817,7 +3817,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 12430,
-        "forks": 7593,
+        "forks": 7594,
         "language": "C",
         "pushed_at": "2025-07-05T16:56:11Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -6254,7 +6254,7 @@
         "stars": 1,
         "forks": 0,
         "language": "QML",
-        "pushed_at": "2024-10-10T14:22:41Z",
+        "pushed_at": "2025-07-07T14:27:59Z",
         "created_at": "2024-06-24T13:08:40Z"
       },
       {
@@ -10599,7 +10599,7 @@
         "stars": 15023,
         "forks": 7656,
         "language": "C++",
-        "pushed_at": "2025-07-07T14:17:17Z",
+        "pushed_at": "2025-07-07T14:23:33Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -11496,7 +11496,7 @@
         "name": "esp-idf-template",
         "description": "Template application for https://github.com/espressif/esp-idf",
         "url": "https://github.com/espressif/esp-idf-template",
-        "stars": 345,
+        "stars": 346,
         "forks": 206,
         "language": "Makefile",
         "pushed_at": "2022-04-30T12:35:48Z",
@@ -12919,7 +12919,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-07T14:00:45Z",
+        "pushed_at": "2025-07-07T14:32:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13079,7 +13079,7 @@
         "stars": 0,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-07T14:07:17Z",
+        "pushed_at": "2025-07-07T14:31:01Z",
         "created_at": "2025-06-30T13:45:39Z"
       },
       {
@@ -15551,7 +15551,7 @@
         "name": "rt-thread",
         "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
         "url": "https://github.com/RT-Thread/rt-thread",
-        "stars": 11259,
+        "stars": 11260,
         "forks": 5208,
         "language": "C",
         "pushed_at": "2025-07-07T11:23:06Z",
@@ -15936,8 +15936,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30521,
-        "forks": 3491,
+        "stars": 30522,
+        "forks": 3492,
         "language": "Rust",
         "pushed_at": "2025-07-06T18:02:18Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -15946,7 +15946,7 @@
         "name": "codex-universal",
         "description": "Base docker image used in Codex environments",
         "url": "https://github.com/openai/codex-universal",
-        "stars": 473,
+        "stars": 474,
         "forks": 113,
         "language": "Dockerfile",
         "pushed_at": "2025-05-28T03:10:36Z",
@@ -16146,7 +16146,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 16517,
+        "stars": 16518,
         "forks": 2747,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -16296,7 +16296,7 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 23743,
+        "stars": 23744,
         "forks": 5690,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
@@ -16766,7 +16766,7 @@
         "name": "multi-agent-emergence-environments",
         "description": "Environment generation code for the paper \"Emergent Tool Use From Multi-Agent Autocurricula\"",
         "url": "https://github.com/openai/multi-agent-emergence-environments",
-        "stars": 1720,
+        "stars": 1719,
         "forks": 318,
         "language": "Python",
         "pushed_at": "2024-07-30T20:54:31Z",
@@ -16877,7 +16877,7 @@
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
         "stars": 65111,
-        "forks": 10802,
+        "forks": 10803,
         "language": "MDX",
         "pushed_at": "2025-07-07T13:23:11Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -16986,7 +16986,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27275,
+        "stars": 27276,
         "forks": 4038,
         "language": "Python",
         "pushed_at": "2025-07-07T12:40:03Z",
@@ -17016,7 +17016,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 6003,
+        "stars": 6004,
         "forks": 817,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T14:47:04Z",
@@ -17497,7 +17497,7 @@
         "description": "（无简介）",
         "url": "https://github.com/openai/simple-evals",
         "stars": 3789,
-        "forks": 380,
+        "forks": 381,
         "language": "Python",
         "pushed_at": "2025-05-13T17:36:18Z",
         "created_at": "2024-04-11T22:38:17Z"
@@ -17756,7 +17756,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84498,
+        "stars": 84500,
         "forks": 10308,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
@@ -19414,7 +19414,7 @@
         "stars": 3,
         "forks": 9,
         "language": "C",
-        "pushed_at": "2025-07-01T13:01:42Z",
+        "pushed_at": "2025-07-07T14:32:01Z",
         "created_at": "2025-06-03T10:51:15Z"
       },
       {
