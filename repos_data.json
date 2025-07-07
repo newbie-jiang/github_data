@@ -269,7 +269,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-07T06:57:07Z",
+        "pushed_at": "2025-07-07T07:22:18Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3816,8 +3816,8 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12427,
-        "forks": 7593,
+        "stars": 12429,
+        "forks": 7592,
         "language": "C",
         "pushed_at": "2025-07-05T16:56:11Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -4244,7 +4244,7 @@
         "stars": 3,
         "forks": 1,
         "language": "C",
-        "pushed_at": "2025-07-07T07:01:12Z",
+        "pushed_at": "2025-07-07T07:36:09Z",
         "created_at": "2023-03-09T10:48:50Z"
       },
       {
@@ -4254,7 +4254,7 @@
         "stars": 1,
         "forks": 0,
         "language": "C",
-        "pushed_at": "2025-07-01T09:03:58Z",
+        "pushed_at": "2025-07-07T07:40:06Z",
         "created_at": "2024-04-11T12:14:55Z"
       },
       {
@@ -8471,7 +8471,7 @@
         "name": "STM32CubeU5-V2-Preview",
         "description": "This is a preview of the upcoming STM32Cube HAL2 Drivers for STM32U5 featuring several enhancements and updates and intended to enable the STM32 community to experiment and give feedback.",
         "url": "https://github.com/STMicroelectronics/STM32CubeU5-V2-Preview",
-        "stars": 0,
+        "stars": 1,
         "forks": 0,
         "language": "C",
         "pushed_at": "2025-07-05T08:12:23Z",
@@ -10769,7 +10769,7 @@
         "stars": 36,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-07-07T07:12:09Z",
+        "pushed_at": "2025-07-07T07:43:09Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11049,7 +11049,7 @@
         "stars": 255,
         "forks": 36,
         "language": "C",
-        "pushed_at": "2025-07-07T07:17:21Z",
+        "pushed_at": "2025-07-07T07:30:54Z",
         "created_at": "2024-07-16T03:41:15Z"
       },
       {
@@ -12749,7 +12749,7 @@
         "stars": 13,
         "forks": 2,
         "language": "Rust",
-        "pushed_at": "2025-07-07T07:21:32Z",
+        "pushed_at": "2025-07-07T07:40:58Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
@@ -12919,7 +12919,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-07T07:11:42Z",
+        "pushed_at": "2025-07-07T07:42:38Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15936,7 +15936,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30506,
+        "stars": 30507,
         "forks": 3490,
         "language": "Rust",
         "pushed_at": "2025-07-06T18:02:18Z",
@@ -16826,7 +16826,7 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 729,
+        "stars": 730,
         "forks": 130,
         "language": "TypeScript",
         "pushed_at": "2025-07-07T01:48:10Z",
@@ -16839,7 +16839,7 @@
         "stars": 12348,
         "forks": 1891,
         "language": "Python",
-        "pushed_at": "2025-07-05T15:49:26Z",
+        "pushed_at": "2025-07-07T07:32:10Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -16876,7 +16876,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65107,
+        "stars": 65108,
         "forks": 10801,
         "language": "MDX",
         "pushed_at": "2025-06-27T13:28:02Z",
@@ -16887,7 +16887,7 @@
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
         "stars": 5430,
-        "forks": 789,
+        "forks": 788,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
         "created_at": "2025-06-14T03:07:09Z"
@@ -17496,7 +17496,7 @@
         "name": "simple-evals",
         "description": "（无简介）",
         "url": "https://github.com/openai/simple-evals",
-        "stars": 3786,
+        "stars": 3787,
         "forks": 380,
         "language": "Python",
         "pushed_at": "2025-05-13T17:36:18Z",
@@ -17626,7 +17626,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 15029,
+        "stars": 15030,
         "forks": 1117,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
@@ -17756,7 +17756,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84481,
+        "stars": 84482,
         "forks": 10305,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
@@ -18314,7 +18314,7 @@
         "stars": 28,
         "forks": 3,
         "language": "Python",
-        "pushed_at": "2025-07-07T07:03:17Z",
+        "pushed_at": "2025-07-07T07:43:32Z",
         "created_at": "2023-05-10T14:36:34Z"
       },
       {
@@ -18914,7 +18914,7 @@
         "stars": 117,
         "forks": 38,
         "language": "C",
-        "pushed_at": "2025-07-04T12:53:02Z",
+        "pushed_at": "2025-07-07T07:47:25Z",
         "created_at": "2024-04-24T09:01:30Z"
       },
       {
