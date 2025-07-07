@@ -269,7 +269,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-07T03:15:39Z",
+        "pushed_at": "2025-07-07T04:04:07Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -10669,7 +10669,7 @@
         "stars": 14,
         "forks": 9,
         "language": "C",
-        "pushed_at": "2025-06-07T08:26:16Z",
+        "pushed_at": "2025-07-07T04:40:38Z",
         "created_at": "2018-07-09T05:46:27Z"
       },
       {
@@ -10789,7 +10789,7 @@
         "stars": 136,
         "forks": 65,
         "language": "Shell",
-        "pushed_at": "2025-06-07T13:42:43Z",
+        "pushed_at": "2025-07-07T04:45:39Z",
         "created_at": "2016-08-19T06:13:15Z"
       },
       {
@@ -10936,10 +10936,10 @@
         "name": "esp-at",
         "description": "AT application for ESP32/ESP32-C2/ESP32-C3/ESP32-C6/ESP8266",
         "url": "https://github.com/espressif/esp-at",
-        "stars": 1034,
+        "stars": 1035,
         "forks": 999,
         "language": "C",
-        "pushed_at": "2025-07-01T11:20:20Z",
+        "pushed_at": "2025-07-07T04:42:06Z",
         "created_at": "2017-01-11T15:36:52Z"
       },
       {
@@ -11046,7 +11046,7 @@
         "name": "esp-brookesia",
         "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
         "url": "https://github.com/espressif/esp-brookesia",
-        "stars": 253,
+        "stars": 254,
         "forks": 36,
         "language": "C",
         "pushed_at": "2025-07-06T03:40:13Z",
@@ -11719,7 +11719,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-07T02:37:58Z",
+        "pushed_at": "2025-07-07T04:12:04Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12589,7 +12589,7 @@
         "stars": 13,
         "forks": 14,
         "language": "C++",
-        "pushed_at": "2025-06-07T06:55:47Z",
+        "pushed_at": "2025-07-07T04:39:34Z",
         "created_at": "2018-07-09T05:46:46Z"
       },
       {
@@ -12919,7 +12919,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-07T02:27:37Z",
+        "pushed_at": "2025-07-07T04:32:40Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -12989,7 +12989,7 @@
         "stars": 34,
         "forks": 19,
         "language": "C",
-        "pushed_at": "2025-06-09T08:34:02Z",
+        "pushed_at": "2025-07-07T04:38:52Z",
         "created_at": "2016-10-13T19:40:32Z"
       },
       {
@@ -13504,7 +13504,7 @@
         "stars": 41,
         "forks": 36,
         "language": "C",
-        "pushed_at": "2025-07-01T04:12:54Z",
+        "pushed_at": "2025-07-07T04:17:03Z",
         "created_at": "2024-05-10T02:00:41Z"
       },
       {
@@ -15906,8 +15906,8 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29700,
-        "forks": 3655,
+        "stars": 29702,
+        "forks": 3656,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
         "created_at": "2020-12-16T11:24:42Z"
@@ -15936,7 +15936,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30497,
+        "stars": 30499,
         "forks": 3489,
         "language": "Rust",
         "pushed_at": "2025-07-06T18:02:18Z",
@@ -16296,8 +16296,8 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 23740,
-        "forks": 5692,
+        "stars": 23741,
+        "forks": 5691,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
         "created_at": "2019-02-11T04:21:59Z"
@@ -16376,7 +16376,7 @@
         "name": "guided-diffusion",
         "description": "（无简介）",
         "url": "https://github.com/openai/guided-diffusion",
-        "stars": 6884,
+        "stars": 6885,
         "forks": 866,
         "language": "Python",
         "pushed_at": "2024-07-02T11:26:50Z",
@@ -16536,7 +16536,7 @@
         "name": "jukebox",
         "description": "Code for the paper \"Jukebox: A Generative Model for Music\"",
         "url": "https://github.com/openai/jukebox",
-        "stars": 8001,
+        "stars": 8002,
         "forks": 1448,
         "language": "Python",
         "pushed_at": "2024-06-19T05:14:24Z",
@@ -16696,7 +16696,7 @@
         "name": "mle-bench",
         "description": "MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering",
         "url": "https://github.com/openai/mle-bench",
-        "stars": 787,
+        "stars": 788,
         "forks": 103,
         "language": "Python",
         "pushed_at": "2025-06-19T11:01:22Z",
@@ -16836,7 +16836,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12344,
+        "stars": 12347,
         "forks": 1891,
         "language": "Python",
         "pushed_at": "2025-07-05T15:49:26Z",
@@ -16876,7 +16876,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65105,
+        "stars": 65106,
         "forks": 10799,
         "language": "MDX",
         "pushed_at": "2025-06-27T13:28:02Z",
@@ -16917,7 +16917,7 @@
         "description": "The official .NET library for the OpenAI API",
         "url": "https://github.com/openai/openai-dotnet",
         "stars": 2121,
-        "forks": 280,
+        "forks": 281,
         "language": "C#",
         "pushed_at": "2025-07-03T06:53:35Z",
         "created_at": "2024-04-25T23:27:40Z"
@@ -17496,7 +17496,7 @@
         "name": "simple-evals",
         "description": "（无简介）",
         "url": "https://github.com/openai/simple-evals",
-        "stars": 3784,
+        "stars": 3786,
         "forks": 380,
         "language": "Python",
         "pushed_at": "2025-05-13T17:36:18Z",
@@ -17586,7 +17586,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 20040,
+        "stars": 20042,
         "forks": 2138,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
@@ -17626,7 +17626,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 15025,
+        "stars": 15026,
         "forks": 1117,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
@@ -17756,7 +17756,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84472,
+        "stars": 84474,
         "forks": 10305,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
