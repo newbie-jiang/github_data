@@ -269,7 +269,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-08T14:16:36Z",
+        "pushed_at": "2025-07-08T14:40:32Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3559,7 +3559,7 @@
         "stars": 211,
         "forks": 158,
         "language": "C",
-        "pushed_at": "2025-07-08T10:33:21Z",
+        "pushed_at": "2025-07-08T15:04:47Z",
         "created_at": "2017-05-30T03:13:29Z"
       },
       {
@@ -3817,7 +3817,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 12430,
-        "forks": 7598,
+        "forks": 7599,
         "language": "C",
         "pushed_at": "2025-07-08T11:33:47Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -6054,7 +6054,7 @@
         "stars": 7,
         "forks": 1,
         "language": "HTML",
-        "pushed_at": "2025-07-08T12:13:57Z",
+        "pushed_at": "2025-07-08T14:41:38Z",
         "created_at": "2024-06-24T13:07:58Z"
       },
       {
@@ -10599,7 +10599,7 @@
         "stars": 15032,
         "forks": 7655,
         "language": "C++",
-        "pushed_at": "2025-07-08T13:18:45Z",
+        "pushed_at": "2025-07-08T14:59:48Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -10769,7 +10769,7 @@
         "stars": 36,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-07-08T14:10:10Z",
+        "pushed_at": "2025-07-08T15:13:11Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -10847,7 +10847,7 @@
         "description": "Generate single-file API reference in Markdown for C/C++",
         "url": "https://github.com/espressif/doxybook",
         "stars": 5,
-        "forks": 0,
+        "forks": 1,
         "language": "Python",
         "pushed_at": "2025-05-23T10:58:29Z",
         "created_at": "2022-10-21T07:22:51Z"
@@ -10937,7 +10937,7 @@
         "description": "AT application for ESP32/ESP32-C2/ESP32-C3/ESP32-C6/ESP8266",
         "url": "https://github.com/espressif/esp-at",
         "stars": 1035,
-        "forks": 999,
+        "forks": 1000,
         "language": "C",
         "pushed_at": "2025-07-07T04:42:06Z",
         "created_at": "2017-01-11T15:36:52Z"
@@ -11357,7 +11357,7 @@
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
         "stars": 15743,
-        "forks": 7750,
+        "forks": 7751,
         "language": "C",
         "pushed_at": "2025-07-08T06:14:21Z",
         "created_at": "2016-08-17T10:40:35Z"
@@ -11526,7 +11526,7 @@
         "name": "esp-iot-bridge",
         "description": "A smart bridge to make both ESP and the other MCU or smart device can access the Internet.",
         "url": "https://github.com/espressif/esp-iot-bridge",
-        "stars": 192,
+        "stars": 193,
         "forks": 64,
         "language": "C",
         "pushed_at": "2025-07-04T12:04:32Z",
@@ -11956,7 +11956,7 @@
         "name": "esp-sr",
         "description": "Speech recognition",
         "url": "https://github.com/espressif/esp-sr",
-        "stars": 1003,
+        "stars": 1004,
         "forks": 151,
         "language": "C",
         "pushed_at": "2025-07-08T14:05:53Z",
@@ -12919,7 +12919,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-08T14:10:38Z",
+        "pushed_at": "2025-07-08T15:13:42Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13269,7 +13269,7 @@
         "stars": 1254,
         "forks": 330,
         "language": "TypeScript",
-        "pushed_at": "2025-07-08T11:30:51Z",
+        "pushed_at": "2025-07-08T14:47:52Z",
         "created_at": "2018-11-21T03:27:08Z"
       },
       {
@@ -15947,7 +15947,7 @@
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
         "stars": 30576,
-        "forks": 3499,
+        "forks": 3500,
         "language": "Rust",
         "pushed_at": "2025-07-08T06:51:36Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16836,7 +16836,7 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 737,
+        "stars": 738,
         "forks": 132,
         "language": "TypeScript",
         "pushed_at": "2025-07-07T14:15:53Z",
@@ -16846,10 +16846,10 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12395,
+        "stars": 12396,
         "forks": 1900,
         "language": "Python",
-        "pushed_at": "2025-07-08T13:38:37Z",
+        "pushed_at": "2025-07-08T15:17:44Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -16889,14 +16889,14 @@
         "stars": 65135,
         "forks": 10805,
         "language": "MDX",
-        "pushed_at": "2025-07-08T08:21:16Z",
+        "pushed_at": "2025-07-08T15:18:24Z",
         "created_at": "2022-03-11T02:08:53Z"
       },
       {
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5457,
+        "stars": 5459,
         "forks": 793,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -16979,7 +16979,7 @@
         "stars": 9442,
         "forks": 1140,
         "language": "TypeScript",
-        "pushed_at": "2025-07-08T05:08:52Z",
+        "pushed_at": "2025-07-08T14:48:46Z",
         "created_at": "2021-12-14T22:32:58Z"
       },
       {
@@ -16996,7 +16996,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27288,
+        "stars": 27289,
         "forks": 4042,
         "language": "Python",
         "pushed_at": "2025-07-08T14:25:14Z",
@@ -17076,7 +17076,7 @@
         "name": "openai-realtime-twilio-demo",
         "description": "（无简介）",
         "url": "https://github.com/openai/openai-realtime-twilio-demo",
-        "stars": 375,
+        "stars": 376,
         "forks": 123,
         "language": "TypeScript",
         "pushed_at": "2024-12-30T16:38:04Z",
@@ -17766,8 +17766,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84560,
-        "forks": 10323,
+        "stars": 84563,
+        "forks": 10324,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -17854,7 +17854,7 @@
         "stars": 344,
         "forks": 81,
         "language": "C",
-        "pushed_at": "2025-07-08T14:39:08Z",
+        "pushed_at": "2025-07-08T14:42:13Z",
         "created_at": "2022-06-13T09:08:33Z"
       },
       {
