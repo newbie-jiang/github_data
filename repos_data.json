@@ -269,7 +269,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-08T10:42:38Z",
+        "pushed_at": "2025-07-08T11:15:57Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3817,7 +3817,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 12430,
-        "forks": 7596,
+        "forks": 7597,
         "language": "C",
         "pushed_at": "2025-07-08T09:32:53Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -5794,7 +5794,7 @@
         "stars": 7,
         "forks": 3,
         "language": "C",
-        "pushed_at": "2025-07-01T08:06:06Z",
+        "pushed_at": "2025-07-08T11:17:52Z",
         "created_at": "2022-08-02T20:00:55Z"
       },
       {
@@ -5804,7 +5804,7 @@
         "stars": 1,
         "forks": 1,
         "language": "C",
-        "pushed_at": "2025-07-01T08:06:07Z",
+        "pushed_at": "2025-07-08T11:23:52Z",
         "created_at": "2025-04-07T08:06:07Z"
       },
       {
@@ -5814,7 +5814,7 @@
         "stars": 2,
         "forks": 0,
         "language": "C",
-        "pushed_at": "2025-07-01T08:06:08Z",
+        "pushed_at": "2025-07-08T11:26:45Z",
         "created_at": "2024-02-22T08:52:34Z"
       },
       {
@@ -5882,7 +5882,7 @@
         "description": "meta-st-openstlinux",
         "url": "https://github.com/STMicroelectronics/meta-st-openstlinux",
         "stars": 107,
-        "forks": 40,
+        "forks": 41,
         "language": "C",
         "pushed_at": "2025-07-02T06:46:08Z",
         "created_at": "2019-01-17T09:30:18Z"
@@ -6054,7 +6054,7 @@
         "stars": 7,
         "forks": 1,
         "language": "HTML",
-        "pushed_at": "2024-12-06T11:32:49Z",
+        "pushed_at": "2025-07-08T11:30:11Z",
         "created_at": "2024-06-24T13:07:58Z"
       },
       {
@@ -10599,7 +10599,7 @@
         "stars": 15028,
         "forks": 7656,
         "language": "C++",
-        "pushed_at": "2025-07-08T10:10:59Z",
+        "pushed_at": "2025-07-08T11:24:54Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -11059,7 +11059,7 @@
         "stars": 299,
         "forks": 153,
         "language": "C",
-        "pushed_at": "2025-07-08T10:42:10Z",
+        "pushed_at": "2025-07-08T11:19:51Z",
         "created_at": "2021-09-14T09:33:04Z"
       },
       {
@@ -12656,7 +12656,7 @@
         "name": "idf-clion-plugin",
         "description": "CLion plugin for ESP-IDF",
         "url": "https://github.com/espressif/idf-clion-plugin",
-        "stars": 21,
+        "stars": 22,
         "forks": 5,
         "language": "Java",
         "pushed_at": "2024-06-07T18:30:28Z",
@@ -12829,7 +12829,7 @@
         "stars": 3,
         "forks": 1,
         "language": "JavaScript",
-        "pushed_at": "2025-01-30T13:05:56Z",
+        "pushed_at": "2025-07-08T11:19:14Z",
         "created_at": "2025-01-10T12:57:58Z"
       },
       {
@@ -13269,7 +13269,7 @@
         "stars": 1254,
         "forks": 330,
         "language": "TypeScript",
-        "pushed_at": "2025-07-08T11:14:49Z",
+        "pushed_at": "2025-07-08T11:30:51Z",
         "created_at": "2018-11-21T03:27:08Z"
       },
       {
@@ -15946,7 +15946,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30558,
+        "stars": 30559,
         "forks": 3498,
         "language": "Rust",
         "pushed_at": "2025-07-08T06:51:36Z",
@@ -16846,7 +16846,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12391,
+        "stars": 12392,
         "forks": 1900,
         "language": "Python",
         "pushed_at": "2025-07-08T11:08:54Z",
@@ -16886,7 +16886,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65131,
+        "stars": 65132,
         "forks": 10805,
         "language": "MDX",
         "pushed_at": "2025-07-08T08:21:16Z",
@@ -16896,7 +16896,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5452,
+        "stars": 5453,
         "forks": 792,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -17606,7 +17606,7 @@
         "name": "SWELancer-Benchmark",
         "description": "This repo contains the dataset and code for the paper \"SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?\"",
         "url": "https://github.com/openai/SWELancer-Benchmark",
-        "stars": 1421,
+        "stars": 1422,
         "forks": 135,
         "language": "Python",
         "pushed_at": "2025-05-16T22:37:08Z",
@@ -17636,7 +17636,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 15042,
+        "stars": 15043,
         "forks": 1116,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
@@ -17766,7 +17766,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84553,
+        "stars": 84552,
         "forks": 10321,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
@@ -19394,7 +19394,7 @@
         "stars": 4,
         "forks": 4,
         "language": "C++",
-        "pushed_at": "2025-07-08T06:59:12Z",
+        "pushed_at": "2025-07-08T11:27:15Z",
         "created_at": "2025-05-22T09:32:34Z"
       },
       {
