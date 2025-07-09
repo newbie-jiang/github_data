@@ -269,7 +269,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-09T01:24:07Z",
+        "pushed_at": "2025-07-09T03:13:35Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -10599,7 +10599,7 @@
         "stars": 15037,
         "forks": 7657,
         "language": "C++",
-        "pushed_at": "2025-07-08T16:50:24Z",
+        "pushed_at": "2025-07-09T03:14:52Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -10769,7 +10769,7 @@
         "stars": 36,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-07-09T00:01:09Z",
+        "pushed_at": "2025-07-09T03:38:08Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11049,7 +11049,7 @@
         "stars": 267,
         "forks": 39,
         "language": "C",
-        "pushed_at": "2025-07-08T01:26:30Z",
+        "pushed_at": "2025-07-09T03:26:38Z",
         "created_at": "2024-07-16T03:41:15Z"
       },
       {
@@ -11356,7 +11356,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15745,
+        "stars": 15748,
         "forks": 7751,
         "language": "C",
         "pushed_at": "2025-07-08T23:20:55Z",
@@ -12919,7 +12919,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-09T02:15:41Z",
+        "pushed_at": "2025-07-09T03:50:41Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13326,7 +13326,7 @@
         "name": "xtensa-isa-doc",
         "description": "（无简介）",
         "url": "https://github.com/espressif/xtensa-isa-doc",
-        "stars": 54,
+        "stars": 55,
         "forks": 4,
         "language": "TeX",
         "pushed_at": "2021-02-18T16:19:14Z",
@@ -15474,7 +15474,7 @@
         "stars": 238,
         "forks": 336,
         "language": "Python",
-        "pushed_at": "2025-06-30T11:19:36Z",
+        "pushed_at": "2025-07-09T03:47:35Z",
         "created_at": "2017-06-23T11:53:18Z"
       },
       {
@@ -15602,7 +15602,7 @@
         "description": "nano version of RT-Thread",
         "url": "https://github.com/RT-Thread/rtthread-nano",
         "stars": 205,
-        "forks": 97,
+        "forks": 98,
         "language": "C",
         "pushed_at": "2024-09-20T08:19:49Z",
         "created_at": "2018-10-08T05:31:00Z"
@@ -15916,7 +15916,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29727,
+        "stars": 29728,
         "forks": 3658,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -15946,7 +15946,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30604,
+        "stars": 30606,
         "forks": 3506,
         "language": "Rust",
         "pushed_at": "2025-07-09T01:08:36Z",
@@ -15996,7 +15996,7 @@
         "name": "consistency_models",
         "description": "Official repo for consistency models.",
         "url": "https://github.com/openai/consistency_models",
-        "stars": 6373,
+        "stars": 6374,
         "forks": 430,
         "language": "Python",
         "pushed_at": "2024-03-22T06:56:31Z",
@@ -16846,10 +16846,10 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12417,
-        "forks": 1905,
+        "stars": 12422,
+        "forks": 1906,
         "language": "Python",
-        "pushed_at": "2025-07-08T22:52:01Z",
+        "pushed_at": "2025-07-09T03:49:12Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -16886,8 +16886,8 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65179,
-        "forks": 10808,
+        "stars": 65181,
+        "forks": 10809,
         "language": "MDX",
         "pushed_at": "2025-07-08T15:32:40Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -16896,7 +16896,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5475,
+        "stars": 5477,
         "forks": 797,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -16906,7 +16906,7 @@
         "name": "openai-cua-sample-app",
         "description": "Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.",
         "url": "https://github.com/openai/openai-cua-sample-app",
-        "stars": 992,
+        "stars": 993,
         "forks": 292,
         "language": "Python",
         "pushed_at": "2025-04-24T17:36:50Z",
@@ -17486,7 +17486,7 @@
         "name": "shap-e",
         "description": "Generate 3D objects conditioned on text or images",
         "url": "https://github.com/openai/shap-e",
-        "stars": 11975,
+        "stars": 11974,
         "forks": 1015,
         "language": "Python",
         "pushed_at": "2024-06-22T19:19:14Z",
@@ -17546,7 +17546,7 @@
         "name": "spinningup",
         "description": "An educational resource to help anyone learn deep reinforcement learning.",
         "url": "https://github.com/openai/spinningup",
-        "stars": 11031,
+        "stars": 11032,
         "forks": 2357,
         "language": "Python",
         "pushed_at": "2024-08-05T03:30:30Z",
@@ -17629,7 +17629,7 @@
         "stars": 29,
         "forks": 4,
         "language": "未指定",
-        "pushed_at": "2025-07-08T21:43:58Z",
+        "pushed_at": "2025-07-09T03:22:47Z",
         "created_at": "2025-02-26T15:41:01Z"
       },
       {
@@ -17766,7 +17766,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84586,
+        "stars": 84589,
         "forks": 10327,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
