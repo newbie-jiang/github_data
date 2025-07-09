@@ -269,7 +269,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-09T08:56:14Z",
+        "pushed_at": "2025-07-09T09:22:56Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3126,7 +3126,7 @@
         "name": "Kconfiglib",
         "description": "Canonical upstream for https://pypi.org/project/kconfiglib/ (replaces inactive https://github.com/ulfalizer/Kconfiglib)",
         "url": "https://github.com/zephyrproject-rtos/Kconfiglib",
-        "stars": 17,
+        "stars": 18,
         "forks": 9,
         "language": "Python",
         "pushed_at": "2024-10-04T09:51:31Z",
@@ -4069,7 +4069,7 @@
       },
       {
         "name": "ais25ba-pid",
-        "description": "ais25ba platform independent driver based on Standard C language and compliant with MISRA standard",
+        "description": "ais25ba platform independent driver based on Standard C language and compliant with MISRA standard.",
         "url": "https://github.com/STMicroelectronics/ais25ba-pid",
         "stars": 0,
         "forks": 0,
@@ -6288,6 +6288,16 @@
         "created_at": "2021-10-28T08:13:14Z"
       },
       {
+        "name": "st-mems-finite-state-machine",
+        "description": "Examples and tutorials for the FSM, a dedicated core for finite state machine processing embedded in STMicroelectronics MEMS sensors.",
+        "url": "https://github.com/STMicroelectronics/st-mems-finite-state-machine",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-07-09T09:29:18Z",
+        "created_at": "2025-07-09T09:29:17Z"
+      },
+      {
         "name": "st-mems-ispu",
         "description": "Examples, tutorials, and other development resources for the ISPU, an ultralow-power programmable core embedded in STMicroelectronics MEMS sensors.",
         "url": "https://github.com/STMicroelectronics/st-mems-ispu",
@@ -6296,6 +6306,16 @@
         "language": "C",
         "pushed_at": "2025-05-12T13:12:22Z",
         "created_at": "2023-03-23T12:32:12Z"
+      },
+      {
+        "name": "st-mems-machine-learning-core",
+        "description": "Examples, tutorials, and tools for the MLC, a dedicated core for machine learning processing embedded in STMicroelectronics MEMS sensors.",
+        "url": "https://github.com/STMicroelectronics/st-mems-machine-learning-core",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-07-09T09:33:59Z",
+        "created_at": "2025-07-09T09:33:58Z"
       },
       {
         "name": "st-openstlinux-application",
@@ -10819,7 +10839,7 @@
         "stars": 17,
         "forks": 42,
         "language": "HTML",
-        "pushed_at": "2025-07-09T06:42:30Z",
+        "pushed_at": "2025-07-09T09:34:12Z",
         "created_at": "2024-02-08T09:26:09Z"
       },
       {
@@ -11059,7 +11079,7 @@
         "stars": 300,
         "forks": 153,
         "language": "C",
-        "pushed_at": "2025-07-09T08:55:39Z",
+        "pushed_at": "2025-07-09T09:47:41Z",
         "created_at": "2021-09-14T09:33:04Z"
       },
       {
@@ -11356,7 +11376,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15750,
+        "stars": 15753,
         "forks": 7752,
         "language": "C",
         "pushed_at": "2025-07-09T05:09:04Z",
@@ -11626,7 +11646,7 @@
         "name": "esp-mdf",
         "description": "Espressif Mesh Development Framework, limited maintain, recommend to use https://github.com/espressif/esp-mesh-lite",
         "url": "https://github.com/espressif/esp-mdf",
-        "stars": 813,
+        "stars": 814,
         "forks": 255,
         "language": "C",
         "pushed_at": "2024-08-02T06:44:55Z",
@@ -12036,7 +12056,7 @@
         "name": "esp-usb-bridge",
         "description": "USB to UART&JTAG bridge, implemented on ESP32-S2 or ESP32-S3",
         "url": "https://github.com/espressif/esp-usb-bridge",
-        "stars": 332,
+        "stars": 333,
         "forks": 37,
         "language": "C",
         "pushed_at": "2025-06-19T06:47:21Z",
@@ -12247,7 +12267,7 @@
         "description": "Holding precompiled ESP-IDF libraries for ESP32 Arduino v3.x and above",
         "url": "https://github.com/espressif/esp32-arduino-libs",
         "stars": 14,
-        "forks": 14,
+        "forks": 15,
         "language": "未指定",
         "pushed_at": "2024-08-19T12:54:54Z",
         "created_at": "2023-04-11T11:06:04Z"
@@ -12356,7 +12376,7 @@
         "name": "esp32c3-bt-lib",
         "description": "ESP32-C3/S3 Bluetooth stack (below HCI layer) precompiled libraries",
         "url": "https://github.com/espressif/esp32c3-bt-lib",
-        "stars": 17,
+        "stars": 18,
         "forks": 8,
         "language": "未指定",
         "pushed_at": "2025-07-07T02:09:59Z",
@@ -12919,7 +12939,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-09T09:06:44Z",
+        "pushed_at": "2025-07-09T09:38:41Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16757,7 +16777,7 @@
         "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
         "url": "https://github.com/openai/mujoco-py",
         "stars": 3023,
-        "forks": 823,
+        "forks": 824,
         "language": "Cython",
         "pushed_at": "2023-12-10T12:47:21Z",
         "created_at": "2016-04-24T17:55:58Z"
@@ -16886,7 +16906,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65192,
+        "stars": 65194,
         "forks": 10812,
         "language": "MDX",
         "pushed_at": "2025-07-08T15:32:40Z",
@@ -16906,7 +16926,7 @@
         "name": "openai-cua-sample-app",
         "description": "Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.",
         "url": "https://github.com/openai/openai-cua-sample-app",
-        "stars": 993,
+        "stars": 994,
         "forks": 292,
         "language": "Python",
         "pushed_at": "2025-04-24T17:36:50Z",
@@ -17636,8 +17656,8 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 15055,
-        "forks": 1116,
+        "stars": 15056,
+        "forks": 1117,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
         "created_at": "2022-12-01T23:22:11Z"
@@ -17766,7 +17786,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84608,
+        "stars": 84610,
         "forks": 10331,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
@@ -18681,7 +18701,7 @@
         "name": "HPCG_for_Arm",
         "description": "（无简介）",
         "url": "https://github.com/ARM-software/HPCG_for_Arm",
-        "stars": 23,
+        "stars": 24,
         "forks": 14,
         "language": "C++",
         "pushed_at": "2022-12-16T08:20:36Z",
