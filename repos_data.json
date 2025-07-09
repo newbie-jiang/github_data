@@ -269,7 +269,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-09T17:39:09Z",
+        "pushed_at": "2025-07-09T17:51:14Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3817,7 +3817,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 12432,
-        "forks": 7604,
+        "forks": 7605,
         "language": "C",
         "pushed_at": "2025-07-09T14:44:48Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -10789,7 +10789,7 @@
         "stars": 36,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-07-09T16:32:12Z",
+        "pushed_at": "2025-07-09T18:05:20Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11167,7 +11167,7 @@
         "description": "Docs, Schematics, Factory Firmwares for ESP Development Kits",
         "url": "https://github.com/espressif/esp-dev-kits",
         "stars": 469,
-        "forks": 195,
+        "forks": 196,
         "language": "Python",
         "pushed_at": "2025-07-08T04:19:05Z",
         "created_at": "2020-04-27T01:08:18Z"
@@ -11739,7 +11739,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-09T16:03:03Z",
+        "pushed_at": "2025-07-09T18:03:24Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12536,7 +12536,7 @@
         "name": "esptool",
         "description": "Serial utility for flashing, provisioning, and interacting with Espressif SoCs",
         "url": "https://github.com/espressif/esptool",
-        "stars": 5951,
+        "stars": 5952,
         "forks": 1434,
         "language": "Python",
         "pushed_at": "2025-07-03T09:09:28Z",
@@ -12939,7 +12939,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-09T17:32:40Z",
+        "pushed_at": "2025-07-09T18:04:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13059,7 +13059,7 @@
         "stars": 28,
         "forks": 9,
         "language": "C++",
-        "pushed_at": "2025-07-09T15:45:06Z",
+        "pushed_at": "2025-07-09T18:20:06Z",
         "created_at": "2021-03-01T07:44:10Z"
       },
       {
@@ -15936,7 +15936,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29742,
+        "stars": 29743,
         "forks": 3660,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -15967,7 +15967,7 @@
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
         "stars": 30641,
-        "forks": 3512,
+        "forks": 3513,
         "language": "Rust",
         "pushed_at": "2025-07-09T06:53:37Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -15976,7 +15976,7 @@
         "name": "codex-universal",
         "description": "Base docker image used in Codex environments",
         "url": "https://github.com/openai/codex-universal",
-        "stars": 480,
+        "stars": 481,
         "forks": 116,
         "language": "Dockerfile",
         "pushed_at": "2025-05-28T03:10:36Z",
@@ -16047,7 +16047,7 @@
         "description": "PyTorch package for the discrete VAE used for DALL·E.",
         "url": "https://github.com/openai/DALL-E",
         "stars": 10875,
-        "forks": 1920,
+        "forks": 1919,
         "language": "Python",
         "pushed_at": "2024-01-31T15:42:28Z",
         "created_at": "2021-02-23T23:01:11Z"
@@ -16126,7 +16126,7 @@
         "name": "ebm_code_release",
         "description": "Code for Implicit Generation and Generalization with Energy Based Models",
         "url": "https://github.com/openai/ebm_code_release",
-        "stars": 352,
+        "stars": 353,
         "forks": 64,
         "language": "Python",
         "pushed_at": "2023-04-25T23:55:35Z",
@@ -16416,7 +16416,7 @@
         "name": "gym",
         "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
         "url": "https://github.com/openai/gym",
-        "stars": 36213,
+        "stars": 36214,
         "forks": 8680,
         "language": "Python",
         "pushed_at": "2024-10-11T20:07:05Z",
@@ -16866,7 +16866,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12435,
+        "stars": 12436,
         "forks": 1908,
         "language": "Python",
         "pushed_at": "2025-07-09T11:49:39Z",
@@ -16906,7 +16906,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65209,
+        "stars": 65210,
         "forks": 10814,
         "language": "MDX",
         "pushed_at": "2025-07-08T15:32:40Z",
@@ -16996,7 +16996,7 @@
         "name": "openai-node",
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
-        "stars": 9447,
+        "stars": 9448,
         "forks": 1142,
         "language": "TypeScript",
         "pushed_at": "2025-07-08T15:35:30Z",
@@ -17786,7 +17786,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84623,
+        "stars": 84625,
         "forks": 10335,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
