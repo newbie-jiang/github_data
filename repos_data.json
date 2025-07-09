@@ -269,7 +269,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-09T03:13:35Z",
+        "pushed_at": "2025-07-09T04:03:24Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -1001,7 +1001,7 @@
         "name": "aox4000",
         "description": "AOX4000 full-featured driver library for general-purpose MCU and Linux.",
         "url": "https://github.com/libdriver/aox4000",
-        "stars": 8,
+        "stars": 9,
         "forks": 5,
         "language": "C",
         "pushed_at": "2025-04-16T14:56:17Z",
@@ -11609,7 +11609,7 @@
         "stars": 844,
         "forks": 195,
         "language": "C++",
-        "pushed_at": "2025-07-03T09:47:29Z",
+        "pushed_at": "2025-07-09T04:27:20Z",
         "created_at": "2022-05-18T10:02:59Z"
       },
       {
@@ -11719,7 +11719,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-09T02:35:46Z",
+        "pushed_at": "2025-07-09T04:11:38Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12919,7 +12919,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-09T03:50:41Z",
+        "pushed_at": "2025-07-09T04:22:38Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15876,7 +15876,7 @@
         "name": "chatgpt-retrieval-plugin",
         "description": "The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.",
         "url": "https://github.com/openai/chatgpt-retrieval-plugin",
-        "stars": 21191,
+        "stars": 21189,
         "forks": 3680,
         "language": "Python",
         "pushed_at": "2024-07-04T22:00:16Z",
@@ -15946,10 +15946,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30606,
-        "forks": 3506,
+        "stars": 30608,
+        "forks": 3507,
         "language": "Rust",
-        "pushed_at": "2025-07-09T01:08:36Z",
+        "pushed_at": "2025-07-09T04:43:27Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16156,7 +16156,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 16520,
+        "stars": 16522,
         "forks": 2749,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -16306,7 +16306,7 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 23755,
+        "stars": 23756,
         "forks": 5692,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
@@ -16707,7 +16707,7 @@
         "description": "MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering",
         "url": "https://github.com/openai/mle-bench",
         "stars": 793,
-        "forks": 103,
+        "forks": 104,
         "language": "Python",
         "pushed_at": "2025-06-19T11:01:22Z",
         "created_at": "2024-10-08T17:07:40Z"
@@ -16846,7 +16846,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12422,
+        "stars": 12423,
         "forks": 1906,
         "language": "Python",
         "pushed_at": "2025-07-09T03:49:12Z",
@@ -16886,7 +16886,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65181,
+        "stars": 65182,
         "forks": 10809,
         "language": "MDX",
         "pushed_at": "2025-07-08T15:32:40Z",
@@ -16896,7 +16896,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5477,
+        "stars": 5479,
         "forks": 797,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -16959,7 +16959,7 @@
         "stars": 2015,
         "forks": 163,
         "language": "Go",
-        "pushed_at": "2025-07-08T15:37:12Z",
+        "pushed_at": "2025-07-09T04:30:55Z",
         "created_at": "2024-07-22T19:29:26Z"
       },
       {
@@ -16996,7 +16996,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27292,
+        "stars": 27293,
         "forks": 4044,
         "language": "Python",
         "pushed_at": "2025-07-08T15:37:33Z",
@@ -17596,7 +17596,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 20062,
+        "stars": 20063,
         "forks": 2138,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
@@ -17767,7 +17767,7 @@
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
         "stars": 84589,
-        "forks": 10327,
+        "forks": 10328,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -18242,7 +18242,7 @@
         "description": "CMSIS-DSP embedded compute library for Cortex-M and Cortex-A",
         "url": "https://github.com/ARM-software/CMSIS-DSP",
         "stars": 752,
-        "forks": 182,
+        "forks": 183,
         "language": "C",
         "pushed_at": "2025-06-16T12:52:18Z",
         "created_at": "2022-06-01T14:44:12Z"
