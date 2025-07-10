@@ -269,7 +269,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-10T11:46:12Z",
+        "pushed_at": "2025-07-10T12:36:48Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -1931,7 +1931,7 @@
         "name": "ssd1306",
         "description": "SSD1306 full-featured driver library for general-purpose MCU and Linux.",
         "url": "https://github.com/libdriver/ssd1306",
-        "stars": 503,
+        "stars": 504,
         "forks": 102,
         "language": "C",
         "pushed_at": "2025-04-19T03:41:35Z",
@@ -2879,7 +2879,7 @@
         "stars": 33,
         "forks": 133,
         "language": "C",
-        "pushed_at": "2025-06-24T14:42:44Z",
+        "pushed_at": "2025-07-10T12:39:24Z",
         "created_at": "2019-04-06T22:26:39Z"
       },
       {
@@ -10789,7 +10789,7 @@
         "stars": 36,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-07-10T10:07:07Z",
+        "pushed_at": "2025-07-10T13:13:10Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -10886,7 +10886,7 @@
         "name": "esp-adf",
         "description": "Espressif Advanced Development Framework for Multimedia Applications",
         "url": "https://github.com/espressif/esp-adf",
-        "stars": 1963,
+        "stars": 1964,
         "forks": 779,
         "language": "C",
         "pushed_at": "2025-07-10T03:20:18Z",
@@ -11376,7 +11376,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15761,
+        "stars": 15762,
         "forks": 7752,
         "language": "C",
         "pushed_at": "2025-07-09T20:22:17Z",
@@ -11799,7 +11799,7 @@
         "stars": 241,
         "forks": 165,
         "language": "C",
-        "pushed_at": "2025-07-01T10:52:04Z",
+        "pushed_at": "2025-07-10T12:49:00Z",
         "created_at": "2021-10-04T08:47:54Z"
       },
       {
@@ -12699,7 +12699,7 @@
         "stars": 339,
         "forks": 130,
         "language": "Java",
-        "pushed_at": "2025-07-10T11:08:42Z",
+        "pushed_at": "2025-07-10T13:00:52Z",
         "created_at": "2019-09-16T02:21:43Z"
       },
       {
@@ -15826,7 +15826,7 @@
         "name": "baselines",
         "description": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
         "url": "https://github.com/openai/baselines",
-        "stars": 16349,
+        "stars": 16350,
         "forks": 4917,
         "language": "Python",
         "pushed_at": "2024-08-01T21:31:33Z",
@@ -15936,7 +15936,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29759,
+        "stars": 29760,
         "forks": 3662,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -15966,8 +15966,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30684,
-        "forks": 3522,
+        "stars": 30689,
+        "forks": 3521,
         "language": "Rust",
         "pushed_at": "2025-07-10T05:06:55Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16676,7 +16676,7 @@
         "name": "maddpg",
         "description": "Code for the MADDPG algorithm from the paper \"Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments\"",
         "url": "https://github.com/openai/maddpg",
-        "stars": 1829,
+        "stars": 1830,
         "forks": 513,
         "language": "Python",
         "pushed_at": "2024-04-01T21:04:21Z",
@@ -16866,10 +16866,10 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12459,
+        "stars": 12461,
         "forks": 1910,
         "language": "Python",
-        "pushed_at": "2025-07-10T12:28:19Z",
+        "pushed_at": "2025-07-10T12:41:22Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -16916,7 +16916,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5516,
+        "stars": 5517,
         "forks": 806,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -17016,10 +17016,10 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27316,
-        "forks": 4051,
+        "stars": 27317,
+        "forks": 4052,
         "language": "Python",
-        "pushed_at": "2025-07-09T14:08:01Z",
+        "pushed_at": "2025-07-10T12:48:37Z",
         "created_at": "2020-10-25T23:23:54Z"
       },
       {
@@ -17086,8 +17086,8 @@
         "name": "openai-realtime-solar-system",
         "description": "Demo showing how to use the OpenAI Realtime API to navigate a 3D scene via tool calling",
         "url": "https://github.com/openai/openai-realtime-solar-system",
-        "stars": 444,
-        "forks": 82,
+        "stars": 445,
+        "forks": 83,
         "language": "TypeScript",
         "pushed_at": "2025-01-29T22:48:13Z",
         "created_at": "2025-01-13T18:11:13Z"
@@ -17106,7 +17106,7 @@
         "name": "openai-responses-starter-app",
         "description": "Starter app to build with the OpenAI Responses API",
         "url": "https://github.com/openai/openai-responses-starter-app",
-        "stars": 361,
+        "stars": 362,
         "forks": 127,
         "language": "TypeScript",
         "pushed_at": "2025-06-09T22:03:51Z",
@@ -17616,7 +17616,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 20072,
+        "stars": 20071,
         "forks": 2138,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
@@ -17786,7 +17786,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84676,
+        "stars": 84679,
         "forks": 10342,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
@@ -18344,7 +18344,7 @@
         "stars": 28,
         "forks": 3,
         "language": "Python",
-        "pushed_at": "2025-07-10T12:06:40Z",
+        "pushed_at": "2025-07-10T13:02:07Z",
         "created_at": "2023-05-10T14:36:34Z"
       },
       {
@@ -18684,7 +18684,7 @@
         "stars": 0,
         "forks": 0,
         "language": "C++",
-        "pushed_at": "2025-07-08T09:20:13Z",
+        "pushed_at": "2025-07-10T13:07:33Z",
         "created_at": "2025-06-13T09:33:39Z"
       },
       {
@@ -19474,7 +19474,7 @@
         "stars": 270,
         "forks": 146,
         "language": "Python",
-        "pushed_at": "2025-07-08T09:37:21Z",
+        "pushed_at": "2025-07-10T13:16:32Z",
         "created_at": "2018-10-31T08:39:51Z"
       },
       {
