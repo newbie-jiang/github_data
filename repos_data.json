@@ -269,7 +269,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-10T09:21:01Z",
+        "pushed_at": "2025-07-10T09:50:13Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3816,8 +3816,8 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12438,
-        "forks": 7607,
+        "stars": 12439,
+        "forks": 7608,
         "language": "C",
         "pushed_at": "2025-07-09T22:19:00Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -10789,7 +10789,7 @@
         "stars": 36,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-07-10T09:36:14Z",
+        "pushed_at": "2025-07-10T10:07:07Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11079,7 +11079,7 @@
         "stars": 302,
         "forks": 153,
         "language": "C",
-        "pushed_at": "2025-07-10T08:28:03Z",
+        "pushed_at": "2025-07-10T10:08:29Z",
         "created_at": "2021-09-14T09:33:04Z"
       },
       {
@@ -11739,7 +11739,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-10T08:03:16Z",
+        "pushed_at": "2025-07-10T10:03:07Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -11976,7 +11976,7 @@
         "name": "esp-sr",
         "description": "Speech recognition",
         "url": "https://github.com/espressif/esp-sr",
-        "stars": 1007,
+        "stars": 1008,
         "forks": 151,
         "language": "C",
         "pushed_at": "2025-07-08T14:05:53Z",
@@ -11996,7 +11996,7 @@
         "name": "esp-tflite-micro",
         "description": "TensorFlow Lite Micro for Espressif Chipsets",
         "url": "https://github.com/espressif/esp-tflite-micro",
-        "stars": 498,
+        "stars": 499,
         "forks": 108,
         "language": "C++",
         "pushed_at": "2025-06-02T09:16:17Z",
@@ -12769,7 +12769,7 @@
         "stars": 13,
         "forks": 2,
         "language": "Rust",
-        "pushed_at": "2025-07-10T08:53:50Z",
+        "pushed_at": "2025-07-10T10:15:03Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
@@ -13434,7 +13434,7 @@
         "stars": 64,
         "forks": 28,
         "language": "C",
-        "pushed_at": "2025-07-10T05:38:55Z",
+        "pushed_at": "2025-07-10T10:17:35Z",
         "created_at": "2022-08-30T03:30:26Z"
       },
       {
@@ -15966,8 +15966,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30679,
-        "forks": 3520,
+        "stars": 30680,
+        "forks": 3521,
         "language": "Rust",
         "pushed_at": "2025-07-10T05:06:55Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16856,7 +16856,7 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 753,
+        "stars": 754,
         "forks": 136,
         "language": "TypeScript",
         "pushed_at": "2025-07-10T09:46:21Z",
@@ -16906,7 +16906,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65234,
+        "stars": 65235,
         "forks": 10815,
         "language": "MDX",
         "pushed_at": "2025-07-08T15:32:40Z",
@@ -17567,7 +17567,7 @@
         "description": "An educational resource to help anyone learn deep reinforcement learning.",
         "url": "https://github.com/openai/spinningup",
         "stars": 11036,
-        "forks": 2357,
+        "forks": 2356,
         "language": "Python",
         "pushed_at": "2024-08-05T03:30:30Z",
         "created_at": "2018-11-07T20:52:15Z"
@@ -17616,7 +17616,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 20070,
+        "stars": 20071,
         "forks": 2138,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
@@ -17656,7 +17656,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 15067,
+        "stars": 15068,
         "forks": 1118,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
@@ -17786,7 +17786,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84663,
+        "stars": 84664,
         "forks": 10340,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
