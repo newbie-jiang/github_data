@@ -269,7 +269,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-10T12:36:48Z",
+        "pushed_at": "2025-07-10T13:20:45Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3816,7 +3816,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12439,
+        "stars": 12440,
         "forks": 7609,
         "language": "C",
         "pushed_at": "2025-07-09T22:19:00Z",
@@ -6004,7 +6004,7 @@
         "stars": 57,
         "forks": 23,
         "language": "C++",
-        "pushed_at": "2025-04-22T09:23:31Z",
+        "pushed_at": "2025-07-10T13:37:53Z",
         "created_at": "2019-08-01T13:08:39Z"
       },
       {
@@ -10789,7 +10789,7 @@
         "stars": 36,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-07-10T13:13:10Z",
+        "pushed_at": "2025-07-10T13:44:09Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -10889,7 +10889,7 @@
         "stars": 1964,
         "forks": 779,
         "language": "C",
-        "pushed_at": "2025-07-10T03:20:18Z",
+        "pushed_at": "2025-07-10T13:32:56Z",
         "created_at": "2018-04-02T07:03:49Z"
       },
       {
@@ -11067,7 +11067,7 @@
         "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
         "url": "https://github.com/espressif/esp-brookesia",
         "stars": 275,
-        "forks": 43,
+        "forks": 44,
         "language": "C",
         "pushed_at": "2025-07-09T08:05:21Z",
         "created_at": "2024-07-16T03:41:15Z"
@@ -11377,7 +11377,7 @@
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
         "stars": 15762,
-        "forks": 7752,
+        "forks": 7751,
         "language": "C",
         "pushed_at": "2025-07-09T20:22:17Z",
         "created_at": "2016-08-17T10:40:35Z"
@@ -12939,7 +12939,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-10T12:26:42Z",
+        "pushed_at": "2025-07-10T13:29:49Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15936,7 +15936,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29760,
+        "stars": 29761,
         "forks": 3662,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -15966,7 +15966,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30689,
+        "stars": 30690,
         "forks": 3521,
         "language": "Rust",
         "pushed_at": "2025-07-10T05:06:55Z",
@@ -16326,7 +16326,7 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 23763,
+        "stars": 23764,
         "forks": 5694,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
@@ -16857,7 +16857,7 @@
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
         "stars": 755,
-        "forks": 136,
+        "forks": 135,
         "language": "TypeScript",
         "pushed_at": "2025-07-10T09:46:21Z",
         "created_at": "2025-05-31T00:08:49Z"
@@ -16906,7 +16906,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65242,
+        "stars": 65243,
         "forks": 10816,
         "language": "MDX",
         "pushed_at": "2025-07-08T15:32:40Z",
@@ -16916,7 +16916,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5517,
+        "stars": 5518,
         "forks": 806,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -17106,7 +17106,7 @@
         "name": "openai-responses-starter-app",
         "description": "Starter app to build with the OpenAI Responses API",
         "url": "https://github.com/openai/openai-responses-starter-app",
-        "stars": 362,
+        "stars": 363,
         "forks": 127,
         "language": "TypeScript",
         "pushed_at": "2025-06-09T22:03:51Z",
@@ -17567,7 +17567,7 @@
         "description": "An educational resource to help anyone learn deep reinforcement learning.",
         "url": "https://github.com/openai/spinningup",
         "stars": 11037,
-        "forks": 2356,
+        "forks": 2355,
         "language": "Python",
         "pushed_at": "2024-08-05T03:30:30Z",
         "created_at": "2018-11-07T20:52:15Z"
@@ -17696,7 +17696,7 @@
         "name": "universe",
         "description": "Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.",
         "url": "https://github.com/openai/universe",
-        "stars": 7515,
+        "stars": 7514,
         "forks": 955,
         "language": "Python",
         "pushed_at": "2018-04-05T18:58:15Z",
@@ -17786,7 +17786,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84679,
+        "stars": 84683,
         "forks": 10342,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
@@ -18344,7 +18344,7 @@
         "stars": 28,
         "forks": 3,
         "language": "Python",
-        "pushed_at": "2025-07-10T13:02:07Z",
+        "pushed_at": "2025-07-10T13:21:36Z",
         "created_at": "2023-05-10T14:36:34Z"
       },
       {
@@ -19474,7 +19474,7 @@
         "stars": 270,
         "forks": 146,
         "language": "Python",
-        "pushed_at": "2025-07-10T13:16:32Z",
+        "pushed_at": "2025-07-10T13:23:37Z",
         "created_at": "2018-10-31T08:39:51Z"
       },
       {
