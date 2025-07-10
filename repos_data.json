@@ -269,7 +269,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-10T05:51:37Z",
+        "pushed_at": "2025-07-10T06:26:54Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -10899,7 +10899,7 @@
         "stars": 82,
         "forks": 49,
         "language": "C",
-        "pushed_at": "2025-07-10T02:18:26Z",
+        "pushed_at": "2025-07-10T06:32:19Z",
         "created_at": "2018-04-02T07:04:20Z"
       },
       {
@@ -10957,7 +10957,7 @@
         "description": "AT application for ESP32/ESP32-C2/ESP32-C3/ESP32-C6/ESP8266",
         "url": "https://github.com/espressif/esp-at",
         "stars": 1036,
-        "forks": 1003,
+        "forks": 1004,
         "language": "C",
         "pushed_at": "2025-07-09T07:30:44Z",
         "created_at": "2017-01-11T15:36:52Z"
@@ -11029,7 +11029,7 @@
         "stars": 0,
         "forks": 1,
         "language": "Python",
-        "pushed_at": "2025-07-09T07:12:55Z",
+        "pushed_at": "2025-07-10T06:38:58Z",
         "created_at": "2024-12-30T08:42:19Z"
       },
       {
@@ -11067,7 +11067,7 @@
         "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
         "url": "https://github.com/espressif/esp-brookesia",
         "stars": 271,
-        "forks": 40,
+        "forks": 41,
         "language": "C",
         "pushed_at": "2025-07-09T08:05:21Z",
         "created_at": "2024-07-16T03:41:15Z"
@@ -11356,7 +11356,7 @@
         "name": "esp-hosted",
         "description": "Hosted Solution (Linux/MCU) with ESP32 (Wi-Fi + BT + BLE)",
         "url": "https://github.com/espressif/esp-hosted",
-        "stars": 833,
+        "stars": 834,
         "forks": 195,
         "language": "C",
         "pushed_at": "2025-06-30T08:50:15Z",
@@ -12939,7 +12939,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-10T05:38:41Z",
+        "pushed_at": "2025-07-10T06:40:38Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13289,7 +13289,7 @@
         "stars": 1255,
         "forks": 330,
         "language": "TypeScript",
-        "pushed_at": "2025-07-10T03:51:08Z",
+        "pushed_at": "2025-07-10T06:28:49Z",
         "created_at": "2018-11-21T03:27:08Z"
       },
       {
@@ -15936,7 +15936,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29750,
+        "stars": 29751,
         "forks": 3662,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -15966,7 +15966,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30668,
+        "stars": 30669,
         "forks": 3518,
         "language": "Rust",
         "pushed_at": "2025-07-10T05:06:55Z",
@@ -16016,7 +16016,7 @@
         "name": "consistency_models",
         "description": "Official repo for consistency models.",
         "url": "https://github.com/openai/consistency_models",
-        "stars": 6375,
+        "stars": 6376,
         "forks": 430,
         "language": "Python",
         "pushed_at": "2024-03-22T06:56:31Z",
@@ -16476,7 +16476,7 @@
         "name": "human-eval",
         "description": "Code for the paper \"Evaluating Large Language Models Trained on Code\"",
         "url": "https://github.com/openai/human-eval",
-        "stars": 2823,
+        "stars": 2824,
         "forks": 399,
         "language": "Python",
         "pushed_at": "2025-01-17T18:22:17Z",
@@ -16866,10 +16866,10 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12446,
+        "stars": 12451,
         "forks": 1911,
         "language": "Python",
-        "pushed_at": "2025-07-10T06:25:59Z",
+        "pushed_at": "2025-07-10T06:54:19Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -16906,7 +16906,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65227,
+        "stars": 65228,
         "forks": 10814,
         "language": "MDX",
         "pushed_at": "2025-07-08T15:32:40Z",
@@ -16916,7 +16916,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5509,
+        "stars": 5510,
         "forks": 805,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -17016,7 +17016,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27311,
+        "stars": 27312,
         "forks": 4049,
         "language": "Python",
         "pushed_at": "2025-07-09T14:08:01Z",
@@ -17786,8 +17786,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84650,
-        "forks": 10338,
+        "stars": 84651,
+        "forks": 10339,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -17931,7 +17931,7 @@
         "name": "armnn",
         "description": "Arm NN ML Software. The code here is a read-only mirror of https://review.mlplatform.org/admin/repos/ml/armnn",
         "url": "https://github.com/ARM-software/armnn",
-        "stars": 1271,
+        "stars": 1272,
         "forks": 323,
         "language": "C++",
         "pushed_at": "2025-07-09T13:05:24Z",
