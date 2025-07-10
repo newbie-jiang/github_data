@@ -269,7 +269,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-10T08:55:39Z",
+        "pushed_at": "2025-07-10T09:21:01Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4674,7 +4674,7 @@
         "stars": 7,
         "forks": 2,
         "language": "Python",
-        "pushed_at": "2025-07-09T14:45:18Z",
+        "pushed_at": "2025-07-10T09:25:06Z",
         "created_at": "2025-06-24T08:50:15Z"
       },
       {
@@ -8341,7 +8341,7 @@
         "name": "STM32CubeH5",
         "description": "Full firmware package for STM32H5 series containing CMSIS, HAL-LL, BSP drivers, MW libraries plus a set of projects.",
         "url": "https://github.com/STMicroelectronics/STM32CubeH5",
-        "stars": 71,
+        "stars": 72,
         "forks": 18,
         "language": "C",
         "pushed_at": "2025-07-07T08:44:02Z",
@@ -9883,8 +9883,8 @@
         "url": "https://github.com/STMicroelectronics/STSAFE-A_echo",
         "stars": 0,
         "forks": 0,
-        "language": "未指定",
-        "pushed_at": "2025-07-10T08:57:05Z",
+        "language": "C",
+        "pushed_at": "2025-07-10T09:46:09Z",
         "created_at": "2025-06-24T08:23:46Z"
       },
       {
@@ -10616,7 +10616,7 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15043,
+        "stars": 15044,
         "forks": 7657,
         "language": "C++",
         "pushed_at": "2025-07-10T03:14:38Z",
@@ -10789,7 +10789,7 @@
         "stars": 36,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-07-10T08:34:11Z",
+        "pushed_at": "2025-07-10T09:36:14Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11176,7 +11176,7 @@
         "name": "esp-dl",
         "description": "Espressif deep-learning library for AIoT applications",
         "url": "https://github.com/espressif/esp-dl",
-        "stars": 739,
+        "stars": 740,
         "forks": 143,
         "language": "Assembly",
         "pushed_at": "2025-07-08T04:55:26Z",
@@ -11797,7 +11797,7 @@
         "description": "Collection of ESP-IDF components related to networking protocols",
         "url": "https://github.com/espressif/esp-protocols",
         "stars": 241,
-        "forks": 164,
+        "forks": 165,
         "language": "C",
         "pushed_at": "2025-07-01T10:52:04Z",
         "created_at": "2021-10-04T08:47:54Z"
@@ -12127,7 +12127,7 @@
         "description": "Face detection and recognition framework",
         "url": "https://github.com/espressif/esp-who",
         "stars": 1867,
-        "forks": 494,
+        "forks": 495,
         "language": "C",
         "pushed_at": "2025-07-08T08:57:16Z",
         "created_at": "2018-10-26T11:00:01Z"
@@ -12939,7 +12939,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-10T09:18:38Z",
+        "pushed_at": "2025-07-10T09:49:42Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13289,7 +13289,7 @@
         "stars": 1256,
         "forks": 330,
         "language": "TypeScript",
-        "pushed_at": "2025-07-10T09:02:52Z",
+        "pushed_at": "2025-07-10T09:24:59Z",
         "created_at": "2018-11-21T03:27:08Z"
       },
       {
@@ -15584,7 +15584,7 @@
         "stars": 11268,
         "forks": 5212,
         "language": "C",
-        "pushed_at": "2025-07-10T05:28:16Z",
+        "pushed_at": "2025-07-10T09:33:41Z",
         "created_at": "2013-01-02T14:49:21Z"
       },
       {
@@ -15966,7 +15966,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30678,
+        "stars": 30679,
         "forks": 3520,
         "language": "Rust",
         "pushed_at": "2025-07-10T05:06:55Z",
@@ -16346,7 +16346,7 @@
         "name": "gpt-3",
         "description": "GPT-3: Language Models are Few-Shot Learners",
         "url": "https://github.com/openai/gpt-3",
-        "stars": 15757,
+        "stars": 15758,
         "forks": 2305,
         "language": "未指定",
         "pushed_at": "2020-09-18T22:06:11Z",
@@ -16859,14 +16859,14 @@
         "stars": 753,
         "forks": 136,
         "language": "TypeScript",
-        "pushed_at": "2025-07-10T07:21:02Z",
+        "pushed_at": "2025-07-10T09:46:21Z",
         "created_at": "2025-05-31T00:08:49Z"
       },
       {
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12456,
+        "stars": 12458,
         "forks": 1910,
         "language": "Python",
         "pushed_at": "2025-07-10T09:09:56Z",
@@ -16916,7 +16916,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5510,
+        "stars": 5512,
         "forks": 805,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -16946,7 +16946,7 @@
         "name": "openai-dotnet",
         "description": "The official .NET library for the OpenAI API",
         "url": "https://github.com/openai/openai-dotnet",
-        "stars": 2128,
+        "stars": 2129,
         "forks": 287,
         "language": "C#",
         "pushed_at": "2025-07-08T19:43:37Z",
@@ -17016,7 +17016,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27314,
+        "stars": 27313,
         "forks": 4051,
         "language": "Python",
         "pushed_at": "2025-07-09T14:08:01Z",
@@ -17046,7 +17046,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 6014,
+        "stars": 6015,
         "forks": 823,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T14:47:04Z",
@@ -17786,7 +17786,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84659,
+        "stars": 84663,
         "forks": 10340,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
@@ -19411,7 +19411,7 @@
         "name": "spirv-simulator",
         "description": "（无简介）",
         "url": "https://github.com/ARM-software/spirv-simulator",
-        "stars": 4,
+        "stars": 5,
         "forks": 5,
         "language": "C++",
         "pushed_at": "2025-07-09T13:15:02Z",
