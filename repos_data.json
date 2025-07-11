@@ -269,7 +269,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-11T05:20:56Z",
+        "pushed_at": "2025-07-11T05:51:18Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -2987,7 +2987,7 @@
         "description": "（无简介）",
         "url": "https://github.com/zephyrproject-rtos/hal_stm32",
         "stars": 124,
-        "forks": 135,
+        "forks": 136,
         "language": "C",
         "pushed_at": "2025-07-10T12:04:23Z",
         "created_at": "2019-06-07T16:54:35Z"
@@ -10341,7 +10341,7 @@
         "name": "x-cube-isp",
         "description": "The X-CUBE-ISP is an image signal processing (ISP) tuning software. It targets STM32 microcontrollers embedding an ISP camera pipeline called DCMIPP. It offers advanced image quality tuning services, enabling developers to easily create ISP-based applications.",
         "url": "https://github.com/STMicroelectronics/x-cube-isp",
-        "stars": 4,
+        "stars": 5,
         "forks": 1,
         "language": "C",
         "pushed_at": "2025-07-10T08:58:35Z",
@@ -11079,7 +11079,7 @@
         "stars": 302,
         "forks": 154,
         "language": "C",
-        "pushed_at": "2025-07-10T12:20:02Z",
+        "pushed_at": "2025-07-11T06:00:15Z",
         "created_at": "2021-09-14T09:33:04Z"
       },
       {
@@ -11099,7 +11099,7 @@
         "stars": 4,
         "forks": 1,
         "language": "Shell",
-        "pushed_at": "2025-07-08T02:44:19Z",
+        "pushed_at": "2025-07-11T06:00:57Z",
         "created_at": "2023-02-22T22:37:25Z"
       },
       {
@@ -11369,14 +11369,14 @@
         "stars": 30,
         "forks": 10,
         "language": "C",
-        "pushed_at": "2025-06-30T04:18:32Z",
+        "pushed_at": "2025-07-11T06:00:12Z",
         "created_at": "2024-11-04T07:38:53Z"
       },
       {
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15770,
+        "stars": 15771,
         "forks": 7750,
         "language": "C",
         "pushed_at": "2025-07-10T20:45:38Z",
@@ -11546,8 +11546,8 @@
         "name": "esp-iot-bridge",
         "description": "A smart bridge to make both ESP and the other MCU or smart device can access the Internet.",
         "url": "https://github.com/espressif/esp-iot-bridge",
-        "stars": 193,
-        "forks": 64,
+        "stars": 194,
+        "forks": 65,
         "language": "C",
         "pushed_at": "2025-07-04T12:04:32Z",
         "created_at": "2021-05-11T07:41:08Z"
@@ -11556,8 +11556,8 @@
         "name": "esp-iot-solution",
         "description": "Espressif IoT Library. IoT Device Drivers, Documentations and Solutions.",
         "url": "https://github.com/espressif/esp-iot-solution",
-        "stars": 2280,
-        "forks": 870,
+        "stars": 2281,
+        "forks": 871,
         "language": "C",
         "pushed_at": "2025-06-26T05:23:04Z",
         "created_at": "2017-08-08T12:32:16Z"
@@ -11739,7 +11739,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-11T04:15:21Z",
+        "pushed_at": "2025-07-11T06:03:30Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12009,7 +12009,7 @@
         "stars": 153,
         "forks": 37,
         "language": "C",
-        "pushed_at": "2025-07-09T09:52:59Z",
+        "pushed_at": "2025-07-11T06:23:34Z",
         "created_at": "2022-06-15T12:06:21Z"
       },
       {
@@ -12359,7 +12359,7 @@
         "stars": 178,
         "forks": 74,
         "language": "Shell",
-        "pushed_at": "2025-07-11T05:34:59Z",
+        "pushed_at": "2025-07-11T06:18:09Z",
         "created_at": "2016-08-17T14:15:53Z"
       },
       {
@@ -12676,7 +12676,7 @@
         "name": "idf-clion-plugin",
         "description": "CLion plugin for ESP-IDF",
         "url": "https://github.com/espressif/idf-clion-plugin",
-        "stars": 22,
+        "stars": 23,
         "forks": 5,
         "language": "Java",
         "pushed_at": "2024-06-07T18:30:28Z",
@@ -12699,7 +12699,7 @@
         "stars": 339,
         "forks": 130,
         "language": "Java",
-        "pushed_at": "2025-07-10T17:33:44Z",
+        "pushed_at": "2025-07-11T06:25:49Z",
         "created_at": "2019-09-16T02:21:43Z"
       },
       {
@@ -12939,7 +12939,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-11T05:49:43Z",
+        "pushed_at": "2025-07-11T06:20:47Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15896,7 +15896,7 @@
         "name": "chatgpt-retrieval-plugin",
         "description": "The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.",
         "url": "https://github.com/openai/chatgpt-retrieval-plugin",
-        "stars": 21193,
+        "stars": 21194,
         "forks": 3678,
         "language": "Python",
         "pushed_at": "2024-07-04T22:00:16Z",
@@ -15936,7 +15936,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29767,
+        "stars": 29768,
         "forks": 3663,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -15966,8 +15966,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30725,
-        "forks": 3528,
+        "stars": 30729,
+        "forks": 3529,
         "language": "Rust",
         "pushed_at": "2025-07-11T04:06:45Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16187,7 +16187,7 @@
         "description": "Code for the paper \"Evolution Strategies as a Scalable Alternative to Reinforcement Learning\"",
         "url": "https://github.com/openai/evolution-strategies-starter",
         "stars": 1592,
-        "forks": 278,
+        "forks": 279,
         "language": "Python",
         "pushed_at": "2019-10-31T09:20:13Z",
         "created_at": "2017-03-24T16:14:07Z"
@@ -16416,7 +16416,7 @@
         "name": "gym",
         "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
         "url": "https://github.com/openai/gym",
-        "stars": 36221,
+        "stars": 36222,
         "forks": 8680,
         "language": "Python",
         "pushed_at": "2024-10-11T20:07:05Z",
@@ -16859,15 +16859,15 @@
         "stars": 759,
         "forks": 135,
         "language": "TypeScript",
-        "pushed_at": "2025-07-11T05:01:32Z",
+        "pushed_at": "2025-07-11T06:05:53Z",
         "created_at": "2025-05-31T00:08:49Z"
       },
       {
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12484,
-        "forks": 1914,
+        "stars": 12485,
+        "forks": 1916,
         "language": "Python",
         "pushed_at": "2025-07-11T02:25:09Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -16907,7 +16907,7 @@
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
         "stars": 65265,
-        "forks": 10818,
+        "forks": 10819,
         "language": "MDX",
         "pushed_at": "2025-07-08T15:32:40Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -16917,7 +16917,7 @@
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
         "stars": 5536,
-        "forks": 810,
+        "forks": 811,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
         "created_at": "2025-06-14T03:07:09Z"
@@ -16946,7 +16946,7 @@
         "name": "openai-dotnet",
         "description": "The official .NET library for the OpenAI API",
         "url": "https://github.com/openai/openai-dotnet",
-        "stars": 2133,
+        "stars": 2134,
         "forks": 287,
         "language": "C#",
         "pushed_at": "2025-07-10T19:21:22Z",
@@ -17016,8 +17016,8 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27322,
-        "forks": 4052,
+        "stars": 27323,
+        "forks": 4053,
         "language": "Python",
         "pushed_at": "2025-07-10T18:35:27Z",
         "created_at": "2020-10-25T23:23:54Z"
@@ -17046,7 +17046,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 6018,
+        "stars": 6019,
         "forks": 824,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T14:47:04Z",
@@ -17267,7 +17267,7 @@
         "description": "Releases from OpenAI Preparedness",
         "url": "https://github.com/openai/preparedness",
         "stars": 792,
-        "forks": 78,
+        "forks": 79,
         "language": "Python",
         "pushed_at": "2025-05-30T14:08:23Z",
         "created_at": "2025-03-28T15:45:01Z"
@@ -17786,7 +17786,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84711,
+        "stars": 84713,
         "forks": 10343,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
@@ -17832,7 +17832,7 @@
         "description": "Application Binary Interface for the Arm® Architecture",
         "url": "https://github.com/ARM-software/abi-aa",
         "stars": 1089,
-        "forks": 206,
+        "forks": 207,
         "language": "HTML",
         "pushed_at": "2025-06-25T10:09:56Z",
         "created_at": "2019-10-29T16:25:37Z"
@@ -18262,7 +18262,7 @@
         "description": "CMSIS-DSP embedded compute library for Cortex-M and Cortex-A",
         "url": "https://github.com/ARM-software/CMSIS-DSP",
         "stars": 756,
-        "forks": 182,
+        "forks": 183,
         "language": "C",
         "pushed_at": "2025-06-16T12:52:18Z",
         "created_at": "2022-06-01T14:44:12Z"
