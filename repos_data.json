@@ -269,7 +269,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-11T11:45:51Z",
+        "pushed_at": "2025-07-11T12:35:31Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3817,7 +3817,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 12453,
-        "forks": 7624,
+        "forks": 7623,
         "language": "C",
         "pushed_at": "2025-07-11T00:55:15Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -3826,7 +3826,7 @@
         "name": "zephyr-lang-rust",
         "description": "Support for Zephyr applications written in Rust",
         "url": "https://github.com/zephyrproject-rtos/zephyr-lang-rust",
-        "stars": 147,
+        "stars": 148,
         "forks": 30,
         "language": "Rust",
         "pushed_at": "2025-07-09T15:39:02Z",
@@ -6354,7 +6354,7 @@
         "stars": 2,
         "forks": 1,
         "language": "未指定",
-        "pushed_at": "2025-04-07T17:11:39Z",
+        "pushed_at": "2025-07-11T13:10:16Z",
         "created_at": "2021-02-18T20:17:35Z"
       },
       {
@@ -10619,7 +10619,7 @@
         "stars": 15047,
         "forks": 7657,
         "language": "C++",
-        "pushed_at": "2025-07-11T03:17:23Z",
+        "pushed_at": "2025-07-11T12:41:17Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -11366,7 +11366,7 @@
         "name": "esp-hosted-mcu",
         "description": "（无简介）",
         "url": "https://github.com/espressif/esp-hosted-mcu",
-        "stars": 30,
+        "stars": 31,
         "forks": 10,
         "language": "C",
         "pushed_at": "2025-07-11T06:00:12Z",
@@ -11889,7 +11889,7 @@
         "stars": 6,
         "forks": 21,
         "language": "C",
-        "pushed_at": "2025-06-26T07:30:51Z",
+        "pushed_at": "2025-07-11T13:08:54Z",
         "created_at": "2021-01-14T06:26:57Z"
       },
       {
@@ -12049,7 +12049,7 @@
         "stars": 46,
         "forks": 27,
         "language": "C++",
-        "pushed_at": "2025-07-11T08:24:42Z",
+        "pushed_at": "2025-07-11T12:47:03Z",
         "created_at": "2024-01-18T07:20:01Z"
       },
       {
@@ -12939,7 +12939,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-11T12:06:41Z",
+        "pushed_at": "2025-07-11T13:09:39Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13266,7 +13266,7 @@
         "name": "upload-components-ci-action",
         "description": "GitHub Action to upload ESP-IDF components to the component registry",
         "url": "https://github.com/espressif/upload-components-ci-action",
-        "stars": 8,
+        "stars": 9,
         "forks": 4,
         "language": "Python",
         "pushed_at": "2025-07-11T12:28:00Z",
@@ -14889,7 +14889,7 @@
         "stars": 2,
         "forks": 0,
         "language": "C",
-        "pushed_at": "2024-12-10T00:52:35Z",
+        "pushed_at": "2025-07-11T12:53:18Z",
         "created_at": "2024-12-10T00:52:22Z"
       },
       {
@@ -15199,7 +15199,7 @@
         "stars": 3,
         "forks": 0,
         "language": "C",
-        "pushed_at": "2025-02-28T20:38:07Z",
+        "pushed_at": "2025-07-11T12:52:00Z",
         "created_at": "2024-11-18T20:37:00Z"
       },
       {
@@ -15826,7 +15826,7 @@
         "name": "baselines",
         "description": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
         "url": "https://github.com/openai/baselines",
-        "stars": 16350,
+        "stars": 16351,
         "forks": 4918,
         "language": "Python",
         "pushed_at": "2024-08-01T21:31:33Z",
@@ -15937,7 +15937,7 @@
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
         "stars": 29774,
-        "forks": 3665,
+        "forks": 3666,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
         "created_at": "2020-12-16T11:24:42Z"
@@ -15966,7 +15966,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30740,
+        "stars": 30743,
         "forks": 3531,
         "language": "Rust",
         "pushed_at": "2025-07-11T04:06:45Z",
@@ -16866,7 +16866,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12499,
+        "stars": 12500,
         "forks": 1920,
         "language": "Python",
         "pushed_at": "2025-07-11T07:30:15Z",
@@ -16916,7 +16916,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5540,
+        "stars": 5541,
         "forks": 811,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -16946,7 +16946,7 @@
         "name": "openai-dotnet",
         "description": "The official .NET library for the OpenAI API",
         "url": "https://github.com/openai/openai-dotnet",
-        "stars": 2135,
+        "stars": 2136,
         "forks": 288,
         "language": "C#",
         "pushed_at": "2025-07-10T19:21:22Z",
@@ -16986,7 +16986,7 @@
         "name": "openai-java",
         "description": "The official Java library for the OpenAI API",
         "url": "https://github.com/openai/openai-java",
-        "stars": 935,
+        "stars": 936,
         "forks": 133,
         "language": "Kotlin",
         "pushed_at": "2025-07-11T05:07:18Z",
@@ -17566,8 +17566,8 @@
         "name": "spinningup",
         "description": "An educational resource to help anyone learn deep reinforcement learning.",
         "url": "https://github.com/openai/spinningup",
-        "stars": 11037,
-        "forks": 2355,
+        "stars": 11038,
+        "forks": 2356,
         "language": "Python",
         "pushed_at": "2024-08-05T03:30:30Z",
         "created_at": "2018-11-07T20:52:15Z"
@@ -19503,8 +19503,8 @@
         "url": "https://github.com/ARM-software/traceui",
         "stars": 0,
         "forks": 1,
-        "language": "Shell",
-        "pushed_at": "2025-05-15T13:33:51Z",
+        "language": "Python",
+        "pushed_at": "2025-07-11T13:05:33Z",
         "created_at": "2025-03-06T09:55:43Z"
       },
       {
