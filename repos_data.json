@@ -269,7 +269,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-11T14:17:50Z",
+        "pushed_at": "2025-07-11T14:41:05Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3787,9 +3787,9 @@
         "description": "West, Zephyr's meta-tool",
         "url": "https://github.com/zephyrproject-rtos/west",
         "stars": 271,
-        "forks": 138,
+        "forks": 139,
         "language": "Python",
-        "pushed_at": "2025-07-01T22:10:45Z",
+        "pushed_at": "2025-07-11T14:48:02Z",
         "created_at": "2018-05-23T13:56:05Z"
       },
       {
@@ -3819,7 +3819,7 @@
         "stars": 12453,
         "forks": 7624,
         "language": "C",
-        "pushed_at": "2025-07-11T14:40:48Z",
+        "pushed_at": "2025-07-11T14:41:51Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -10957,7 +10957,7 @@
         "description": "AT application for ESP32/ESP32-C2/ESP32-C3/ESP32-C6/ESP8266",
         "url": "https://github.com/espressif/esp-at",
         "stars": 1036,
-        "forks": 1004,
+        "forks": 1005,
         "language": "C",
         "pushed_at": "2025-07-10T12:23:57Z",
         "created_at": "2017-01-11T15:36:52Z"
@@ -11079,7 +11079,7 @@
         "stars": 302,
         "forks": 154,
         "language": "C",
-        "pushed_at": "2025-07-11T12:34:22Z",
+        "pushed_at": "2025-07-11T14:56:29Z",
         "created_at": "2021-09-14T09:33:04Z"
       },
       {
@@ -11206,7 +11206,7 @@
         "name": "esp-drone",
         "description": "Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.",
         "url": "https://github.com/espressif/esp-drone",
-        "stars": 1164,
+        "stars": 1165,
         "forks": 305,
         "language": "C",
         "pushed_at": "2025-03-18T03:31:03Z",
@@ -12939,7 +12939,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-11T14:13:10Z",
+        "pushed_at": "2025-07-11T15:16:39Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15966,7 +15966,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30745,
+        "stars": 30746,
         "forks": 3531,
         "language": "Rust",
         "pushed_at": "2025-07-11T04:06:45Z",
@@ -16726,7 +16726,7 @@
         "name": "mle-bench",
         "description": "MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering",
         "url": "https://github.com/openai/mle-bench",
-        "stars": 794,
+        "stars": 795,
         "forks": 105,
         "language": "Python",
         "pushed_at": "2025-06-19T11:01:22Z",
@@ -16866,10 +16866,10 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12502,
+        "stars": 12503,
         "forks": 1922,
         "language": "Python",
-        "pushed_at": "2025-07-11T07:30:15Z",
+        "pushed_at": "2025-07-11T15:13:42Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -16906,8 +16906,8 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65272,
-        "forks": 10822,
+        "stars": 65276,
+        "forks": 10821,
         "language": "MDX",
         "pushed_at": "2025-07-11T09:19:20Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -16996,7 +16996,7 @@
         "name": "openai-node",
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
-        "stars": 9458,
+        "stars": 9457,
         "forks": 1146,
         "language": "TypeScript",
         "pushed_at": "2025-07-10T18:36:25Z",
@@ -17017,7 +17017,7 @@
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
         "stars": 27331,
-        "forks": 4053,
+        "forks": 4054,
         "language": "Python",
         "pushed_at": "2025-07-11T12:13:02Z",
         "created_at": "2020-10-25T23:23:54Z"
@@ -17106,7 +17106,7 @@
         "name": "openai-responses-starter-app",
         "description": "Starter app to build with the OpenAI Responses API",
         "url": "https://github.com/openai/openai-responses-starter-app",
-        "stars": 366,
+        "stars": 367,
         "forks": 127,
         "language": "TypeScript",
         "pushed_at": "2025-06-09T22:03:51Z",
@@ -17616,7 +17616,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 20078,
+        "stars": 20079,
         "forks": 2141,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
@@ -17832,7 +17832,7 @@
         "description": "Application Binary Interface for the Arm® Architecture",
         "url": "https://github.com/ARM-software/abi-aa",
         "stars": 1089,
-        "forks": 207,
+        "forks": 206,
         "language": "HTML",
         "pushed_at": "2025-06-25T10:09:56Z",
         "created_at": "2019-10-29T16:25:37Z"
@@ -18392,7 +18392,7 @@
         "description": "CMSIS Version 5 Development Repository",
         "url": "https://github.com/ARM-software/CMSIS_5",
         "stars": 1476,
-        "forks": 1099,
+        "forks": 1098,
         "language": "C",
         "pushed_at": "2024-09-03T14:33:59Z",
         "created_at": "2016-02-18T08:04:18Z"
@@ -18881,7 +18881,7 @@
         "name": "LLVM-embedded-toolchain-for-Arm",
         "description": "A project dedicated to building LLVM toolchain for Arm and AArch64 embedded targets.",
         "url": "https://github.com/ARM-software/LLVM-embedded-toolchain-for-Arm",
-        "stars": 485,
+        "stars": 484,
         "forks": 102,
         "language": "CMake",
         "pushed_at": "2025-05-12T13:46:44Z",
