@@ -279,7 +279,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-13T21:32:04Z",
+        "pushed_at": "2025-07-13T21:45:16Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3846,7 +3846,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12462,
+        "stars": 12463,
         "forks": 7632,
         "language": "C",
         "pushed_at": "2025-07-12T01:06:50Z",
@@ -11696,7 +11696,7 @@
         "name": "esp-modbus",
         "description": "ESP-Modbus - the officially suppported library for Modbus protocol (serial RS485 + TCP over WiFi or Ethernet).",
         "url": "https://github.com/espressif/esp-modbus",
-        "stars": 148,
+        "stars": 149,
         "forks": 64,
         "language": "C",
         "pushed_at": "2025-07-07T11:15:15Z",
@@ -11769,7 +11769,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-13T20:03:03Z",
+        "pushed_at": "2025-07-13T22:03:04Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12969,7 +12969,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-13T21:38:37Z",
+        "pushed_at": "2025-07-13T22:10:39Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15966,7 +15966,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29794,
+        "stars": 29795,
         "forks": 3666,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -15996,10 +15996,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30822,
+        "stars": 30823,
         "forks": 3546,
         "language": "Rust",
-        "pushed_at": "2025-07-13T06:44:19Z",
+        "pushed_at": "2025-07-13T21:56:59Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16007,7 +16007,7 @@
         "description": "Base docker image used in Codex environments",
         "url": "https://github.com/openai/codex-universal",
         "stars": 488,
-        "forks": 118,
+        "forks": 117,
         "language": "Dockerfile",
         "pushed_at": "2025-05-28T03:10:36Z",
         "created_at": "2025-05-11T05:20:12Z"
@@ -16777,7 +16777,7 @@
         "description": "The OpenAI Model Spec",
         "url": "https://github.com/openai/model_spec",
         "stars": 345,
-        "forks": 26,
+        "forks": 27,
         "language": "未指定",
         "pushed_at": "2025-04-11T21:48:05Z",
         "created_at": "2025-02-06T19:22:13Z"
@@ -16897,7 +16897,7 @@
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
         "stars": 12557,
-        "forks": 1935,
+        "forks": 1936,
         "language": "Python",
         "pushed_at": "2025-07-13T14:45:15Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -17006,7 +17006,7 @@
         "name": "openai-go",
         "description": "The official Go library for the OpenAI API",
         "url": "https://github.com/openai/openai-go",
-        "stars": 2036,
+        "stars": 2037,
         "forks": 165,
         "language": "Go",
         "pushed_at": "2025-07-11T20:47:33Z",
