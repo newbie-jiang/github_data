@@ -279,7 +279,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-14T12:37:37Z",
+        "pushed_at": "2025-07-14T13:22:55Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3846,8 +3846,8 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12463,
-        "forks": 7636,
+        "stars": 12464,
+        "forks": 7638,
         "language": "C",
         "pushed_at": "2025-07-12T01:06:50Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -3856,7 +3856,7 @@
         "name": "zephyr-lang-rust",
         "description": "Support for Zephyr applications written in Rust",
         "url": "https://github.com/zephyrproject-rtos/zephyr-lang-rust",
-        "stars": 149,
+        "stars": 150,
         "forks": 30,
         "language": "Rust",
         "pushed_at": "2025-07-09T15:39:02Z",
@@ -10839,7 +10839,7 @@
         "stars": 36,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-07-14T13:19:10Z",
+        "pushed_at": "2025-07-14T13:50:08Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -10937,7 +10937,7 @@
         "description": "Espressif Advanced Development Framework for Multimedia Applications",
         "url": "https://github.com/espressif/esp-adf",
         "stars": 1966,
-        "forks": 779,
+        "forks": 780,
         "language": "C",
         "pushed_at": "2025-07-14T12:56:53Z",
         "created_at": "2018-04-02T07:03:49Z"
@@ -12989,7 +12989,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-14T13:20:36Z",
+        "pushed_at": "2025-07-14T13:51:45Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -14051,6 +14051,16 @@
         "language": "C",
         "pushed_at": "2024-09-18T13:26:20Z",
         "created_at": "2024-09-18T09:34:21Z"
+      },
+      {
+        "name": "CKB-STM32-USBD-Composite-MSC-HID-U5",
+        "description": "（无简介）",
+        "url": "https://github.com/stm32-hotspot/CKB-STM32-USBD-Composite-MSC-HID-U5",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-07-14T13:23:06Z",
+        "created_at": "2025-07-14T13:23:05Z"
       },
       {
         "name": "Coremark_Example",
@@ -15632,7 +15642,7 @@
         "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
         "url": "https://github.com/RT-Thread/rt-thread",
         "stars": 11277,
-        "forks": 5215,
+        "forks": 5216,
         "language": "C",
         "pushed_at": "2025-07-14T07:35:20Z",
         "created_at": "2013-01-02T14:49:21Z"
@@ -15877,7 +15887,7 @@
         "description": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
         "url": "https://github.com/openai/baselines",
         "stars": 16354,
-        "forks": 4917,
+        "forks": 4918,
         "language": "Python",
         "pushed_at": "2024-08-01T21:31:33Z",
         "created_at": "2017-05-24T01:58:13Z"
@@ -15986,7 +15996,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29815,
+        "stars": 29814,
         "forks": 3667,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16456,7 +16466,7 @@
         "name": "guided-diffusion",
         "description": "（无简介）",
         "url": "https://github.com/openai/guided-diffusion",
-        "stars": 6910,
+        "stars": 6911,
         "forks": 872,
         "language": "Python",
         "pushed_at": "2024-07-02T11:26:50Z",
@@ -16796,7 +16806,7 @@
         "name": "model_spec",
         "description": "The OpenAI Model Spec",
         "url": "https://github.com/openai/model_spec",
-        "stars": 359,
+        "stars": 360,
         "forks": 30,
         "language": "未指定",
         "pushed_at": "2025-04-11T21:48:05Z",
@@ -16916,10 +16926,10 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12580,
+        "stars": 12581,
         "forks": 1939,
         "language": "Python",
-        "pushed_at": "2025-07-14T13:18:33Z",
+        "pushed_at": "2025-07-14T13:42:10Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -16956,10 +16966,10 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65324,
+        "stars": 65325,
         "forks": 10838,
         "language": "MDX",
-        "pushed_at": "2025-07-14T08:38:25Z",
+        "pushed_at": "2025-07-14T13:43:19Z",
         "created_at": "2022-03-11T02:08:53Z"
       },
       {
@@ -17066,7 +17076,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27358,
+        "stars": 27359,
         "forks": 4062,
         "language": "Python",
         "pushed_at": "2025-07-11T20:46:57Z",
@@ -17706,7 +17716,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 15096,
+        "stars": 15097,
         "forks": 1121,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
@@ -19464,7 +19474,7 @@
         "stars": 6,
         "forks": 5,
         "language": "C++",
-        "pushed_at": "2025-07-09T13:15:02Z",
+        "pushed_at": "2025-07-14T13:39:02Z",
         "created_at": "2025-05-22T09:32:34Z"
       },
       {
