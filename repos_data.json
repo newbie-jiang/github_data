@@ -279,7 +279,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-14T07:49:15Z",
+        "pushed_at": "2025-07-14T08:26:38Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -1801,7 +1801,7 @@
         "name": "pmsx003",
         "description": "PMSX003(PMS1003, PMS3003, PMS5003, PMS6003, PMS7003, PMS9003M, PMSA003) full-featured driver library for general-purpose MCU and Linux.",
         "url": "https://github.com/libdriver/pmsx003",
-        "stars": 96,
+        "stars": 97,
         "forks": 14,
         "language": "C",
         "pushed_at": "2025-05-12T17:02:48Z",
@@ -3846,7 +3846,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12463,
+        "stars": 12464,
         "forks": 7633,
         "language": "C",
         "pushed_at": "2025-07-12T01:06:50Z",
@@ -9658,6 +9658,16 @@
         "created_at": "2024-01-25T10:01:58Z"
       },
       {
+        "name": "stm32wba65ri-dk1-bsp",
+        "description": "（无简介）",
+        "url": "https://github.com/STMicroelectronics/stm32wba65ri-dk1-bsp",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-07-14T08:52:27Z",
+        "created_at": "2025-07-14T08:52:26Z"
+      },
+      {
         "name": "stm32wbaxx-hal-driver",
         "description": "Provides the STM32Cube MCU Component \"hal_driver\" of the STM32WBA series.",
         "url": "https://github.com/STMicroelectronics/stm32wbaxx-hal-driver",
@@ -11106,7 +11116,7 @@
         "name": "esp-brookesia",
         "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
         "url": "https://github.com/espressif/esp-brookesia",
-        "stars": 288,
+        "stars": 289,
         "forks": 49,
         "language": "C",
         "pushed_at": "2025-07-09T08:05:21Z",
@@ -12089,7 +12099,7 @@
         "stars": 46,
         "forks": 27,
         "language": "C++",
-        "pushed_at": "2025-07-11T14:37:48Z",
+        "pushed_at": "2025-07-14T08:50:40Z",
         "created_at": "2024-01-18T07:20:01Z"
       },
       {
@@ -12147,7 +12157,7 @@
         "description": "（无简介）",
         "url": "https://github.com/espressif/esp-webrtc-solution",
         "stars": 216,
-        "forks": 31,
+        "forks": 32,
         "language": "C",
         "pushed_at": "2025-07-11T12:20:20Z",
         "created_at": "2025-01-22T02:24:37Z"
@@ -12739,7 +12749,7 @@
         "stars": 340,
         "forks": 130,
         "language": "Java",
-        "pushed_at": "2025-07-11T10:16:59Z",
+        "pushed_at": "2025-07-14T08:56:45Z",
         "created_at": "2019-09-16T02:21:43Z"
       },
       {
@@ -13554,7 +13564,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-14T08:11:48Z",
+        "pushed_at": "2025-07-14T08:47:42Z",
         "created_at": "2025-06-24T08:38:14Z"
       },
       {
@@ -15976,7 +15986,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29808,
+        "stars": 29811,
         "forks": 3667,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16006,8 +16016,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30838,
-        "forks": 3551,
+        "stars": 30840,
+        "forks": 3553,
         "language": "Rust",
         "pushed_at": "2025-07-14T06:39:57Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16426,7 +16436,7 @@
         "name": "grade-school-math",
         "description": "（无简介）",
         "url": "https://github.com/openai/grade-school-math",
-        "stars": 1292,
+        "stars": 1293,
         "forks": 176,
         "language": "Python",
         "pushed_at": "2024-01-21T10:54:11Z",
@@ -16767,7 +16777,7 @@
         "description": "MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering",
         "url": "https://github.com/openai/mle-bench",
         "stars": 798,
-        "forks": 105,
+        "forks": 106,
         "language": "Python",
         "pushed_at": "2025-06-19T11:01:22Z",
         "created_at": "2024-10-08T17:07:40Z"
@@ -16897,7 +16907,7 @@
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
         "stars": 785,
-        "forks": 143,
+        "forks": 145,
         "language": "TypeScript",
         "pushed_at": "2025-07-14T08:26:27Z",
         "created_at": "2025-05-31T00:08:49Z"
@@ -16906,7 +16916,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12572,
+        "stars": 12574,
         "forks": 1939,
         "language": "Python",
         "pushed_at": "2025-07-14T02:00:44Z",
@@ -16949,15 +16959,15 @@
         "stars": 65318,
         "forks": 10837,
         "language": "MDX",
-        "pushed_at": "2025-07-14T07:59:25Z",
+        "pushed_at": "2025-07-14T08:38:25Z",
         "created_at": "2022-03-11T02:08:53Z"
       },
       {
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5583,
-        "forks": 816,
+        "stars": 5582,
+        "forks": 817,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
         "created_at": "2025-06-14T03:07:09Z"
@@ -17056,7 +17066,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27356,
+        "stars": 27357,
         "forks": 4060,
         "language": "Python",
         "pushed_at": "2025-07-11T20:46:57Z",
@@ -17106,7 +17116,7 @@
         "name": "openai-realtime-console",
         "description": "React app for inspecting, building and debugging with the Realtime API",
         "url": "https://github.com/openai/openai-realtime-console",
-        "stars": 3333,
+        "stars": 3334,
         "forks": 1287,
         "language": "JavaScript",
         "pushed_at": "2025-06-23T22:48:16Z",
@@ -17277,7 +17287,7 @@
         "description": "Point cloud diffusion for 3D model synthesis",
         "url": "https://github.com/openai/point-e",
         "stars": 6753,
-        "forks": 789,
+        "forks": 788,
         "language": "Python",
         "pushed_at": "2024-07-04T19:05:34Z",
         "created_at": "2022-12-06T16:32:13Z"
@@ -18301,7 +18311,7 @@
         "name": "CMSIS-DSP",
         "description": "CMSIS-DSP embedded compute library for Cortex-M and Cortex-A",
         "url": "https://github.com/ARM-software/CMSIS-DSP",
-        "stars": 759,
+        "stars": 760,
         "forks": 183,
         "language": "C",
         "pushed_at": "2025-06-16T12:52:18Z",
