@@ -279,7 +279,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-14T11:32:08Z",
+        "pushed_at": "2025-07-14T11:46:20Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3847,7 +3847,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 12464,
-        "forks": 7635,
+        "forks": 7636,
         "language": "C",
         "pushed_at": "2025-07-12T01:06:50Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -4461,7 +4461,7 @@
         "name": "cmsis-device-f1",
         "description": "Provides the STM32Cube MCU Component \"cmsis_device_f1\" of the STM32F1 series.",
         "url": "https://github.com/STMicroelectronics/cmsis-device-f1",
-        "stars": 57,
+        "stars": 58,
         "forks": 10,
         "language": "C",
         "pushed_at": "2025-03-21T11:22:04Z",
@@ -4704,7 +4704,7 @@
         "stars": 9,
         "forks": 3,
         "language": "Python",
-        "pushed_at": "2025-07-11T14:25:38Z",
+        "pushed_at": "2025-07-14T12:26:08Z",
         "created_at": "2025-06-24T08:50:15Z"
       },
       {
@@ -10666,10 +10666,10 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15065,
+        "stars": 15066,
         "forks": 7659,
         "language": "C++",
-        "pushed_at": "2025-07-14T03:20:48Z",
+        "pushed_at": "2025-07-14T12:15:39Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -11007,7 +11007,7 @@
         "description": "AT application for ESP32/ESP32-C2/ESP32-C3/ESP32-C6/ESP8266",
         "url": "https://github.com/espressif/esp-at",
         "stars": 1037,
-        "forks": 1006,
+        "forks": 1007,
         "language": "C",
         "pushed_at": "2025-07-10T12:23:57Z",
         "created_at": "2017-01-11T15:36:52Z"
@@ -11226,7 +11226,7 @@
         "name": "esp-dl",
         "description": "Espressif deep-learning library for AIoT applications",
         "url": "https://github.com/espressif/esp-dl",
-        "stars": 743,
+        "stars": 744,
         "forks": 143,
         "language": "Assembly",
         "pushed_at": "2025-07-11T02:34:59Z",
@@ -11427,7 +11427,7 @@
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
         "stars": 15788,
-        "forks": 7753,
+        "forks": 7754,
         "language": "C",
         "pushed_at": "2025-07-11T20:51:09Z",
         "created_at": "2016-08-17T10:40:35Z"
@@ -11789,7 +11789,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-14T10:03:22Z",
+        "pushed_at": "2025-07-14T12:03:27Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12099,7 +12099,7 @@
         "stars": 46,
         "forks": 27,
         "language": "C++",
-        "pushed_at": "2025-07-14T08:50:40Z",
+        "pushed_at": "2025-07-14T12:24:47Z",
         "created_at": "2024-01-18T07:20:01Z"
       },
       {
@@ -12306,7 +12306,7 @@
         "name": "esp32-arduino-lib-builder",
         "description": "（无简介）",
         "url": "https://github.com/espressif/esp32-arduino-lib-builder",
-        "stars": 176,
+        "stars": 177,
         "forks": 184,
         "language": "C",
         "pushed_at": "2025-07-07T16:10:31Z",
@@ -12349,7 +12349,7 @@
         "stars": 2285,
         "forks": 709,
         "language": "C",
-        "pushed_at": "2025-07-14T11:15:15Z",
+        "pushed_at": "2025-07-14T12:25:59Z",
         "created_at": "2018-11-13T10:08:16Z"
       },
       {
@@ -12749,7 +12749,7 @@
         "stars": 340,
         "forks": 130,
         "language": "Java",
-        "pushed_at": "2025-07-14T11:16:16Z",
+        "pushed_at": "2025-07-14T12:01:19Z",
         "created_at": "2019-09-16T02:21:43Z"
       },
       {
@@ -12989,7 +12989,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-14T11:44:40Z",
+        "pushed_at": "2025-07-14T12:16:45Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13149,7 +13149,7 @@
         "stars": 0,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-14T11:36:47Z",
+        "pushed_at": "2025-07-14T11:57:06Z",
         "created_at": "2025-06-30T13:45:39Z"
       },
       {
@@ -15631,7 +15631,7 @@
         "name": "rt-thread",
         "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
         "url": "https://github.com/RT-Thread/rt-thread",
-        "stars": 11276,
+        "stars": 11277,
         "forks": 5215,
         "language": "C",
         "pushed_at": "2025-07-14T07:35:20Z",
@@ -15986,7 +15986,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29812,
+        "stars": 29814,
         "forks": 3667,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16376,7 +16376,7 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 23784,
+        "stars": 23785,
         "forks": 5696,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
@@ -16426,7 +16426,7 @@
         "name": "GPTs-are-GPTs",
         "description": "（无简介）",
         "url": "https://github.com/openai/GPTs-are-GPTs",
-        "stars": 31,
+        "stars": 32,
         "forks": 22,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-06-20T18:43:30Z",
@@ -16556,7 +16556,7 @@
         "name": "image-gpt",
         "description": "（无简介）",
         "url": "https://github.com/openai/image-gpt",
-        "stars": 2068,
+        "stars": 2069,
         "forks": 390,
         "language": "Python",
         "pushed_at": "2022-04-29T00:03:56Z",
@@ -16796,7 +16796,7 @@
         "name": "model_spec",
         "description": "The OpenAI Model Spec",
         "url": "https://github.com/openai/model_spec",
-        "stars": 358,
+        "stars": 359,
         "forks": 30,
         "language": "未指定",
         "pushed_at": "2025-04-11T21:48:05Z",
@@ -16916,7 +16916,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12579,
+        "stars": 12580,
         "forks": 1939,
         "language": "Python",
         "pushed_at": "2025-07-14T02:00:44Z",
@@ -16956,7 +16956,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65321,
+        "stars": 65323,
         "forks": 10838,
         "language": "MDX",
         "pushed_at": "2025-07-14T08:38:25Z",
@@ -17036,7 +17036,7 @@
         "name": "openai-java",
         "description": "The official Java library for the OpenAI API",
         "url": "https://github.com/openai/openai-java",
-        "stars": 939,
+        "stars": 940,
         "forks": 134,
         "language": "Kotlin",
         "pushed_at": "2025-07-11T20:49:39Z",
@@ -17067,7 +17067,7 @@
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
         "stars": 27358,
-        "forks": 4060,
+        "forks": 4061,
         "language": "Python",
         "pushed_at": "2025-07-11T20:46:57Z",
         "created_at": "2020-10-25T23:23:54Z"
@@ -17536,7 +17536,7 @@
         "name": "sample-deep-research-mcp",
         "description": "Example MCP server compatible with Deep Research",
         "url": "https://github.com/openai/sample-deep-research-mcp",
-        "stars": 37,
+        "stars": 38,
         "forks": 10,
         "language": "Python",
         "pushed_at": "2025-06-25T21:03:02Z",
@@ -17666,7 +17666,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 20093,
+        "stars": 20095,
         "forks": 2147,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
@@ -17836,8 +17836,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84851,
-        "forks": 10370,
+        "stars": 84853,
+        "forks": 10371,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -18324,7 +18324,7 @@
         "stars": 586,
         "forks": 160,
         "language": "C",
-        "pushed_at": "2025-05-30T06:52:37Z",
+        "pushed_at": "2025-07-14T12:29:13Z",
         "created_at": "2017-01-11T13:06:10Z"
       },
       {
@@ -19524,7 +19524,7 @@
         "stars": 270,
         "forks": 146,
         "language": "Python",
-        "pushed_at": "2025-07-14T11:44:12Z",
+        "pushed_at": "2025-07-14T12:09:44Z",
         "created_at": "2018-10-31T08:39:51Z"
       },
       {
