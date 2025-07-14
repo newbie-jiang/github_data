@@ -279,7 +279,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-14T14:20:19Z",
+        "pushed_at": "2025-07-14T14:43:34Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -9819,12 +9819,12 @@
       },
       {
         "name": "STMems_Finite_State_Machine",
-        "description": "Configuration files and examples for the Finite State Machine feature (FSM) available in STMicroelectronics MEMS sensors",
+        "description": "DISCONTINUED (July 2025): the maintenance for this repository has been discontinued. Please refer to: https://github.com/STMicroelectronics/st-mems-finite-state-machine for the up-to-date HAL repository. Configuration files and examples for the Finite State Machine feature (FSM) available in STMicroelectronics MEMS sensors",
         "url": "https://github.com/STMicroelectronics/STMems_Finite_State_Machine",
         "stars": 78,
         "forks": 29,
         "language": "C",
-        "pushed_at": "2025-04-08T09:25:02Z",
+        "pushed_at": "2025-07-14T15:03:04Z",
         "created_at": "2019-06-19T14:21:55Z"
       },
       {
@@ -9849,12 +9849,12 @@
       },
       {
         "name": "STMems_Machine_Learning_Core",
-        "description": "Configuration files, examples and tools for the Machine Learning Core feature (MLC) available in STMicroelectronics MEMS sensors. Some examples of devices including MLC: LSM6DSOX, LSM6DSRX, ISM330DHCX, IIS2ICLX, LSM6DSO32X, ASM330LHHX, LSM6DSV16X, LIS2DUX12, LIS2DUXS12, LSM6DSV16BX, ASM330LHHXG1, LSM6DSV32X",
+        "description": "DISCONTINUED (July 2025): the maintenance for this repository has been discontinued.  Please refer to:  https://github.com/STMicroelectronics/st-mems-machine-learning-core/  for the up-to-date HAL repository. Configuration files, examples and tools for the Machine Learning Core feature (MLC) available in STMicroelectronics MEMS sensors. ",
         "url": "https://github.com/STMicroelectronics/STMems_Machine_Learning_Core",
         "stars": 199,
         "forks": 72,
         "language": "C",
-        "pushed_at": "2025-04-03T14:13:24Z",
+        "pushed_at": "2025-07-14T15:08:02Z",
         "created_at": "2019-06-19T14:15:22Z"
       },
       {
@@ -9864,7 +9864,7 @@
         "stars": 38,
         "forks": 15,
         "language": "未指定",
-        "pushed_at": "2023-03-24T11:02:58Z",
+        "pushed_at": "2025-07-14T14:55:39Z",
         "created_at": "2019-11-05T08:44:10Z"
       },
       {
@@ -10839,7 +10839,7 @@
         "stars": 36,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-07-14T14:21:09Z",
+        "pushed_at": "2025-07-14T14:52:09Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11256,7 +11256,7 @@
         "name": "esp-drone",
         "description": "Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.",
         "url": "https://github.com/espressif/esp-drone",
-        "stars": 1168,
+        "stars": 1169,
         "forks": 305,
         "language": "C",
         "pushed_at": "2025-03-18T03:31:03Z",
@@ -12746,7 +12746,7 @@
         "name": "idf-eclipse-plugin",
         "description": "Espressif-IDE (ESP-IDF Eclipse Plugin) for ESP-IDF CMake based projects 5.x and above",
         "url": "https://github.com/espressif/idf-eclipse-plugin",
-        "stars": 340,
+        "stars": 341,
         "forks": 130,
         "language": "Java",
         "pushed_at": "2025-07-14T12:01:19Z",
@@ -12989,7 +12989,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-14T14:23:42Z",
+        "pushed_at": "2025-07-14T14:54:39Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13149,7 +13149,7 @@
         "stars": 0,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-14T14:40:16Z",
+        "pushed_at": "2025-07-14T14:55:26Z",
         "created_at": "2025-06-30T13:45:39Z"
       },
       {
@@ -13336,7 +13336,7 @@
         "name": "vscode-esp-idf-extension",
         "description": "Visual Studio Code extension for ESP-IDF projects",
         "url": "https://github.com/espressif/vscode-esp-idf-extension",
-        "stars": 1258,
+        "stars": 1257,
         "forks": 331,
         "language": "TypeScript",
         "pushed_at": "2025-07-14T11:25:16Z",
@@ -16026,7 +16026,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30852,
+        "stars": 30853,
         "forks": 3555,
         "language": "Rust",
         "pushed_at": "2025-07-14T06:39:57Z",
@@ -16236,7 +16236,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 16554,
+        "stars": 16553,
         "forks": 2755,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -16806,7 +16806,7 @@
         "name": "model_spec",
         "description": "The OpenAI Model Spec",
         "url": "https://github.com/openai/model_spec",
-        "stars": 361,
+        "stars": 362,
         "forks": 31,
         "language": "未指定",
         "pushed_at": "2025-04-11T21:48:05Z",
@@ -16926,10 +16926,10 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12581,
+        "stars": 12583,
         "forks": 1939,
         "language": "Python",
-        "pushed_at": "2025-07-14T13:42:10Z",
+        "pushed_at": "2025-07-14T15:10:04Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -16966,7 +16966,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65326,
+        "stars": 65327,
         "forks": 10838,
         "language": "MDX",
         "pushed_at": "2025-07-14T13:43:19Z",
@@ -17076,7 +17076,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27360,
+        "stars": 27361,
         "forks": 4062,
         "language": "Python",
         "pushed_at": "2025-07-11T20:46:57Z",
@@ -17567,7 +17567,7 @@
         "description": "Generate 3D objects conditioned on text or images",
         "url": "https://github.com/openai/shap-e",
         "stars": 11987,
-        "forks": 1018,
+        "forks": 1017,
         "language": "Python",
         "pushed_at": "2024-06-22T19:19:14Z",
         "created_at": "2023-04-19T18:54:32Z"
@@ -17586,7 +17586,7 @@
         "name": "simple-evals",
         "description": "（无简介）",
         "url": "https://github.com/openai/simple-evals",
-        "stars": 3826,
+        "stars": 3827,
         "forks": 384,
         "language": "Python",
         "pushed_at": "2025-07-09T17:20:48Z",
@@ -17676,7 +17676,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 20095,
+        "stars": 20096,
         "forks": 2147,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
@@ -19184,7 +19184,7 @@
         "stars": 632,
         "forks": 108,
         "language": "C",
-        "pushed_at": "2025-07-14T14:07:41Z",
+        "pushed_at": "2025-07-14T15:10:37Z",
         "created_at": "2015-11-11T12:12:32Z"
       },
       {
@@ -19472,7 +19472,7 @@
         "description": "（无简介）",
         "url": "https://github.com/ARM-software/spirv-simulator",
         "stars": 6,
-        "forks": 5,
+        "forks": 6,
         "language": "C++",
         "pushed_at": "2025-07-14T13:39:02Z",
         "created_at": "2025-05-22T09:32:34Z"
