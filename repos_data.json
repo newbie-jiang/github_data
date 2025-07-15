@@ -279,7 +279,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-15T04:24:32Z",
+        "pushed_at": "2025-07-15T05:01:20Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3846,7 +3846,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12469,
+        "stars": 12470,
         "forks": 7639,
         "language": "C",
         "pushed_at": "2025-07-14T21:18:45Z",
@@ -5952,7 +5952,7 @@
         "description": "meta-st-stm32mp",
         "url": "https://github.com/STMicroelectronics/meta-st-stm32mp",
         "stars": 149,
-        "forks": 109,
+        "forks": 110,
         "language": "BitBake",
         "pushed_at": "2025-07-09T10:44:25Z",
         "created_at": "2019-01-17T09:30:49Z"
@@ -11176,7 +11176,7 @@
         "name": "esp-csi",
         "description": "Applications based on Wi-Fi CSI (Channel state information), such as indoor positioning, human detection",
         "url": "https://github.com/espressif/esp-csi",
-        "stars": 822,
+        "stars": 823,
         "forks": 122,
         "language": "C",
         "pushed_at": "2025-04-23T10:58:50Z",
@@ -11379,7 +11379,7 @@
         "stars": 21,
         "forks": 23,
         "language": "Shell",
-        "pushed_at": "2025-07-12T05:04:09Z",
+        "pushed_at": "2025-07-15T05:06:30Z",
         "created_at": "2023-03-09T13:39:06Z"
       },
       {
@@ -11419,7 +11419,7 @@
         "stars": 31,
         "forks": 10,
         "language": "C",
-        "pushed_at": "2025-07-11T06:00:12Z",
+        "pushed_at": "2025-07-15T05:33:01Z",
         "created_at": "2024-11-04T07:38:53Z"
       },
       {
@@ -11679,7 +11679,7 @@
         "stars": 846,
         "forks": 195,
         "language": "C++",
-        "pushed_at": "2025-07-14T02:50:54Z",
+        "pushed_at": "2025-07-15T05:34:06Z",
         "created_at": "2022-05-18T10:02:59Z"
       },
       {
@@ -11846,7 +11846,7 @@
         "name": "esp-protocols",
         "description": "Collection of ESP-IDF components related to networking protocols",
         "url": "https://github.com/espressif/esp-protocols",
-        "stars": 242,
+        "stars": 243,
         "forks": 165,
         "language": "C",
         "pushed_at": "2025-07-11T17:26:49Z",
@@ -12989,7 +12989,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-15T04:32:44Z",
+        "pushed_at": "2025-07-15T05:36:46Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15644,7 +15644,7 @@
         "stars": 11278,
         "forks": 5218,
         "language": "C",
-        "pushed_at": "2025-07-14T07:35:20Z",
+        "pushed_at": "2025-07-15T05:33:40Z",
         "created_at": "2013-01-02T14:49:21Z"
       },
       {
@@ -16026,7 +16026,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30878,
+        "stars": 30882,
         "forks": 3558,
         "language": "Rust",
         "pushed_at": "2025-07-15T04:07:43Z",
@@ -16116,7 +16116,7 @@
         "name": "dalle-2-preview",
         "description": "（无简介）",
         "url": "https://github.com/openai/dalle-2-preview",
-        "stars": 1043,
+        "stars": 1042,
         "forks": 127,
         "language": "未指定",
         "pushed_at": "2022-07-20T02:45:51Z",
@@ -16236,7 +16236,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 16557,
+        "stars": 16558,
         "forks": 2756,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -16386,7 +16386,7 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 23787,
+        "stars": 23788,
         "forks": 5696,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
@@ -16476,7 +16476,7 @@
         "name": "gym",
         "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
         "url": "https://github.com/openai/gym",
-        "stars": 36242,
+        "stars": 36243,
         "forks": 8676,
         "language": "Python",
         "pushed_at": "2024-10-11T20:07:05Z",
@@ -16586,7 +16586,7 @@
         "name": "improved-diffusion",
         "description": "Release for Improved Denoising Diffusion Probabilistic Models",
         "url": "https://github.com/openai/improved-diffusion",
-        "stars": 3617,
+        "stars": 3618,
         "forks": 522,
         "language": "Python",
         "pushed_at": "2024-07-18T02:45:29Z",
@@ -16806,7 +16806,7 @@
         "name": "model_spec",
         "description": "The OpenAI Model Spec",
         "url": "https://github.com/openai/model_spec",
-        "stars": 373,
+        "stars": 375,
         "forks": 36,
         "language": "未指定",
         "pushed_at": "2025-04-11T21:48:05Z",
@@ -16966,7 +16966,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65341,
+        "stars": 65342,
         "forks": 10839,
         "language": "MDX",
         "pushed_at": "2025-07-15T00:28:42Z",
@@ -16976,7 +16976,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5593,
+        "stars": 5596,
         "forks": 817,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -17049,7 +17049,7 @@
         "stars": 940,
         "forks": 134,
         "language": "Kotlin",
-        "pushed_at": "2025-07-14T18:39:38Z",
+        "pushed_at": "2025-07-15T05:08:18Z",
         "created_at": "2024-10-31T17:42:57Z"
       },
       {
@@ -17079,7 +17079,7 @@
         "stars": 27365,
         "forks": 4063,
         "language": "Python",
-        "pushed_at": "2025-07-14T17:30:26Z",
+        "pushed_at": "2025-07-15T05:06:57Z",
         "created_at": "2020-10-25T23:23:54Z"
       },
       {
@@ -17846,7 +17846,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84876,
+        "stars": 84877,
         "forks": 10374,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
@@ -18092,7 +18092,7 @@
         "description": "DEPRECATED - use instead AVH_CI_Template",
         "url": "https://github.com/ARM-software/AVH-GetStarted",
         "stars": 64,
-        "forks": 28,
+        "forks": 29,
         "language": "C",
         "pushed_at": "2024-11-26T12:27:10Z",
         "created_at": "2021-08-23T13:26:27Z"
@@ -18101,7 +18101,7 @@
         "name": "AVH-MLOps",
         "description": "Template repository for setting up MLOps components using AVH_FVP models and cmsis-toolbox in a Docker Container",
         "url": "https://github.com/ARM-software/AVH-MLOps",
-        "stars": 4,
+        "stars": 5,
         "forks": 9,
         "language": "C++",
         "pushed_at": "2025-03-18T09:03:00Z",
@@ -18322,9 +18322,9 @@
         "description": "CMSIS-DSP embedded compute library for Cortex-M and Cortex-A",
         "url": "https://github.com/ARM-software/CMSIS-DSP",
         "stars": 760,
-        "forks": 183,
+        "forks": 184,
         "language": "C",
-        "pushed_at": "2025-06-16T12:52:18Z",
+        "pushed_at": "2025-07-15T05:31:30Z",
         "created_at": "2022-06-01T14:44:12Z"
       },
       {
@@ -18332,7 +18332,7 @@
         "description": "FreeRTOS adaptation for CMSIS-RTOS Version 2",
         "url": "https://github.com/ARM-software/CMSIS-FreeRTOS",
         "stars": 586,
-        "forks": 160,
+        "forks": 161,
         "language": "C",
         "pushed_at": "2025-07-14T12:29:13Z",
         "created_at": "2017-01-11T13:06:10Z"
@@ -18392,7 +18392,7 @@
         "description": "RTX5 real time kernel for Arm Cortex-based embedded systems (spin-off from CMSIS_5)",
         "url": "https://github.com/ARM-software/CMSIS-RTX",
         "stars": 101,
-        "forks": 31,
+        "forks": 32,
         "language": "C",
         "pushed_at": "2025-07-14T09:34:29Z",
         "created_at": "2023-03-08T14:38:34Z"
@@ -18472,7 +18472,7 @@
         "description": "The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.",
         "url": "https://github.com/ARM-software/ComputeLibrary",
         "stars": 3005,
-        "forks": 794,
+        "forks": 795,
         "language": "C++",
         "pushed_at": "2025-07-09T12:16:18Z",
         "created_at": "2017-03-10T14:51:43Z"
@@ -18742,7 +18742,7 @@
         "description": "Graphics API Capture and Replay Tools for Reconstructing Graphics Application Behavior",
         "url": "https://github.com/ARM-software/gfxreconstruct-arm",
         "stars": 0,
-        "forks": 0,
+        "forks": 1,
         "language": "C++",
         "pushed_at": "2025-07-14T13:58:51Z",
         "created_at": "2025-06-13T09:33:39Z"
@@ -18802,7 +18802,7 @@
         "description": "This repository is a read-only mirror of https://gitlab.arm.com/kleidi/kleidiai",
         "url": "https://github.com/ARM-software/kleidiai",
         "stars": 56,
-        "forks": 3,
+        "forks": 4,
         "language": "C",
         "pushed_at": "2025-07-14T13:59:09Z",
         "created_at": "2025-01-23T14:23:07Z"
@@ -19002,7 +19002,7 @@
         "description": "MDK-Middleware (file system, network and USB components) source code for Arm Cortex-M using CMSIS-Drivers and CMSIS-RTOS2 APIs.",
         "url": "https://github.com/ARM-software/MDK-Middleware",
         "stars": 118,
-        "forks": 39,
+        "forks": 40,
         "language": "C",
         "pushed_at": "2025-07-07T09:04:43Z",
         "created_at": "2024-04-24T09:01:30Z"
@@ -19642,7 +19642,7 @@
         "description": "Extension support for VS Code CMSIS Project Extension",
         "url": "https://github.com/ARM-software/vscode-cmsis-csolution",
         "stars": 30,
-        "forks": 6,
+        "forks": 7,
         "language": "未指定",
         "pushed_at": "2025-07-11T14:01:29Z",
         "created_at": "2022-04-25T14:28:59Z"
