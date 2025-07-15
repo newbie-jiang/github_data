@@ -279,7 +279,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-15T06:58:00Z",
+        "pushed_at": "2025-07-15T07:26:10Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3846,7 +3846,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12472,
+        "stars": 12473,
         "forks": 7639,
         "language": "C",
         "pushed_at": "2025-07-14T21:18:45Z",
@@ -11127,9 +11127,9 @@
         "description": "Board support components for Espressif development boards",
         "url": "https://github.com/espressif/esp-bsp",
         "stars": 304,
-        "forks": 154,
+        "forks": 155,
         "language": "C",
-        "pushed_at": "2025-07-11T14:56:29Z",
+        "pushed_at": "2025-07-15T07:36:09Z",
         "created_at": "2021-09-14T09:33:04Z"
       },
       {
@@ -11849,7 +11849,7 @@
         "stars": 243,
         "forks": 165,
         "language": "C",
-        "pushed_at": "2025-07-15T06:51:59Z",
+        "pushed_at": "2025-07-15T07:29:55Z",
         "created_at": "2021-10-04T08:47:54Z"
       },
       {
@@ -12349,7 +12349,7 @@
         "stars": 2287,
         "forks": 709,
         "language": "C",
-        "pushed_at": "2025-07-15T07:18:09Z",
+        "pushed_at": "2025-07-15T07:34:03Z",
         "created_at": "2018-11-13T10:08:16Z"
       },
       {
@@ -12749,7 +12749,7 @@
         "stars": 342,
         "forks": 130,
         "language": "Java",
-        "pushed_at": "2025-07-15T03:37:05Z",
+        "pushed_at": "2025-07-15T07:37:16Z",
         "created_at": "2019-09-16T02:21:43Z"
       },
       {
@@ -12989,7 +12989,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-15T07:11:45Z",
+        "pushed_at": "2025-07-15T07:42:38Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13149,7 +13149,7 @@
         "stars": 0,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-14T14:55:26Z",
+        "pushed_at": "2025-07-15T07:48:02Z",
         "created_at": "2025-06-30T13:45:39Z"
       },
       {
@@ -13444,7 +13444,7 @@
         "stars": 1,
         "forks": 3,
         "language": "C",
-        "pushed_at": "2025-07-10T03:38:51Z",
+        "pushed_at": "2025-07-15T07:46:04Z",
         "created_at": "2024-07-02T07:21:14Z"
       },
       {
@@ -15681,7 +15681,7 @@
         "name": "rtthread-nano",
         "description": "nano version of RT-Thread",
         "url": "https://github.com/RT-Thread/rtthread-nano",
-        "stars": 206,
+        "stars": 207,
         "forks": 98,
         "language": "C",
         "pushed_at": "2024-09-20T08:19:49Z",
@@ -16026,7 +16026,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30887,
+        "stars": 30888,
         "forks": 3559,
         "language": "Rust",
         "pushed_at": "2025-07-15T06:50:41Z",
@@ -16236,7 +16236,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 16558,
+        "stars": 16559,
         "forks": 2757,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -16476,7 +16476,7 @@
         "name": "gym",
         "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
         "url": "https://github.com/openai/gym",
-        "stars": 36243,
+        "stars": 36244,
         "forks": 8676,
         "language": "Python",
         "pushed_at": "2024-10-11T20:07:05Z",
@@ -16966,7 +16966,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65343,
+        "stars": 65344,
         "forks": 10839,
         "language": "MDX",
         "pushed_at": "2025-07-15T00:28:42Z",
@@ -16976,7 +16976,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5600,
+        "stars": 5601,
         "forks": 817,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -17716,7 +17716,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 15104,
+        "stars": 15105,
         "forks": 1121,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
@@ -17846,7 +17846,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84880,
+        "stars": 84879,
         "forks": 10376,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
