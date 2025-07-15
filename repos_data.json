@@ -279,7 +279,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-15T17:39:18Z",
+        "pushed_at": "2025-07-15T17:51:40Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -10839,7 +10839,7 @@
         "stars": 36,
         "forks": 30,
         "language": "C++",
-        "pushed_at": "2025-07-15T17:11:08Z",
+        "pushed_at": "2025-07-15T18:13:16Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11789,7 +11789,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-15T16:03:14Z",
+        "pushed_at": "2025-07-15T18:03:23Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12976,7 +12976,7 @@
         "name": "kicad-libraries",
         "description": "KiCad libraries for Espressif SoCs, modules, and DevKits.",
         "url": "https://github.com/espressif/kicad-libraries",
-        "stars": 937,
+        "stars": 938,
         "forks": 130,
         "language": "Python",
         "pushed_at": "2025-02-04T16:47:29Z",
@@ -12999,7 +12999,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-15T17:46:43Z",
+        "pushed_at": "2025-07-15T18:17:40Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13016,7 +13016,7 @@
         "name": "maker-faire-cz",
         "description": "This repository hosts resources for all the demos presented by Espressif at maker Faire",
         "url": "https://github.com/espressif/maker-faire-cz",
-        "stars": 10,
+        "stars": 9,
         "forks": 2,
         "language": "未指定",
         "pushed_at": "2025-05-11T09:20:10Z",
@@ -13119,7 +13119,7 @@
         "stars": 29,
         "forks": 9,
         "language": "C++",
-        "pushed_at": "2025-07-15T15:31:09Z",
+        "pushed_at": "2025-07-15T18:06:08Z",
         "created_at": "2021-03-01T07:44:10Z"
       },
       {
@@ -16006,7 +16006,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29833,
+        "stars": 29834,
         "forks": 3671,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16036,10 +16036,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30913,
-        "forks": 3563,
+        "stars": 30915,
+        "forks": 3564,
         "language": "Rust",
-        "pushed_at": "2025-07-15T16:00:00Z",
+        "pushed_at": "2025-07-15T17:52:21Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16116,7 +16116,7 @@
         "name": "DALL-E",
         "description": "PyTorch package for the discrete VAE used for DALL·E.",
         "url": "https://github.com/openai/DALL-E",
-        "stars": 10874,
+        "stars": 10873,
         "forks": 1918,
         "language": "Python",
         "pushed_at": "2024-01-31T15:42:28Z",
@@ -16816,8 +16816,8 @@
         "name": "model_spec",
         "description": "The OpenAI Model Spec",
         "url": "https://github.com/openai/model_spec",
-        "stars": 381,
-        "forks": 37,
+        "stars": 383,
+        "forks": 38,
         "language": "未指定",
         "pushed_at": "2025-04-11T21:48:05Z",
         "created_at": "2025-02-06T19:22:13Z"
@@ -16927,17 +16927,17 @@
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
         "stars": 803,
-        "forks": 144,
+        "forks": 145,
         "language": "TypeScript",
-        "pushed_at": "2025-07-15T17:50:01Z",
+        "pushed_at": "2025-07-15T17:52:23Z",
         "created_at": "2025-05-31T00:08:49Z"
       },
       {
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12603,
-        "forks": 1941,
+        "stars": 12605,
+        "forks": 1942,
         "language": "Python",
         "pushed_at": "2025-07-15T16:45:36Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -17576,7 +17576,7 @@
         "name": "shap-e",
         "description": "Generate 3D objects conditioned on text or images",
         "url": "https://github.com/openai/shap-e",
-        "stars": 11987,
+        "stars": 11988,
         "forks": 1018,
         "language": "Python",
         "pushed_at": "2024-06-22T19:19:14Z",
@@ -17637,7 +17637,7 @@
         "description": "An educational resource to help anyone learn deep reinforcement learning.",
         "url": "https://github.com/openai/spinningup",
         "stars": 11042,
-        "forks": 2356,
+        "forks": 2357,
         "language": "Python",
         "pushed_at": "2024-08-05T03:30:30Z",
         "created_at": "2018-11-07T20:52:15Z"
@@ -17856,7 +17856,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84910,
+        "stars": 84911,
         "forks": 10381,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
@@ -18471,7 +18471,7 @@
         "name": "CMSIS_6",
         "description": "CMSIS version 6 (successor of CMSIS_5)",
         "url": "https://github.com/ARM-software/CMSIS_6",
-        "stars": 292,
+        "stars": 293,
         "forks": 104,
         "language": "C",
         "pushed_at": "2025-06-24T08:54:11Z",
