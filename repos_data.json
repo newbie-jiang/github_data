@@ -279,7 +279,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-15T01:38:20Z",
+        "pushed_at": "2025-07-15T03:21:14Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3846,7 +3846,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12468,
+        "stars": 12469,
         "forks": 7639,
         "language": "C",
         "pushed_at": "2025-07-14T21:18:45Z",
@@ -8341,7 +8341,7 @@
         "name": "STM32CubeF4",
         "description": "STM32Cube MCU Full Package for the STM32F4 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
         "url": "https://github.com/STMicroelectronics/STM32CubeF4",
-        "stars": 1048,
+        "stars": 1049,
         "forks": 457,
         "language": "C",
         "pushed_at": "2025-07-07T09:13:05Z",
@@ -11217,7 +11217,7 @@
         "description": "Docs, Schematics, Factory Firmwares for ESP Development Kits",
         "url": "https://github.com/espressif/esp-dev-kits",
         "stars": 469,
-        "forks": 196,
+        "forks": 197,
         "language": "Python",
         "pushed_at": "2025-07-08T04:19:05Z",
         "created_at": "2020-04-27T01:08:18Z"
@@ -11789,7 +11789,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-15T02:40:28Z",
+        "pushed_at": "2025-07-15T04:16:31Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12017,7 +12017,7 @@
         "description": "Espressif intelligent voice assistant",
         "url": "https://github.com/espressif/esp-skainet",
         "stars": 732,
-        "forks": 164,
+        "forks": 165,
         "language": "C",
         "pushed_at": "2025-05-27T11:55:28Z",
         "created_at": "2019-08-01T04:02:31Z"
@@ -12027,7 +12027,7 @@
         "description": "Speech recognition",
         "url": "https://github.com/espressif/esp-sr",
         "stars": 1012,
-        "forks": 153,
+        "forks": 154,
         "language": "C",
         "pushed_at": "2025-07-11T11:27:38Z",
         "created_at": "2019-07-29T13:27:25Z"
@@ -12749,7 +12749,7 @@
         "stars": 342,
         "forks": 130,
         "language": "Java",
-        "pushed_at": "2025-07-14T12:01:19Z",
+        "pushed_at": "2025-07-15T03:37:05Z",
         "created_at": "2019-09-16T02:21:43Z"
       },
       {
@@ -12989,7 +12989,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-15T02:58:37Z",
+        "pushed_at": "2025-07-15T04:01:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13109,7 +13109,7 @@
         "stars": 29,
         "forks": 9,
         "language": "C++",
-        "pushed_at": "2025-07-14T23:27:08Z",
+        "pushed_at": "2025-07-15T04:06:08Z",
         "created_at": "2021-03-01T07:44:10Z"
       },
       {
@@ -15996,7 +15996,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29817,
+        "stars": 29819,
         "forks": 3668,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16029,7 +16029,7 @@
         "stars": 30875,
         "forks": 3558,
         "language": "Rust",
-        "pushed_at": "2025-07-15T01:40:36Z",
+        "pushed_at": "2025-07-15T04:07:43Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16037,7 +16037,7 @@
         "description": "Base docker image used in Codex environments",
         "url": "https://github.com/openai/codex-universal",
         "stars": 488,
-        "forks": 117,
+        "forks": 116,
         "language": "Dockerfile",
         "pushed_at": "2025-05-28T03:10:36Z",
         "created_at": "2025-05-11T05:20:12Z"
@@ -16066,7 +16066,7 @@
         "name": "consistencydecoder",
         "description": "Consistency Distilled Diff VAE",
         "url": "https://github.com/openai/consistencydecoder",
-        "stars": 2192,
+        "stars": 2193,
         "forks": 78,
         "language": "Python",
         "pushed_at": "2023-11-07T11:21:38Z",
@@ -16386,7 +16386,7 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 23786,
+        "stars": 23787,
         "forks": 5696,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
@@ -16806,7 +16806,7 @@
         "name": "model_spec",
         "description": "The OpenAI Model Spec",
         "url": "https://github.com/openai/model_spec",
-        "stars": 371,
+        "stars": 373,
         "forks": 36,
         "language": "未指定",
         "pushed_at": "2025-04-11T21:48:05Z",
@@ -16916,10 +16916,10 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 795,
+        "stars": 797,
         "forks": 144,
         "language": "TypeScript",
-        "pushed_at": "2025-07-15T00:25:06Z",
+        "pushed_at": "2025-07-15T03:41:32Z",
         "created_at": "2025-05-31T00:08:49Z"
       },
       {
@@ -16966,7 +16966,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65339,
+        "stars": 65340,
         "forks": 10839,
         "language": "MDX",
         "pushed_at": "2025-07-15T00:28:42Z",
@@ -16976,7 +16976,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5592,
+        "stars": 5593,
         "forks": 817,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -17076,7 +17076,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27364,
+        "stars": 27365,
         "forks": 4063,
         "language": "Python",
         "pushed_at": "2025-07-14T17:30:26Z",
@@ -17846,8 +17846,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84872,
-        "forks": 10375,
+        "stars": 84875,
+        "forks": 10374,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
