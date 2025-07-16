@@ -309,7 +309,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-16T15:19:55Z",
+        "pushed_at": "2025-07-16T15:40:50Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3926,7 +3926,7 @@
         "name": "zscilib",
         "description": "An open-source scientific computing library for embedded systems running Zephyr OS or standalone.",
         "url": "https://github.com/zephyrproject-rtos/zscilib",
-        "stars": 152,
+        "stars": 153,
         "forks": 29,
         "language": "C",
         "pushed_at": "2025-05-12T13:09:10Z",
@@ -6402,7 +6402,7 @@
         "description": "st1vafe3bx platform independent driver based on Standard C language and compliant with MISRA C",
         "url": "https://github.com/STMicroelectronics/st1vafe3bx-pid",
         "stars": 4,
-        "forks": 0,
+        "forks": 1,
         "language": "C",
         "pushed_at": "2025-07-08T12:10:43Z",
         "created_at": "2024-09-23T14:36:01Z"
@@ -7001,7 +7001,7 @@
         "name": "stm32-ili9341",
         "description": "Provides the ILI9341 driver, part of the STM32Cube BSP Component for all STM32xx series.",
         "url": "https://github.com/STMicroelectronics/stm32-ili9341",
-        "stars": 20,
+        "stars": 21,
         "forks": 2,
         "language": "CSS",
         "pushed_at": "2023-12-15T15:29:02Z",
@@ -10879,7 +10879,7 @@
         "stars": 36,
         "forks": 30,
         "language": "C++",
-        "pushed_at": "2025-07-16T15:26:07Z",
+        "pushed_at": "2025-07-16T15:57:11Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -10979,7 +10979,7 @@
         "stars": 1970,
         "forks": 782,
         "language": "C",
-        "pushed_at": "2025-07-16T08:05:57Z",
+        "pushed_at": "2025-07-16T15:58:26Z",
         "created_at": "2018-04-02T07:03:49Z"
       },
       {
@@ -11829,7 +11829,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-16T14:03:51Z",
+        "pushed_at": "2025-07-16T16:03:30Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12149,7 +12149,7 @@
         "stars": 46,
         "forks": 27,
         "language": "C++",
-        "pushed_at": "2025-07-16T12:13:07Z",
+        "pushed_at": "2025-07-16T15:51:08Z",
         "created_at": "2024-01-18T07:20:01Z"
       },
       {
@@ -13039,7 +13039,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-16T15:16:39Z",
+        "pushed_at": "2025-07-16T16:19:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15986,7 +15986,7 @@
         "name": "build-hours",
         "description": "Build hours code to share.",
         "url": "https://github.com/openai/build-hours",
-        "stars": 384,
+        "stars": 386,
         "forks": 78,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-06-17T18:39:26Z",
@@ -16076,10 +16076,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30970,
+        "stars": 30971,
         "forks": 3570,
         "language": "Rust",
-        "pushed_at": "2025-07-16T15:40:02Z",
+        "pushed_at": "2025-07-16T15:59:29Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16966,7 +16966,7 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 814,
+        "stars": 815,
         "forks": 146,
         "language": "TypeScript",
         "pushed_at": "2025-07-16T09:06:42Z",
@@ -16976,10 +16976,10 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12646,
+        "stars": 12647,
         "forks": 1948,
         "language": "Python",
-        "pushed_at": "2025-07-16T15:31:57Z",
+        "pushed_at": "2025-07-16T16:19:25Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -17016,10 +17016,10 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65364,
+        "stars": 65365,
         "forks": 10839,
         "language": "MDX",
-        "pushed_at": "2025-07-15T21:20:01Z",
+        "pushed_at": "2025-07-16T16:19:58Z",
         "created_at": "2022-03-11T02:08:53Z"
       },
       {
@@ -17036,7 +17036,7 @@
         "name": "openai-cua-sample-app",
         "description": "Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.",
         "url": "https://github.com/openai/openai-cua-sample-app",
-        "stars": 1005,
+        "stars": 1006,
         "forks": 295,
         "language": "Python",
         "pushed_at": "2025-04-24T17:36:50Z",
@@ -17156,7 +17156,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 6036,
+        "stars": 6037,
         "forks": 828,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T14:47:04Z",
@@ -17896,8 +17896,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84968,
-        "forks": 10385,
+        "stars": 84971,
+        "forks": 10386,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -18974,7 +18974,7 @@
         "stars": 204,
         "forks": 121,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-07-16T15:13:53Z",
+        "pushed_at": "2025-07-16T16:15:58Z",
         "created_at": "2015-12-07T11:32:56Z"
       },
       {
@@ -19584,7 +19584,7 @@
         "stars": 270,
         "forks": 146,
         "language": "Python",
-        "pushed_at": "2025-07-16T14:39:11Z",
+        "pushed_at": "2025-07-16T15:58:09Z",
         "created_at": "2018-10-31T08:39:51Z"
       },
       {
