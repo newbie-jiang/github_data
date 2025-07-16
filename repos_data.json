@@ -309,7 +309,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-16T15:40:50Z",
+        "pushed_at": "2025-07-16T16:23:11Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -2947,7 +2947,7 @@
         "description": "（无简介）",
         "url": "https://github.com/zephyrproject-rtos/hal_nordic",
         "stars": 34,
-        "forks": 133,
+        "forks": 134,
         "language": "C",
         "pushed_at": "2025-07-16T14:17:56Z",
         "created_at": "2019-04-06T22:26:39Z"
@@ -3886,7 +3886,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12483,
+        "stars": 12484,
         "forks": 7646,
         "language": "C",
         "pushed_at": "2025-07-16T15:22:48Z",
@@ -9971,7 +9971,7 @@
         "name": "STSAFE-A_echo",
         "description": "Example project illustrating a simple integration of STSAFE-A on host platform   ",
         "url": "https://github.com/STMicroelectronics/STSAFE-A_echo",
-        "stars": 0,
+        "stars": 1,
         "forks": 0,
         "language": "C",
         "pushed_at": "2025-07-10T09:46:09Z",
@@ -10011,7 +10011,7 @@
         "name": "STSAFE-L_device_authentication",
         "description": "Example project illustrating the implementation of STSAFE-L for device authentication  ",
         "url": "https://github.com/STMicroelectronics/STSAFE-L_device_authentication",
-        "stars": 0,
+        "stars": 1,
         "forks": 0,
         "language": "C",
         "pushed_at": "2025-07-02T07:56:08Z",
@@ -10021,7 +10021,7 @@
         "name": "STSAFE-L_echo",
         "description": "Example project illustrating a simple integration of STSAFE-L on host platform   ",
         "url": "https://github.com/STMicroelectronics/STSAFE-L_echo",
-        "stars": 0,
+        "stars": 1,
         "forks": 0,
         "language": "C",
         "pushed_at": "2025-07-11T10:38:58Z",
@@ -10031,7 +10031,7 @@
         "name": "STSAFE-L_secure_data_storage",
         "description": "Example project for the implementation of STSAFE-L for data storage and device usage monitoring",
         "url": "https://github.com/STMicroelectronics/STSAFE-L_secure_data_storage",
-        "stars": 0,
+        "stars": 1,
         "forks": 0,
         "language": "C",
         "pushed_at": "2025-07-02T08:08:46Z",
@@ -10706,10 +10706,10 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15083,
+        "stars": 15084,
         "forks": 7659,
         "language": "C++",
-        "pushed_at": "2025-07-16T12:12:43Z",
+        "pushed_at": "2025-07-16T16:55:59Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -10879,7 +10879,7 @@
         "stars": 36,
         "forks": 30,
         "language": "C++",
-        "pushed_at": "2025-07-16T15:57:11Z",
+        "pushed_at": "2025-07-16T16:28:07Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11466,7 +11466,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15801,
+        "stars": 15802,
         "forks": 7758,
         "language": "C",
         "pushed_at": "2025-07-16T06:59:44Z",
@@ -13016,7 +13016,7 @@
         "name": "kicad-libraries",
         "description": "KiCad libraries for Espressif SoCs, modules, and DevKits.",
         "url": "https://github.com/espressif/kicad-libraries",
-        "stars": 939,
+        "stars": 940,
         "forks": 130,
         "language": "Python",
         "pushed_at": "2025-02-04T16:47:29Z",
@@ -13039,7 +13039,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-16T16:19:37Z",
+        "pushed_at": "2025-07-16T16:50:46Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15989,7 +15989,7 @@
         "stars": 386,
         "forks": 78,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-06-17T18:39:26Z",
+        "pushed_at": "2025-07-16T16:28:36Z",
         "created_at": "2024-07-29T18:23:42Z"
       },
       {
@@ -16076,17 +16076,17 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 30971,
+        "stars": 30975,
         "forks": 3570,
         "language": "Rust",
-        "pushed_at": "2025-07-16T15:59:29Z",
+        "pushed_at": "2025-07-16T16:36:43Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
         "name": "codex-universal",
         "description": "Base docker image used in Codex environments",
         "url": "https://github.com/openai/codex-universal",
-        "stars": 491,
+        "stars": 492,
         "forks": 118,
         "language": "Dockerfile",
         "pushed_at": "2025-05-28T03:10:36Z",
@@ -16286,8 +16286,8 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 16563,
-        "forks": 2756,
+        "stars": 16564,
+        "forks": 2757,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
         "created_at": "2023-01-23T20:51:04Z"
@@ -16856,7 +16856,7 @@
         "name": "model_spec",
         "description": "The OpenAI Model Spec",
         "url": "https://github.com/openai/model_spec",
-        "stars": 394,
+        "stars": 395,
         "forks": 42,
         "language": "未指定",
         "pushed_at": "2025-04-11T21:48:05Z",
@@ -16966,7 +16966,7 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 815,
+        "stars": 816,
         "forks": 146,
         "language": "TypeScript",
         "pushed_at": "2025-07-16T09:06:42Z",
@@ -16979,7 +16979,7 @@
         "stars": 12647,
         "forks": 1948,
         "language": "Python",
-        "pushed_at": "2025-07-16T16:19:25Z",
+        "pushed_at": "2025-07-16T16:50:58Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -17016,10 +17016,10 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65365,
+        "stars": 65366,
         "forks": 10839,
         "language": "MDX",
-        "pushed_at": "2025-07-16T16:19:58Z",
+        "pushed_at": "2025-07-16T16:53:51Z",
         "created_at": "2022-03-11T02:08:53Z"
       },
       {
@@ -17089,7 +17089,7 @@
         "stars": 2052,
         "forks": 169,
         "language": "Go",
-        "pushed_at": "2025-07-15T21:27:31Z",
+        "pushed_at": "2025-07-16T16:41:15Z",
         "created_at": "2024-07-22T19:29:26Z"
       },
       {
@@ -17099,7 +17099,7 @@
         "stars": 942,
         "forks": 135,
         "language": "Kotlin",
-        "pushed_at": "2025-07-16T05:08:44Z",
+        "pushed_at": "2025-07-16T16:28:32Z",
         "created_at": "2024-10-31T17:42:57Z"
       },
       {
@@ -17109,7 +17109,7 @@
         "stars": 9476,
         "forks": 1150,
         "language": "TypeScript",
-        "pushed_at": "2025-07-16T05:11:56Z",
+        "pushed_at": "2025-07-16T16:52:57Z",
         "created_at": "2021-12-14T22:32:58Z"
       },
       {
@@ -17129,7 +17129,7 @@
         "stars": 27382,
         "forks": 4069,
         "language": "Python",
-        "pushed_at": "2025-07-15T21:39:22Z",
+        "pushed_at": "2025-07-16T16:37:16Z",
         "created_at": "2020-10-25T23:23:54Z"
       },
       {
@@ -17229,7 +17229,7 @@
         "stars": 277,
         "forks": 20,
         "language": "Ruby",
-        "pushed_at": "2025-07-15T21:28:27Z",
+        "pushed_at": "2025-07-16T16:45:25Z",
         "created_at": "2025-03-05T18:31:42Z"
       },
       {
@@ -17636,8 +17636,8 @@
         "name": "simple-evals",
         "description": "（无简介）",
         "url": "https://github.com/openai/simple-evals",
-        "stars": 3839,
-        "forks": 385,
+        "stars": 3840,
+        "forks": 386,
         "language": "Python",
         "pushed_at": "2025-07-09T17:20:48Z",
         "created_at": "2024-04-11T22:38:17Z"
@@ -17677,7 +17677,7 @@
         "description": "An educational resource to help anyone learn deep reinforcement learning.",
         "url": "https://github.com/openai/spinningup",
         "stars": 11044,
-        "forks": 2357,
+        "forks": 2358,
         "language": "Python",
         "pushed_at": "2024-08-05T03:30:30Z",
         "created_at": "2018-11-07T20:52:15Z"
@@ -18724,7 +18724,7 @@
         "stars": 2,
         "forks": 0,
         "language": "Go",
-        "pushed_at": "2025-07-16T15:13:23Z",
+        "pushed_at": "2025-07-16T16:34:17Z",
         "created_at": "2022-12-01T15:22:46Z"
       },
       {
@@ -19552,7 +19552,7 @@
         "description": "Arm System Architecture: Architecture Compliance Suite",
         "url": "https://github.com/ARM-software/sysarch-acs",
         "stars": 4,
-        "forks": 9,
+        "forks": 10,
         "language": "C",
         "pushed_at": "2025-07-09T21:35:26Z",
         "created_at": "2025-06-03T10:51:15Z"
