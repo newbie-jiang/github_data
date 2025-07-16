@@ -253,6 +253,16 @@
         "created_at": "2025-04-23T16:26:39Z"
       },
       {
+        "name": "FreeRTOSv202406.01-LTS",
+        "description": "（无简介）",
+        "url": "https://github.com/newbie-jiang/FreeRTOSv202406.01-LTS",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-07-16T06:17:25Z",
+        "created_at": "2025-07-16T06:16:21Z"
+      },
+      {
         "name": "fsp",
         "description": "Flexible Software Package (FSP) for Renesas RA MCU Family",
         "url": "https://github.com/newbie-jiang/fsp",
@@ -279,7 +289,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-16T05:23:36Z",
+        "pushed_at": "2025-07-16T05:53:10Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -459,7 +469,7 @@
         "stars": 0,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-13T12:05:05Z",
+        "pushed_at": "2025-07-16T06:23:41Z",
         "created_at": "2025-07-03T08:36:50Z"
       },
       {
@@ -3586,7 +3596,7 @@
         "name": "sdk-ng",
         "description": "Zephyr SDK (Toolchains, Development Tools)",
         "url": "https://github.com/zephyrproject-rtos/sdk-ng",
-        "stars": 213,
+        "stars": 214,
         "forks": 158,
         "language": "C",
         "pushed_at": "2025-07-16T01:36:36Z",
@@ -10666,7 +10676,7 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15078,
+        "stars": 15079,
         "forks": 7660,
         "language": "C++",
         "pushed_at": "2025-07-16T03:17:14Z",
@@ -11789,7 +11799,7 @@
         "stars": 2,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-16T04:14:56Z",
+        "pushed_at": "2025-07-16T06:03:21Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12829,7 +12839,7 @@
         "stars": 13,
         "forks": 2,
         "language": "Rust",
-        "pushed_at": "2025-07-15T14:11:01Z",
+        "pushed_at": "2025-07-16T05:56:37Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
@@ -12999,7 +13009,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-16T05:17:44Z",
+        "pushed_at": "2025-07-16T06:21:41Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15996,7 +16006,7 @@
         "name": "chz",
         "description": "（无简介）",
         "url": "https://github.com/openai/chz",
-        "stars": 113,
+        "stars": 114,
         "forks": 5,
         "language": "Python",
         "pushed_at": "2025-06-12T08:37:30Z",
@@ -16037,7 +16047,7 @@
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
         "stars": 30939,
-        "forks": 3566,
+        "forks": 3567,
         "language": "Rust",
         "pushed_at": "2025-07-16T04:24:07Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16246,8 +16256,8 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 16559,
-        "forks": 2757,
+        "stars": 16560,
+        "forks": 2756,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
         "created_at": "2023-01-23T20:51:04Z"
@@ -16936,10 +16946,10 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12626,
+        "stars": 12627,
         "forks": 1944,
         "language": "Python",
-        "pushed_at": "2025-07-16T05:29:19Z",
+        "pushed_at": "2025-07-16T06:24:07Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -17696,7 +17706,7 @@
         "name": "SWELancer-Benchmark",
         "description": "This repo contains the dataset and code for the paper \"SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?\"",
         "url": "https://github.com/openai/SWELancer-Benchmark",
-        "stars": 1435,
+        "stars": 1434,
         "forks": 136,
         "language": "Python",
         "pushed_at": "2025-05-16T22:37:08Z",
@@ -17726,7 +17736,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 15116,
+        "stars": 15117,
         "forks": 1122,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
@@ -17856,7 +17866,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 84938,
+        "stars": 84939,
         "forks": 10382,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
