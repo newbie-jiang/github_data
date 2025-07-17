@@ -309,7 +309,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-17T10:20:10Z",
+        "pushed_at": "2025-07-17T10:45:08Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3159,7 +3159,7 @@
         "stars": 1,
         "forks": 2,
         "language": "HCL",
-        "pushed_at": "2025-07-17T09:53:49Z",
+        "pushed_at": "2025-07-17T10:53:57Z",
         "created_at": "2022-03-25T11:59:06Z"
       },
       {
@@ -3887,7 +3887,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 12488,
-        "forks": 7647,
+        "forks": 7648,
         "language": "C",
         "pushed_at": "2025-07-17T02:29:36Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -11129,7 +11129,7 @@
         "stars": 6,
         "forks": 3,
         "language": "C++",
-        "pushed_at": "2025-07-02T07:04:50Z",
+        "pushed_at": "2025-07-17T11:08:14Z",
         "created_at": "2025-03-26T07:41:46Z"
       },
       {
@@ -11266,7 +11266,7 @@
         "name": "esp-dl",
         "description": "Espressif deep-learning library for AIoT applications",
         "url": "https://github.com/espressif/esp-dl",
-        "stars": 750,
+        "stars": 751,
         "forks": 145,
         "language": "Assembly",
         "pushed_at": "2025-07-11T02:34:59Z",
@@ -12226,7 +12226,7 @@
         "name": "esp-who",
         "description": "Face detection and recognition framework",
         "url": "https://github.com/espressif/esp-who",
-        "stars": 1870,
+        "stars": 1871,
         "forks": 496,
         "language": "C",
         "pushed_at": "2025-07-15T02:38:50Z",
@@ -12396,7 +12396,7 @@
         "name": "esp32-camera",
         "description": "（无简介）",
         "url": "https://github.com/espressif/esp32-camera",
-        "stars": 2290,
+        "stars": 2291,
         "forks": 708,
         "language": "C",
         "pushed_at": "2025-07-15T07:34:03Z",
@@ -12869,7 +12869,7 @@
         "stars": 13,
         "forks": 2,
         "language": "Rust",
-        "pushed_at": "2025-07-17T10:30:46Z",
+        "pushed_at": "2025-07-17T10:59:17Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
@@ -13039,7 +13039,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-17T10:38:40Z",
+        "pushed_at": "2025-07-17T11:10:41Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16046,7 +16046,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29866,
+        "stars": 29867,
         "forks": 3676,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16586,7 +16586,7 @@
         "name": "human-eval",
         "description": "Code for the paper \"Evaluating Large Language Models Trained on Code\"",
         "url": "https://github.com/openai/human-eval",
-        "stars": 2837,
+        "stars": 2838,
         "forks": 399,
         "language": "Python",
         "pushed_at": "2025-01-17T18:22:17Z",
@@ -16856,7 +16856,7 @@
         "name": "model_spec",
         "description": "The OpenAI Model Spec",
         "url": "https://github.com/openai/model_spec",
-        "stars": 408,
+        "stars": 409,
         "forks": 42,
         "language": "未指定",
         "pushed_at": "2025-04-11T21:48:05Z",
@@ -16976,7 +16976,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12668,
+        "stars": 12669,
         "forks": 1955,
         "language": "Python",
         "pushed_at": "2025-07-17T06:38:34Z",
@@ -17019,7 +17019,7 @@
         "stars": 65391,
         "forks": 10843,
         "language": "MDX",
-        "pushed_at": "2025-07-16T23:54:16Z",
+        "pushed_at": "2025-07-17T10:50:35Z",
         "created_at": "2022-03-11T02:08:53Z"
       },
       {
@@ -17126,7 +17126,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27391,
+        "stars": 27390,
         "forks": 4072,
         "language": "Python",
         "pushed_at": "2025-07-16T19:06:21Z",
@@ -17266,7 +17266,7 @@
         "name": "openai-testing-agent-demo",
         "description": "Demo of a UI testing agent using the OpenAI CUA model and the Responses API.",
         "url": "https://github.com/openai/openai-testing-agent-demo",
-        "stars": 646,
+        "stars": 647,
         "forks": 84,
         "language": "TypeScript",
         "pushed_at": "2025-06-17T10:18:47Z",
@@ -17896,7 +17896,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 85022,
+        "stars": 85023,
         "forks": 10392,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
@@ -18794,7 +18794,7 @@
         "stars": 0,
         "forks": 1,
         "language": "C++",
-        "pushed_at": "2025-07-16T06:53:28Z",
+        "pushed_at": "2025-07-17T11:13:06Z",
         "created_at": "2025-06-13T09:33:39Z"
       },
       {
