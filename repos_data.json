@@ -309,7 +309,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-17T14:42:51Z",
+        "pushed_at": "2025-07-17T15:19:42Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -2727,9 +2727,9 @@
         "description": "Example out-of-tree application that is also a module",
         "url": "https://github.com/zephyrproject-rtos/example-application",
         "stars": 284,
-        "forks": 165,
+        "forks": 166,
         "language": "C",
-        "pushed_at": "2025-06-20T11:15:37Z",
+        "pushed_at": "2025-07-17T15:41:33Z",
         "created_at": "2021-01-12T13:16:13Z"
       },
       {
@@ -3159,7 +3159,7 @@
         "stars": 1,
         "forks": 2,
         "language": "HCL",
-        "pushed_at": "2025-07-17T13:13:27Z",
+        "pushed_at": "2025-07-17T15:25:10Z",
         "created_at": "2022-03-25T11:59:06Z"
       },
       {
@@ -3887,7 +3887,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 12490,
-        "forks": 7651,
+        "forks": 7652,
         "language": "C",
         "pushed_at": "2025-07-17T02:29:36Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -8404,7 +8404,7 @@
         "stars": 187,
         "forks": 84,
         "language": "C",
-        "pushed_at": "2025-06-17T09:22:07Z",
+        "pushed_at": "2025-07-17T15:36:35Z",
         "created_at": "2019-04-19T08:41:33Z"
       },
       {
@@ -8574,7 +8574,7 @@
         "stars": 9,
         "forks": 0,
         "language": "C",
-        "pushed_at": "2025-07-05T08:12:23Z",
+        "pushed_at": "2025-07-17T15:25:26Z",
         "created_at": "2025-07-04T08:40:54Z"
       },
       {
@@ -8904,7 +8904,7 @@
         "stars": 18,
         "forks": 9,
         "language": "C",
-        "pushed_at": "2025-06-17T08:33:59Z",
+        "pushed_at": "2025-07-17T15:22:45Z",
         "created_at": "2020-01-29T11:49:43Z"
       },
       {
@@ -13039,7 +13039,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-17T14:48:39Z",
+        "pushed_at": "2025-07-17T15:20:40Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15409,7 +15409,7 @@
         "stars": 3,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-17T13:58:21Z",
+        "pushed_at": "2025-07-17T15:37:13Z",
         "created_at": "2024-04-19T14:45:13Z"
       },
       {
@@ -15936,7 +15936,7 @@
         "name": "baselines",
         "description": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
         "url": "https://github.com/openai/baselines",
-        "stars": 16356,
+        "stars": 16357,
         "forks": 4920,
         "language": "Python",
         "pushed_at": "2024-08-01T21:31:33Z",
@@ -16046,7 +16046,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29871,
+        "stars": 29872,
         "forks": 3676,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16076,8 +16076,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 31026,
-        "forks": 3578,
+        "stars": 31029,
+        "forks": 3579,
         "language": "Rust",
         "pushed_at": "2025-07-17T05:32:32Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16436,7 +16436,7 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 23796,
+        "stars": 23797,
         "forks": 5699,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
@@ -16856,7 +16856,7 @@
         "name": "model_spec",
         "description": "The OpenAI Model Spec",
         "url": "https://github.com/openai/model_spec",
-        "stars": 413,
+        "stars": 414,
         "forks": 43,
         "language": "未指定",
         "pushed_at": "2025-04-11T21:48:05Z",
@@ -16976,7 +16976,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12671,
+        "stars": 12672,
         "forks": 1957,
         "language": "Python",
         "pushed_at": "2025-07-17T06:38:34Z",
@@ -17026,7 +17026,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5615,
+        "stars": 5616,
         "forks": 825,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -17107,7 +17107,7 @@
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
         "stars": 9479,
-        "forks": 1150,
+        "forks": 1151,
         "language": "TypeScript",
         "pushed_at": "2025-07-17T05:11:15Z",
         "created_at": "2021-12-14T22:32:58Z"
@@ -17727,7 +17727,7 @@
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
         "stars": 20106,
-        "forks": 2147,
+        "forks": 2148,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
         "created_at": "2024-02-22T20:53:54Z"
@@ -17896,8 +17896,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 85032,
-        "forks": 10394,
+        "stars": 85033,
+        "forks": 10396,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
