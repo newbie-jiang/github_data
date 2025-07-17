@@ -309,7 +309,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-17T18:26:03Z",
+        "pushed_at": "2025-07-17T18:57:52Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -6622,7 +6622,7 @@
         "description": "The stdatalog_gui package is a UI toolkit developed by STMicroelectronics, based on DTDLv2 (Digital Twin Definition Language) and PySide6. It provides a graphical user interface for high-speed data logging and communication with STMicroelectronics hardware devices.",
         "url": "https://github.com/STMicroelectronics/stdatalog_gui",
         "stars": 2,
-        "forks": 0,
+        "forks": 1,
         "language": "Python",
         "pushed_at": "2025-07-15T11:38:17Z",
         "created_at": "2025-02-14T08:59:25Z"
@@ -10706,8 +10706,8 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15091,
-        "forks": 7660,
+        "stars": 15092,
+        "forks": 7659,
         "language": "C++",
         "pushed_at": "2025-07-17T03:17:58Z",
         "created_at": "2016-10-06T06:04:20Z"
@@ -13039,7 +13039,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-17T18:31:42Z",
+        "pushed_at": "2025-07-17T19:03:52Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16046,7 +16046,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29874,
+        "stars": 29875,
         "forks": 3676,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16079,7 +16079,7 @@
         "stars": 31032,
         "forks": 3581,
         "language": "Rust",
-        "pushed_at": "2025-07-17T18:51:07Z",
+        "pushed_at": "2025-07-17T19:14:34Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16976,8 +16976,8 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12674,
-        "forks": 1958,
+        "stars": 12675,
+        "forks": 1959,
         "language": "Python",
         "pushed_at": "2025-07-17T18:53:51Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -17019,7 +17019,7 @@
         "stars": 65401,
         "forks": 10845,
         "language": "MDX",
-        "pushed_at": "2025-07-17T14:18:36Z",
+        "pushed_at": "2025-07-17T19:11:30Z",
         "created_at": "2022-03-11T02:08:53Z"
       },
       {
@@ -17097,7 +17097,7 @@
         "description": "The official Java library for the OpenAI API",
         "url": "https://github.com/openai/openai-java",
         "stars": 942,
-        "forks": 137,
+        "forks": 138,
         "language": "Kotlin",
         "pushed_at": "2025-07-17T17:49:35Z",
         "created_at": "2024-10-31T17:42:57Z"
@@ -17376,10 +17376,10 @@
         "name": "preparedness",
         "description": "Releases from OpenAI Preparedness",
         "url": "https://github.com/openai/preparedness",
-        "stars": 792,
+        "stars": 793,
         "forks": 79,
         "language": "Python",
-        "pushed_at": "2025-07-17T17:35:48Z",
+        "pushed_at": "2025-07-17T19:12:48Z",
         "created_at": "2025-03-28T15:45:01Z"
       },
       {
@@ -17676,7 +17676,7 @@
         "name": "spinningup",
         "description": "An educational resource to help anyone learn deep reinforcement learning.",
         "url": "https://github.com/openai/spinningup",
-        "stars": 11047,
+        "stars": 11048,
         "forks": 2358,
         "language": "Python",
         "pushed_at": "2024-08-05T03:30:30Z",
@@ -17766,7 +17766,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 15132,
+        "stars": 15131,
         "forks": 1124,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
@@ -17896,7 +17896,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 85037,
+        "stars": 85038,
         "forks": 10396,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
@@ -19331,7 +19331,7 @@
         "name": "psa-api",
         "description": "Documentation source and development of the PSA Certified API",
         "url": "https://github.com/ARM-software/psa-api",
-        "stars": 64,
+        "stars": 65,
         "forks": 31,
         "language": "C",
         "pushed_at": "2025-06-11T07:09:02Z",
