@@ -309,7 +309,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-17T20:20:11Z",
+        "pushed_at": "2025-07-17T20:41:11Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3157,7 +3157,7 @@
         "description": "Zephyr Project Infrastructure Management",
         "url": "https://github.com/zephyrproject-rtos/infrastructure",
         "stars": 1,
-        "forks": 2,
+        "forks": 3,
         "language": "HCL",
         "pushed_at": "2025-07-17T15:25:10Z",
         "created_at": "2022-03-25T11:59:06Z"
@@ -3886,7 +3886,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12493,
+        "stars": 12494,
         "forks": 7652,
         "language": "C",
         "pushed_at": "2025-07-17T16:29:54Z",
@@ -5431,7 +5431,7 @@
         "name": "lis2dh12-pid",
         "description": "lis2dh12 platform independent driver based on Standard C language and compliant with MISRA standard",
         "url": "https://github.com/STMicroelectronics/lis2dh12-pid",
-        "stars": 11,
+        "stars": 12,
         "forks": 4,
         "language": "C",
         "pushed_at": "2025-07-07T11:54:24Z",
@@ -8532,7 +8532,7 @@
         "description": "STM32Cube MCU Full Package for the STM32N6 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST)",
         "url": "https://github.com/STMicroelectronics/STM32CubeN6",
         "stars": 23,
-        "forks": 8,
+        "forks": 9,
         "language": "C",
         "pushed_at": "2025-07-03T09:04:27Z",
         "created_at": "2025-01-10T13:16:58Z"
@@ -11266,7 +11266,7 @@
         "name": "esp-dl",
         "description": "Espressif deep-learning library for AIoT applications",
         "url": "https://github.com/espressif/esp-dl",
-        "stars": 753,
+        "stars": 754,
         "forks": 145,
         "language": "Assembly",
         "pushed_at": "2025-07-11T02:34:59Z",
@@ -13039,7 +13039,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-17T20:38:38Z",
+        "pushed_at": "2025-07-17T21:10:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13532,7 +13532,7 @@
         "description": "AmebaPro2 Arduino third-party package SDK",
         "url": "https://github.com/Ameba-AIoT/ameba-arduino-pro2",
         "stars": 65,
-        "forks": 28,
+        "forks": 27,
         "language": "C",
         "pushed_at": "2025-07-14T10:08:09Z",
         "created_at": "2022-08-30T03:30:26Z"
@@ -13662,7 +13662,7 @@
         "description": "Realtek Official IoT Software Development Kit for Ameba Series SoC: (Ameba Pro2)",
         "url": "https://github.com/Ameba-AIoT/ameba-rtos-pro2",
         "stars": 15,
-        "forks": 7,
+        "forks": 6,
         "language": "C",
         "pushed_at": "2025-07-15T02:53:01Z",
         "created_at": "2024-05-02T09:27:01Z"
@@ -16856,7 +16856,7 @@
         "name": "model_spec",
         "description": "The OpenAI Model Spec",
         "url": "https://github.com/openai/model_spec",
-        "stars": 417,
+        "stars": 418,
         "forks": 43,
         "language": "未指定",
         "pushed_at": "2025-04-11T21:48:05Z",
@@ -16976,8 +16976,8 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12676,
-        "forks": 1959,
+        "stars": 12677,
+        "forks": 1958,
         "language": "Python",
         "pushed_at": "2025-07-17T18:53:51Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -17099,7 +17099,7 @@
         "stars": 942,
         "forks": 137,
         "language": "Kotlin",
-        "pushed_at": "2025-07-17T17:49:35Z",
+        "pushed_at": "2025-07-17T21:13:20Z",
         "created_at": "2024-10-31T17:42:57Z"
       },
       {
@@ -17176,7 +17176,7 @@
         "name": "openai-realtime-console",
         "description": "React app for inspecting, building and debugging with the Realtime API",
         "url": "https://github.com/openai/openai-realtime-console",
-        "stars": 3341,
+        "stars": 3342,
         "forks": 1290,
         "language": "JavaScript",
         "pushed_at": "2025-06-23T22:48:16Z",
@@ -17379,7 +17379,7 @@
         "stars": 794,
         "forks": 79,
         "language": "Python",
-        "pushed_at": "2025-07-17T20:40:00Z",
+        "pushed_at": "2025-07-17T21:10:07Z",
         "created_at": "2025-03-28T15:45:01Z"
       },
       {
@@ -17676,7 +17676,7 @@
         "name": "spinningup",
         "description": "An educational resource to help anyone learn deep reinforcement learning.",
         "url": "https://github.com/openai/spinningup",
-        "stars": 11048,
+        "stars": 11049,
         "forks": 2358,
         "language": "Python",
         "pushed_at": "2024-08-05T03:30:30Z",
@@ -17726,7 +17726,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 20103,
+        "stars": 20104,
         "forks": 2147,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
