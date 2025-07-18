@@ -309,7 +309,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-18T15:55:32Z",
+        "pushed_at": "2025-07-18T16:24:16Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3889,7 +3889,7 @@
         "stars": 12497,
         "forks": 7656,
         "language": "C",
-        "pushed_at": "2025-07-18T14:38:39Z",
+        "pushed_at": "2025-07-18T16:35:31Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -10706,7 +10706,7 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15096,
+        "stars": 15097,
         "forks": 7660,
         "language": "C++",
         "pushed_at": "2025-07-18T16:03:04Z",
@@ -10879,7 +10879,7 @@
         "stars": 36,
         "forks": 30,
         "language": "C++",
-        "pushed_at": "2025-07-18T15:30:22Z",
+        "pushed_at": "2025-07-18T16:32:14Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -12396,7 +12396,7 @@
         "name": "esp32-camera",
         "description": "（无简介）",
         "url": "https://github.com/espressif/esp32-camera",
-        "stars": 2296,
+        "stars": 2297,
         "forks": 709,
         "language": "C",
         "pushed_at": "2025-07-18T07:52:45Z",
@@ -13039,7 +13039,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-18T16:00:39Z",
+        "pushed_at": "2025-07-18T16:31:38Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16076,10 +16076,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 31075,
+        "stars": 31076,
         "forks": 3586,
         "language": "Rust",
-        "pushed_at": "2025-07-18T16:01:03Z",
+        "pushed_at": "2025-07-18T16:51:17Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16436,7 +16436,7 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 23819,
+        "stars": 23820,
         "forks": 5703,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
@@ -16836,8 +16836,8 @@
         "name": "mle-bench",
         "description": "MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering",
         "url": "https://github.com/openai/mle-bench",
-        "stars": 802,
-        "forks": 106,
+        "stars": 803,
+        "forks": 107,
         "language": "Python",
         "pushed_at": "2025-06-19T11:01:22Z",
         "created_at": "2024-10-08T17:07:40Z"
@@ -16976,10 +16976,10 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12706,
+        "stars": 12707,
         "forks": 1971,
         "language": "Python",
-        "pushed_at": "2025-07-18T16:21:16Z",
+        "pushed_at": "2025-07-18T16:37:55Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -17016,7 +17016,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65418,
+        "stars": 65421,
         "forks": 10848,
         "language": "MDX",
         "pushed_at": "2025-07-18T04:37:02Z",
@@ -17067,7 +17067,7 @@
         "description": "Code for openai.fm, a demo for the OpenAI Speech API",
         "url": "https://github.com/openai/openai-fm",
         "stars": 461,
-        "forks": 61,
+        "forks": 62,
         "language": "TypeScript",
         "pushed_at": "2025-04-15T22:37:48Z",
         "created_at": "2025-04-15T14:32:07Z"
@@ -17106,7 +17106,7 @@
         "name": "openai-node",
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
-        "stars": 9480,
+        "stars": 9481,
         "forks": 1152,
         "language": "TypeScript",
         "pushed_at": "2025-07-18T05:12:42Z",
@@ -17127,7 +17127,7 @@
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
         "stars": 27405,
-        "forks": 4076,
+        "forks": 4077,
         "language": "Python",
         "pushed_at": "2025-07-16T19:06:21Z",
         "created_at": "2020-10-25T23:23:54Z"
@@ -17156,7 +17156,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 6049,
+        "stars": 6050,
         "forks": 831,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T14:47:04Z",
@@ -17376,10 +17376,10 @@
         "name": "preparedness",
         "description": "Releases from OpenAI Preparedness",
         "url": "https://github.com/openai/preparedness",
-        "stars": 798,
+        "stars": 799,
         "forks": 79,
         "language": "Python",
-        "pushed_at": "2025-07-18T16:20:13Z",
+        "pushed_at": "2025-07-18T16:54:38Z",
         "created_at": "2025-03-28T15:45:01Z"
       },
       {
@@ -17766,7 +17766,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 15139,
+        "stars": 15140,
         "forks": 1127,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
@@ -17896,7 +17896,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 85079,
+        "stars": 85081,
         "forks": 10403,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
