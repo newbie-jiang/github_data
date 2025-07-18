@@ -309,7 +309,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-18T08:24:22Z",
+        "pushed_at": "2025-07-18T08:57:29Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3887,7 +3887,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 12496,
-        "forks": 7656,
+        "forks": 7655,
         "language": "C",
         "pushed_at": "2025-07-18T03:36:40Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -4419,7 +4419,7 @@
       },
       {
         "name": "b-wba5m-wpan-bsp",
-        "description": "（无简介）",
+        "description": "Provides the B-WBA5M-WPAN connectivity expansion board driver, part of the STM32Cube BSP Component for STM32WBA series.",
         "url": "https://github.com/STMicroelectronics/b-wba5m-wpan-bsp",
         "stars": 1,
         "forks": 0,
@@ -4442,7 +4442,7 @@
         "description": "Bluetooth low energy Sensors Technology Software Development Kit (Android version)",
         "url": "https://github.com/STMicroelectronics/BlueSTSDK_Android",
         "stars": 95,
-        "forks": 48,
+        "forks": 49,
         "language": "Kotlin",
         "pushed_at": "2025-06-20T12:19:41Z",
         "created_at": "2015-10-01T15:22:58Z"
@@ -6829,7 +6829,7 @@
       },
       {
         "name": "stm32-exc80w32",
-        "description": "（无简介）",
+        "description": "Provides the EXC80W32 driver, part of the STM32Cube BSP Component for all STM32xx series.",
         "url": "https://github.com/STMicroelectronics/stm32-exc80w32",
         "stars": 0,
         "forks": 0,
@@ -9699,7 +9699,7 @@
       },
       {
         "name": "stm32wba65ri-dk1-bsp",
-        "description": "（无简介）",
+        "description": "Provides the STM32WBA65I-DK1 board driver, part of the STM32Cube BSP Component for STM32WBA series.",
         "url": "https://github.com/STMicroelectronics/stm32wba65ri-dk1-bsp",
         "stars": 0,
         "forks": 0,
@@ -11157,7 +11157,7 @@
         "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
         "url": "https://github.com/espressif/esp-brookesia",
         "stars": 297,
-        "forks": 54,
+        "forks": 55,
         "language": "C",
         "pushed_at": "2025-07-17T07:27:45Z",
         "created_at": "2024-07-16T03:41:15Z"
@@ -12176,7 +12176,7 @@
         "name": "esp-video-components",
         "description": "Collections of components to be used for camera related functionalities.",
         "url": "https://github.com/espressif/esp-video-components",
-        "stars": 24,
+        "stars": 25,
         "forks": 5,
         "language": "C",
         "pushed_at": "2025-07-16T08:48:26Z",
@@ -12636,7 +12636,7 @@
         "name": "esptool",
         "description": "Serial utility for flashing, provisioning, and interacting with Espressif SoCs",
         "url": "https://github.com/espressif/esptool",
-        "stars": 5961,
+        "stars": 5962,
         "forks": 1436,
         "language": "Python",
         "pushed_at": "2025-07-18T07:45:56Z",
@@ -13039,7 +13039,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-18T08:41:44Z",
+        "pushed_at": "2025-07-18T09:12:41Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16076,8 +16076,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 31067,
-        "forks": 3584,
+        "stars": 31071,
+        "forks": 3583,
         "language": "Rust",
         "pushed_at": "2025-07-18T07:22:31Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16437,7 +16437,7 @@
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
         "stars": 23801,
-        "forks": 5699,
+        "forks": 5700,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
         "created_at": "2019-02-11T04:21:59Z"
@@ -16856,7 +16856,7 @@
         "name": "model_spec",
         "description": "The OpenAI Model Spec",
         "url": "https://github.com/openai/model_spec",
-        "stars": 428,
+        "stars": 429,
         "forks": 45,
         "language": "未指定",
         "pushed_at": "2025-04-11T21:48:05Z",
@@ -16979,7 +16979,7 @@
         "stars": 12691,
         "forks": 1966,
         "language": "Python",
-        "pushed_at": "2025-07-18T08:51:45Z",
+        "pushed_at": "2025-07-18T09:01:29Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -17076,7 +17076,7 @@
         "name": "openai-gemm",
         "description": "Open single and half precision gemm implementations ",
         "url": "https://github.com/openai/openai-gemm",
-        "stars": 381,
+        "stars": 382,
         "forks": 84,
         "language": "C",
         "pushed_at": "2023-04-02T12:05:28Z",
@@ -17126,8 +17126,8 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27400,
-        "forks": 4074,
+        "stars": 27401,
+        "forks": 4073,
         "language": "Python",
         "pushed_at": "2025-07-16T19:06:21Z",
         "created_at": "2020-10-25T23:23:54Z"
@@ -17766,7 +17766,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 15137,
+        "stars": 15138,
         "forks": 1125,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
@@ -18674,7 +18674,7 @@
         "stars": 16,
         "forks": 8,
         "language": "C++",
-        "pushed_at": "2025-07-18T08:29:27Z",
+        "pushed_at": "2025-07-18T09:17:33Z",
         "created_at": "2021-09-14T14:54:28Z"
       },
       {
