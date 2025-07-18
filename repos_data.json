@@ -309,7 +309,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-18T01:26:41Z",
+        "pushed_at": "2025-07-18T03:20:36Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3889,7 +3889,7 @@
         "stars": 12494,
         "forks": 7653,
         "language": "C",
-        "pushed_at": "2025-07-18T00:03:41Z",
+        "pushed_at": "2025-07-18T03:36:40Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -5022,7 +5022,7 @@
         "description": "（无简介）",
         "url": "https://github.com/STMicroelectronics/gnu-tools-for-stm32",
         "stars": 35,
-        "forks": 6,
+        "forks": 7,
         "language": "C",
         "pushed_at": "2025-07-16T09:48:39Z",
         "created_at": "2023-11-14T16:39:00Z"
@@ -7341,7 +7341,7 @@
         "name": "stm32-mw-fatfs",
         "description": "Provides the FatFS library part of the STM32Cube MCU Component \"middleware\" for all STM32xx series.",
         "url": "https://github.com/STMicroelectronics/stm32-mw-fatfs",
-        "stars": 23,
+        "stars": 24,
         "forks": 9,
         "language": "C",
         "pushed_at": "2025-03-28T11:58:12Z",
@@ -8221,7 +8221,7 @@
         "name": "stm32ai-modelzoo-services",
         "description": "AI Model Zoo services for STM32 devices",
         "url": "https://github.com/STMicroelectronics/stm32ai-modelzoo-services",
-        "stars": 59,
+        "stars": 60,
         "forks": 21,
         "language": "C",
         "pushed_at": "2025-06-25T09:17:51Z",
@@ -11047,7 +11047,7 @@
         "description": "AT application for ESP32/ESP32-C2/ESP32-C3/ESP32-C6/ESP8266",
         "url": "https://github.com/espressif/esp-at",
         "stars": 1038,
-        "forks": 1009,
+        "forks": 1010,
         "language": "C",
         "pushed_at": "2025-07-15T12:29:00Z",
         "created_at": "2017-01-11T15:36:52Z"
@@ -11156,7 +11156,7 @@
         "name": "esp-brookesia",
         "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
         "url": "https://github.com/espressif/esp-brookesia",
-        "stars": 296,
+        "stars": 297,
         "forks": 54,
         "language": "C",
         "pushed_at": "2025-07-17T07:27:45Z",
@@ -11389,7 +11389,7 @@
         "stars": 47,
         "forks": 13,
         "language": "C",
-        "pushed_at": "2025-06-30T14:52:30Z",
+        "pushed_at": "2025-07-18T03:37:43Z",
         "created_at": "2024-11-27T06:37:49Z"
       },
       {
@@ -11459,7 +11459,7 @@
         "stars": 31,
         "forks": 10,
         "language": "C",
-        "pushed_at": "2025-07-15T08:37:44Z",
+        "pushed_at": "2025-07-18T04:15:33Z",
         "created_at": "2024-11-04T07:38:53Z"
       },
       {
@@ -11646,8 +11646,8 @@
         "name": "esp-iot-solution",
         "description": "Espressif IoT Library. IoT Device Drivers, Documentations and Solutions.",
         "url": "https://github.com/espressif/esp-iot-solution",
-        "stars": 2293,
-        "forks": 874,
+        "stars": 2295,
+        "forks": 875,
         "language": "C",
         "pushed_at": "2025-06-26T05:23:04Z",
         "created_at": "2017-08-08T12:32:16Z"
@@ -11829,7 +11829,7 @@
         "stars": 3,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-18T02:40:03Z",
+        "pushed_at": "2025-07-18T04:15:49Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -13039,7 +13039,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-18T01:53:37Z",
+        "pushed_at": "2025-07-18T03:59:54Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13389,7 +13389,7 @@
         "stars": 1259,
         "forks": 332,
         "language": "TypeScript",
-        "pushed_at": "2025-07-17T14:18:23Z",
+        "pushed_at": "2025-07-18T04:23:26Z",
         "created_at": "2018-11-21T03:27:08Z"
       },
       {
@@ -13446,7 +13446,7 @@
         "name": "xtensa-isa-doc",
         "description": "（无简介）",
         "url": "https://github.com/espressif/xtensa-isa-doc",
-        "stars": 55,
+        "stars": 56,
         "forks": 4,
         "language": "TeX",
         "pushed_at": "2021-02-18T16:19:14Z",
@@ -16046,7 +16046,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29880,
+        "stars": 29882,
         "forks": 3677,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16076,10 +16076,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 31051,
+        "stars": 31054,
         "forks": 3583,
         "language": "Rust",
-        "pushed_at": "2025-07-18T03:01:32Z",
+        "pushed_at": "2025-07-18T04:20:38Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16287,7 +16287,7 @@
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
         "stars": 16574,
-        "forks": 2756,
+        "forks": 2757,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
         "created_at": "2023-01-23T20:51:04Z"
@@ -16856,7 +16856,7 @@
         "name": "model_spec",
         "description": "The OpenAI Model Spec",
         "url": "https://github.com/openai/model_spec",
-        "stars": 423,
+        "stars": 424,
         "forks": 44,
         "language": "未指定",
         "pushed_at": "2025-04-11T21:48:05Z",
@@ -16976,8 +16976,8 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12682,
-        "forks": 1966,
+        "stars": 12684,
+        "forks": 1965,
         "language": "Python",
         "pushed_at": "2025-07-18T00:11:02Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -17016,8 +17016,8 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65406,
-        "forks": 10846,
+        "stars": 65409,
+        "forks": 10847,
         "language": "MDX",
         "pushed_at": "2025-07-17T19:11:30Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -17026,7 +17026,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5621,
+        "stars": 5622,
         "forks": 825,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -17107,7 +17107,7 @@
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
         "stars": 9478,
-        "forks": 1151,
+        "forks": 1152,
         "language": "TypeScript",
         "pushed_at": "2025-07-17T05:11:15Z",
         "created_at": "2021-12-14T22:32:58Z"
@@ -17376,7 +17376,7 @@
         "name": "preparedness",
         "description": "Releases from OpenAI Preparedness",
         "url": "https://github.com/openai/preparedness",
-        "stars": 795,
+        "stars": 797,
         "forks": 79,
         "language": "Python",
         "pushed_at": "2025-07-17T23:14:08Z",
@@ -17726,7 +17726,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 20108,
+        "stars": 20109,
         "forks": 2147,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
@@ -17896,8 +17896,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 85045,
-        "forks": 10399,
+        "stars": 85049,
+        "forks": 10401,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
