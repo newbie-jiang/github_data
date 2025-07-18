@@ -173,6 +173,16 @@
         "created_at": "2025-07-16T06:52:09Z"
       },
       {
+        "name": "CMSIS-RTOS2_Validation",
+        "description": "Validation test suite for CMSIS-RTOS2 API implementations using Arm Virtual Hardware (AVH).",
+        "url": "https://github.com/newbie-jiang/CMSIS-RTOS2_Validation",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-07-02T09:27:40Z",
+        "created_at": "2025-07-18T19:57:03Z"
+      },
+      {
         "name": "CMSIS_6",
         "description": "CMSIS version 6 (successor of CMSIS_5)",
         "url": "https://github.com/newbie-jiang/CMSIS_6",
@@ -309,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-18T19:30:44Z",
+        "pushed_at": "2025-07-18T19:45:39Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3886,8 +3896,8 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12497,
-        "forks": 7657,
+        "stars": 12498,
+        "forks": 7656,
         "language": "C",
         "pushed_at": "2025-07-18T16:35:31Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -4561,7 +4571,7 @@
         "name": "cmsis-device-g4",
         "description": "Provides the STM32Cube MCU Component \"cmsis_device_g4\" of the STM32G4 series.",
         "url": "https://github.com/STMicroelectronics/cmsis-device-g4",
-        "stars": 11,
+        "stars": 12,
         "forks": 8,
         "language": "C",
         "pushed_at": "2025-04-24T10:04:24Z",
@@ -11829,7 +11839,7 @@
         "stars": 3,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-18T18:03:19Z",
+        "pushed_at": "2025-07-18T20:03:16Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -13039,7 +13049,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-18T19:13:54Z",
+        "pushed_at": "2025-07-18T20:04:43Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16077,7 +16087,7 @@
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
         "stars": 31078,
-        "forks": 3587,
+        "forks": 3588,
         "language": "Rust",
         "pushed_at": "2025-07-18T19:12:40Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16436,7 +16446,7 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 23823,
+        "stars": 23825,
         "forks": 5703,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
@@ -16527,7 +16537,7 @@
         "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
         "url": "https://github.com/openai/gym",
         "stars": 36256,
-        "forks": 8678,
+        "forks": 8679,
         "language": "Python",
         "pushed_at": "2024-10-11T20:07:05Z",
         "created_at": "2016-04-27T14:59:16Z"
@@ -16586,7 +16596,7 @@
         "name": "human-eval",
         "description": "Code for the paper \"Evaluating Large Language Models Trained on Code\"",
         "url": "https://github.com/openai/human-eval",
-        "stars": 2840,
+        "stars": 2841,
         "forks": 399,
         "language": "Python",
         "pushed_at": "2025-01-17T18:22:17Z",
@@ -16856,8 +16866,8 @@
         "name": "model_spec",
         "description": "The OpenAI Model Spec",
         "url": "https://github.com/openai/model_spec",
-        "stars": 435,
-        "forks": 46,
+        "stars": 436,
+        "forks": 47,
         "language": "未指定",
         "pushed_at": "2025-04-11T21:48:05Z",
         "created_at": "2025-02-06T19:22:13Z"
@@ -18432,7 +18442,7 @@
         "description": "Validation test suite for CMSIS-RTOS2 API implementations using Arm Virtual Hardware (AVH).",
         "url": "https://github.com/ARM-software/CMSIS-RTOS2_Validation",
         "stars": 18,
-        "forks": 17,
+        "forks": 18,
         "language": "C",
         "pushed_at": "2025-07-02T09:27:40Z",
         "created_at": "2022-02-09T11:22:01Z"
