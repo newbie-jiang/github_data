@@ -309,7 +309,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-17T23:17:57Z",
+        "pushed_at": "2025-07-17T23:48:49Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3037,7 +3037,7 @@
         "description": "（无简介）",
         "url": "https://github.com/zephyrproject-rtos/hal_silabs",
         "stars": 10,
-        "forks": 73,
+        "forks": 74,
         "language": "C",
         "pushed_at": "2025-07-14T08:20:03Z",
         "created_at": "2019-04-06T22:27:02Z"
@@ -3159,7 +3159,7 @@
         "stars": 1,
         "forks": 3,
         "language": "HCL",
-        "pushed_at": "2025-07-17T15:25:10Z",
+        "pushed_at": "2025-07-18T00:28:30Z",
         "created_at": "2022-03-25T11:59:06Z"
       },
       {
@@ -3887,9 +3887,9 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 12494,
-        "forks": 7652,
+        "forks": 7653,
         "language": "C",
-        "pushed_at": "2025-07-17T22:46:31Z",
+        "pushed_at": "2025-07-18T00:03:41Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -10707,7 +10707,7 @@
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
         "stars": 15091,
-        "forks": 7659,
+        "forks": 7658,
         "language": "C++",
         "pushed_at": "2025-07-17T03:17:58Z",
         "created_at": "2016-10-06T06:04:20Z"
@@ -10879,7 +10879,7 @@
         "stars": 36,
         "forks": 30,
         "language": "C++",
-        "pushed_at": "2025-07-17T23:29:07Z",
+        "pushed_at": "2025-07-18T00:31:08Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11157,7 +11157,7 @@
         "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
         "url": "https://github.com/espressif/esp-brookesia",
         "stars": 296,
-        "forks": 53,
+        "forks": 54,
         "language": "C",
         "pushed_at": "2025-07-17T07:27:45Z",
         "created_at": "2024-07-16T03:41:15Z"
@@ -11466,7 +11466,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15810,
+        "stars": 15811,
         "forks": 7758,
         "language": "C",
         "pushed_at": "2025-07-16T22:10:48Z",
@@ -11829,7 +11829,7 @@
         "stars": 3,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-17T22:03:04Z",
+        "pushed_at": "2025-07-18T00:05:58Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -13017,7 +13017,7 @@
         "description": "KiCad libraries for Espressif SoCs, modules, and DevKits.",
         "url": "https://github.com/espressif/kicad-libraries",
         "stars": 941,
-        "forks": 130,
+        "forks": 131,
         "language": "Python",
         "pushed_at": "2025-02-04T16:47:29Z",
         "created_at": "2021-06-07T09:32:10Z"
@@ -13039,7 +13039,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-17T23:16:39Z",
+        "pushed_at": "2025-07-18T01:21:39Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13631,8 +13631,8 @@
         "name": "ameba-rtos",
         "description": "Realtek Offical IOT Software Development Kit for Ameba Series SoCs: (AmebaSmart AmebaLite AmebaDplus)",
         "url": "https://github.com/Ameba-AIoT/ameba-rtos",
-        "stars": 43,
-        "forks": 35,
+        "stars": 44,
+        "forks": 36,
         "language": "C",
         "pushed_at": "2025-07-17T04:07:27Z",
         "created_at": "2024-05-10T02:00:41Z"
@@ -16076,10 +16076,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 31038,
-        "forks": 3582,
+        "stars": 31043,
+        "forks": 3583,
         "language": "Rust",
-        "pushed_at": "2025-07-17T23:48:18Z",
+        "pushed_at": "2025-07-18T01:17:09Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16286,7 +16286,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 16573,
+        "stars": 16574,
         "forks": 2756,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -16856,7 +16856,7 @@
         "name": "model_spec",
         "description": "The OpenAI Model Spec",
         "url": "https://github.com/openai/model_spec",
-        "stars": 419,
+        "stars": 421,
         "forks": 43,
         "language": "未指定",
         "pushed_at": "2025-04-11T21:48:05Z",
@@ -16969,7 +16969,7 @@
         "stars": 825,
         "forks": 151,
         "language": "TypeScript",
-        "pushed_at": "2025-07-17T23:24:39Z",
+        "pushed_at": "2025-07-18T01:23:30Z",
         "created_at": "2025-05-31T00:08:49Z"
       },
       {
@@ -16977,9 +16977,9 @@
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
         "stars": 12680,
-        "forks": 1962,
+        "forks": 1964,
         "language": "Python",
-        "pushed_at": "2025-07-17T23:40:35Z",
+        "pushed_at": "2025-07-18T00:11:02Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -17016,7 +17016,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65401,
+        "stars": 65402,
         "forks": 10846,
         "language": "MDX",
         "pushed_at": "2025-07-17T19:11:30Z",
@@ -17027,7 +17027,7 @@
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
         "stars": 5619,
-        "forks": 826,
+        "forks": 825,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
         "created_at": "2025-06-14T03:07:09Z"
@@ -17056,7 +17056,7 @@
         "name": "openai-dotnet",
         "description": "The official .NET library for the OpenAI API",
         "url": "https://github.com/openai/openai-dotnet",
-        "stars": 2152,
+        "stars": 2151,
         "forks": 288,
         "language": "C#",
         "pushed_at": "2025-07-17T20:07:31Z",
@@ -17146,7 +17146,7 @@
         "name": "openai-quickstart-python",
         "description": "Python example app from the OpenAI API quickstart tutorial",
         "url": "https://github.com/openai/openai-quickstart-python",
-        "stars": 1772,
+        "stars": 1771,
         "forks": 1319,
         "language": "未指定",
         "pushed_at": "2024-06-14T11:24:57Z",
@@ -17617,7 +17617,7 @@
         "description": "Generate 3D objects conditioned on text or images",
         "url": "https://github.com/openai/shap-e",
         "stars": 11993,
-        "forks": 1018,
+        "forks": 1019,
         "language": "Python",
         "pushed_at": "2024-06-22T19:19:14Z",
         "created_at": "2023-04-19T18:54:32Z"
@@ -17726,7 +17726,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 20104,
+        "stars": 20105,
         "forks": 2147,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
@@ -17739,7 +17739,7 @@
         "stars": 1435,
         "forks": 137,
         "language": "Python",
-        "pushed_at": "2025-05-16T22:37:08Z",
+        "pushed_at": "2025-07-18T01:06:49Z",
         "created_at": "2025-02-18T17:23:15Z"
       },
       {
@@ -17766,7 +17766,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 15133,
+        "stars": 15134,
         "forks": 1124,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
@@ -17806,7 +17806,7 @@
         "name": "universe",
         "description": "Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.",
         "url": "https://github.com/openai/universe",
-        "stars": 7516,
+        "stars": 7517,
         "forks": 955,
         "language": "Python",
         "pushed_at": "2018-04-05T18:58:15Z",
@@ -17896,8 +17896,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 85042,
-        "forks": 10397,
+        "stars": 85044,
+        "forks": 10398,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -17941,7 +17941,7 @@
         "name": "abi-aa",
         "description": "Application Binary Interface for the Arm® Architecture",
         "url": "https://github.com/ARM-software/abi-aa",
-        "stars": 1093,
+        "stars": 1094,
         "forks": 207,
         "language": "HTML",
         "pushed_at": "2025-07-16T08:25:59Z",
