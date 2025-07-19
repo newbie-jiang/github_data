@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-19T07:45:39Z",
+        "pushed_at": "2025-07-19T08:22:06Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3899,7 +3899,7 @@
         "stars": 12498,
         "forks": 7656,
         "language": "C",
-        "pushed_at": "2025-07-19T08:17:11Z",
+        "pushed_at": "2025-07-19T08:25:29Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -10716,7 +10716,7 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15099,
+        "stars": 15100,
         "forks": 7661,
         "language": "C++",
         "pushed_at": "2025-07-19T03:14:20Z",
@@ -11557,7 +11557,7 @@
         "description": "Android Provisioning application for ESP-IDF Unified provisioning",
         "url": "https://github.com/espressif/esp-idf-provisioning-android",
         "stars": 236,
-        "forks": 151,
+        "forks": 152,
         "language": "Java",
         "pushed_at": "2025-07-18T08:56:51Z",
         "created_at": "2018-09-12T07:38:15Z"
@@ -11797,7 +11797,7 @@
         "description": "A fork of NimBLE stack, for use with ESP32 and ESP-IDF",
         "url": "https://github.com/espressif/esp-nimble",
         "stars": 91,
-        "forks": 62,
+        "forks": 63,
         "language": "C",
         "pushed_at": "2025-07-17T05:02:21Z",
         "created_at": "2019-03-14T06:09:28Z"
@@ -13049,7 +13049,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-19T07:48:41Z",
+        "pushed_at": "2025-07-19T08:51:41Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16056,7 +16056,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29890,
+        "stars": 29891,
         "forks": 3678,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16086,7 +16086,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 31109,
+        "stars": 31110,
         "forks": 3594,
         "language": "Rust",
         "pushed_at": "2025-07-19T05:33:31Z",
@@ -16386,7 +16386,7 @@
         "name": "glide-text2im",
         "description": "GLIDE: a diffusion-based text-conditional image synthesis model",
         "url": "https://github.com/openai/glide-text2im",
-        "stars": 3646,
+        "stars": 3647,
         "forks": 506,
         "language": "Python",
         "pushed_at": "2024-03-08T08:44:28Z",
@@ -17037,7 +17037,7 @@
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
         "stars": 5627,
-        "forks": 829,
+        "forks": 830,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
         "created_at": "2025-06-14T03:07:09Z"
@@ -17066,7 +17066,7 @@
         "name": "openai-dotnet",
         "description": "The official .NET library for the OpenAI API",
         "url": "https://github.com/openai/openai-dotnet",
-        "stars": 2151,
+        "stars": 2152,
         "forks": 288,
         "language": "C#",
         "pushed_at": "2025-07-18T17:37:25Z",
@@ -17906,8 +17906,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 85110,
-        "forks": 10405,
+        "stars": 85111,
+        "forks": 10406,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
