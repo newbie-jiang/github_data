@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-19T13:42:43Z",
+        "pushed_at": "2025-07-19T14:15:43Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3869,7 +3869,7 @@
         "stars": 270,
         "forks": 140,
         "language": "Python",
-        "pushed_at": "2025-07-15T13:20:47Z",
+        "pushed_at": "2025-07-19T14:33:31Z",
         "created_at": "2018-05-23T13:56:05Z"
       },
       {
@@ -10716,7 +10716,7 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15102,
+        "stars": 15103,
         "forks": 7661,
         "language": "C++",
         "pushed_at": "2025-07-19T03:14:20Z",
@@ -11266,8 +11266,8 @@
         "name": "esp-dev-kits",
         "description": "Docs, Schematics, Factory Firmwares for ESP Development Kits",
         "url": "https://github.com/espressif/esp-dev-kits",
-        "stars": 471,
-        "forks": 198,
+        "stars": 472,
+        "forks": 199,
         "language": "Python",
         "pushed_at": "2025-07-17T19:45:11Z",
         "created_at": "2020-04-27T01:08:18Z"
@@ -11579,7 +11579,7 @@
         "stars": 15,
         "forks": 3,
         "language": "Python",
-        "pushed_at": "2025-07-07T05:29:25Z",
+        "pushed_at": "2025-07-19T14:29:29Z",
         "created_at": "2023-06-02T11:44:10Z"
       },
       {
@@ -11646,8 +11646,8 @@
         "name": "esp-iot-bridge",
         "description": "A smart bridge to make both ESP and the other MCU or smart device can access the Internet.",
         "url": "https://github.com/espressif/esp-iot-bridge",
-        "stars": 196,
-        "forks": 65,
+        "stars": 197,
+        "forks": 66,
         "language": "C",
         "pushed_at": "2025-07-04T12:04:32Z",
         "created_at": "2021-05-11T07:41:08Z"
@@ -11786,8 +11786,8 @@
         "name": "esp-mqtt",
         "description": "ESP32 mqtt component",
         "url": "https://github.com/espressif/esp-mqtt",
-        "stars": 660,
-        "forks": 267,
+        "stars": 661,
+        "forks": 268,
         "language": "C",
         "pushed_at": "2025-06-06T11:37:31Z",
         "created_at": "2016-09-09T17:06:21Z"
@@ -11839,7 +11839,7 @@
         "stars": 3,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-19T14:03:04Z",
+        "pushed_at": "2025-07-19T14:21:48Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -11896,8 +11896,8 @@
         "name": "esp-protocols",
         "description": "Collection of ESP-IDF components related to networking protocols",
         "url": "https://github.com/espressif/esp-protocols",
-        "stars": 243,
-        "forks": 165,
+        "stars": 244,
+        "forks": 166,
         "language": "C",
         "pushed_at": "2025-07-18T12:00:34Z",
         "created_at": "2021-10-04T08:47:54Z"
@@ -11927,7 +11927,7 @@
         "description": "ESP RainMaker Agent for firmware development",
         "url": "https://github.com/espressif/esp-rainmaker",
         "stars": 535,
-        "forks": 183,
+        "forks": 184,
         "language": "C",
         "pushed_at": "2025-07-13T18:04:47Z",
         "created_at": "2020-01-30T09:18:17Z"
@@ -12066,8 +12066,8 @@
         "name": "esp-serial-flasher",
         "description": "Library for flashing Espressif SoCs from other MCUs.",
         "url": "https://github.com/espressif/esp-serial-flasher",
-        "stars": 463,
-        "forks": 127,
+        "stars": 464,
+        "forks": 128,
         "language": "C",
         "pushed_at": "2025-06-19T06:54:19Z",
         "created_at": "2020-01-29T09:40:36Z"
@@ -12396,8 +12396,8 @@
         "name": "esp32-c3-book-en",
         "description": "Read the book here:",
         "url": "https://github.com/espressif/esp32-c3-book-en",
-        "stars": 53,
-        "forks": 5,
+        "stars": 54,
+        "forks": 6,
         "language": "HTML",
         "pushed_at": "2023-09-05T09:41:03Z",
         "created_at": "2023-08-16T06:19:56Z"
@@ -12466,8 +12466,8 @@
         "name": "esp32-wifi-lib",
         "description": "ESP32 WiFi stack precompiled libraries",
         "url": "https://github.com/espressif/esp32-wifi-lib",
-        "stars": 179,
-        "forks": 74,
+        "stars": 180,
+        "forks": 75,
         "language": "Shell",
         "pushed_at": "2025-07-18T07:48:44Z",
         "created_at": "2016-08-17T14:15:53Z"
@@ -12836,8 +12836,8 @@
         "name": "idf-extra-components",
         "description": "Additional components for ESP-IDF, maintained by Espressif",
         "url": "https://github.com/espressif/idf-extra-components",
-        "stars": 188,
-        "forks": 108,
+        "stars": 189,
+        "forks": 109,
         "language": "C",
         "pushed_at": "2025-07-12T20:16:18Z",
         "created_at": "2021-11-16T17:59:26Z"
@@ -13396,8 +13396,8 @@
         "name": "vscode-esp-idf-extension",
         "description": "Visual Studio Code extension for ESP-IDF projects",
         "url": "https://github.com/espressif/vscode-esp-idf-extension",
-        "stars": 1259,
-        "forks": 332,
+        "stars": 1260,
+        "forks": 333,
         "language": "TypeScript",
         "pushed_at": "2025-07-18T15:16:41Z",
         "created_at": "2018-11-21T03:27:08Z"
@@ -16989,7 +16989,7 @@
         "stars": 12725,
         "forks": 1977,
         "language": "Python",
-        "pushed_at": "2025-07-19T13:51:17Z",
+        "pushed_at": "2025-07-19T14:30:48Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -17026,7 +17026,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65429,
+        "stars": 65432,
         "forks": 10850,
         "language": "MDX",
         "pushed_at": "2025-07-18T04:37:02Z",
