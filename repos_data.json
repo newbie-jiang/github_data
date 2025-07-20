@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-20T07:32:14Z",
+        "pushed_at": "2025-07-20T07:45:42Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -2646,7 +2646,7 @@
         "name": "docker-image",
         "description": "Docker image suitable for Zephyr development and CI",
         "url": "https://github.com/zephyrproject-rtos/docker-image",
-        "stars": 185,
+        "stars": 186,
         "forks": 100,
         "language": "Shell",
         "pushed_at": "2025-07-04T13:22:11Z",
@@ -10906,7 +10906,7 @@
         "name": "crosstool-NG",
         "description": "crosstool-NG with support for Xtensa",
         "url": "https://github.com/espressif/crosstool-NG",
-        "stars": 136,
+        "stars": 137,
         "forks": 65,
         "language": "Shell",
         "pushed_at": "2025-07-07T04:45:39Z",
@@ -11477,7 +11477,7 @@
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
         "stars": 15829,
-        "forks": 7762,
+        "forks": 7763,
         "language": "C",
         "pushed_at": "2025-07-19T20:24:25Z",
         "created_at": "2016-08-17T10:40:35Z"
@@ -11839,7 +11839,7 @@
         "stars": 3,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-20T06:03:10Z",
+        "pushed_at": "2025-07-20T08:03:15Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12436,8 +12436,8 @@
         "name": "esp32-nesemu",
         "description": "Proof-of-concept NES emulator for the ESP32",
         "url": "https://github.com/espressif/esp32-nesemu",
-        "stars": 580,
-        "forks": 176,
+        "stars": 581,
+        "forks": 177,
         "language": "C",
         "pushed_at": "2023-06-06T09:03:00Z",
         "created_at": "2016-10-10T12:29:14Z"
@@ -13049,7 +13049,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-20T07:18:39Z",
+        "pushed_at": "2025-07-20T08:21:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16086,7 +16086,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 31137,
+        "stars": 31138,
         "forks": 3606,
         "language": "Rust",
         "pushed_at": "2025-07-20T06:35:34Z",
@@ -16097,7 +16097,7 @@
         "description": "Base docker image used in Codex environments",
         "url": "https://github.com/openai/codex-universal",
         "stars": 495,
-        "forks": 119,
+        "forks": 120,
         "language": "Dockerfile",
         "pushed_at": "2025-05-28T03:10:36Z",
         "created_at": "2025-05-11T05:20:12Z"
@@ -17396,7 +17396,7 @@
         "name": "prm800k",
         "description": "800,000 step-level correctness labels on LLM solutions to MATH problems",
         "url": "https://github.com/openai/prm800k",
-        "stars": 2028,
+        "stars": 2029,
         "forks": 121,
         "language": "Python",
         "pushed_at": "2023-06-01T17:41:14Z",
@@ -17777,7 +17777,7 @@
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
         "stars": 15145,
-        "forks": 1129,
+        "forks": 1130,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
         "created_at": "2022-12-01T23:22:11Z"
