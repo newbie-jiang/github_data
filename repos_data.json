@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-21T10:53:52Z",
+        "pushed_at": "2025-07-21T11:49:05Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -2271,7 +2271,7 @@
         "name": "ws2812b",
         "description": "WS2812B full-featured driver library for general-purpose MCU and Linux.",
         "url": "https://github.com/libdriver/ws2812b",
-        "stars": 177,
+        "stars": 178,
         "forks": 39,
         "language": "C",
         "pushed_at": "2025-04-19T06:40:34Z",
@@ -3897,9 +3897,9 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 12510,
-        "forks": 7663,
+        "forks": 7664,
         "language": "C",
-        "pushed_at": "2025-07-21T11:26:18Z",
+        "pushed_at": "2025-07-21T11:51:19Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -3929,7 +3929,7 @@
         "stars": 16,
         "forks": 25,
         "language": "C",
-        "pushed_at": "2025-06-24T18:45:43Z",
+        "pushed_at": "2025-07-21T12:28:27Z",
         "created_at": "2017-04-26T03:08:46Z"
       },
       {
@@ -10716,10 +10716,10 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15111,
-        "forks": 7661,
+        "stars": 15112,
+        "forks": 7662,
         "language": "C++",
-        "pushed_at": "2025-07-21T03:23:32Z",
+        "pushed_at": "2025-07-21T12:23:14Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -10996,8 +10996,8 @@
         "name": "esp-adf-libs",
         "description": "（无简介）",
         "url": "https://github.com/espressif/esp-adf-libs",
-        "stars": 84,
-        "forks": 49,
+        "stars": 85,
+        "forks": 50,
         "language": "C",
         "pushed_at": "2025-07-16T07:07:15Z",
         "created_at": "2018-04-02T07:04:20Z"
@@ -11166,7 +11166,7 @@
         "name": "esp-brookesia",
         "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
         "url": "https://github.com/espressif/esp-brookesia",
-        "stars": 306,
+        "stars": 307,
         "forks": 59,
         "language": "C",
         "pushed_at": "2025-07-18T13:52:38Z",
@@ -11476,8 +11476,8 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15834,
-        "forks": 7765,
+        "stars": 15835,
+        "forks": 7766,
         "language": "C",
         "pushed_at": "2025-07-21T05:23:14Z",
         "created_at": "2016-08-17T10:40:35Z"
@@ -11591,6 +11591,16 @@
         "language": "Python",
         "pushed_at": "2024-06-19T12:31:36Z",
         "created_at": "2023-12-04T11:29:57Z"
+      },
+      {
+        "name": "esp-idf-security-dashboard",
+        "description": "ESP-IDF Security Vulnerability Dashboard",
+        "url": "https://github.com/espressif/esp-idf-security-dashboard",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "pushed_at": "2025-07-21T00:31:16Z",
+        "created_at": "2025-07-15T09:23:44Z"
       },
       {
         "name": "esp-idf-size",
@@ -11806,8 +11816,8 @@
         "name": "esp-nn",
         "description": "Optimised Neural Network functions for Espressif chipsets",
         "url": "https://github.com/espressif/esp-nn",
-        "stars": 178,
-        "forks": 28,
+        "stars": 179,
+        "forks": 29,
         "language": "Assembly",
         "pushed_at": "2025-03-26T13:15:17Z",
         "created_at": "2022-01-10T10:47:21Z"
@@ -11839,7 +11849,7 @@
         "stars": 3,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-21T10:03:02Z",
+        "pushed_at": "2025-07-21T12:03:40Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12017,7 +12027,7 @@
         "description": "MCP wrapper for ESP-Rainmaker CLI",
         "url": "https://github.com/espressif/esp-rainmaker-mcp",
         "stars": 0,
-        "forks": 1,
+        "forks": 2,
         "language": "Python",
         "pushed_at": "2025-07-15T13:45:47Z",
         "created_at": "2025-04-13T16:57:09Z"
@@ -12086,7 +12096,7 @@
         "name": "esp-sr",
         "description": "Speech recognition",
         "url": "https://github.com/espressif/esp-sr",
-        "stars": 1019,
+        "stars": 1021,
         "forks": 154,
         "language": "C",
         "pushed_at": "2025-07-11T11:27:38Z",
@@ -12106,8 +12116,8 @@
         "name": "esp-tflite-micro",
         "description": "TensorFlow Lite Micro for Espressif Chipsets",
         "url": "https://github.com/espressif/esp-tflite-micro",
-        "stars": 500,
-        "forks": 109,
+        "stars": 501,
+        "forks": 110,
         "language": "C++",
         "pushed_at": "2025-06-02T09:16:17Z",
         "created_at": "2021-10-25T09:36:22Z"
@@ -12159,7 +12169,7 @@
         "stars": 46,
         "forks": 28,
         "language": "C++",
-        "pushed_at": "2025-07-17T15:18:11Z",
+        "pushed_at": "2025-07-21T11:52:18Z",
         "created_at": "2024-01-18T07:20:01Z"
       },
       {
@@ -12809,7 +12819,7 @@
         "stars": 343,
         "forks": 130,
         "language": "Java",
-        "pushed_at": "2025-07-21T10:48:40Z",
+        "pushed_at": "2025-07-21T12:11:01Z",
         "created_at": "2019-09-16T02:21:43Z"
       },
       {
@@ -12879,7 +12889,7 @@
         "stars": 13,
         "forks": 2,
         "language": "Rust",
-        "pushed_at": "2025-07-21T11:28:58Z",
+        "pushed_at": "2025-07-21T12:20:44Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
@@ -13049,7 +13059,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-21T11:31:38Z",
+        "pushed_at": "2025-07-21T12:02:48Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16056,7 +16066,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29911,
+        "stars": 29912,
         "forks": 3680,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16086,7 +16096,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 31187,
+        "stars": 31189,
         "forks": 3615,
         "language": "Rust",
         "pushed_at": "2025-07-21T06:54:23Z",
@@ -16446,7 +16456,7 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 23890,
+        "stars": 23891,
         "forks": 5722,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
@@ -16536,7 +16546,7 @@
         "name": "gym",
         "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
         "url": "https://github.com/openai/gym",
-        "stars": 36261,
+        "stars": 36262,
         "forks": 8681,
         "language": "Python",
         "pushed_at": "2024-10-11T20:07:05Z",
@@ -16976,7 +16986,7 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 844,
+        "stars": 845,
         "forks": 160,
         "language": "TypeScript",
         "pushed_at": "2025-07-18T03:06:13Z",
@@ -17139,7 +17149,7 @@
         "stars": 27433,
         "forks": 4078,
         "language": "Python",
-        "pushed_at": "2025-07-16T19:06:21Z",
+        "pushed_at": "2025-07-21T12:27:54Z",
         "created_at": "2020-10-25T23:23:54Z"
       },
       {
@@ -17356,7 +17366,7 @@
         "name": "point-e",
         "description": "Point cloud diffusion for 3D model synthesis",
         "url": "https://github.com/openai/point-e",
-        "stars": 6755,
+        "stars": 6756,
         "forks": 788,
         "language": "Python",
         "pushed_at": "2024-07-04T19:05:34Z",
@@ -17389,7 +17399,7 @@
         "stars": 802,
         "forks": 81,
         "language": "Python",
-        "pushed_at": "2025-07-18T17:20:46Z",
+        "pushed_at": "2025-07-21T12:07:09Z",
         "created_at": "2025-03-28T15:45:01Z"
       },
       {
@@ -17906,7 +17916,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 85227,
+        "stars": 85229,
         "forks": 10426,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
@@ -18464,7 +18474,7 @@
         "stars": 28,
         "forks": 3,
         "language": "Python",
-        "pushed_at": "2025-07-21T09:43:33Z",
+        "pushed_at": "2025-07-21T11:50:14Z",
         "created_at": "2023-05-10T14:36:34Z"
       },
       {
@@ -18944,7 +18954,7 @@
         "stars": 24,
         "forks": 2,
         "language": "C++",
-        "pushed_at": "2025-07-21T09:16:15Z",
+        "pushed_at": "2025-07-21T11:59:15Z",
         "created_at": "2024-09-06T08:59:35Z"
       },
       {
@@ -19334,7 +19344,7 @@
         "stars": 0,
         "forks": 1,
         "language": "C",
-        "pushed_at": "2025-07-17T12:15:53Z",
+        "pushed_at": "2025-07-21T11:59:38Z",
         "created_at": "2025-02-20T15:01:08Z"
       },
       {
@@ -19544,7 +19554,7 @@
         "stars": 6,
         "forks": 7,
         "language": "C++",
-        "pushed_at": "2025-07-21T09:26:15Z",
+        "pushed_at": "2025-07-21T11:57:19Z",
         "created_at": "2025-05-22T09:32:34Z"
       },
       {
