@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-20T23:36:01Z",
+        "pushed_at": "2025-07-20T23:48:41Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3897,9 +3897,9 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 12508,
-        "forks": 7655,
+        "forks": 7656,
         "language": "C",
-        "pushed_at": "2025-07-20T22:49:09Z",
+        "pushed_at": "2025-07-21T00:04:19Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -11177,7 +11177,7 @@
         "description": "Board support components for Espressif development boards",
         "url": "https://github.com/espressif/esp-bsp",
         "stars": 305,
-        "forks": 155,
+        "forks": 156,
         "language": "C",
         "pushed_at": "2025-07-16T13:10:01Z",
         "created_at": "2021-09-14T09:33:04Z"
@@ -11839,7 +11839,7 @@
         "stars": 3,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-20T22:03:00Z",
+        "pushed_at": "2025-07-21T00:06:10Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -13049,7 +13049,7 @@
         "stars": 247,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-20T22:24:38Z",
+        "pushed_at": "2025-07-21T01:32:38Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15946,7 +15946,7 @@
         "name": "baselines",
         "description": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
         "url": "https://github.com/openai/baselines",
-        "stars": 16359,
+        "stars": 16360,
         "forks": 4920,
         "language": "Python",
         "pushed_at": "2024-08-01T21:31:33Z",
@@ -16056,7 +16056,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29902,
+        "stars": 29904,
         "forks": 3680,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16086,10 +16086,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 31162,
+        "stars": 31163,
         "forks": 3612,
         "language": "Rust",
-        "pushed_at": "2025-07-20T21:42:23Z",
+        "pushed_at": "2025-07-21T01:15:17Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16446,8 +16446,8 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 23880,
-        "forks": 5716,
+        "stars": 23881,
+        "forks": 5717,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
         "created_at": "2019-02-11T04:21:59Z"
@@ -16866,7 +16866,7 @@
         "name": "model_spec",
         "description": "The OpenAI Model Spec",
         "url": "https://github.com/openai/model_spec",
-        "stars": 452,
+        "stars": 453,
         "forks": 49,
         "language": "未指定",
         "pushed_at": "2025-04-11T21:48:05Z",
@@ -16977,7 +16977,7 @@
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
         "stars": 839,
-        "forks": 160,
+        "forks": 161,
         "language": "TypeScript",
         "pushed_at": "2025-07-18T03:06:13Z",
         "created_at": "2025-05-31T00:08:49Z"
@@ -16986,8 +16986,8 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12764,
-        "forks": 1982,
+        "stars": 12765,
+        "forks": 1983,
         "language": "Python",
         "pushed_at": "2025-07-20T13:27:21Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -16996,8 +16996,8 @@
         "name": "openai-assistants-quickstart",
         "description": "OpenAI Assistants API quickstart with Next.js.",
         "url": "https://github.com/openai/openai-assistants-quickstart",
-        "stars": 1910,
-        "forks": 561,
+        "stars": 1911,
+        "forks": 562,
         "language": "TypeScript",
         "pushed_at": "2025-03-07T18:50:12Z",
         "created_at": "2024-05-01T19:48:19Z"
@@ -17026,7 +17026,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65455,
+        "stars": 65458,
         "forks": 10853,
         "language": "MDX",
         "pushed_at": "2025-07-18T04:37:02Z",
@@ -17037,7 +17037,7 @@
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
         "stars": 5632,
-        "forks": 831,
+        "forks": 832,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
         "created_at": "2025-06-14T03:07:09Z"
@@ -17096,8 +17096,8 @@
         "name": "openai-go",
         "description": "The official Go library for the OpenAI API",
         "url": "https://github.com/openai/openai-go",
-        "stars": 2067,
-        "forks": 170,
+        "stars": 2068,
+        "forks": 171,
         "language": "Go",
         "pushed_at": "2025-07-16T19:06:12Z",
         "created_at": "2024-07-22T19:29:26Z"
@@ -17136,7 +17136,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27424,
+        "stars": 27425,
         "forks": 4078,
         "language": "Python",
         "pushed_at": "2025-07-16T19:06:21Z",
@@ -17487,7 +17487,7 @@
         "description": "Retro Games in Gym",
         "url": "https://github.com/openai/retro",
         "stars": 3509,
-        "forks": 532,
+        "forks": 533,
         "language": "C",
         "pushed_at": "2024-02-22T13:04:14Z",
         "created_at": "2018-02-07T00:32:02Z"
@@ -17607,7 +17607,7 @@
         "description": "Example MCP server compatible with Deep Research",
         "url": "https://github.com/openai/sample-deep-research-mcp",
         "stars": 38,
-        "forks": 10,
+        "forks": 11,
         "language": "Python",
         "pushed_at": "2025-06-25T21:03:02Z",
         "created_at": "2025-06-02T21:58:16Z"
@@ -17906,7 +17906,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 85192,
+        "stars": 85196,
         "forks": 10421,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
@@ -18531,7 +18531,7 @@
         "name": "ComputeLibrary",
         "description": "The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.",
         "url": "https://github.com/ARM-software/ComputeLibrary",
-        "stars": 3009,
+        "stars": 3010,
         "forks": 795,
         "language": "C++",
         "pushed_at": "2025-07-18T13:35:34Z",
