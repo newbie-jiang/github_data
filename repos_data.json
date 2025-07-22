@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-22T11:47:14Z",
+        "pushed_at": "2025-07-22T12:38:03Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -2078,6 +2078,16 @@
         "created_at": "2022-03-19T11:55:05Z"
       },
       {
+        "name": "sts21",
+        "description": "STS21 full-featured driver library for general-purpose MCU and Linux.",
+        "url": "https://github.com/libdriver/sts21",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-07-22T13:11:21Z",
+        "created_at": "2025-07-22T13:11:20Z"
+      },
+      {
         "name": "sts3x",
         "description": "STS3X(STS30, STS31, STS35) full-featured driver library for general-purpose MCU and Linux.",
         "url": "https://github.com/libdriver/sts3x",
@@ -2599,7 +2609,7 @@
         "stars": 4,
         "forks": 4,
         "language": "Shell",
-        "pushed_at": "2025-07-22T06:50:45Z",
+        "pushed_at": "2025-07-22T12:41:31Z",
         "created_at": "2020-09-11T21:49:48Z"
       },
       {
@@ -2889,7 +2899,7 @@
         "stars": 53,
         "forks": 63,
         "language": "C",
-        "pushed_at": "2025-07-21T20:21:48Z",
+        "pushed_at": "2025-07-22T13:14:10Z",
         "created_at": "2020-11-11T17:16:24Z"
       },
       {
@@ -3906,10 +3916,10 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12519,
+        "stars": 12520,
         "forks": 7669,
         "language": "C",
-        "pushed_at": "2025-07-22T12:35:17Z",
+        "pushed_at": "2025-07-22T13:08:09Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -10214,7 +10224,7 @@
         "stars": 67,
         "forks": 81,
         "language": "C",
-        "pushed_at": "2025-07-01T13:55:17Z",
+        "pushed_at": "2025-07-22T13:13:53Z",
         "created_at": "2019-01-30T08:30:48Z"
       },
       {
@@ -10726,10 +10736,10 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15118,
+        "stars": 15120,
         "forks": 7661,
         "language": "C++",
-        "pushed_at": "2025-07-22T11:00:56Z",
+        "pushed_at": "2025-07-22T12:47:40Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -11067,7 +11077,7 @@
         "description": "AT application for ESP32/ESP32-C2/ESP32-C3/ESP32-C6/ESP8266",
         "url": "https://github.com/espressif/esp-at",
         "stars": 1047,
-        "forks": 1014,
+        "forks": 1015,
         "language": "C",
         "pushed_at": "2025-07-21T08:04:50Z",
         "created_at": "2017-01-11T15:36:52Z"
@@ -11487,7 +11497,7 @@
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
         "stars": 15838,
-        "forks": 7768,
+        "forks": 7769,
         "language": "C",
         "pushed_at": "2025-07-22T06:45:22Z",
         "created_at": "2016-08-17T10:40:35Z"
@@ -11676,7 +11686,7 @@
         "name": "esp-iot-solution",
         "description": "Espressif IoT Library. IoT Device Drivers, Documentations and Solutions.",
         "url": "https://github.com/espressif/esp-iot-solution",
-        "stars": 2301,
+        "stars": 2302,
         "forks": 875,
         "language": "C",
         "pushed_at": "2025-06-26T05:23:04Z",
@@ -12899,7 +12909,7 @@
         "stars": 13,
         "forks": 2,
         "language": "Rust",
-        "pushed_at": "2025-07-22T11:47:38Z",
+        "pushed_at": "2025-07-22T13:23:35Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
@@ -13069,7 +13079,7 @@
         "stars": 248,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-22T12:10:45Z",
+        "pushed_at": "2025-07-22T13:13:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16126,7 +16136,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 31236,
+        "stars": 31239,
         "forks": 3628,
         "language": "Rust",
         "pushed_at": "2025-07-22T07:43:47Z",
@@ -16296,7 +16306,7 @@
         "name": "emergent-misalignment-persona-features",
         "description": "（无简介）",
         "url": "https://github.com/openai/emergent-misalignment-persona-features",
-        "stars": 25,
+        "stars": 26,
         "forks": 6,
         "language": "Python",
         "pushed_at": "2025-06-26T18:19:37Z",
@@ -16486,8 +16496,8 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 23906,
-        "forks": 5723,
+        "stars": 23909,
+        "forks": 5724,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
         "created_at": "2019-02-11T04:21:59Z"
@@ -17027,7 +17037,7 @@
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
         "stars": 12814,
-        "forks": 2006,
+        "forks": 2007,
         "language": "Python",
         "pushed_at": "2025-07-22T09:33:08Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -17076,7 +17086,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5642,
+        "stars": 5643,
         "forks": 837,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -17106,7 +17116,7 @@
         "name": "openai-dotnet",
         "description": "The official .NET library for the OpenAI API",
         "url": "https://github.com/openai/openai-dotnet",
-        "stars": 2160,
+        "stars": 2161,
         "forks": 288,
         "language": "C#",
         "pushed_at": "2025-07-21T23:22:35Z",
@@ -17139,7 +17149,7 @@
         "stars": 2078,
         "forks": 171,
         "language": "Go",
-        "pushed_at": "2025-07-22T05:10:33Z",
+        "pushed_at": "2025-07-22T13:11:19Z",
         "created_at": "2024-07-22T19:29:26Z"
       },
       {
@@ -17149,7 +17159,7 @@
         "stars": 957,
         "forks": 144,
         "language": "Kotlin",
-        "pushed_at": "2025-07-22T05:08:23Z",
+        "pushed_at": "2025-07-22T13:15:26Z",
         "created_at": "2024-10-31T17:42:57Z"
       },
       {
@@ -17159,14 +17169,14 @@
         "stars": 9490,
         "forks": 1157,
         "language": "TypeScript",
-        "pushed_at": "2025-07-22T10:43:29Z",
+        "pushed_at": "2025-07-22T13:09:59Z",
         "created_at": "2021-12-14T22:32:58Z"
       },
       {
         "name": "openai-openapi",
         "description": "OpenAPI specification for the OpenAI API",
         "url": "https://github.com/openai/openai-openapi",
-        "stars": 2113,
+        "stars": 2114,
         "forks": 464,
         "language": "未指定",
         "pushed_at": "2025-06-17T14:47:31Z",
@@ -17176,10 +17186,10 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27440,
+        "stars": 27441,
         "forks": 4083,
         "language": "Python",
-        "pushed_at": "2025-07-22T12:04:37Z",
+        "pushed_at": "2025-07-22T13:09:50Z",
         "created_at": "2020-10-25T23:23:54Z"
       },
       {
@@ -17246,7 +17256,7 @@
         "name": "openai-realtime-solar-system",
         "description": "Demo showing how to use the OpenAI Realtime API to navigate a 3D scene via tool calling",
         "url": "https://github.com/openai/openai-realtime-solar-system",
-        "stars": 447,
+        "stars": 448,
         "forks": 84,
         "language": "TypeScript",
         "pushed_at": "2025-01-29T22:48:13Z",
@@ -17279,7 +17289,7 @@
         "stars": 281,
         "forks": 20,
         "language": "Ruby",
-        "pushed_at": "2025-07-21T21:17:42Z",
+        "pushed_at": "2025-07-22T13:02:56Z",
         "created_at": "2025-03-05T18:31:42Z"
       },
       {
@@ -17446,7 +17456,7 @@
         "name": "procgen",
         "description": "Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments",
         "url": "https://github.com/openai/procgen",
-        "stars": 1088,
+        "stars": 1089,
         "forks": 216,
         "language": "C++",
         "pushed_at": "2024-01-03T19:05:02Z",
@@ -17946,8 +17956,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 85309,
-        "forks": 10438,
+        "stars": 85315,
+        "forks": 10441,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -18431,7 +18441,7 @@
         "name": "CMSIS-FreeRTOS",
         "description": "FreeRTOS adaptation for CMSIS-RTOS Version 2",
         "url": "https://github.com/ARM-software/CMSIS-FreeRTOS",
-        "stars": 587,
+        "stars": 588,
         "forks": 162,
         "language": "C",
         "pushed_at": "2025-07-15T08:02:29Z",
@@ -18551,7 +18561,7 @@
         "name": "CMSIS_5",
         "description": "CMSIS Version 5 Development Repository",
         "url": "https://github.com/ARM-software/CMSIS_5",
-        "stars": 1484,
+        "stars": 1485,
         "forks": 1098,
         "language": "C",
         "pushed_at": "2024-09-03T14:33:59Z",
@@ -18934,7 +18944,7 @@
         "stars": 4,
         "forks": 2,
         "language": "C++",
-        "pushed_at": "2025-07-22T11:41:50Z",
+        "pushed_at": "2025-07-22T12:45:39Z",
         "created_at": "2022-12-08T16:06:01Z"
       },
       {
@@ -18984,7 +18994,7 @@
         "stars": 25,
         "forks": 2,
         "language": "C++",
-        "pushed_at": "2025-07-22T12:16:50Z",
+        "pushed_at": "2025-07-22T13:08:00Z",
         "created_at": "2024-09-06T08:59:35Z"
       },
       {
