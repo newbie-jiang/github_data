@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-22T08:25:59Z",
+        "pushed_at": "2025-07-22T08:57:29Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -5402,7 +5402,7 @@
         "description": "Linux kernel source tree",
         "url": "https://github.com/STMicroelectronics/linux",
         "stars": 116,
-        "forks": 112,
+        "forks": 111,
         "language": "C",
         "pushed_at": "2025-06-25T12:28:46Z",
         "created_at": "2019-01-30T15:43:46Z"
@@ -7956,6 +7956,1006 @@
         "language": "C",
         "pushed_at": "2024-06-05T17:15:17Z",
         "created_at": "2021-06-14T08:26:45Z"
+      },
+      {
+        "name": "stm32-sx8651",
+        "description": "Provides the  SX8651 driver, part of the STM32Cube BSP Component for all STM32xx series.",
+        "url": "https://github.com/STMicroelectronics/stm32-sx8651",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-04-16T16:14:53Z",
+        "created_at": "2021-12-20T11:09:48Z"
+      },
+      {
+        "name": "stm32-tcpp0203",
+        "description": "Provides the  TCPP0203 driver, part of the STM32Cube BSP Component for all STM32xx series.",
+        "url": "https://github.com/STMicroelectronics/stm32-tcpp0203",
+        "stars": 0,
+        "forks": 0,
+        "language": "CSS",
+        "pushed_at": "2024-04-17T11:37:06Z",
+        "created_at": "2021-12-20T11:09:32Z"
+      },
+      {
+        "name": "stm32-ts3510",
+        "description": "Provides the ts3510 driver, part of the STM32Cube BSP Component for all STM32xx series.",
+        "url": "https://github.com/STMicroelectronics/stm32-ts3510",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-02-13T14:00:25Z",
+        "created_at": "2020-11-09T16:36:03Z"
+      },
+      {
+        "name": "stm32-tusb546",
+        "description": "Provides the tusb546 driver, part of the STM32Cube BSP Component for all STM32xx series.",
+        "url": "https://github.com/STMicroelectronics/stm32-tusb546",
+        "stars": 2,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2024-04-18T10:27:02Z",
+        "created_at": "2020-11-09T16:46:19Z"
+      },
+      {
+        "name": "stm32-usbx-examples",
+        "description": "Provide a set of USB examples running on STM32 products based on USBX middleware software library.",
+        "url": "https://github.com/STMicroelectronics/stm32-usbx-examples",
+        "stars": 22,
+        "forks": 4,
+        "language": "C",
+        "pushed_at": "2023-12-21T14:48:59Z",
+        "created_at": "2023-09-26T15:19:31Z"
+      },
+      {
+        "name": "stm32-util-usbpd-tracer-emb",
+        "description": "USB Power Delivery embedded tracer for debugging STM32 USB-PD applications",
+        "url": "https://github.com/STMicroelectronics/stm32-util-usbpd-tracer-emb",
+        "stars": 4,
+        "forks": 1,
+        "language": "CSS",
+        "pushed_at": "2024-12-16T10:30:06Z",
+        "created_at": "2022-09-09T14:08:43Z"
+      },
+      {
+        "name": "stm32-veml3235",
+        "description": "Provides the VEML3235 driver, part of the STM32Cube BSP Component for all STM32xx series.",
+        "url": "https://github.com/STMicroelectronics/stm32-veml3235",
+        "stars": 1,
+        "forks": 0,
+        "language": "CSS",
+        "pushed_at": "2024-07-02T13:28:01Z",
+        "created_at": "2024-06-24T16:18:19Z"
+      },
+      {
+        "name": "stm32-veml6030",
+        "description": "Provides the  VEML6030 driver, part of the STM32Cube BSP Component for all STM32xx series",
+        "url": "https://github.com/STMicroelectronics/stm32-veml6030",
+        "stars": 1,
+        "forks": 0,
+        "language": "CSS",
+        "pushed_at": "2024-06-25T16:18:14Z",
+        "created_at": "2021-12-20T11:10:29Z"
+      },
+      {
+        "name": "stm32-vl53l5cx",
+        "description": "Provides the VL53L5CX driver, part of the STM32Cube BSP Component for all STM32xx series.",
+        "url": "https://github.com/STMicroelectronics/stm32-vl53l5cx",
+        "stars": 5,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-07-02T13:57:18Z",
+        "created_at": "2024-06-24T16:18:33Z"
+      },
+      {
+        "name": "stm32-w25q128j",
+        "description": "Provides the W25Q128J driver, part of the STM32Cube BSP Component for all STM32xx series.",
+        "url": "https://github.com/STMicroelectronics/stm32-w25q128j",
+        "stars": 3,
+        "forks": 0,
+        "language": "CSS",
+        "pushed_at": "2024-07-17T14:57:46Z",
+        "created_at": "2024-07-15T10:17:46Z"
+      },
+      {
+        "name": "stm32-wb-at",
+        "description": "Provides the STM32WB-AT driver, part of the STM32Cube BSP Component for all STM32xx series.",
+        "url": "https://github.com/STMicroelectronics/stm32-wb-at",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-07-19T10:21:37Z",
+        "created_at": "2024-07-17T09:55:41Z"
+      },
+      {
+        "name": "stm32-wm8904",
+        "description": "Provides the wm8904 driver, part of the STM32Cube BSP Component for all STM32xx series.",
+        "url": "https://github.com/STMicroelectronics/stm32-wm8904",
+        "stars": 3,
+        "forks": 2,
+        "language": "CSS",
+        "pushed_at": "2025-01-10T11:06:27Z",
+        "created_at": "2024-03-25T10:58:51Z"
+      },
+      {
+        "name": "stm32-wm8994",
+        "description": "Provides the wm8994 driver, part of the STM32Cube BSP Component for all STM32xx series.",
+        "url": "https://github.com/STMicroelectronics/stm32-wm8994",
+        "stars": 9,
+        "forks": 4,
+        "language": "C",
+        "pushed_at": "2024-06-05T17:21:26Z",
+        "created_at": "2020-11-13T16:17:13Z"
+      },
+      {
+        "name": "stm32072b-eval-bsp",
+        "description": "Provides the STM32072B-EVAL board driver, part of the STM32Cube BSP Component for STM32F0 series.",
+        "url": "https://github.com/STMicroelectronics/stm32072b-eval-bsp",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-02T08:18:42Z",
+        "created_at": "2021-07-08T08:59:29Z"
+      },
+      {
+        "name": "stm32091c-eval-bsp",
+        "description": "Provides the STM32091C-EVAL board driver, part of the STM32Cube BSP Component for STM32F0 series.",
+        "url": "https://github.com/STMicroelectronics/stm32091c-eval-bsp",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-02T08:18:47Z",
+        "created_at": "2021-07-08T08:58:49Z"
+      },
+      {
+        "name": "stm3210c-eval-bsp",
+        "description": "Provides the STM3210C-EVAL board driver, part of the STM32Cube BSP Component for STM32F1 series.",
+        "url": "https://github.com/STMicroelectronics/stm3210c-eval-bsp",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-02T08:18:54Z",
+        "created_at": "2021-08-10T08:01:48Z"
+      },
+      {
+        "name": "stm3210e-eval-bsp",
+        "description": "Provides the STM3210E-EVAL board driver, part of the STM32Cube BSP Component for STM32F1 series.",
+        "url": "https://github.com/STMicroelectronics/stm3210e-eval-bsp",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-02T08:19:06Z",
+        "created_at": "2021-08-10T08:02:10Z"
+      },
+      {
+        "name": "stm322xg-eval-bsp",
+        "description": "Provides the STM322XG-EVAL board driver, part of the STM32Cube BSP Component for STM32F2 series.",
+        "url": "https://github.com/STMicroelectronics/stm322xg-eval-bsp",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-02T08:19:13Z",
+        "created_at": "2021-08-10T08:04:59Z"
+      },
+      {
+        "name": "stm32303c-eval-bsp",
+        "description": "Provides the STM32303C-EVAL board driver, part of the STM32Cube BSP Component for STM32F3 series.",
+        "url": "https://github.com/STMicroelectronics/stm32303c-eval-bsp",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-04-25T10:48:12Z",
+        "created_at": "2021-08-10T08:05:57Z"
+      },
+      {
+        "name": "stm32303e-eval-bsp",
+        "description": "Provides the STM32303E-EVAL board driver, part of the STM32Cube BSP Component for STM32F3 series.",
+        "url": "https://github.com/STMicroelectronics/stm32303e-eval-bsp",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-04-24T14:21:18Z",
+        "created_at": "2021-08-10T08:06:17Z"
+      },
+      {
+        "name": "stm32373c-eval-bsp",
+        "description": "Provides the STM32373C-EVAL board driver, part of the STM32Cube BSP Component for STM32F3 series.",
+        "url": "https://github.com/STMicroelectronics/stm32373c-eval-bsp",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-04-23T14:42:22Z",
+        "created_at": "2021-08-10T08:06:41Z"
+      },
+      {
+        "name": "stm32446e-eval-bsp",
+        "description": "Provides the STM32446E-EVAL board driver, part of the STM32Cube BSP Component for STM32F4 series.",
+        "url": "https://github.com/STMicroelectronics/stm32446e-eval-bsp",
+        "stars": 2,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2023-12-26T10:29:17Z",
+        "created_at": "2021-06-08T14:23:11Z"
+      },
+      {
+        "name": "stm32469i-eval-bsp",
+        "description": "Provides the STM32469I-EVAL board driver, part of the STM32Cube BSP Component for STM32F4 series.",
+        "url": "https://github.com/STMicroelectronics/stm32469i-eval-bsp",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-12-26T10:33:02Z",
+        "created_at": "2021-06-08T14:20:11Z"
+      },
+      {
+        "name": "stm324x9i-eval-bsp",
+        "description": "Provides the STM324x9I-EVAL board driver, part of the STM32Cube BSP Component for STM32F4 series.",
+        "url": "https://github.com/STMicroelectronics/stm324x9i-eval-bsp",
+        "stars": 4,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-05-22T15:26:33Z",
+        "created_at": "2021-06-08T14:23:40Z"
+      },
+      {
+        "name": "stm324xg-eval-bsp",
+        "description": "Provides the STM324xG-EVAL board driver, part of the STM32Cube BSP Component for STM32F4 series.",
+        "url": "https://github.com/STMicroelectronics/stm324xg-eval-bsp",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-12-26T10:19:01Z",
+        "created_at": "2021-06-08T14:17:25Z"
+      },
+      {
+        "name": "stm32756g-eval-bsp",
+        "description": "Provides the STM32756G-EVAL board driver, part of the STM32Cube BSP Component for STM32H7 series.",
+        "url": "https://github.com/STMicroelectronics/stm32756g-eval-bsp",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-05-20T13:37:35Z",
+        "created_at": "2021-07-08T08:29:59Z"
+      },
+      {
+        "name": "stm32ai-datalogger",
+        "description": "（无简介）",
+        "url": "https://github.com/STMicroelectronics/stm32ai-datalogger",
+        "stars": 13,
+        "forks": 3,
+        "language": "C",
+        "pushed_at": "2021-06-28T13:39:18Z",
+        "created_at": "2021-06-21T16:01:09Z"
+      },
+      {
+        "name": "stm32ai-modelzoo",
+        "description": "AI Model Zoo for STM32 devices",
+        "url": "https://github.com/STMicroelectronics/stm32ai-modelzoo",
+        "stars": 453,
+        "forks": 100,
+        "language": "未指定",
+        "pushed_at": "2025-05-20T10:25:08Z",
+        "created_at": "2023-01-10T13:58:28Z"
+      },
+      {
+        "name": "stm32ai-modelzoo-services",
+        "description": "AI Model Zoo services for STM32 devices",
+        "url": "https://github.com/STMicroelectronics/stm32ai-modelzoo-services",
+        "stars": 60,
+        "forks": 22,
+        "language": "C",
+        "pushed_at": "2025-06-25T09:17:51Z",
+        "created_at": "2024-11-12T13:43:27Z"
+      },
+      {
+        "name": "stm32ai-nota",
+        "description": "This repository contains Jupyter notebooks that demonstrate how to use Netspresso to prune pre-trained deep learning models from STM32AI Model Zoo and fine-tune them for your specific use case. Learn how to reduce the size of your models without sacrificing accuracy and customize them for your own applications.",
+        "url": "https://github.com/STMicroelectronics/stm32ai-nota",
+        "stars": 10,
+        "forks": 0,
+        "language": "Jupyter Notebook",
+        "pushed_at": "2024-05-28T15:31:01Z",
+        "created_at": "2024-03-22T10:46:18Z"
+      },
+      {
+        "name": "stm32ai-perf",
+        "description": "MLPerf (tm) Tiny Deep Learning Benchmarks for STM32 devices",
+        "url": "https://github.com/STMicroelectronics/stm32ai-perf",
+        "stars": 13,
+        "forks": 4,
+        "language": "C",
+        "pushed_at": "2024-04-09T13:18:39Z",
+        "created_at": "2022-02-22T08:05:07Z"
+      },
+      {
+        "name": "stm32ai-tao",
+        "description": "Nvidia TAO (Train, Adapt, Optimize) with STM32Cube.AI Developer Cloud",
+        "url": "https://github.com/STMicroelectronics/stm32ai-tao",
+        "stars": 41,
+        "forks": 9,
+        "language": "Jupyter Notebook",
+        "pushed_at": "2025-05-20T12:19:49Z",
+        "created_at": "2023-06-27T13:52:03Z"
+      },
+      {
+        "name": "stm32ai-wiki",
+        "description": "git repo to illustrates and supports the STM32 AI wiki articles",
+        "url": "https://github.com/STMicroelectronics/stm32ai-wiki",
+        "stars": 45,
+        "forks": 13,
+        "language": "Jupyter Notebook",
+        "pushed_at": "2022-02-11T13:43:43Z",
+        "created_at": "2020-11-06T14:27:05Z"
+      },
+      {
+        "name": "STM32AI_Overall_Offer",
+        "description": "This repo is the entry point to all other STM32 MCU/MPU AI-related GitHub repos.",
+        "url": "https://github.com/STMicroelectronics/STM32AI_Overall_Offer",
+        "stars": 35,
+        "forks": 4,
+        "language": "未指定",
+        "pushed_at": "2025-06-30T07:56:50Z",
+        "created_at": "2023-06-20T11:09:43Z"
+      },
+      {
+        "name": "stm32c0-classic-coremw-apps",
+        "description": "Provides a set of applications for STM32C0xx series based on the STM32 Classic Core Middleware libraries.",
+        "url": "https://github.com/STMicroelectronics/stm32c0-classic-coremw-apps",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-07-22T15:39:14Z",
+        "created_at": "2024-07-12T10:02:02Z"
+      },
+      {
+        "name": "stm32c0116-dk-bsp",
+        "description": "Provides the STM32C0116-DK board driver, part of the STM32Cube BSP Component for STM32C0 series.",
+        "url": "https://github.com/STMicroelectronics/stm32c0116-dk-bsp",
+        "stars": 1,
+        "forks": 0,
+        "language": "CSS",
+        "pushed_at": "2024-07-01T10:57:30Z",
+        "created_at": "2023-05-08T09:35:44Z"
+      },
+      {
+        "name": "stm32c0316-dk-bsp",
+        "description": "Provides the STM32C0316-DK board driver, part of the STM32Cube BSP Component for STM32C0 series.",
+        "url": "https://github.com/STMicroelectronics/stm32c0316-dk-bsp",
+        "stars": 1,
+        "forks": 0,
+        "language": "CSS",
+        "pushed_at": "2024-07-01T13:37:06Z",
+        "created_at": "2023-05-08T09:32:07Z"
+      },
+      {
+        "name": "stm32c0xx-hal-driver",
+        "description": "Provides the STM32Cube MCU Component \"hal_driver\" of the STM32C0 series.",
+        "url": "https://github.com/STMicroelectronics/stm32c0xx-hal-driver",
+        "stars": 3,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2025-07-04T09:20:39Z",
+        "created_at": "2023-05-08T09:27:06Z"
+      },
+      {
+        "name": "stm32c0xx-nucleo-bsp",
+        "description": "Provides the STM32C0316C6-NUCLEO board driver, part of the STM32Cube BSP Component for STM32C0 series.",
+        "url": "https://github.com/STMicroelectronics/stm32c0xx-nucleo-bsp",
+        "stars": 2,
+        "forks": 0,
+        "language": "CSS",
+        "pushed_at": "2024-07-01T10:50:51Z",
+        "created_at": "2023-05-08T16:45:13Z"
+      },
+      {
+        "name": "STM32CubeC0",
+        "description": "Full firmware package for STM32C0 series containing CMSIS, HAL-LL, BSP drivers, MW libraries, and a set of projects ready for use on STM32C0 boards",
+        "url": "https://github.com/STMicroelectronics/STM32CubeC0",
+        "stars": 21,
+        "forks": 12,
+        "language": "C",
+        "pushed_at": "2025-07-04T14:14:49Z",
+        "created_at": "2023-02-24T11:23:23Z"
+      },
+      {
+        "name": "STM32CubeF0",
+        "description": "STM32Cube MCU Full Package for the STM32F0 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
+        "url": "https://github.com/STMicroelectronics/STM32CubeF0",
+        "stars": 170,
+        "forks": 64,
+        "language": "C",
+        "pushed_at": "2025-06-05T13:32:37Z",
+        "created_at": "2019-04-19T07:48:46Z"
+      },
+      {
+        "name": "STM32CubeF1",
+        "description": "STM32Cube MCU Full Package for the STM32F1 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
+        "url": "https://github.com/STMicroelectronics/STM32CubeF1",
+        "stars": 597,
+        "forks": 186,
+        "language": "HTML",
+        "pushed_at": "2025-06-05T13:43:35Z",
+        "created_at": "2019-04-16T12:02:32Z"
+      },
+      {
+        "name": "STM32CubeF2",
+        "description": "STM32Cube MCU Full Package for the STM32F2 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
+        "url": "https://github.com/STMicroelectronics/STM32CubeF2",
+        "stars": 52,
+        "forks": 26,
+        "language": "C",
+        "pushed_at": "2025-06-05T13:50:12Z",
+        "created_at": "2019-04-16T14:36:12Z"
+      },
+      {
+        "name": "STM32CubeF3",
+        "description": "STM32Cube MCU Full Package for the STM32F3 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
+        "url": "https://github.com/STMicroelectronics/STM32CubeF3",
+        "stars": 151,
+        "forks": 57,
+        "language": "C",
+        "pushed_at": "2025-06-05T14:12:21Z",
+        "created_at": "2019-04-18T07:45:28Z"
+      },
+      {
+        "name": "STM32CubeF4",
+        "description": "STM32Cube MCU Full Package for the STM32F4 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
+        "url": "https://github.com/STMicroelectronics/STM32CubeF4",
+        "stars": 1055,
+        "forks": 457,
+        "language": "C",
+        "pushed_at": "2025-07-17T14:58:57Z",
+        "created_at": "2019-04-18T13:01:52Z"
+      },
+      {
+        "name": "STM32CubeF7",
+        "description": "STM32Cube MCU Full Package for the STM32F7 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
+        "url": "https://github.com/STMicroelectronics/STM32CubeF7",
+        "stars": 361,
+        "forks": 206,
+        "language": "C",
+        "pushed_at": "2025-07-17T15:19:06Z",
+        "created_at": "2019-04-19T09:09:19Z"
+      },
+      {
+        "name": "STM32CubeG0",
+        "description": "STM32Cube MCU Full Package for the STM32G0 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
+        "url": "https://github.com/STMicroelectronics/STM32CubeG0",
+        "stars": 187,
+        "forks": 84,
+        "language": "C",
+        "pushed_at": "2025-07-17T15:36:35Z",
+        "created_at": "2019-04-19T08:41:33Z"
+      },
+      {
+        "name": "STM32CubeG4",
+        "description": "STM32Cube MCU Full Package for the STM32G4 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
+        "url": "https://github.com/STMicroelectronics/STM32CubeG4",
+        "stars": 225,
+        "forks": 110,
+        "language": "C",
+        "pushed_at": "2025-06-17T11:04:03Z",
+        "created_at": "2019-04-19T09:25:19Z"
+      },
+      {
+        "name": "STM32CubeH5",
+        "description": "Full firmware package for STM32H5 series containing CMSIS, HAL-LL, BSP drivers, MW libraries plus a set of projects.",
+        "url": "https://github.com/STMicroelectronics/STM32CubeH5",
+        "stars": 74,
+        "forks": 18,
+        "language": "C",
+        "pushed_at": "2025-07-07T08:44:02Z",
+        "created_at": "2023-03-07T10:08:49Z"
+      },
+      {
+        "name": "STM32CubeH7",
+        "description": "STM32Cube MCU Full Package for the STM32H7 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
+        "url": "https://github.com/STMicroelectronics/STM32CubeH7",
+        "stars": 626,
+        "forks": 334,
+        "language": "C",
+        "pushed_at": "2025-07-03T11:12:38Z",
+        "created_at": "2019-04-19T09:59:43Z"
+      },
+      {
+        "name": "STM32CubeH7RS",
+        "description": "STM32Cube MCU Full Package for the STM32H7RS series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST)",
+        "url": "https://github.com/STMicroelectronics/STM32CubeH7RS",
+        "stars": 30,
+        "forks": 7,
+        "language": "C",
+        "pushed_at": "2025-07-04T14:09:36Z",
+        "created_at": "2024-03-21T09:04:00Z"
+      },
+      {
+        "name": "STM32CubeL0",
+        "description": "STM32Cube MCU Full Package for the STM32L0 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
+        "url": "https://github.com/STMicroelectronics/STM32CubeL0",
+        "stars": 118,
+        "forks": 58,
+        "language": "C",
+        "pushed_at": "2025-05-15T14:57:11Z",
+        "created_at": "2019-04-19T10:28:50Z"
+      },
+      {
+        "name": "STM32CubeL1",
+        "description": "Full Firmware Package for the STM32L1 series: HAL+LL drivers, CMSIS, BSP, MW, plus a set of Projects (examples and demos) running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits).",
+        "url": "https://github.com/STMicroelectronics/STM32CubeL1",
+        "stars": 39,
+        "forks": 26,
+        "language": "HTML",
+        "pushed_at": "2025-05-15T15:09:04Z",
+        "created_at": "2019-04-19T12:58:26Z"
+      },
+      {
+        "name": "STM32CubeL4",
+        "description": "STM32Cube MCU Full Package for the STM32L4 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
+        "url": "https://github.com/STMicroelectronics/STM32CubeL4",
+        "stars": 308,
+        "forks": 162,
+        "language": "C",
+        "pushed_at": "2025-07-10T08:46:23Z",
+        "created_at": "2019-04-19T10:48:53Z"
+      },
+      {
+        "name": "STM32CubeL5",
+        "description": "STM32Cube MCU Full Package for the STM32L5 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
+        "url": "https://github.com/STMicroelectronics/STM32CubeL5",
+        "stars": 45,
+        "forks": 35,
+        "language": "C",
+        "pushed_at": "2025-06-23T08:59:05Z",
+        "created_at": "2020-01-13T14:40:21Z"
+      },
+      {
+        "name": "STM32CubeMP1",
+        "description": "stm32cube_fw_mp1",
+        "url": "https://github.com/STMicroelectronics/STM32CubeMP1",
+        "stars": 108,
+        "forks": 63,
+        "language": "C",
+        "pushed_at": "2025-02-20T08:08:30Z",
+        "created_at": "2019-01-17T10:07:15Z"
+      },
+      {
+        "name": "STM32CubeMP13",
+        "description": "（无简介）",
+        "url": "https://github.com/STMicroelectronics/STM32CubeMP13",
+        "stars": 23,
+        "forks": 8,
+        "language": "C",
+        "pushed_at": "2024-11-18T10:57:02Z",
+        "created_at": "2023-10-31T13:41:54Z"
+      },
+      {
+        "name": "STM32CubeMP1_LoRaWAN",
+        "description": "（无简介）",
+        "url": "https://github.com/STMicroelectronics/STM32CubeMP1_LoRaWAN",
+        "stars": 2,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2020-11-20T13:25:05Z",
+        "created_at": "2020-11-17T15:12:11Z"
+      },
+      {
+        "name": "STM32CubeMP2",
+        "description": "（无简介）",
+        "url": "https://github.com/STMicroelectronics/STM32CubeMP2",
+        "stars": 8,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2025-07-04T10:26:03Z",
+        "created_at": "2024-06-10T09:14:27Z"
+      },
+      {
+        "name": "STM32CubeN6",
+        "description": "STM32Cube MCU Full Package for the STM32N6 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST)",
+        "url": "https://github.com/STMicroelectronics/STM32CubeN6",
+        "stars": 23,
+        "forks": 9,
+        "language": "C",
+        "pushed_at": "2025-07-03T09:04:27Z",
+        "created_at": "2025-01-10T13:16:58Z"
+      },
+      {
+        "name": "STM32CubeU0",
+        "description": "STM32Cube MCU Full Package for the STM32U0 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST)",
+        "url": "https://github.com/STMicroelectronics/STM32CubeU0",
+        "stars": 3,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2025-07-03T15:41:18Z",
+        "created_at": "2024-03-22T10:22:20Z"
+      },
+      {
+        "name": "STM32CubeU3",
+        "description": "This repository provides the STM32Cube MCU Firmware for the STM32U3 series, including the HAL-LL and the BSP Drivers, the CMSIS Core and the CMSIS Device interfaces, various MW libraries, and a set of projects running on the different STM32U3 evaluation kits provided by STMicroelectronics.",
+        "url": "https://github.com/STMicroelectronics/STM32CubeU3",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-07-04T15:29:59Z",
+        "created_at": "2025-03-04T08:23:41Z"
+      },
+      {
+        "name": "STM32CubeU5",
+        "description": "Full Firmware Package for the STM32U5 series: HAL+LL drivers, CMSIS, BSP, MW, plus a set of Projects (examples and demos) running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits).",
+        "url": "https://github.com/STMicroelectronics/STM32CubeU5",
+        "stars": 146,
+        "forks": 79,
+        "language": "C",
+        "pushed_at": "2025-07-07T13:00:07Z",
+        "created_at": "2021-07-08T11:59:02Z"
+      },
+      {
+        "name": "STM32CubeU5-V2-Preview",
+        "description": "This is a preview of the upcoming STM32Cube HAL2 Drivers for STM32U5 featuring several enhancements and updates and intended to enable the STM32 community to experiment and give feedback.",
+        "url": "https://github.com/STMicroelectronics/STM32CubeU5-V2-Preview",
+        "stars": 9,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-07-17T15:25:26Z",
+        "created_at": "2025-07-04T08:40:54Z"
+      },
+      {
+        "name": "STM32CubeWB",
+        "description": "Full Firmware Package for the STM32WB series: HAL+LL drivers, CMSIS, BSP, MW, plus a set of Projects (examples and demos) running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits).",
+        "url": "https://github.com/STMicroelectronics/STM32CubeWB",
+        "stars": 254,
+        "forks": 151,
+        "language": "C",
+        "pushed_at": "2025-07-02T14:44:40Z",
+        "created_at": "2019-04-19T13:27:35Z"
+      },
+      {
+        "name": "STM32CubeWB0",
+        "description": "Full firmware for STM32WB0 series containing CMSIS, HAL-LL, BSP drivers, MW libraries, and a set of projects ready for use on STM32WB0 boards.",
+        "url": "https://github.com/STMicroelectronics/STM32CubeWB0",
+        "stars": 12,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-07-08T09:11:05Z",
+        "created_at": "2024-07-01T11:07:38Z"
+      },
+      {
+        "name": "STM32CubeWBA",
+        "description": "Full firmware package for STM32WBA series containing CMSIS, HAL-LL, BSP drivers, MW libraries, and a set of projects ready for use on STM32WBA boards",
+        "url": "https://github.com/STMicroelectronics/STM32CubeWBA",
+        "stars": 19,
+        "forks": 8,
+        "language": "C",
+        "pushed_at": "2025-07-08T12:43:32Z",
+        "created_at": "2023-03-07T17:27:32Z"
+      },
+      {
+        "name": "STM32CubeWL",
+        "description": "STM32Cube MCU Full FW Package for the STM32WL series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on boards provided by ST (Nucleo boards)",
+        "url": "https://github.com/STMicroelectronics/STM32CubeWL",
+        "stars": 138,
+        "forks": 65,
+        "language": "C",
+        "pushed_at": "2025-05-13T16:15:45Z",
+        "created_at": "2020-11-19T07:49:18Z"
+      },
+      {
+        "name": "STM32CubeWL3",
+        "description": "Full firmware package for the STM32WL3x product line microcontrollers containing CMSIS, HAL, LL and BSP drivers, MW libraries, and a set of demos, applications, and examples.",
+        "url": "https://github.com/STMicroelectronics/STM32CubeWL3",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-07-04T15:41:06Z",
+        "created_at": "2024-12-04T17:01:42Z"
+      },
+      {
+        "name": "STM32Cube_MCU_Overall_Offer",
+        "description": "This repo describes all STM32 MCU related GitHub projects. The open source offer for the STM32 MCU products",
+        "url": "https://github.com/STMicroelectronics/STM32Cube_MCU_Overall_Offer",
+        "stars": 639,
+        "forks": 105,
+        "language": "未指定",
+        "pushed_at": "2025-07-18T10:00:16Z",
+        "created_at": "2019-04-26T14:26:10Z"
+      },
+      {
+        "name": "STM32DDRFW-UTIL",
+        "description": "DDRFW-UTIL tool repository",
+        "url": "https://github.com/STMicroelectronics/STM32DDRFW-UTIL",
+        "stars": 10,
+        "forks": 8,
+        "language": "C",
+        "pushed_at": "2025-06-25T16:01:37Z",
+        "created_at": "2022-06-22T09:35:41Z"
+      },
+      {
+        "name": "stm32f0xx-hal-driver",
+        "description": "Provides the STM32Cube MCU Component \"hal_driver\" of the STM32F0 series.",
+        "url": "https://github.com/STMicroelectronics/stm32f0xx-hal-driver",
+        "stars": 20,
+        "forks": 13,
+        "language": "C",
+        "pushed_at": "2025-06-05T11:16:14Z",
+        "created_at": "2020-01-29T10:44:28Z"
+      },
+      {
+        "name": "stm32f0xx-nucleo-32-bsp",
+        "description": "Provides the STM32F0XX-NUCLEO-32 board driver, part of the STM32Cube BSP Component for STM32F0 series.",
+        "url": "https://github.com/STMicroelectronics/stm32f0xx-nucleo-32-bsp",
+        "stars": 0,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2023-06-02T08:20:38Z",
+        "created_at": "2021-07-08T08:56:54Z"
+      },
+      {
+        "name": "stm32f0xx-nucleo-bsp",
+        "description": "Provides the STM32F0XX-NUCLEO board driver, part of the STM32Cube BSP Component for STM32F0 series.",
+        "url": "https://github.com/STMicroelectronics/stm32f0xx-nucleo-bsp",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-02T08:20:33Z",
+        "created_at": "2021-07-08T08:57:08Z"
+      },
+      {
+        "name": "stm32f1xx-hal-driver",
+        "description": "Provides the STM32Cube MCU Component \"hal_driver\" of the STM32F1 series.",
+        "url": "https://github.com/STMicroelectronics/stm32f1xx-hal-driver",
+        "stars": 88,
+        "forks": 33,
+        "language": "C",
+        "pushed_at": "2025-06-05T11:50:16Z",
+        "created_at": "2020-01-29T11:15:16Z"
+      },
+      {
+        "name": "stm32f1xx-nucleo-bsp",
+        "description": "Provides the nucleo board driver, part of the STM32Cube BSP Component for STM32F1 series.",
+        "url": "https://github.com/STMicroelectronics/stm32f1xx-nucleo-bsp",
+        "stars": 1,
+        "forks": 0,
+        "language": "CSS",
+        "pushed_at": "2023-06-02T08:20:45Z",
+        "created_at": "2021-08-10T08:02:25Z"
+      },
+      {
+        "name": "stm32f2xx-hal-driver",
+        "description": "Provides the STM32Cube MCU Component \"hal_driver\" of the STM32F2 series.",
+        "url": "https://github.com/STMicroelectronics/stm32f2xx-hal-driver",
+        "stars": 6,
+        "forks": 7,
+        "language": "C",
+        "pushed_at": "2025-06-05T13:05:38Z",
+        "created_at": "2020-01-29T11:28:42Z"
+      },
+      {
+        "name": "stm32f2xx-nucleo-144-bsp",
+        "description": "Provides the nucleo board driver, part of the STM32Cube BSP Component for STM32F2 series.",
+        "url": "https://github.com/STMicroelectronics/stm32f2xx-nucleo-144-bsp",
+        "stars": 0,
+        "forks": 0,
+        "language": "CSS",
+        "pushed_at": "2023-06-02T08:20:52Z",
+        "created_at": "2021-08-10T08:05:35Z"
+      },
+      {
+        "name": "stm32f3discovery-bsp",
+        "description": "Provides the STM32F3DISCOVERY board driver, part of the STM32Cube BSP Component for STM32F3 series.",
+        "url": "https://github.com/STMicroelectronics/stm32f3discovery-bsp",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-02T08:21:00Z",
+        "created_at": "2021-08-10T08:07:51Z"
+      },
+      {
+        "name": "stm32f3xx-hal-driver",
+        "description": "Provides the STM32Cube MCU Component \"hal_driver\" of the STM32F3 series.",
+        "url": "https://github.com/STMicroelectronics/stm32f3xx-hal-driver",
+        "stars": 18,
+        "forks": 5,
+        "language": "C",
+        "pushed_at": "2025-06-05T13:26:33Z",
+        "created_at": "2020-01-29T10:13:52Z"
+      },
+      {
+        "name": "stm32f3xx-nucleo-144-bsp",
+        "description": "Provides the nucleo board driver, part of the STM32Cube BSP Component for STM32F3 series.",
+        "url": "https://github.com/STMicroelectronics/stm32f3xx-nucleo-144-bsp",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-02T08:21:16Z",
+        "created_at": "2021-08-10T08:10:18Z"
+      },
+      {
+        "name": "stm32f3xx-nucleo-32-bsp",
+        "description": "Provides the nucleo board driver, part of the STM32Cube BSP Component for STM32F3 series.",
+        "url": "https://github.com/STMicroelectronics/stm32f3xx-nucleo-32-bsp",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-02T08:21:21Z",
+        "created_at": "2021-08-10T08:31:19Z"
+      },
+      {
+        "name": "stm32f3xx-nucleo-bsp",
+        "description": "Provides the nucleo board driver, part of the STM32Cube BSP Component for STM32F3 series.",
+        "url": "https://github.com/STMicroelectronics/stm32f3xx-nucleo-bsp",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-02T08:21:07Z",
+        "created_at": "2021-08-10T08:10:02Z"
+      },
+      {
+        "name": "stm32f4discovery-bsp",
+        "description": "Provides the STM32F4-Discovery board driver, part of the STM32Cube BSP Component for STM32F4 series.",
+        "url": "https://github.com/STMicroelectronics/stm32f4discovery-bsp",
+        "stars": 6,
+        "forks": 4,
+        "language": "C",
+        "pushed_at": "2023-12-22T16:36:32Z",
+        "created_at": "2021-06-08T14:23:34Z"
+      },
+      {
+        "name": "stm32f4xx-hal-driver",
+        "description": "Provides the STM32Cube MCU Component \"hal_driver\" of the STM32F4 series.",
+        "url": "https://github.com/STMicroelectronics/stm32f4xx-hal-driver",
+        "stars": 151,
+        "forks": 59,
+        "language": "C",
+        "pushed_at": "2025-07-17T14:46:11Z",
+        "created_at": "2020-01-29T14:35:22Z"
+      },
+      {
+        "name": "stm32f4xx-nucleo-144-bsp",
+        "description": "Provides the STM32F4xx-Nucleo-144 board driver, part of the STM32Cube BSP Component for STM32F4 series",
+        "url": "https://github.com/STMicroelectronics/stm32f4xx-nucleo-144-bsp",
+        "stars": 3,
+        "forks": 1,
+        "language": "CSS",
+        "pushed_at": "2023-12-22T16:40:16Z",
+        "created_at": "2021-06-08T14:05:56Z"
+      },
+      {
+        "name": "stm32f4xx-nucleo-bsp",
+        "description": "Provides the STM32F4xx-Nucleo board driver, part of the STM32Cube BSP Component for STM32F4 series.",
+        "url": "https://github.com/STMicroelectronics/stm32f4xx-nucleo-bsp",
+        "stars": 1,
+        "forks": 1,
+        "language": "CSS",
+        "pushed_at": "2023-12-25T08:23:10Z",
+        "created_at": "2021-06-08T14:14:25Z"
+      },
+      {
+        "name": "stm32f7308-dk-bsp",
+        "description": "Provides the STM32F7308-DK board driver, part of the STM32Cube BSP Component for STM32F7 series.",
+        "url": "https://github.com/STMicroelectronics/stm32f7308-dk-bsp",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-02T08:22:09Z",
+        "created_at": "2021-07-08T08:36:31Z"
+      },
+      {
+        "name": "stm32f7508-dk-bsp",
+        "description": "Provides the STM32F7508-DK board driver, part of the STM32Cube BSP Component for STM32F7 series.",
+        "url": "https://github.com/STMicroelectronics/stm32f7508-dk-bsp",
+        "stars": 3,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2023-06-02T08:22:14Z",
+        "created_at": "2021-07-08T08:36:46Z"
+      },
+      {
+        "name": "stm32f769i-eval-bsp",
+        "description": "Provides the STM32F769I-EVAL board driver, part of the STM32Cube BSP Component for STM32F7 series.",
+        "url": "https://github.com/STMicroelectronics/stm32f769i-eval-bsp",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-05-20T14:24:16Z",
+        "created_at": "2021-07-08T08:53:42Z"
+      },
+      {
+        "name": "stm32f7xx-hal-driver",
+        "description": "Provides the STM32Cube MCU Component \"hal_driver\" of the STM32F7 series.",
+        "url": "https://github.com/STMicroelectronics/stm32f7xx-hal-driver",
+        "stars": 34,
+        "forks": 18,
+        "language": "C",
+        "pushed_at": "2025-07-17T15:10:13Z",
+        "created_at": "2020-01-29T11:39:46Z"
+      },
+      {
+        "name": "stm32f7xx-nucleo-144-bsp",
+        "description": "Provides the STM32F7XX-NUCLEO-144 board driver, part of the STM32Cube BSP Component for STM32F7 series.",
+        "url": "https://github.com/STMicroelectronics/stm32f7xx-nucleo-144-bsp",
+        "stars": 3,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2023-06-02T08:22:25Z",
+        "created_at": "2021-07-08T08:54:07Z"
+      },
+      {
+        "name": "stm32g0316-disco-bsp",
+        "description": "Provides the STM32G0316-DISCO board driver, part of the STM32Cube BSP Component for STM32G0 series.",
+        "url": "https://github.com/STMicroelectronics/stm32g0316-disco-bsp",
+        "stars": 0,
+        "forks": 0,
+        "language": "CSS",
+        "pushed_at": "2023-06-02T08:22:29Z",
+        "created_at": "2021-07-08T07:57:07Z"
+      },
+      {
+        "name": "stm32g071b-disco-bsp",
+        "description": "Provides the STM32G071B-DISCO board driver, part of the STM32Cube BSP Component for STM32G0 series.",
+        "url": "https://github.com/STMicroelectronics/stm32g071b-disco-bsp",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-02T08:22:34Z",
+        "created_at": "2021-07-08T09:26:49Z"
+      },
+      {
+        "name": "stm32g081b-eval-bsp",
+        "description": "Provides the STM32G081B-EVAL board driver, part of the STM32Cube BSP Component for STM32G0 series.",
+        "url": "https://github.com/STMicroelectronics/stm32g081b-eval-bsp",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-02T08:22:40Z",
+        "created_at": "2021-07-08T08:13:16Z"
+      },
+      {
+        "name": "stm32g0c1e-ev-bsp",
+        "description": "Provides the STM32G0C1E-EV board driver, part of the STM32Cube BSP Component for STM32G0 series.",
+        "url": "https://github.com/STMicroelectronics/stm32g0c1e-ev-bsp",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-02T08:22:46Z",
+        "created_at": "2021-07-08T08:15:39Z"
+      },
+      {
+        "name": "stm32g0xx-hal-driver",
+        "description": "Provides the STM32Cube MCU Component \"hal_driver\" of the STM32G0 series.",
+        "url": "https://github.com/STMicroelectronics/stm32g0xx-hal-driver",
+        "stars": 18,
+        "forks": 9,
+        "language": "C",
+        "pushed_at": "2025-07-17T15:22:45Z",
+        "created_at": "2020-01-29T11:49:43Z"
+      },
+      {
+        "name": "stm32g0xx-nucleo-32-bsp",
+        "description": "Provides the STM32G0XX-NUCLEO-32 board driver, part of the STM32Cube BSP Component for STM32G0 series.",
+        "url": "https://github.com/STMicroelectronics/stm32g0xx-nucleo-32-bsp",
+        "stars": 0,
+        "forks": 0,
+        "language": "CSS",
+        "pushed_at": "2023-06-02T08:23:03Z",
+        "created_at": "2021-07-08T08:16:58Z"
+      },
+      {
+        "name": "stm32g0xx-nucleo-bsp",
+        "description": "Provides the STM32G0XX-NUCLEO board driver, part of the STM32Cube BSP Component for STM32G0 series.",
+        "url": "https://github.com/STMicroelectronics/stm32g0xx-nucleo-bsp",
+        "stars": 3,
+        "forks": 0,
+        "language": "CSS",
+        "pushed_at": "2023-06-02T08:22:55Z",
+        "created_at": "2021-07-08T08:16:03Z"
+      },
+      {
+        "name": "stm32g474e-eval-bsp",
+        "description": "Provides the STM32G474E-EVAL board driver, part of the STM32Cube BSP Component for STM32G4 series.",
+        "url": "https://github.com/STMicroelectronics/stm32g474e-eval-bsp",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-06-28T09:39:36Z",
+        "created_at": "2021-07-08T07:55:28Z"
       }
     ]
   },
