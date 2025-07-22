@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-22T11:32:41Z",
+        "pushed_at": "2025-07-22T11:47:14Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3064,7 +3064,7 @@
       },
       {
         "name": "hal_stm32",
-        "description": "（无简介）",
+        "description": "STM32Cube packages for Zephyr",
         "url": "https://github.com/zephyrproject-rtos/hal_stm32",
         "stars": 124,
         "forks": 139,
@@ -3906,10 +3906,10 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12517,
+        "stars": 12519,
         "forks": 7669,
         "language": "C",
-        "pushed_at": "2025-07-22T10:46:03Z",
+        "pushed_at": "2025-07-22T12:35:17Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -10726,7 +10726,7 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15117,
+        "stars": 15118,
         "forks": 7661,
         "language": "C++",
         "pushed_at": "2025-07-22T11:00:56Z",
@@ -11067,7 +11067,7 @@
         "description": "AT application for ESP32/ESP32-C2/ESP32-C3/ESP32-C6/ESP8266",
         "url": "https://github.com/espressif/esp-at",
         "stars": 1047,
-        "forks": 1013,
+        "forks": 1014,
         "language": "C",
         "pushed_at": "2025-07-21T08:04:50Z",
         "created_at": "2017-01-11T15:36:52Z"
@@ -11859,7 +11859,7 @@
         "stars": 3,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-22T10:03:19Z",
+        "pushed_at": "2025-07-22T12:03:33Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12036,7 +12036,7 @@
         "name": "esp-rainmaker-mcp",
         "description": "MCP wrapper for ESP-Rainmaker CLI",
         "url": "https://github.com/espressif/esp-rainmaker-mcp",
-        "stars": 2,
+        "stars": 3,
         "forks": 2,
         "language": "Python",
         "pushed_at": "2025-07-15T13:45:47Z",
@@ -12899,7 +12899,7 @@
         "stars": 13,
         "forks": 2,
         "language": "Rust",
-        "pushed_at": "2025-07-22T11:46:32Z",
+        "pushed_at": "2025-07-22T11:47:38Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
@@ -13069,7 +13069,7 @@
         "stars": 248,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-22T11:38:44Z",
+        "pushed_at": "2025-07-22T12:10:45Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -14968,8 +14968,8 @@
         "url": "https://github.com/stm32-hotspot/STM32WB15_Health_Temperature_Sensor",
         "stars": 0,
         "forks": 1,
-        "language": "未指定",
-        "pushed_at": "2025-07-22T11:44:04Z",
+        "language": "C",
+        "pushed_at": "2025-07-22T12:08:09Z",
         "created_at": "2025-07-22T11:44:03Z"
       },
       {
@@ -15541,6 +15541,16 @@
         "language": "C",
         "pushed_at": "2022-09-21T18:35:15Z",
         "created_at": "2022-03-28T16:26:39Z"
+      },
+      {
+        "name": "zephyr-stm32-mw-isp",
+        "description": "（无简介）",
+        "url": "https://github.com/stm32-hotspot/zephyr-stm32-mw-isp",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-07-22T12:32:41Z",
+        "created_at": "2025-07-22T12:32:41Z"
       }
     ]
   },
@@ -16116,7 +16126,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 31233,
+        "stars": 31236,
         "forks": 3628,
         "language": "Rust",
         "pushed_at": "2025-07-22T07:43:47Z",
@@ -16476,7 +16486,7 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 23903,
+        "stars": 23906,
         "forks": 5723,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
@@ -16566,7 +16576,7 @@
         "name": "gym",
         "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
         "url": "https://github.com/openai/gym",
-        "stars": 36264,
+        "stars": 36265,
         "forks": 8680,
         "language": "Python",
         "pushed_at": "2024-10-11T20:07:05Z",
@@ -16876,7 +16886,7 @@
         "name": "mle-bench",
         "description": "MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering",
         "url": "https://github.com/openai/mle-bench",
-        "stars": 809,
+        "stars": 810,
         "forks": 107,
         "language": "Python",
         "pushed_at": "2025-06-19T11:01:22Z",
@@ -17006,7 +17016,7 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 852,
+        "stars": 854,
         "forks": 163,
         "language": "TypeScript",
         "pushed_at": "2025-07-22T06:20:35Z",
@@ -17017,7 +17027,7 @@
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
         "stars": 12814,
-        "forks": 2005,
+        "forks": 2006,
         "language": "Python",
         "pushed_at": "2025-07-22T09:33:08Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -17056,7 +17066,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65479,
+        "stars": 65481,
         "forks": 10867,
         "language": "MDX",
         "pushed_at": "2025-07-18T04:37:02Z",
@@ -17137,7 +17147,7 @@
         "description": "The official Java library for the OpenAI API",
         "url": "https://github.com/openai/openai-java",
         "stars": 957,
-        "forks": 143,
+        "forks": 144,
         "language": "Kotlin",
         "pushed_at": "2025-07-22T05:08:23Z",
         "created_at": "2024-10-31T17:42:57Z"
@@ -17166,10 +17176,10 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27438,
+        "stars": 27440,
         "forks": 4083,
         "language": "Python",
-        "pushed_at": "2025-07-22T05:07:31Z",
+        "pushed_at": "2025-07-22T12:04:37Z",
         "created_at": "2020-10-25T23:23:54Z"
       },
       {
@@ -17216,7 +17226,7 @@
         "name": "openai-realtime-console",
         "description": "React app for inspecting, building and debugging with the Realtime API",
         "url": "https://github.com/openai/openai-realtime-console",
-        "stars": 3347,
+        "stars": 3348,
         "forks": 1295,
         "language": "JavaScript",
         "pushed_at": "2025-06-23T22:48:16Z",
@@ -17256,7 +17266,7 @@
         "name": "openai-responses-starter-app",
         "description": "Starter app to build with the OpenAI Responses API",
         "url": "https://github.com/openai/openai-responses-starter-app",
-        "stars": 377,
+        "stars": 378,
         "forks": 137,
         "language": "TypeScript",
         "pushed_at": "2025-06-09T22:03:51Z",
@@ -17676,7 +17686,7 @@
         "name": "simple-evals",
         "description": "（无简介）",
         "url": "https://github.com/openai/simple-evals",
-        "stars": 3866,
+        "stars": 3867,
         "forks": 389,
         "language": "Python",
         "pushed_at": "2025-07-09T17:20:48Z",
@@ -17806,7 +17816,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 15175,
+        "stars": 15177,
         "forks": 1132,
         "language": "Python",
         "pushed_at": "2025-03-17T23:47:14Z",
@@ -17936,7 +17946,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 85307,
+        "stars": 85309,
         "forks": 10438,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
@@ -18494,7 +18504,7 @@
         "stars": 28,
         "forks": 3,
         "language": "C++",
-        "pushed_at": "2025-07-22T11:19:19Z",
+        "pushed_at": "2025-07-22T12:10:50Z",
         "created_at": "2023-05-10T14:36:34Z"
       },
       {
@@ -18714,7 +18724,7 @@
         "stars": 16,
         "forks": 8,
         "language": "C++",
-        "pushed_at": "2025-07-20T19:47:30Z",
+        "pushed_at": "2025-07-22T11:47:33Z",
         "created_at": "2021-09-14T14:54:28Z"
       },
       {
@@ -18974,7 +18984,7 @@
         "stars": 25,
         "forks": 2,
         "language": "C++",
-        "pushed_at": "2025-07-21T16:33:44Z",
+        "pushed_at": "2025-07-22T12:16:50Z",
         "created_at": "2024-09-06T08:59:35Z"
       },
       {
@@ -19574,7 +19584,7 @@
         "stars": 6,
         "forks": 7,
         "language": "C++",
-        "pushed_at": "2025-07-22T11:15:56Z",
+        "pushed_at": "2025-07-22T12:25:33Z",
         "created_at": "2025-05-22T09:32:34Z"
       },
       {
