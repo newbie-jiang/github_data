@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-23T04:26:00Z",
+        "pushed_at": "2025-07-23T05:03:09Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -7461,7 +7461,7 @@
         "name": "stm32-mw-mbedcrypto",
         "description": "The Mbed cryptography library is a reference implementation of the cryptography interface of the Arm Platform Security Architecture (PSA). The PSA cryptography API provides access to a set of cryptographic primitives. This is a preview release of Mbed Crypto, provided for evaluation purposes only.",
         "url": "https://github.com/STMicroelectronics/stm32-mw-mbedcrypto",
-        "stars": 1,
+        "stars": 2,
         "forks": 0,
         "language": "未指定",
         "pushed_at": "2024-07-10T08:48:38Z",
@@ -11286,7 +11286,7 @@
         "name": "esp-dev-kits",
         "description": "Docs, Schematics, Factory Firmwares for ESP Development Kits",
         "url": "https://github.com/espressif/esp-dev-kits",
-        "stars": 473,
+        "stars": 474,
         "forks": 199,
         "language": "Python",
         "pushed_at": "2025-07-17T19:45:11Z",
@@ -11449,7 +11449,7 @@
         "stars": 21,
         "forks": 23,
         "language": "Shell",
-        "pushed_at": "2025-07-20T05:03:39Z",
+        "pushed_at": "2025-07-23T05:05:51Z",
         "created_at": "2023-03-09T13:39:06Z"
       },
       {
@@ -13079,7 +13079,7 @@
         "stars": 248,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-23T04:53:39Z",
+        "pushed_at": "2025-07-23T05:25:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13674,7 +13674,7 @@
         "stars": 44,
         "forks": 36,
         "language": "C",
-        "pushed_at": "2025-07-21T03:59:38Z",
+        "pushed_at": "2025-07-23T05:33:50Z",
         "created_at": "2024-05-10T02:00:41Z"
       },
       {
@@ -15792,7 +15792,7 @@
         "description": "nano version of RT-Thread",
         "url": "https://github.com/RT-Thread/rtthread-nano",
         "stars": 209,
-        "forks": 99,
+        "forks": 100,
         "language": "C",
         "pushed_at": "2024-09-20T08:19:49Z",
         "created_at": "2018-10-08T05:31:00Z"
@@ -16136,7 +16136,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 31258,
+        "stars": 31261,
         "forks": 3633,
         "language": "Rust",
         "pushed_at": "2025-07-23T04:29:18Z",
@@ -16146,7 +16146,7 @@
         "name": "codex-universal",
         "description": "Base docker image used in Codex environments",
         "url": "https://github.com/openai/codex-universal",
-        "stars": 499,
+        "stars": 500,
         "forks": 122,
         "language": "Dockerfile",
         "pushed_at": "2025-05-28T03:10:36Z",
@@ -16346,7 +16346,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 16608,
+        "stars": 16609,
         "forks": 2764,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -17039,7 +17039,7 @@
         "stars": 12834,
         "forks": 2013,
         "language": "Python",
-        "pushed_at": "2025-07-23T01:59:56Z",
+        "pushed_at": "2025-07-23T05:23:17Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -17087,7 +17087,7 @@
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
         "stars": 5646,
-        "forks": 837,
+        "forks": 838,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
         "created_at": "2025-06-14T03:07:09Z"
@@ -17169,7 +17169,7 @@
         "stars": 9491,
         "forks": 1158,
         "language": "TypeScript",
-        "pushed_at": "2025-07-22T15:46:27Z",
+        "pushed_at": "2025-07-23T05:13:34Z",
         "created_at": "2021-12-14T22:32:58Z"
       },
       {
@@ -17227,7 +17227,7 @@
         "description": "Node.js + JavaScript reference client for the Realtime API (beta)",
         "url": "https://github.com/openai/openai-realtime-api-beta",
         "stars": 974,
-        "forks": 286,
+        "forks": 287,
         "language": "JavaScript",
         "pushed_at": "2024-11-07T22:51:02Z",
         "created_at": "2024-09-30T21:11:38Z"
@@ -17746,7 +17746,7 @@
         "name": "spinningup",
         "description": "An educational resource to help anyone learn deep reinforcement learning.",
         "url": "https://github.com/openai/spinningup",
-        "stars": 11069,
+        "stars": 11070,
         "forks": 2363,
         "language": "Python",
         "pushed_at": "2024-08-05T03:30:30Z",
@@ -17966,8 +17966,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 85354,
-        "forks": 10446,
+        "stars": 85357,
+        "forks": 10445,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
