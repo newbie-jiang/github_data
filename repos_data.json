@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-23T22:18:12Z",
+        "pushed_at": "2025-07-23T22:41:12Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -2789,7 +2789,7 @@
         "stars": 4,
         "forks": 26,
         "language": "C++",
-        "pushed_at": "2025-07-23T14:34:29Z",
+        "pushed_at": "2025-07-23T23:17:22Z",
         "created_at": "2021-04-19T15:28:42Z"
       },
       {
@@ -2999,7 +2999,7 @@
         "stars": 36,
         "forks": 157,
         "language": "C",
-        "pushed_at": "2025-07-23T14:42:49Z",
+        "pushed_at": "2025-07-23T22:56:32Z",
         "created_at": "2019-04-06T22:26:02Z"
       },
       {
@@ -3649,7 +3649,7 @@
         "stars": 216,
         "forks": 159,
         "language": "C",
-        "pushed_at": "2025-07-23T11:25:46Z",
+        "pushed_at": "2025-07-23T23:13:45Z",
         "created_at": "2017-05-30T03:13:29Z"
       },
       {
@@ -3916,7 +3916,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12562,
+        "stars": 12567,
         "forks": 7680,
         "language": "C",
         "pushed_at": "2025-07-23T17:16:35Z",
@@ -10736,8 +10736,8 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15129,
-        "forks": 7662,
+        "stars": 15130,
+        "forks": 7661,
         "language": "C++",
         "pushed_at": "2025-07-23T16:13:41Z",
         "created_at": "2016-10-06T06:04:20Z"
@@ -11496,7 +11496,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15849,
+        "stars": 15850,
         "forks": 7773,
         "language": "C",
         "pushed_at": "2025-07-23T20:42:32Z",
@@ -13079,7 +13079,7 @@
         "stars": 248,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-23T22:39:41Z",
+        "pushed_at": "2025-07-23T23:10:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16106,7 +16106,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29952,
+        "stars": 29953,
         "forks": 3689,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16136,10 +16136,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 31317,
+        "stars": 31319,
         "forks": 3637,
         "language": "Rust",
-        "pushed_at": "2025-07-23T22:40:01Z",
+        "pushed_at": "2025-07-23T23:09:08Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16346,7 +16346,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 16612,
+        "stars": 16613,
         "forks": 2764,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -17036,7 +17036,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12868,
+        "stars": 12869,
         "forks": 2018,
         "language": "Python",
         "pushed_at": "2025-07-23T20:54:56Z",
@@ -17077,7 +17077,7 @@
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
         "stars": 65504,
-        "forks": 10880,
+        "forks": 10881,
         "language": "MDX",
         "pushed_at": "2025-07-23T21:18:01Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -17086,7 +17086,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5650,
+        "stars": 5651,
         "forks": 839,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -17146,7 +17146,7 @@
         "name": "openai-go",
         "description": "The official Go library for the OpenAI API",
         "url": "https://github.com/openai/openai-go",
-        "stars": 2087,
+        "stars": 2088,
         "forks": 171,
         "language": "Go",
         "pushed_at": "2025-07-23T12:45:27Z",
@@ -17187,7 +17187,7 @@
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
         "stars": 27455,
-        "forks": 4086,
+        "forks": 4087,
         "language": "Python",
         "pushed_at": "2025-07-22T13:09:50Z",
         "created_at": "2020-10-25T23:23:54Z"
@@ -17446,7 +17446,7 @@
         "name": "preparedness",
         "description": "Releases from OpenAI Preparedness",
         "url": "https://github.com/openai/preparedness",
-        "stars": 805,
+        "stars": 806,
         "forks": 82,
         "language": "Python",
         "pushed_at": "2025-07-21T12:07:09Z",
@@ -17966,7 +17966,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 85413,
+        "stars": 85414,
         "forks": 10453,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
