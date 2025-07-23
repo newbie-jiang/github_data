@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-23T13:25:12Z",
+        "pushed_at": "2025-07-23T13:57:26Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -2897,7 +2897,7 @@
         "description": "HAL and SDK for ESP32 and other hardware from Espressif",
         "url": "https://github.com/zephyrproject-rtos/hal_espressif",
         "stars": 53,
-        "forks": 63,
+        "forks": 64,
         "language": "C",
         "pushed_at": "2025-07-23T12:56:57Z",
         "created_at": "2020-11-11T17:16:24Z"
@@ -3974,7 +3974,7 @@
         "stars": 1,
         "forks": 2,
         "language": "未指定",
-        "pushed_at": "2025-07-23T13:14:04Z",
+        "pushed_at": "2025-07-23T14:10:07Z",
         "created_at": "2021-09-30T16:25:26Z"
       },
       {
@@ -6871,7 +6871,7 @@
         "name": "stm32-external-loader",
         "description": "Provides drivers, examples, loader files and testing routines for external loaders for STM32 series of microcontrollers.",
         "url": "https://github.com/STMicroelectronics/stm32-external-loader",
-        "stars": 147,
+        "stars": 148,
         "forks": 80,
         "language": "C",
         "pushed_at": "2025-04-29T11:08:50Z",
@@ -8504,7 +8504,7 @@
         "stars": 308,
         "forks": 162,
         "language": "C",
-        "pushed_at": "2025-07-10T08:46:23Z",
+        "pushed_at": "2025-07-23T14:03:56Z",
         "created_at": "2019-04-19T10:48:53Z"
       },
       {
@@ -8611,7 +8611,7 @@
         "name": "STM32CubeWB",
         "description": "Full Firmware Package for the STM32WB series: HAL+LL drivers, CMSIS, BSP, MW, plus a set of Projects (examples and demos) running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits).",
         "url": "https://github.com/STMicroelectronics/STM32CubeWB",
-        "stars": 254,
+        "stars": 255,
         "forks": 151,
         "language": "C",
         "pushed_at": "2025-07-02T14:44:40Z",
@@ -10739,7 +10739,7 @@
         "stars": 15127,
         "forks": 7662,
         "language": "C++",
-        "pushed_at": "2025-07-23T12:49:21Z",
+        "pushed_at": "2025-07-23T14:16:00Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -10909,7 +10909,7 @@
         "stars": 36,
         "forks": 30,
         "language": "C++",
-        "pushed_at": "2025-07-23T13:48:08Z",
+        "pushed_at": "2025-07-23T14:20:09Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11869,7 +11869,7 @@
         "stars": 3,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-23T12:09:02Z",
+        "pushed_at": "2025-07-23T14:03:59Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12839,7 +12839,7 @@
         "stars": 343,
         "forks": 130,
         "language": "Java",
-        "pushed_at": "2025-07-23T11:40:33Z",
+        "pushed_at": "2025-07-23T14:23:36Z",
         "created_at": "2019-09-16T02:21:43Z"
       },
       {
@@ -13079,7 +13079,7 @@
         "stars": 248,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-23T13:46:42Z",
+        "pushed_at": "2025-07-23T14:18:39Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16497,7 +16497,7 @@
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
         "stars": 23922,
-        "forks": 5728,
+        "forks": 5729,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
         "created_at": "2019-02-11T04:21:59Z"
@@ -16586,7 +16586,7 @@
         "name": "gym",
         "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
         "url": "https://github.com/openai/gym",
-        "stars": 36272,
+        "stars": 36273,
         "forks": 8680,
         "language": "Python",
         "pushed_at": "2024-10-11T20:07:05Z",
@@ -17036,8 +17036,8 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12852,
-        "forks": 2018,
+        "stars": 12854,
+        "forks": 2017,
         "language": "Python",
         "pushed_at": "2025-07-23T13:01:25Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -17216,7 +17216,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 6066,
+        "stars": 6067,
         "forks": 835,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T14:47:04Z",
@@ -17316,7 +17316,7 @@
         "name": "openai-support-agent-demo",
         "description": "Demo of a customer support agent interface using NextJS and the OpenAI Responses API with File Search",
         "url": "https://github.com/openai/openai-support-agent-demo",
-        "stars": 132,
+        "stars": 133,
         "forks": 49,
         "language": "TypeScript",
         "pushed_at": "2025-05-28T12:04:58Z",
@@ -17926,7 +17926,7 @@
         "name": "weak-to-strong",
         "description": "（无简介）",
         "url": "https://github.com/openai/weak-to-strong",
-        "stars": 2528,
+        "stars": 2529,
         "forks": 306,
         "language": "Python",
         "pushed_at": "2024-05-19T23:30:56Z",
@@ -17966,7 +17966,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 85395,
+        "stars": 85399,
         "forks": 10449,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
@@ -18151,7 +18151,7 @@
         "name": "astc-encoder",
         "description": "The Arm ASTC Encoder, a compressor for the Adaptive Scalable Texture Compression data format.",
         "url": "https://github.com/ARM-software/astc-encoder",
-        "stars": 1174,
+        "stars": 1175,
         "forks": 259,
         "language": "C",
         "pushed_at": "2025-05-27T21:27:17Z",
