@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-24T08:25:37Z",
+        "pushed_at": "2025-07-24T08:57:44Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -2969,7 +2969,7 @@
         "stars": 35,
         "forks": 134,
         "language": "C",
-        "pushed_at": "2025-07-16T14:17:56Z",
+        "pushed_at": "2025-07-24T09:19:17Z",
         "created_at": "2019-04-06T22:26:39Z"
       },
       {
@@ -3916,8 +3916,8 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12621,
-        "forks": 7686,
+        "stars": 12623,
+        "forks": 7687,
         "language": "C",
         "pushed_at": "2025-07-24T06:51:34Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -4562,7 +4562,7 @@
         "description": "Provides the STM32Cube MCU Component \"cmsis_device_f4\" of the STM32F4 series.",
         "url": "https://github.com/STMicroelectronics/cmsis-device-f4",
         "stars": 92,
-        "forks": 34,
+        "forks": 35,
         "language": "C",
         "pushed_at": "2025-05-22T10:50:57Z",
         "created_at": "2019-12-18T15:43:53Z"
@@ -4602,7 +4602,7 @@
         "description": "Provides the STM32Cube MCU Component \"cmsis_device_h5\" of the STM32H5 series.",
         "url": "https://github.com/STMicroelectronics/cmsis-device-h5",
         "stars": 6,
-        "forks": 8,
+        "forks": 9,
         "language": "C",
         "pushed_at": "2025-02-27T15:38:26Z",
         "created_at": "2023-04-25T05:38:18Z"
@@ -4612,7 +4612,7 @@
         "description": "Provides the STM32Cube MCU Component \"cmsis_device_h7\" of the STM32H7 series.",
         "url": "https://github.com/STMicroelectronics/cmsis-device-h7",
         "stars": 36,
-        "forks": 24,
+        "forks": 25,
         "language": "C",
         "pushed_at": "2025-06-25T15:32:21Z",
         "created_at": "2019-12-18T15:55:41Z"
@@ -8812,7 +8812,7 @@
         "description": "Provides the STM32Cube MCU Component \"hal_driver\" of the STM32F4 series.",
         "url": "https://github.com/STMicroelectronics/stm32f4xx-hal-driver",
         "stars": 151,
-        "forks": 59,
+        "forks": 60,
         "language": "C",
         "pushed_at": "2025-07-17T14:46:11Z",
         "created_at": "2020-01-29T14:35:22Z"
@@ -9012,7 +9012,7 @@
         "description": "Provides the STM32Cube MCU Component \"hal_driver\" of the STM32H5 series.",
         "url": "https://github.com/STMicroelectronics/stm32h5xx-hal-driver",
         "stars": 9,
-        "forks": 8,
+        "forks": 9,
         "language": "C",
         "pushed_at": "2025-07-04T11:02:51Z",
         "created_at": "2023-04-25T05:19:26Z"
@@ -10836,7 +10836,7 @@
         "name": "book-esp32c3-iot-projects",
         "description": "《ESP32-C3 物联网工程开发实战》配套代码",
         "url": "https://github.com/espressif/book-esp32c3-iot-projects",
-        "stars": 135,
+        "stars": 136,
         "forks": 42,
         "language": "Swift",
         "pushed_at": "2023-01-04T07:13:57Z",
@@ -11496,7 +11496,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15851,
+        "stars": 15853,
         "forks": 7776,
         "language": "C",
         "pushed_at": "2025-07-24T04:50:06Z",
@@ -11687,7 +11687,7 @@
         "description": "Espressif IoT Library. IoT Device Drivers, Documentations and Solutions.",
         "url": "https://github.com/espressif/esp-iot-solution",
         "stars": 2303,
-        "forks": 876,
+        "forks": 877,
         "language": "C",
         "pushed_at": "2025-07-24T07:29:43Z",
         "created_at": "2017-08-08T12:32:16Z"
@@ -12687,7 +12687,7 @@
         "description": "Javascript implementation of flasher tool for Espressif chips, running in web browser using WebSerial.",
         "url": "https://github.com/espressif/esptool-js",
         "stars": 380,
-        "forks": 131,
+        "forks": 132,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T11:45:06Z",
         "created_at": "2021-06-16T12:06:46Z"
@@ -13079,7 +13079,7 @@
         "stars": 248,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-24T08:34:39Z",
+        "pushed_at": "2025-07-24T09:06:39Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13429,7 +13429,7 @@
         "stars": 1261,
         "forks": 333,
         "language": "TypeScript",
-        "pushed_at": "2025-07-23T12:02:42Z",
+        "pushed_at": "2025-07-24T09:22:20Z",
         "created_at": "2018-11-21T03:27:08Z"
       },
       {
@@ -16136,7 +16136,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 31337,
+        "stars": 31339,
         "forks": 3639,
         "language": "Rust",
         "pushed_at": "2025-07-24T08:56:00Z",
@@ -17036,8 +17036,8 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12894,
-        "forks": 2021,
+        "stars": 12895,
+        "forks": 2023,
         "language": "Python",
         "pushed_at": "2025-07-24T08:47:47Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -17086,7 +17086,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5653,
+        "stars": 5654,
         "forks": 840,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -17187,7 +17187,7 @@
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
         "stars": 27463,
-        "forks": 4088,
+        "forks": 4087,
         "language": "Python",
         "pushed_at": "2025-07-22T13:09:50Z",
         "created_at": "2020-10-25T23:23:54Z"
@@ -17706,7 +17706,7 @@
         "name": "simple-evals",
         "description": "（无简介）",
         "url": "https://github.com/openai/simple-evals",
-        "stars": 3879,
+        "stars": 3880,
         "forks": 389,
         "language": "Python",
         "pushed_at": "2025-07-09T17:20:48Z",
@@ -17906,7 +17906,7 @@
         "name": "Video-Pre-Training",
         "description": "Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos",
         "url": "https://github.com/openai/Video-Pre-Training",
-        "stars": 1479,
+        "stars": 1480,
         "forks": 151,
         "language": "Python",
         "pushed_at": "2024-06-10T16:13:40Z",
@@ -17966,8 +17966,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 85443,
-        "forks": 10459,
+        "stars": 85444,
+        "forks": 10458,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -19004,7 +19004,7 @@
         "stars": 25,
         "forks": 2,
         "language": "C++",
-        "pushed_at": "2025-07-22T13:08:00Z",
+        "pushed_at": "2025-07-24T09:27:52Z",
         "created_at": "2024-09-06T08:59:35Z"
       },
       {
