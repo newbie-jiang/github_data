@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-25T19:32:50Z",
+        "pushed_at": "2025-07-25T19:46:28Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3926,7 +3926,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12661,
+        "stars": 12662,
         "forks": 7693,
         "language": "C",
         "pushed_at": "2025-07-25T16:19:37Z",
@@ -4962,7 +4962,7 @@
         "description": "The FP-SNS-DATALOG1 function pack provides a comprehensive solution to save data from any combination of sensors and microphones configured up to the maximum sampling rate available on STWIN and SensorTile.box",
         "url": "https://github.com/STMicroelectronics/fp-sns-datalog1",
         "stars": 10,
-        "forks": 3,
+        "forks": 4,
         "language": "C",
         "pushed_at": "2024-12-10T15:23:01Z",
         "created_at": "2023-07-13T14:14:49Z"
@@ -7481,7 +7481,7 @@
         "name": "stm32-mw-mbedtls",
         "description": "Mbed TLS is an open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API.",
         "url": "https://github.com/STMicroelectronics/stm32-mw-mbedtls",
-        "stars": 7,
+        "stars": 8,
         "forks": 1,
         "language": "C",
         "pushed_at": "2025-07-16T13:58:48Z",
@@ -10919,7 +10919,7 @@
         "stars": 36,
         "forks": 30,
         "language": "C++",
-        "pushed_at": "2025-07-25T18:33:08Z",
+        "pushed_at": "2025-07-25T20:06:14Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11879,7 +11879,7 @@
         "stars": 3,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-25T18:02:52Z",
+        "pushed_at": "2025-07-25T20:02:59Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -13089,7 +13089,7 @@
         "stars": 248,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-25T19:15:14Z",
+        "pushed_at": "2025-07-25T19:49:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16156,8 +16156,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 31391,
-        "forks": 3644,
+        "stars": 31392,
+        "forks": 3645,
         "language": "Rust",
         "pushed_at": "2025-07-25T19:26:40Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16366,7 +16366,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 16623,
+        "stars": 16624,
         "forks": 2764,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -16456,7 +16456,7 @@
         "name": "glide-text2im",
         "description": "GLIDE: a diffusion-based text-conditional image synthesis model",
         "url": "https://github.com/openai/glide-text2im",
-        "stars": 3650,
+        "stars": 3649,
         "forks": 507,
         "language": "Python",
         "pushed_at": "2024-03-08T08:44:28Z",
@@ -16997,7 +16997,7 @@
         "description": " Code for the paper \"Emergent Complexity via Multi-agent Competition\"",
         "url": "https://github.com/openai/multiagent-competition",
         "stars": 818,
-        "forks": 153,
+        "forks": 154,
         "language": "Python",
         "pushed_at": "2023-04-02T11:57:48Z",
         "created_at": "2017-10-11T15:29:00Z"
@@ -17046,7 +17046,7 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 880,
+        "stars": 881,
         "forks": 171,
         "language": "TypeScript",
         "pushed_at": "2025-07-25T08:28:16Z",
@@ -17056,8 +17056,8 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12945,
-        "forks": 2039,
+        "stars": 12947,
+        "forks": 2040,
         "language": "Python",
         "pushed_at": "2025-07-25T17:58:02Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -17066,7 +17066,7 @@
         "name": "openai-assistants-quickstart",
         "description": "OpenAI Assistants API quickstart with Next.js.",
         "url": "https://github.com/openai/openai-assistants-quickstart",
-        "stars": 1914,
+        "stars": 1915,
         "forks": 562,
         "language": "TypeScript",
         "pushed_at": "2025-03-07T18:50:12Z",
@@ -17986,7 +17986,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 85534,
+        "stars": 85537,
         "forks": 10476,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
@@ -19421,7 +19421,7 @@
         "name": "psa-api",
         "description": "Documentation source and development of the PSA Certified API",
         "url": "https://github.com/ARM-software/psa-api",
-        "stars": 65,
+        "stars": 66,
         "forks": 31,
         "language": "C",
         "pushed_at": "2025-06-11T07:09:02Z",
@@ -20266,7 +20266,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 11235,
+        "stars": 11236,
         "forks": 1523,
         "language": "Python",
         "pushed_at": "2025-07-25T18:24:14Z",
@@ -20276,7 +20276,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 3598,
+        "stars": 3600,
         "forks": 1089,
         "language": "Python",
         "pushed_at": "2025-07-23T17:58:43Z",
@@ -21929,7 +21929,7 @@
         "stars": 149,
         "forks": 28,
         "language": "Rust",
-        "pushed_at": "2025-07-25T19:38:45Z",
+        "pushed_at": "2025-07-25T20:18:26Z",
         "created_at": "2023-04-07T15:43:22Z"
       },
       {
@@ -28539,7 +28539,7 @@
         "stars": 6705,
         "forks": 721,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-07-25T16:14:09Z",
+        "pushed_at": "2025-07-25T20:18:39Z",
         "created_at": "2020-01-10T09:48:37Z"
       },
       {
@@ -31036,7 +31036,7 @@
         "name": "google-api-javascript-client",
         "description": "Google APIs Client Library for browser JavaScript, aka gapi.",
         "url": "https://github.com/google/google-api-javascript-client",
-        "stars": 3390,
+        "stars": 3391,
         "forks": 1111,
         "language": "CSS",
         "pushed_at": "2024-08-23T19:41:51Z",
@@ -31126,7 +31126,7 @@
         "name": "google-ctf",
         "description": "Google CTF",
         "url": "https://github.com/google/google-ctf",
-        "stars": 4753,
+        "stars": 4754,
         "forks": 575,
         "language": "Python",
         "pushed_at": "2024-12-23T21:47:27Z",
@@ -32099,7 +32099,7 @@
         "stars": 16731,
         "forks": 1403,
         "language": "Go",
-        "pushed_at": "2025-07-25T19:38:24Z",
+        "pushed_at": "2025-07-25T20:01:06Z",
         "created_at": "2018-04-26T21:28:49Z"
       },
       {
@@ -32476,7 +32476,7 @@
         "name": "highway",
         "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
         "url": "https://github.com/google/highway",
-        "stars": 4755,
+        "stars": 4756,
         "forks": 361,
         "language": "C++",
         "pushed_at": "2025-07-25T14:58:05Z",
@@ -33639,7 +33639,7 @@
         "stars": 1312,
         "forks": 150,
         "language": "Java",
-        "pushed_at": "2025-07-23T19:14:28Z",
+        "pushed_at": "2025-07-25T20:10:12Z",
         "created_at": "2017-06-20T09:53:52Z"
       },
       {
@@ -38019,7 +38019,7 @@
         "stars": 408,
         "forks": 63,
         "language": "Python",
-        "pushed_at": "2025-07-25T19:08:49Z",
+        "pushed_at": "2025-07-25T19:51:57Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -38219,7 +38219,7 @@
         "stars": 371,
         "forks": 52,
         "language": "Go",
-        "pushed_at": "2025-07-25T18:35:27Z",
+        "pushed_at": "2025-07-25T20:18:23Z",
         "created_at": "2024-04-10T09:09:11Z"
       },
       {
@@ -38789,7 +38789,7 @@
         "stars": 4393,
         "forks": 529,
         "language": "C++",
-        "pushed_at": "2025-07-25T18:55:35Z",
+        "pushed_at": "2025-07-25T20:19:04Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -40636,10 +40636,10 @@
         "name": "qwix",
         "description": "a Jax quantization library",
         "url": "https://github.com/google/qwix",
-        "stars": 16,
+        "stars": 17,
         "forks": 2,
         "language": "Python",
-        "pushed_at": "2025-07-25T18:53:34Z",
+        "pushed_at": "2025-07-25T20:16:08Z",
         "created_at": "2025-03-19T23:45:26Z"
       },
       {
@@ -44719,7 +44719,7 @@
         "stars": 6,
         "forks": 3,
         "language": "Go",
-        "pushed_at": "2025-07-25T18:01:38Z",
+        "pushed_at": "2025-07-25T20:16:10Z",
         "created_at": "2025-03-20T03:07:16Z"
       },
       {
