@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-24T23:36:45Z",
+        "pushed_at": "2025-07-24T23:49:06Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3039,7 +3039,7 @@
         "stars": 5,
         "forks": 14,
         "language": "C",
-        "pushed_at": "2025-07-03T01:12:22Z",
+        "pushed_at": "2025-07-25T00:57:23Z",
         "created_at": "2022-08-16T10:28:21Z"
       },
       {
@@ -10737,7 +10737,7 @@
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
         "stars": 15135,
-        "forks": 7662,
+        "forks": 7661,
         "language": "C++",
         "pushed_at": "2025-07-24T03:21:00Z",
         "created_at": "2016-10-06T06:04:20Z"
@@ -10909,7 +10909,7 @@
         "stars": 36,
         "forks": 30,
         "language": "C++",
-        "pushed_at": "2025-07-24T22:53:11Z",
+        "pushed_at": "2025-07-24T23:55:08Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11066,7 +11066,7 @@
         "name": "esp-apple-homekit-adk",
         "description": "This is a port for Apple's Open Source HomeKit ADK",
         "url": "https://github.com/espressif/esp-apple-homekit-adk",
-        "stars": 644,
+        "stars": 645,
         "forks": 69,
         "language": "C",
         "pushed_at": "2021-12-10T07:42:26Z",
@@ -11619,7 +11619,7 @@
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "pushed_at": "2025-07-24T00:27:41Z",
+        "pushed_at": "2025-07-25T00:27:59Z",
         "created_at": "2025-07-15T09:23:44Z"
       },
       {
@@ -13079,7 +13079,7 @@
         "stars": 248,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-24T23:18:38Z",
+        "pushed_at": "2025-07-25T01:23:40Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16047,7 +16047,7 @@
         "description": "Build hours code to share.",
         "url": "https://github.com/openai/build-hours",
         "stars": 413,
-        "forks": 82,
+        "forks": 83,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-07-18T21:59:01Z",
         "created_at": "2024-07-29T18:23:42Z"
@@ -16136,10 +16136,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 31356,
+        "stars": 31361,
         "forks": 3641,
         "language": "Rust",
-        "pushed_at": "2025-07-24T21:50:02Z",
+        "pushed_at": "2025-07-25T01:26:50Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16496,8 +16496,8 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 23945,
-        "forks": 5735,
+        "stars": 23946,
+        "forks": 5736,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
         "created_at": "2019-02-11T04:21:59Z"
@@ -16516,7 +16516,7 @@
         "name": "gpt-3",
         "description": "GPT-3: Language Models are Few-Shot Learners",
         "url": "https://github.com/openai/gpt-3",
-        "stars": 15763,
+        "stars": 15764,
         "forks": 2306,
         "language": "未指定",
         "pushed_at": "2020-09-18T22:06:11Z",
@@ -16846,7 +16846,7 @@
         "name": "maddpg",
         "description": "Code for the MADDPG algorithm from the paper \"Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments\"",
         "url": "https://github.com/openai/maddpg",
-        "stars": 1837,
+        "stars": 1838,
         "forks": 512,
         "language": "Python",
         "pushed_at": "2024-04-01T21:04:21Z",
@@ -17029,24 +17029,24 @@
         "stars": 874,
         "forks": 169,
         "language": "TypeScript",
-        "pushed_at": "2025-07-24T15:40:52Z",
+        "pushed_at": "2025-07-25T01:00:32Z",
         "created_at": "2025-05-31T00:08:49Z"
       },
       {
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12917,
-        "forks": 2027,
+        "stars": 12918,
+        "forks": 2028,
         "language": "Python",
-        "pushed_at": "2025-07-24T15:43:47Z",
+        "pushed_at": "2025-07-25T00:38:02Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
         "name": "openai-assistants-quickstart",
         "description": "OpenAI Assistants API quickstart with Next.js.",
         "url": "https://github.com/openai/openai-assistants-quickstart",
-        "stars": 1913,
+        "stars": 1914,
         "forks": 561,
         "language": "TypeScript",
         "pushed_at": "2025-03-07T18:50:12Z",
@@ -17086,7 +17086,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5657,
+        "stars": 5658,
         "forks": 841,
         "language": "TypeScript",
         "pushed_at": "2025-06-18T15:41:38Z",
@@ -17166,8 +17166,8 @@
         "name": "openai-node",
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
-        "stars": 9506,
-        "forks": 1159,
+        "stars": 9507,
+        "forks": 1158,
         "language": "TypeScript",
         "pushed_at": "2025-07-24T05:12:05Z",
         "created_at": "2021-12-14T22:32:58Z"
@@ -17186,7 +17186,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27468,
+        "stars": 27469,
         "forks": 4087,
         "language": "Python",
         "pushed_at": "2025-07-24T14:25:24Z",
@@ -17217,7 +17217,7 @@
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
         "stars": 6073,
-        "forks": 838,
+        "forks": 839,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T14:47:04Z",
         "created_at": "2025-01-16T01:29:28Z"
@@ -17236,7 +17236,7 @@
         "name": "openai-realtime-console",
         "description": "React app for inspecting, building and debugging with the Realtime API",
         "url": "https://github.com/openai/openai-realtime-console",
-        "stars": 3355,
+        "stars": 3356,
         "forks": 1298,
         "language": "JavaScript",
         "pushed_at": "2025-06-23T22:48:16Z",
@@ -17277,7 +17277,7 @@
         "description": "Starter app to build with the OpenAI Responses API",
         "url": "https://github.com/openai/openai-responses-starter-app",
         "stars": 382,
-        "forks": 141,
+        "forks": 142,
         "language": "TypeScript",
         "pushed_at": "2025-06-09T22:03:51Z",
         "created_at": "2025-03-11T14:29:27Z"
@@ -17796,7 +17796,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 20133,
+        "stars": 20134,
         "forks": 2150,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
@@ -17806,7 +17806,7 @@
         "name": "SWELancer-Benchmark",
         "description": "This repo contains the dataset and code for the paper \"SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?\"",
         "url": "https://github.com/openai/SWELancer-Benchmark",
-        "stars": 1435,
+        "stars": 1434,
         "forks": 137,
         "language": "未指定",
         "pushed_at": "2025-07-18T02:02:20Z",
@@ -17966,8 +17966,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 85480,
-        "forks": 10463,
+        "stars": 85482,
+        "forks": 10464,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
