@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-25T06:28:10Z",
+        "pushed_at": "2025-07-25T06:59:26Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -11197,7 +11197,7 @@
         "description": "Board support components for Espressif development boards",
         "url": "https://github.com/espressif/esp-bsp",
         "stars": 308,
-        "forks": 157,
+        "forks": 156,
         "language": "C",
         "pushed_at": "2025-07-22T11:44:26Z",
         "created_at": "2021-09-14T09:33:04Z"
@@ -11496,7 +11496,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15860,
+        "stars": 15862,
         "forks": 7776,
         "language": "C",
         "pushed_at": "2025-07-24T20:33:04Z",
@@ -12673,6 +12673,16 @@
         "created_at": "2014-12-05T09:27:12Z"
       },
       {
+        "name": "espressif-slidev-esp-template",
+        "description": "Espressif template for Slidev (https://sli.dev/)",
+        "url": "https://github.com/espressif/espressif-slidev-esp-template",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-07-25T07:26:20Z",
+        "created_at": "2025-07-25T07:26:19Z"
+      },
+      {
         "name": "esptool",
         "description": "Serial utility for flashing, provisioning, and interacting with Espressif SoCs",
         "url": "https://github.com/espressif/esptool",
@@ -12839,7 +12849,7 @@
         "stars": 343,
         "forks": 129,
         "language": "Java",
-        "pushed_at": "2025-07-24T12:37:25Z",
+        "pushed_at": "2025-07-25T07:06:40Z",
         "created_at": "2019-09-16T02:21:43Z"
       },
       {
@@ -12909,7 +12919,7 @@
         "stars": 14,
         "forks": 2,
         "language": "Rust",
-        "pushed_at": "2025-07-24T12:55:26Z",
+        "pushed_at": "2025-07-25T07:13:20Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
@@ -13079,7 +13089,7 @@
         "stars": 248,
         "forks": 24,
         "language": "LLVM",
-        "pushed_at": "2025-07-25T06:38:41Z",
+        "pushed_at": "2025-07-25T07:10:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15996,7 +16006,7 @@
         "name": "baselines",
         "description": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
         "url": "https://github.com/openai/baselines",
-        "stars": 16361,
+        "stars": 16362,
         "forks": 4921,
         "language": "Python",
         "pushed_at": "2024-08-01T21:31:33Z",
@@ -16106,7 +16116,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 29965,
+        "stars": 29969,
         "forks": 3691,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16136,7 +16146,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 31376,
+        "stars": 31377,
         "forks": 3641,
         "language": "Rust",
         "pushed_at": "2025-07-25T06:03:14Z",
@@ -17036,8 +17046,8 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 12929,
-        "forks": 2032,
+        "stars": 12931,
+        "forks": 2033,
         "language": "Python",
         "pushed_at": "2025-07-25T01:35:57Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -17077,7 +17087,7 @@
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
         "stars": 65533,
-        "forks": 10886,
+        "forks": 10887,
         "language": "MDX",
         "pushed_at": "2025-07-25T03:14:49Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -17906,7 +17916,7 @@
         "name": "Video-Pre-Training",
         "description": "Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos",
         "url": "https://github.com/openai/Video-Pre-Training",
-        "stars": 1480,
+        "stars": 1481,
         "forks": 151,
         "language": "Python",
         "pushed_at": "2024-06-10T16:13:40Z",
@@ -17966,7 +17976,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 85494,
+        "stars": 85495,
         "forks": 10468,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
@@ -18481,7 +18491,7 @@
         "name": "CMSIS-NN",
         "description": "CMSIS-NN Library",
         "url": "https://github.com/ARM-software/CMSIS-NN",
-        "stars": 291,
+        "stars": 292,
         "forks": 81,
         "language": "C",
         "pushed_at": "2025-07-17T12:04:22Z",
@@ -18744,7 +18754,7 @@
         "stars": 16,
         "forks": 8,
         "language": "C++",
-        "pushed_at": "2025-07-25T06:35:28Z",
+        "pushed_at": "2025-07-25T07:17:31Z",
         "created_at": "2021-09-14T14:54:28Z"
       },
       {
@@ -19481,7 +19491,7 @@
         "name": "SCALE-Sim",
         "description": "（无简介）",
         "url": "https://github.com/ARM-software/SCALE-Sim",
-        "stars": 357,
+        "stars": 358,
         "forks": 151,
         "language": "Python",
         "pushed_at": "2023-05-11T14:18:53Z",
