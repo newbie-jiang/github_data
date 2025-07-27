@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-27T13:17:33Z",
+        "pushed_at": "2025-07-27T13:44:20Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3936,7 +3936,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12688,
+        "stars": 12689,
         "forks": 7694,
         "language": "C",
         "pushed_at": "2025-07-27T09:00:02Z",
@@ -11889,7 +11889,7 @@
         "stars": 3,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-07-27T12:03:14Z",
+        "pushed_at": "2025-07-27T14:02:45Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -15781,7 +15781,7 @@
         "name": "rt-thread",
         "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
         "url": "https://github.com/RT-Thread/rt-thread",
-        "stars": 11302,
+        "stars": 11303,
         "forks": 5224,
         "language": "C",
         "pushed_at": "2025-07-25T07:35:39Z",
@@ -16166,7 +16166,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 31433,
+        "stars": 31435,
         "forks": 3655,
         "language": "Rust",
         "pushed_at": "2025-07-27T08:58:55Z",
@@ -16606,7 +16606,7 @@
         "name": "guided-diffusion",
         "description": "（无简介）",
         "url": "https://github.com/openai/guided-diffusion",
-        "stars": 6949,
+        "stars": 6950,
         "forks": 873,
         "language": "Python",
         "pushed_at": "2024-07-02T11:26:50Z",
@@ -17069,7 +17069,7 @@
         "stars": 12980,
         "forks": 2052,
         "language": "Python",
-        "pushed_at": "2025-07-27T10:13:24Z",
+        "pushed_at": "2025-07-27T13:44:31Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -17196,7 +17196,7 @@
         "name": "openai-node",
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
-        "stars": 9510,
+        "stars": 9511,
         "forks": 1160,
         "language": "TypeScript",
         "pushed_at": "2025-07-27T05:12:05Z",
@@ -17267,7 +17267,7 @@
         "description": "React app for inspecting, building and debugging with the Realtime API",
         "url": "https://github.com/openai/openai-realtime-console",
         "stars": 3360,
-        "forks": 1302,
+        "forks": 1303,
         "language": "JavaScript",
         "pushed_at": "2025-06-23T22:48:16Z",
         "created_at": "2024-09-30T19:00:38Z"
@@ -17697,7 +17697,7 @@
         "description": "Example MCP server compatible with Deep Research",
         "url": "https://github.com/openai/sample-deep-research-mcp",
         "stars": 41,
-        "forks": 13,
+        "forks": 14,
         "language": "Python",
         "pushed_at": "2025-06-25T21:03:02Z",
         "created_at": "2025-06-02T21:58:16Z"
@@ -17996,8 +17996,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 85614,
-        "forks": 10492,
+        "stars": 85615,
+        "forks": 10493,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -18471,7 +18471,7 @@
         "name": "CMSIS-DSP",
         "description": "CMSIS-DSP embedded compute library for Cortex-M and Cortex-A",
         "url": "https://github.com/ARM-software/CMSIS-DSP",
-        "stars": 768,
+        "stars": 769,
         "forks": 185,
         "language": "C",
         "pushed_at": "2025-07-15T05:31:30Z",
@@ -20256,7 +20256,7 @@
         "name": "adk-docs",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-docs",
-        "stars": 363,
+        "stars": 364,
         "forks": 266,
         "language": "HTML",
         "pushed_at": "2025-07-23T04:37:38Z",
@@ -20276,7 +20276,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 11264,
+        "stars": 11266,
         "forks": 1529,
         "language": "Python",
         "pushed_at": "2025-07-25T23:41:19Z",
@@ -20286,7 +20286,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 3618,
+        "stars": 3619,
         "forks": 1100,
         "language": "Python",
         "pushed_at": "2025-07-23T17:58:43Z",
@@ -23486,7 +23486,7 @@
         "name": "cel-java",
         "description": "Fast, portable, non-Turing complete expression evaluation with gradual typing (Java)",
         "url": "https://github.com/google/cel-java",
-        "stars": 210,
+        "stars": 211,
         "forks": 28,
         "language": "Java",
         "pushed_at": "2025-07-25T22:47:37Z",
@@ -26439,7 +26439,7 @@
         "stars": 50,
         "forks": 21,
         "language": "Java",
-        "pushed_at": "2025-07-27T11:59:30Z",
+        "pushed_at": "2025-07-27T14:00:15Z",
         "created_at": "2022-04-15T03:00:41Z"
       },
       {
@@ -31416,7 +31416,7 @@
         "name": "googletest",
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "url": "https://github.com/google/googletest",
-        "stars": 36490,
+        "stars": 36492,
         "forks": 10440,
         "language": "C++",
         "pushed_at": "2025-07-23T20:05:08Z",
@@ -33386,7 +33386,7 @@
         "name": "intellij-community",
         "description": "IntelliJ IDEA Community Edition & IntelliJ Platform",
         "url": "https://github.com/google/intellij-community",
-        "stars": 10,
+        "stars": 11,
         "forks": 6,
         "language": "Java",
         "pushed_at": "2025-07-26T00:46:39Z",
@@ -35836,7 +35836,7 @@
         "name": "material-design-icons",
         "description": "Material Design icons by Google (Material Symbols)",
         "url": "https://github.com/google/material-design-icons",
-        "stars": 51861,
+        "stars": 51862,
         "forks": 9658,
         "language": "未指定",
         "pushed_at": "2025-04-11T02:45:57Z",
@@ -36779,7 +36779,7 @@
         "stars": 400,
         "forks": 69,
         "language": "Java",
-        "pushed_at": "2025-07-27T12:51:18Z",
+        "pushed_at": "2025-07-27T14:01:04Z",
         "created_at": "2017-02-14T17:01:43Z"
       },
       {
@@ -39723,6 +39723,16 @@
         "created_at": "2022-03-10T14:58:58Z"
       },
       {
+        "name": "product-return-predictor",
+        "description": "（无简介）",
+        "url": "https://github.com/google/product-return-predictor",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-07-27T13:50:24Z",
+        "created_at": "2025-07-27T13:50:24Z"
+      },
+      {
         "name": "product_return_predictor",
         "description": "（无简介）",
         "url": "https://github.com/google/product_return_predictor",
@@ -40246,7 +40256,7 @@
         "name": "pyglove",
         "description": "Manipulating Python Programs",
         "url": "https://github.com/google/pyglove",
-        "stars": 674,
+        "stars": 675,
         "forks": 29,
         "language": "Python",
         "pushed_at": "2025-07-24T23:47:57Z",
@@ -42236,7 +42246,7 @@
         "name": "sec-gemini",
         "description": "Sec-Gemini v1 is a cutting-edge AI model designed to enhance cybersecurity capabilities and empower defenders in the ongoing battle against cyber threats.",
         "url": "https://github.com/google/sec-gemini",
-        "stars": 23,
+        "stars": 24,
         "forks": 5,
         "language": "Svelte",
         "pushed_at": "2025-07-25T14:24:54Z",
@@ -42819,7 +42829,7 @@
         "stars": 9983,
         "forks": 1599,
         "language": "C++",
-        "pushed_at": "2025-07-27T13:21:31Z",
+        "pushed_at": "2025-07-27T13:47:31Z",
         "created_at": "2014-01-09T17:09:57Z"
       },
       {
@@ -44336,7 +44346,7 @@
         "name": "syzkaller",
         "description": "syzkaller is an unsupervised coverage-guided kernel fuzzer",
         "url": "https://github.com/google/syzkaller",
-        "stars": 5754,
+        "stars": 5755,
         "forks": 1308,
         "language": "Go",
         "pushed_at": "2025-07-24T14:19:22Z",
@@ -44911,1016 +44921,6 @@
         "language": "Python",
         "pushed_at": "2020-12-11T11:57:26Z",
         "created_at": "2020-11-10T02:01:11Z"
-      },
-      {
-        "name": "timecast",
-        "description": "Performant, composable online learning",
-        "url": "https://github.com/google/timecast",
-        "stars": 15,
-        "forks": 4,
-        "language": "Python",
-        "pushed_at": "2021-02-22T20:16:14Z",
-        "created_at": "2020-07-16T14:51:59Z"
-      },
-      {
-        "name": "timesketch",
-        "description": "Collaborative forensic timeline analysis",
-        "url": "https://github.com/google/timesketch",
-        "stars": 2808,
-        "forks": 613,
-        "language": "Python",
-        "pushed_at": "2025-07-22T07:56:09Z",
-        "created_at": "2014-06-19T17:49:45Z"
-      },
-      {
-        "name": "tinkCryptoHelper",
-        "description": "（无简介）",
-        "url": "https://github.com/google/tinkCryptoHelper",
-        "stars": 6,
-        "forks": 7,
-        "language": "Java",
-        "pushed_at": "2020-10-13T20:57:12Z",
-        "created_at": "2020-04-06T08:32:14Z"
-      },
-      {
-        "name": "tirg",
-        "description": "deep learning, image retrieval, vision and language",
-        "url": "https://github.com/google/tirg",
-        "stars": 305,
-        "forks": 88,
-        "language": "Python",
-        "pushed_at": "2021-04-05T04:03:08Z",
-        "created_at": "2019-04-11T19:04:35Z"
-      },
-      {
-        "name": "tmppy",
-        "description": "TMPPy is a subset of Python that can be compiled to C++ meta-functions using the py2tmp compiler.",
-        "url": "https://github.com/google/tmppy",
-        "stars": 35,
-        "forks": 14,
-        "language": "Python",
-        "pushed_at": "2022-05-08T05:59:14Z",
-        "created_at": "2017-10-01T08:29:32Z"
-      },
-      {
-        "name": "tock",
-        "description": "A secure embedded operating system for microcontrollers",
-        "url": "https://github.com/google/tock",
-        "stars": 11,
-        "forks": 2,
-        "language": "Rust",
-        "pushed_at": "2020-06-22T03:25:58Z",
-        "created_at": "2020-04-22T16:56:33Z"
-      },
-      {
-        "name": "tock-on-titan",
-        "description": "Ports of Tock OS to Titan chips.",
-        "url": "https://github.com/google/tock-on-titan",
-        "stars": 54,
-        "forks": 22,
-        "language": "Rust",
-        "pushed_at": "2022-06-10T18:23:46Z",
-        "created_at": "2018-11-19T19:31:20Z"
-      },
-      {
-        "name": "todo-tracks",
-        "description": "Web dashboard for tracking the TODOs in a Git repo",
-        "url": "https://github.com/google/todo-tracks",
-        "stars": 184,
-        "forks": 24,
-        "language": "Go",
-        "pushed_at": "2024-01-24T22:57:59Z",
-        "created_at": "2014-12-08T16:58:55Z"
-      },
-      {
-        "name": "token_bind",
-        "description": "（无简介）",
-        "url": "https://github.com/google/token_bind",
-        "stars": 19,
-        "forks": 17,
-        "language": "C",
-        "pushed_at": "2018-07-13T17:47:37Z",
-        "created_at": "2016-10-06T15:25:31Z"
-      },
-      {
-        "name": "topdown-btg-preordering",
-        "description": "Top-Down BTG-based Preordering",
-        "url": "https://github.com/google/topdown-btg-preordering",
-        "stars": 16,
-        "forks": 10,
-        "language": "C++",
-        "pushed_at": "2016-01-14T04:37:27Z",
-        "created_at": "2016-01-14T02:10:46Z"
-      },
-      {
-        "name": "toucan",
-        "description": "（无简介）",
-        "url": "https://github.com/google/toucan",
-        "stars": 18,
-        "forks": 2,
-        "language": "C++",
-        "pushed_at": "2025-07-22T20:42:47Z",
-        "created_at": "2023-09-13T19:32:53Z"
-      },
-      {
-        "name": "TouchTime",
-        "description": "Tells the time through vibration patterns on an Android smartwatch.",
-        "url": "https://github.com/google/TouchTime",
-        "stars": 38,
-        "forks": 19,
-        "language": "Java",
-        "pushed_at": "2018-05-16T13:45:17Z",
-        "created_at": "2014-12-09T17:52:08Z"
-      },
-      {
-        "name": "tour-of-wgsl",
-        "description": "（无简介）",
-        "url": "https://github.com/google/tour-of-wgsl",
-        "stars": 139,
-        "forks": 22,
-        "language": "TypeScript",
-        "pushed_at": "2024-10-11T18:03:27Z",
-        "created_at": "2023-04-03T16:23:10Z"
-      },
-      {
-        "name": "tpm-js",
-        "description": "Learn how to use your Trusted Platform Module (TPM)",
-        "url": "https://github.com/google/tpm-js",
-        "stars": 136,
-        "forks": 36,
-        "language": "C++",
-        "pushed_at": "2020-06-29T23:25:38Z",
-        "created_at": "2018-09-17T17:00:50Z"
-      },
-      {
-        "name": "trace-viewer",
-        "description": "（无简介）",
-        "url": "https://github.com/google/trace-viewer",
-        "stars": 490,
-        "forks": 73,
-        "language": "未指定",
-        "pushed_at": "2015-09-03T17:49:27Z",
-        "created_at": "2014-09-09T17:49:03Z"
-      },
-      {
-        "name": "traceout",
-        "description": "（无简介）",
-        "url": "https://github.com/google/traceout",
-        "stars": 19,
-        "forks": 13,
-        "language": "Go",
-        "pushed_at": "2021-08-30T19:27:44Z",
-        "created_at": "2015-01-05T18:18:20Z"
-      },
-      {
-        "name": "traceur-compiler",
-        "description": "Traceur is a JavaScript.next-to-JavaScript-of-today compiler",
-        "url": "https://github.com/google/traceur-compiler",
-        "stars": 8172,
-        "forks": 579,
-        "language": "JavaScript",
-        "pushed_at": "2024-12-10T08:25:16Z",
-        "created_at": "2013-03-27T18:05:40Z"
-      },
-      {
-        "name": "traceviz",
-        "description": "（无简介）",
-        "url": "https://github.com/google/traceviz",
-        "stars": 4,
-        "forks": 0,
-        "language": "TypeScript",
-        "pushed_at": "2023-11-02T15:20:38Z",
-        "created_at": "2023-02-25T19:56:05Z"
-      },
-      {
-        "name": "tracey",
-        "description": "（无简介）",
-        "url": "https://github.com/google/tracey",
-        "stars": 6,
-        "forks": 0,
-        "language": "Go",
-        "pushed_at": "2024-10-19T21:27:34Z",
-        "created_at": "2024-04-11T17:23:12Z"
-      },
-      {
-        "name": "tracing-framework",
-        "description": "Web Tracing Framework libraries and extensions.",
-        "url": "https://github.com/google/tracing-framework",
-        "stars": 2641,
-        "forks": 197,
-        "language": "JavaScript",
-        "pushed_at": "2019-12-10T20:36:52Z",
-        "created_at": "2012-11-08T19:32:53Z"
-      },
-      {
-        "name": "trajax",
-        "description": "（无简介）",
-        "url": "https://github.com/google/trajax",
-        "stars": 218,
-        "forks": 24,
-        "language": "Python",
-        "pushed_at": "2023-09-03T14:40:02Z",
-        "created_at": "2021-08-02T18:39:16Z"
-      },
-      {
-        "name": "transit",
-        "description": "（无简介）",
-        "url": "https://github.com/google/transit",
-        "stars": 764,
-        "forks": 200,
-        "language": "未指定",
-        "pushed_at": "2025-07-16T15:20:50Z",
-        "created_at": "2015-07-15T18:03:46Z"
-      },
-      {
-        "name": "transitfeed",
-        "description": "A Python library for reading, validating, and writing transit schedule information in the GTFS format.",
-        "url": "https://github.com/google/transitfeed",
-        "stars": 688,
-        "forks": 255,
-        "language": "Python",
-        "pushed_at": "2022-09-28T09:02:50Z",
-        "created_at": "2014-09-15T15:16:32Z"
-      },
-      {
-        "name": "translation-cards",
-        "description": "Note: Future development of Translation Cards migrated to https://github.com/translation-cards",
-        "url": "https://github.com/google/translation-cards",
-        "stars": 17,
-        "forks": 11,
-        "language": "Java",
-        "pushed_at": "2016-01-14T23:21:39Z",
-        "created_at": "2015-11-20T19:09:12Z"
-      },
-      {
-        "name": "transliteration",
-        "description": "Transliteration data and models",
-        "url": "https://github.com/google/transliteration",
-        "stars": 56,
-        "forks": 30,
-        "language": "未指定",
-        "pushed_at": "2016-11-19T13:12:04Z",
-        "created_at": "2016-05-26T15:59:25Z"
-      },
-      {
-        "name": "transmat",
-        "description": "Share data beyond the browser boundaries. Enable users to transfer data to external apps, and open your webapp to receive external data.",
-        "url": "https://github.com/google/transmat",
-        "stars": 506,
-        "forks": 27,
-        "language": "TypeScript",
-        "pushed_at": "2021-05-07T10:53:42Z",
-        "created_at": "2021-02-24T10:50:45Z"
-      },
-      {
-        "name": "transperf",
-        "description": "a tool for testing transport protocol performance over emulated network scenarios",
-        "url": "https://github.com/google/transperf",
-        "stars": 206,
-        "forks": 23,
-        "language": "Python",
-        "pushed_at": "2021-05-22T22:25:30Z",
-        "created_at": "2019-09-19T17:33:09Z"
-      },
-      {
-        "name": "travel-impact-model",
-        "description": "Emission estimation model for flights",
-        "url": "https://github.com/google/travel-impact-model",
-        "stars": 158,
-        "forks": 24,
-        "language": "未指定",
-        "pushed_at": "2025-06-24T14:11:46Z",
-        "created_at": "2022-04-13T10:14:13Z"
-      },
-      {
-        "name": "travel-impact-model-website",
-        "description": "（无简介）",
-        "url": "https://github.com/google/travel-impact-model-website",
-        "stars": 5,
-        "forks": 2,
-        "language": "TypeScript",
-        "pushed_at": "2025-06-25T10:04:40Z",
-        "created_at": "2023-10-31T16:08:42Z"
-      },
-      {
-        "name": "trax",
-        "description": "Trax — Deep Learning with Clear Code and Speed",
-        "url": "https://github.com/google/trax",
-        "stars": 8241,
-        "forks": 826,
-        "language": "Python",
-        "pushed_at": "2025-04-10T21:24:04Z",
-        "created_at": "2019-10-05T15:09:14Z"
-      },
-      {
-        "name": "tree-math",
-        "description": "Mathematical operations for JAX pytrees",
-        "url": "https://github.com/google/tree-math",
-        "stars": 198,
-        "forks": 9,
-        "language": "Python",
-        "pushed_at": "2024-12-05T12:04:21Z",
-        "created_at": "2021-12-18T01:56:25Z"
-      },
-      {
-        "name": "tree-sitter-fidl",
-        "description": "FIDL grammar for tree-sitter",
-        "url": "https://github.com/google/tree-sitter-fidl",
-        "stars": 3,
-        "forks": 1,
-        "language": "C",
-        "pushed_at": "2024-02-27T01:31:29Z",
-        "created_at": "2024-02-21T21:52:19Z"
-      },
-      {
-        "name": "triage-party",
-        "description": "🎉 Triage Party: massively multi-player GitHub triage 🎉",
-        "url": "https://github.com/google/triage-party",
-        "stars": 516,
-        "forks": 82,
-        "language": "Go",
-        "pushed_at": "2025-07-18T18:35:03Z",
-        "created_at": "2020-04-21T17:26:13Z"
-      },
-      {
-        "name": "triemap",
-        "description": "（无简介）",
-        "url": "https://github.com/google/triemap",
-        "stars": 14,
-        "forks": 5,
-        "language": "Go",
-        "pushed_at": "2020-06-19T01:47:21Z",
-        "created_at": "2020-06-18T22:01:39Z"
-      },
-      {
-        "name": "triggerator",
-        "description": "Automated management of ad campaigns in Google Display&Video 360.",
-        "url": "https://github.com/google/triggerator",
-        "stars": 11,
-        "forks": 2,
-        "language": "TypeScript",
-        "pushed_at": "2024-06-16T20:54:03Z",
-        "created_at": "2021-04-09T12:39:40Z"
-      },
-      {
-        "name": "trillian",
-        "description": "A transparent, highly scalable and cryptographically verifiable data store.",
-        "url": "https://github.com/google/trillian",
-        "stars": 3638,
-        "forks": 399,
-        "language": "Go",
-        "pushed_at": "2025-07-22T09:13:42Z",
-        "created_at": "2016-05-12T15:37:35Z"
-      },
-      {
-        "name": "trillian-examples",
-        "description": "A place to store some examples which use Trillian APIs to build things.",
-        "url": "https://github.com/google/trillian-examples",
-        "stars": 169,
-        "forks": 67,
-        "language": "Go",
-        "pushed_at": "2025-07-01T09:54:30Z",
-        "created_at": "2018-01-27T09:43:35Z"
-      },
-      {
-        "name": "trillian-website",
-        "description": "（无简介）",
-        "url": "https://github.com/google/trillian-website",
-        "stars": 11,
-        "forks": 20,
-        "language": "HTML",
-        "pushed_at": "2025-07-22T11:32:01Z",
-        "created_at": "2020-09-14T14:43:45Z"
-      },
-      {
-        "name": "trimmed_match",
-        "description": "This Python library implements Trimmed Match for analyzing randomized paired geo experiments and also implements Trimmed Match Design for designing randomized paired geo experiments.",
-        "url": "https://github.com/google/trimmed_match",
-        "stars": 70,
-        "forks": 24,
-        "language": "Python",
-        "pushed_at": "2023-06-01T14:52:13Z",
-        "created_at": "2020-05-13T04:46:58Z"
-      },
-      {
-        "name": "tritious",
-        "description": "（无简介）",
-        "url": "https://github.com/google/tritious",
-        "stars": 7,
-        "forks": 8,
-        "language": "JavaScript",
-        "pushed_at": "2022-06-17T23:36:49Z",
-        "created_at": "2015-04-02T18:29:25Z"
-      },
-      {
-        "name": "trix-auto-complete",
-        "description": "Plugin for autocomplete using trix editor",
-        "url": "https://github.com/google/trix-auto-complete",
-        "stars": 17,
-        "forks": 10,
-        "language": "JavaScript",
-        "pushed_at": "2017-08-18T18:35:17Z",
-        "created_at": "2017-08-14T16:57:53Z"
-      },
-      {
-        "name": "truestreet",
-        "description": "Prometheus adapter for Google Cloud Spanner ",
-        "url": "https://github.com/google/truestreet",
-        "stars": 43,
-        "forks": 12,
-        "language": "Go",
-        "pushed_at": "2025-07-21T16:58:13Z",
-        "created_at": "2020-03-12T22:26:47Z"
-      },
-      {
-        "name": "trueview-sdf-generator",
-        "description": "（无简介）",
-        "url": "https://github.com/google/trueview-sdf-generator",
-        "stars": 5,
-        "forks": 5,
-        "language": "JavaScript",
-        "pushed_at": "2021-01-18T16:39:30Z",
-        "created_at": "2019-02-01T10:15:37Z"
-      },
-      {
-        "name": "trusted-key-value-server",
-        "description": "（无简介）",
-        "url": "https://github.com/google/trusted-key-value-server",
-        "stars": 3,
-        "forks": 2,
-        "language": "C++",
-        "pushed_at": "2021-07-29T14:22:10Z",
-        "created_at": "2021-07-29T13:48:19Z"
-      },
-      {
-        "name": "trusted-types-helper",
-        "description": "（无简介）",
-        "url": "https://github.com/google/trusted-types-helper",
-        "stars": 5,
-        "forks": 1,
-        "language": "TypeScript",
-        "pushed_at": "2025-03-28T22:50:47Z",
-        "created_at": "2024-06-17T15:28:18Z"
-      },
-      {
-        "name": "trusted-worklet-server",
-        "description": "（无简介）",
-        "url": "https://github.com/google/trusted-worklet-server",
-        "stars": 4,
-        "forks": 2,
-        "language": "C++",
-        "pushed_at": "2021-07-29T14:27:46Z",
-        "created_at": "2021-07-29T14:25:14Z"
-      },
-      {
-        "name": "TrustScore",
-        "description": "To Trust Or Not To Trust A Classifier. A measure of uncertainty for any trained (possibly black-box) classifier which is more effective than the classifier's own implied confidence (e.g. softmax probability for a neural network).",
-        "url": "https://github.com/google/TrustScore",
-        "stars": 176,
-        "forks": 43,
-        "language": "Jupyter Notebook",
-        "pushed_at": "2023-03-23T18:24:45Z",
-        "created_at": "2018-09-03T16:23:29Z"
-      },
-      {
-        "name": "truth",
-        "description": "Fluent assertions for Java and Android",
-        "url": "https://github.com/google/truth",
-        "stars": 2765,
-        "forks": 265,
-        "language": "Java",
-        "pushed_at": "2025-07-22T23:11:28Z",
-        "created_at": "2011-06-22T18:55:12Z"
-      },
-      {
-        "name": "ts-bridge",
-        "description": "Time Series Bridge: a tool to import metrics from one monitoring system to another",
-        "url": "https://github.com/google/ts-bridge",
-        "stars": 52,
-        "forks": 21,
-        "language": "Go",
-        "pushed_at": "2025-07-14T14:05:44Z",
-        "created_at": "2018-08-10T16:06:24Z"
-      },
-      {
-        "name": "ts-gulp",
-        "description": "（无简介）",
-        "url": "https://github.com/google/ts-gulp",
-        "stars": 2,
-        "forks": 0,
-        "language": "未指定",
-        "pushed_at": "2017-07-31T20:32:16Z",
-        "created_at": "2017-07-31T20:32:15Z"
-      },
-      {
-        "name": "tsec",
-        "description": "（无简介）",
-        "url": "https://github.com/google/tsec",
-        "stars": 133,
-        "forks": 15,
-        "language": "TypeScript",
-        "pushed_at": "2025-07-24T09:47:19Z",
-        "created_at": "2020-07-09T23:51:52Z"
-      },
-      {
-        "name": "tsl",
-        "description": "（无简介）",
-        "url": "https://github.com/google/tsl",
-        "stars": 98,
-        "forks": 28,
-        "language": "C++",
-        "pushed_at": "2025-07-25T21:32:18Z",
-        "created_at": "2022-09-21T22:10:41Z"
-      },
-      {
-        "name": "tsmok",
-        "description": "（无简介）",
-        "url": "https://github.com/google/tsmok",
-        "stars": 16,
-        "forks": 3,
-        "language": "Python",
-        "pushed_at": "2023-05-10T14:20:40Z",
-        "created_at": "2023-01-24T20:22:57Z"
-      },
-      {
-        "name": "tsunami",
-        "description": "（无简介）",
-        "url": "https://github.com/google/tsunami",
-        "stars": 9,
-        "forks": 6,
-        "language": "TypeScript",
-        "pushed_at": "2024-09-08T05:11:04Z",
-        "created_at": "2020-09-09T18:19:49Z"
-      },
-      {
-        "name": "tsunami-security-scanner",
-        "description": "Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.",
-        "url": "https://github.com/google/tsunami-security-scanner",
-        "stars": 8435,
-        "forks": 913,
-        "language": "Java",
-        "pushed_at": "2025-07-25T18:22:12Z",
-        "created_at": "2020-06-03T16:20:00Z"
-      },
-      {
-        "name": "tsunami-security-scanner-callback-server",
-        "description": "（无简介）",
-        "url": "https://github.com/google/tsunami-security-scanner-callback-server",
-        "stars": 18,
-        "forks": 2,
-        "language": "Java",
-        "pushed_at": "2025-07-25T17:58:09Z",
-        "created_at": "2022-02-08T16:33:53Z"
-      },
-      {
-        "name": "tsunami-security-scanner-plugins",
-        "description": "This project aims to provide a central repository for many useful Tsunami Security Scanner plugins.",
-        "url": "https://github.com/google/tsunami-security-scanner-plugins",
-        "stars": 916,
-        "forks": 204,
-        "language": "Java",
-        "pushed_at": "2025-07-25T17:32:30Z",
-        "created_at": "2020-06-04T15:19:25Z"
-      },
-      {
-        "name": "tsunami-security-scanner-testbed",
-        "description": "（无简介）",
-        "url": "https://github.com/google/tsunami-security-scanner-testbed",
-        "stars": 9,
-        "forks": 2,
-        "language": "Go",
-        "pushed_at": "2023-04-15T06:10:05Z",
-        "created_at": "2022-07-22T23:12:52Z"
-      },
-      {
-        "name": "tsviewdb",
-        "description": "High-performance storage and graphing web service for time-series of time-series.",
-        "url": "https://github.com/google/tsviewdb",
-        "stars": 125,
-        "forks": 21,
-        "language": "JavaScript",
-        "pushed_at": "2013-09-29T21:56:26Z",
-        "created_at": "2013-09-16T18:35:45Z"
-      },
-      {
-        "name": "tuneup.dart",
-        "description": "A command-line tool to manipulate and inspect your Dart projects.",
-        "url": "https://github.com/google/tuneup.dart",
-        "stars": 52,
-        "forks": 12,
-        "language": "Dart",
-        "pushed_at": "2022-11-04T01:39:19Z",
-        "created_at": "2014-12-17T16:27:06Z"
-      },
-      {
-        "name": "tunix",
-        "description": "A JAX-native LLM Post-Training Library",
-        "url": "https://github.com/google/tunix",
-        "stars": 74,
-        "forks": 16,
-        "language": "Python",
-        "pushed_at": "2025-07-25T23:38:20Z",
-        "created_at": "2025-04-02T22:19:15Z"
-      },
-      {
-        "name": "tuple.dart",
-        "description": "A library providing a tuple data structure",
-        "url": "https://github.com/google/tuple.dart",
-        "stars": 193,
-        "forks": 27,
-        "language": "Dart",
-        "pushed_at": "2025-03-01T03:54:13Z",
-        "created_at": "2017-06-06T15:36:01Z"
-      },
-      {
-        "name": "turbine",
-        "description": "（无简介）",
-        "url": "https://github.com/google/turbine",
-        "stars": 78,
-        "forks": 23,
-        "language": "Java",
-        "pushed_at": "2025-07-18T19:06:28Z",
-        "created_at": "2016-08-19T00:52:21Z"
-      },
-      {
-        "name": "turbinia",
-        "description": "Automation and Scaling of Digital Forensics Tools",
-        "url": "https://github.com/google/turbinia",
-        "stars": 770,
-        "forks": 167,
-        "language": "Python",
-        "pushed_at": "2025-07-22T06:30:55Z",
-        "created_at": "2015-09-15T16:50:40Z"
-      },
-      {
-        "name": "turing-doodle",
-        "description": "（无简介）",
-        "url": "https://github.com/google/turing-doodle",
-        "stars": 168,
-        "forks": 68,
-        "language": "JavaScript",
-        "pushed_at": "2014-09-10T18:48:26Z",
-        "created_at": "2014-09-03T23:47:44Z"
-      },
-      {
-        "name": "tweakr",
-        "description": "A Library for Remote Debugging, Autogenerating Settings/Preference UIs, and Wizard-of-Ozing",
-        "url": "https://github.com/google/tweakr",
-        "stars": 26,
-        "forks": 9,
-        "language": "JavaScript",
-        "pushed_at": "2024-06-17T21:06:50Z",
-        "created_at": "2019-07-23T22:45:04Z"
-      },
-      {
-        "name": "tweakr-codelab",
-        "description": "（无简介）",
-        "url": "https://github.com/google/tweakr-codelab",
-        "stars": 1,
-        "forks": 4,
-        "language": "Kotlin",
-        "pushed_at": "2022-03-31T13:10:23Z",
-        "created_at": "2022-03-22T15:58:31Z"
-      },
-      {
-        "name": "typedoc-neo-theme",
-        "description": "（无简介）",
-        "url": "https://github.com/google/typedoc-neo-theme",
-        "stars": 85,
-        "forks": 22,
-        "language": "HTML",
-        "pushed_at": "2023-07-12T02:40:19Z",
-        "created_at": "2019-02-12T00:29:54Z"
-      },
-      {
-        "name": "typograms",
-        "description": "（无简介）",
-        "url": "https://github.com/google/typograms",
-        "stars": 1305,
-        "forks": 22,
-        "language": "JavaScript",
-        "pushed_at": "2023-11-18T00:24:10Z",
-        "created_at": "2022-08-23T20:54:58Z"
-      },
-      {
-        "name": "u2f-ref-code",
-        "description": "U2F reference implementations",
-        "url": "https://github.com/google/u2f-ref-code",
-        "stars": 588,
-        "forks": 178,
-        "language": "JavaScript",
-        "pushed_at": "2022-08-31T05:41:04Z",
-        "created_at": "2014-06-06T23:56:59Z"
-      },
-      {
-        "name": "uafcs",
-        "description": "（无简介）",
-        "url": "https://github.com/google/uafcs",
-        "stars": 4,
-        "forks": 0,
-        "language": "Python",
-        "pushed_at": "2024-06-17T23:44:51Z",
-        "created_at": "2022-10-20T11:15:38Z"
-      },
-      {
-        "name": "ubntools",
-        "description": "Tools to do fun things with ubiquity gear",
-        "url": "https://github.com/google/ubntools",
-        "stars": 18,
-        "forks": 12,
-        "language": "Go",
-        "pushed_at": "2022-11-09T15:18:42Z",
-        "created_at": "2017-03-20T16:35:33Z"
-      },
-      {
-        "name": "uem_poc",
-        "description": "（无简介）",
-        "url": "https://github.com/google/uem_poc",
-        "stars": 3,
-        "forks": 0,
-        "language": "TypeScript",
-        "pushed_at": "2025-02-22T19:40:01Z",
-        "created_at": "2023-08-23T20:05:36Z"
-      },
-      {
-        "name": "ui-exp-dg",
-        "description": "Dumping ground for some experiments with UI technologies, Swift, Kotlin, Dart, iOS, Web, etc",
-        "url": "https://github.com/google/ui-exp-dg",
-        "stars": 14,
-        "forks": 9,
-        "language": "Dart",
-        "pushed_at": "2023-07-11T06:54:12Z",
-        "created_at": "2020-05-14T22:33:32Z"
-      },
-      {
-        "name": "UIforETW",
-        "description": "User interface for recording and managing ETW traces",
-        "url": "https://github.com/google/UIforETW",
-        "stars": 1635,
-        "forks": 218,
-        "language": "C++",
-        "pushed_at": "2025-05-28T18:59:01Z",
-        "created_at": "2015-04-09T21:46:04Z"
-      },
-      {
-        "name": "uiimage-additions",
-        "description": "A collection of miscellaneous utility methods for UIImage for memory-efficient image transformations.",
-        "url": "https://github.com/google/uiimage-additions",
-        "stars": 24,
-        "forks": 9,
-        "language": "Objective-C",
-        "pushed_at": "2019-07-22T18:02:32Z",
-        "created_at": "2018-05-23T23:55:50Z"
-      },
-      {
-        "name": "uis-rnn",
-        "description": "This is the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization.",
-        "url": "https://github.com/google/uis-rnn",
-        "stars": 1580,
-        "forks": 320,
-        "language": "Python",
-        "pushed_at": "2024-09-25T14:33:18Z",
-        "created_at": "2018-10-23T08:13:24Z"
-      },
-      {
-        "name": "ukey2",
-        "description": "（无简介）",
-        "url": "https://github.com/google/ukey2",
-        "stars": 48,
-        "forks": 19,
-        "language": "Java",
-        "pushed_at": "2023-11-14T18:40:26Z",
-        "created_at": "2019-01-17T00:12:21Z"
-      },
-      {
-        "name": "ukip",
-        "description": "USB Keystroke Injection Protection",
-        "url": "https://github.com/google/ukip",
-        "stars": 539,
-        "forks": 52,
-        "language": "Python",
-        "pushed_at": "2023-07-09T20:31:03Z",
-        "created_at": "2020-02-26T17:31:51Z"
-      },
-      {
-        "name": "unblocking-detail-caption",
-        "description": "（无简介）",
-        "url": "https://github.com/google/unblocking-detail-caption",
-        "stars": 1,
-        "forks": 1,
-        "language": "HTML",
-        "pushed_at": "2025-06-16T07:00:01Z",
-        "created_at": "2025-05-23T11:57:57Z"
-      },
-      {
-        "name": "uncertainty-baselines",
-        "description": "High-quality implementations of standard and SOTA methods on a variety of tasks.",
-        "url": "https://github.com/google/uncertainty-baselines",
-        "stars": 1518,
-        "forks": 211,
-        "language": "Python",
-        "pushed_at": "2025-06-12T13:00:55Z",
-        "created_at": "2020-07-16T01:54:32Z"
-      },
-      {
-        "name": "uniflow-polymer",
-        "description": "UniFlow for Polymer",
-        "url": "https://github.com/google/uniflow-polymer",
-        "stars": 165,
-        "forks": 21,
-        "language": "HTML",
-        "pushed_at": "2018-05-15T20:46:24Z",
-        "created_at": "2016-12-01T17:36:31Z"
-      },
-      {
-        "name": "unigem-objective-c",
-        "description": "Unicode Gems, a Mac app, an iOS app, and an iOS keyboard for letter-like unicode.",
-        "url": "https://github.com/google/unigem-objective-c",
-        "stars": 25,
-        "forks": 7,
-        "language": "Objective-C",
-        "pushed_at": "2017-12-21T23:54:33Z",
-        "created_at": "2017-12-05T23:02:56Z"
-      },
-      {
-        "name": "unimorph",
-        "description": "（无简介）",
-        "url": "https://github.com/google/unimorph",
-        "stars": 20,
-        "forks": 4,
-        "language": "HTML",
-        "pushed_at": "2017-06-29T00:43:12Z",
-        "created_at": "2016-07-29T11:29:06Z"
-      },
-      {
-        "name": "unisim",
-        "description": "UniSim is a package for efficient similarity computation, fuzzy matching, and clustering of data.  ",
-        "url": "https://github.com/google/unisim",
-        "stars": 139,
-        "forks": 9,
-        "language": "Python",
-        "pushed_at": "2025-04-04T05:24:18Z",
-        "created_at": "2023-08-01T23:20:42Z"
-      },
-      {
-        "name": "unity-anr-plugin",
-        "description": "（无简介）",
-        "url": "https://github.com/google/unity-anr-plugin",
-        "stars": 5,
-        "forks": 0,
-        "language": "Java",
-        "pushed_at": "2024-11-18T07:32:42Z",
-        "created_at": "2024-07-22T09:18:14Z"
-      },
-      {
-        "name": "universal-dash-transmuxer",
-        "description": "UDT (Dash Transmuxer) Project: Can transmux DASH -> HLS or other formats.",
-        "url": "https://github.com/google/universal-dash-transmuxer",
-        "stars": 55,
-        "forks": 25,
-        "language": "C++",
-        "pushed_at": "2022-02-19T04:23:14Z",
-        "created_at": "2014-10-15T20:46:09Z"
-      },
-      {
-        "name": "unsmear",
-        "description": "Converts to and from timescales with smeared leap seconds",
-        "url": "https://github.com/google/unsmear",
-        "stars": 94,
-        "forks": 15,
-        "language": "C++",
-        "pushed_at": "2025-01-27T21:35:26Z",
-        "created_at": "2019-06-21T21:36:13Z"
-      },
-      {
-        "name": "upvote_py2",
-        "description": "A multi-platform binary whitelisting solution",
-        "url": "https://github.com/google/upvote_py2",
-        "stars": 450,
-        "forks": 31,
-        "language": "Python",
-        "pushed_at": "2021-09-29T18:41:48Z",
-        "created_at": "2017-10-24T15:23:16Z"
-      },
-      {
-        "name": "uri.dart",
-        "description": "Utilities for working with URIs in Dart",
-        "url": "https://github.com/google/uri.dart",
-        "stars": 80,
-        "forks": 42,
-        "language": "Dart",
-        "pushed_at": "2025-04-15T19:13:22Z",
-        "created_at": "2013-07-09T21:15:44Z"
-      },
-      {
-        "name": "uribeacon",
-        "description": "The Web Uri Open Beacon for the Internet of Things",
-        "url": "https://github.com/google/uribeacon",
-        "stars": 410,
-        "forks": 108,
-        "language": "未指定",
-        "pushed_at": "2018-12-05T17:04:54Z",
-        "created_at": "2014-09-26T16:44:12Z"
-      },
-      {
-        "name": "url_diff",
-        "description": "（无简介）",
-        "url": "https://github.com/google/url_diff",
-        "stars": 98,
-        "forks": 29,
-        "language": "Python",
-        "pushed_at": "2018-12-05T16:46:04Z",
-        "created_at": "2013-10-07T19:51:48Z"
-      },
-      {
-        "name": "us-altgr-intl",
-        "description": "（无简介）",
-        "url": "https://github.com/google/us-altgr-intl",
-        "stars": 15,
-        "forks": 6,
-        "language": "Perl",
-        "pushed_at": "2019-04-26T02:27:31Z",
-        "created_at": "2016-08-02T20:23:32Z"
-      },
-      {
-        "name": "usb-cereal",
-        "description": "USB-Cereal is a debugging and development tool for designs that use USB-C port and bring out serial TX/RX lines into SBU1/2 pins. USB-Cereal is made compatible with both 1.8V and 3.3V signalling.",
-        "url": "https://github.com/google/usb-cereal",
-        "stars": 83,
-        "forks": 10,
-        "language": "HTML",
-        "pushed_at": "2021-07-23T20:25:38Z",
-        "created_at": "2021-07-23T18:49:19Z"
-      },
-      {
-        "name": "usbinfo",
-        "description": "（无简介）",
-        "url": "https://github.com/google/usbinfo",
-        "stars": 40,
-        "forks": 22,
-        "language": "Python",
-        "pushed_at": "2021-06-24T18:27:14Z",
-        "created_at": "2015-09-17T22:23:46Z"
-      },
-      {
-        "name": "usbmon",
-        "description": "List and monitor USB devices connected to Linux host. Also as Collectd plugin.",
-        "url": "https://github.com/google/usbmon",
-        "stars": 56,
-        "forks": 14,
-        "language": "C",
-        "pushed_at": "2021-02-22T22:15:36Z",
-        "created_at": "2019-04-15T19:16:09Z"
-      },
-      {
-        "name": "usd_from_gltf",
-        "description": "（无简介）",
-        "url": "https://github.com/google/usd_from_gltf",
-        "stars": 566,
-        "forks": 90,
-        "language": "C++",
-        "pushed_at": "2023-04-03T13:31:37Z",
-        "created_at": "2019-07-19T20:26:52Z"
-      },
-      {
-        "name": "usm-voice-transcriber",
-        "description": "（无简介）",
-        "url": "https://github.com/google/usm-voice-transcriber",
-        "stars": 1,
-        "forks": 0,
-        "language": "未指定",
-        "pushed_at": "2023-09-27T05:55:32Z",
-        "created_at": "2023-09-27T05:55:31Z"
-      },
-      {
-        "name": "uuid",
-        "description": "Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.",
-        "url": "https://github.com/google/uuid",
-        "stars": 5746,
-        "forks": 394,
-        "language": "Go",
-        "pushed_at": "2024-11-14T17:05:06Z",
-        "created_at": "2016-02-12T22:17:59Z"
-      },
-      {
-        "name": "uv-metrics",
-        "description": "Composable metric reporters in Python.",
-        "url": "https://github.com/google/uv-metrics",
-        "stars": 13,
-        "forks": 5,
-        "language": "Python",
-        "pushed_at": "2024-06-06T22:38:30Z",
-        "created_at": "2020-06-16T17:29:47Z"
-      },
-      {
-        "name": "uVkCompute",
-        "description": "A micro Vulkan compute pipeline and a collection of benchmarking compute shaders",
-        "url": "https://github.com/google/uVkCompute",
-        "stars": 245,
-        "forks": 41,
-        "language": "C++",
-        "pushed_at": "2025-03-27T02:35:37Z",
-        "created_at": "2020-10-05T10:53:50Z"
       }
     ]
   }
