@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-07-31T09:52:51Z",
+        "pushed_at": "2025-07-31T10:20:11Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3946,7 +3946,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12741,
+        "stars": 12742,
         "forks": 7712,
         "language": "C",
         "pushed_at": "2025-07-31T09:53:44Z",
@@ -11139,7 +11139,7 @@
         "stars": 1051,
         "forks": 1024,
         "language": "C",
-        "pushed_at": "2025-07-30T11:17:19Z",
+        "pushed_at": "2025-07-31T10:37:15Z",
         "created_at": "2017-01-11T15:36:52Z"
       },
       {
@@ -12177,7 +12177,7 @@
         "description": "Espressif intelligent voice assistant",
         "url": "https://github.com/espressif/esp-skainet",
         "stars": 738,
-        "forks": 166,
+        "forks": 167,
         "language": "C",
         "pushed_at": "2025-05-27T11:55:28Z",
         "created_at": "2019-08-01T04:02:31Z"
@@ -12217,7 +12217,7 @@
         "description": "TensorFlow Lite Micro for Espressif Chipsets",
         "url": "https://github.com/espressif/esp-tflite-micro",
         "stars": 505,
-        "forks": 111,
+        "forks": 112,
         "language": "C++",
         "pushed_at": "2025-06-02T09:16:17Z",
         "created_at": "2021-10-25T09:36:22Z"
@@ -12989,7 +12989,7 @@
         "stars": 16,
         "forks": 2,
         "language": "Rust",
-        "pushed_at": "2025-07-31T06:53:29Z",
+        "pushed_at": "2025-07-31T10:33:11Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
@@ -13159,7 +13159,7 @@
         "stars": 247,
         "forks": 25,
         "language": "LLVM",
-        "pushed_at": "2025-07-31T09:54:39Z",
+        "pushed_at": "2025-07-31T10:26:39Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13519,7 +13519,7 @@
         "stars": 1266,
         "forks": 332,
         "language": "TypeScript",
-        "pushed_at": "2025-07-31T10:14:58Z",
+        "pushed_at": "2025-07-31T10:22:40Z",
         "created_at": "2018-11-21T03:27:08Z"
       },
       {
@@ -16236,7 +16236,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 31607,
+        "stars": 31609,
         "forks": 3696,
         "language": "Rust",
         "pushed_at": "2025-07-31T08:42:05Z",
@@ -16596,7 +16596,7 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 23987,
+        "stars": 23988,
         "forks": 5748,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
@@ -17136,7 +17136,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 13104,
+        "stars": 13105,
         "forks": 2084,
         "language": "Python",
         "pushed_at": "2025-07-31T06:57:19Z",
@@ -17176,7 +17176,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65661,
+        "stars": 65663,
         "forks": 10911,
         "language": "MDX",
         "pushed_at": "2025-07-29T21:29:21Z",
@@ -17246,7 +17246,7 @@
         "name": "openai-go",
         "description": "The official Go library for the OpenAI API",
         "url": "https://github.com/openai/openai-go",
-        "stars": 2118,
+        "stars": 2119,
         "forks": 174,
         "language": "Go",
         "pushed_at": "2025-07-30T12:46:10Z",
@@ -17276,7 +17276,7 @@
         "name": "openai-openapi",
         "description": "OpenAPI specification for the OpenAI API",
         "url": "https://github.com/openai/openai-openapi",
-        "stars": 2126,
+        "stars": 2127,
         "forks": 467,
         "language": "未指定",
         "pushed_at": "2025-06-17T14:47:31Z",
@@ -17336,7 +17336,7 @@
         "name": "openai-realtime-console",
         "description": "React app for inspecting, building and debugging with the Realtime API",
         "url": "https://github.com/openai/openai-realtime-console",
-        "stars": 3368,
+        "stars": 3369,
         "forks": 1304,
         "language": "JavaScript",
         "pushed_at": "2025-06-23T22:48:16Z",
@@ -17847,7 +17847,7 @@
         "description": "An educational resource to help anyone learn deep reinforcement learning.",
         "url": "https://github.com/openai/spinningup",
         "stars": 11094,
-        "forks": 2365,
+        "forks": 2366,
         "language": "Python",
         "pushed_at": "2024-08-05T03:30:30Z",
         "created_at": "2018-11-07T20:52:15Z"
@@ -18844,7 +18844,7 @@
         "stars": 16,
         "forks": 8,
         "language": "C++",
-        "pushed_at": "2025-07-31T07:57:30Z",
+        "pushed_at": "2025-07-31T10:44:27Z",
         "created_at": "2021-09-14T14:54:28Z"
       },
       {
@@ -19734,7 +19734,7 @@
         "stars": 7,
         "forks": 12,
         "language": "C",
-        "pushed_at": "2025-07-31T08:18:42Z",
+        "pushed_at": "2025-07-31T10:44:01Z",
         "created_at": "2025-06-03T10:51:15Z"
       },
       {
@@ -20916,7 +20916,7 @@
         "name": "android-classyshark",
         "description": "Android and Java bytecode viewer",
         "url": "https://github.com/google/android-classyshark",
-        "stars": 7583,
+        "stars": 7584,
         "forks": 871,
         "language": "Java",
         "pushed_at": "2023-05-19T10:01:03Z",
@@ -21119,7 +21119,7 @@
         "stars": 3755,
         "forks": 669,
         "language": "C++",
-        "pushed_at": "2025-07-31T03:18:50Z",
+        "pushed_at": "2025-07-31T10:31:51Z",
         "created_at": "2014-08-26T14:59:07Z"
       },
       {
@@ -34299,7 +34299,7 @@
         "stars": 17,
         "forks": 3,
         "language": "C++",
-        "pushed_at": "2025-07-31T09:59:50Z",
+        "pushed_at": "2025-07-31T10:40:14Z",
         "created_at": "2024-10-14T08:07:47Z"
       },
       {
@@ -34489,7 +34489,7 @@
         "stars": 26,
         "forks": 14,
         "language": "C++",
-        "pushed_at": "2025-07-31T10:01:34Z",
+        "pushed_at": "2025-07-31T10:31:32Z",
         "created_at": "2024-05-07T11:31:53Z"
       },
       {
@@ -34636,7 +34636,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 607,
+        "stars": 619,
         "forks": 27,
         "language": "Python",
         "pushed_at": "2025-07-22T21:59:26Z",
@@ -34959,7 +34959,7 @@
         "stars": 17413,
         "forks": 2111,
         "language": "C++",
-        "pushed_at": "2025-07-31T08:37:31Z",
+        "pushed_at": "2025-07-31T10:45:26Z",
         "created_at": "2014-12-03T18:02:17Z"
       },
       {
@@ -38109,7 +38109,7 @@
         "stars": 409,
         "forks": 63,
         "language": "Python",
-        "pushed_at": "2025-07-31T09:42:48Z",
+        "pushed_at": "2025-07-31T10:25:50Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -38316,7 +38316,7 @@
         "name": "osv-scanner",
         "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
         "url": "https://github.com/google/osv-scanner",
-        "stars": 7579,
+        "stars": 7580,
         "forks": 444,
         "language": "Go",
         "pushed_at": "2025-07-31T07:09:11Z",
@@ -38879,7 +38879,7 @@
         "stars": 4421,
         "forks": 538,
         "language": "C++",
-        "pushed_at": "2025-07-31T06:49:26Z",
+        "pushed_at": "2025-07-31T10:38:07Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -42297,7 +42297,7 @@
         "description": "Supporting materials for Google's Season of Docs program",
         "url": "https://github.com/google/season-of-docs",
         "stars": 578,
-        "forks": 1044,
+        "forks": 1043,
         "language": "未指定",
         "pushed_at": "2024-11-14T23:18:34Z",
         "created_at": "2021-01-07T17:38:56Z"
@@ -42329,7 +42329,7 @@
         "stars": 27,
         "forks": 20,
         "language": "Python",
-        "pushed_at": "2025-07-31T10:04:09Z",
+        "pushed_at": "2025-07-31T10:42:42Z",
         "created_at": "2025-02-09T15:46:21Z"
       },
       {
@@ -42889,14 +42889,14 @@
         "stars": 1315,
         "forks": 314,
         "language": "JavaScript",
-        "pushed_at": "2025-07-31T10:10:27Z",
+        "pushed_at": "2025-07-31T10:31:53Z",
         "created_at": "2019-06-11T14:20:21Z"
       },
       {
         "name": "skia",
         "description": "Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.",
         "url": "https://github.com/google/skia",
-        "stars": 9993,
+        "stars": 9994,
         "forks": 1601,
         "language": "C++",
         "pushed_at": "2025-07-31T07:41:31Z",
@@ -44026,7 +44026,7 @@
         "name": "styleguide",
         "description": "Style guides for Google-originated open-source projects",
         "url": "https://github.com/google/styleguide",
-        "stars": 38392,
+        "stars": 38393,
         "forks": 13012,
         "language": "HTML",
         "pushed_at": "2025-07-09T01:57:26Z",
@@ -44886,7 +44886,7 @@
         "name": "tf-quant-finance",
         "description": "High-performance TensorFlow library for quantitative finance.",
         "url": "https://github.com/google/tf-quant-finance",
-        "stars": 4933,
+        "stars": 4934,
         "forks": 629,
         "language": "Python",
         "pushed_at": "2025-03-21T14:29:57Z",
