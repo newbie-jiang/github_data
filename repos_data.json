@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-08-03T15:39:26Z",
+        "pushed_at": "2025-08-03T15:52:47Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3976,7 +3976,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12769,
+        "stars": 12770,
         "forks": 7724,
         "language": "C",
         "pushed_at": "2025-08-02T11:20:13Z",
@@ -10826,7 +10826,7 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15175,
+        "stars": 15176,
         "forks": 7669,
         "language": "C++",
         "pushed_at": "2025-08-03T04:55:24Z",
@@ -11969,7 +11969,7 @@
         "stars": 3,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-08-03T14:02:47Z",
+        "pushed_at": "2025-08-03T16:03:01Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -13189,7 +13189,7 @@
         "stars": 247,
         "forks": 25,
         "language": "LLVM",
-        "pushed_at": "2025-08-03T15:37:39Z",
+        "pushed_at": "2025-08-03T16:08:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16196,7 +16196,7 @@
         "name": "chatgpt-retrieval-plugin",
         "description": "The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.",
         "url": "https://github.com/openai/chatgpt-retrieval-plugin",
-        "stars": 21202,
+        "stars": 21203,
         "forks": 3681,
         "language": "Python",
         "pushed_at": "2024-07-04T22:00:16Z",
@@ -17206,8 +17206,8 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65715,
-        "forks": 10924,
+        "stars": 65716,
+        "forks": 10925,
         "language": "MDX",
         "pushed_at": "2025-07-31T15:57:56Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -17316,7 +17316,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27570,
+        "stars": 27571,
         "forks": 4107,
         "language": "Python",
         "pushed_at": "2025-08-03T05:10:06Z",
@@ -17926,7 +17926,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 20197,
+        "stars": 20198,
         "forks": 2154,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
@@ -18096,8 +18096,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 85982,
-        "forks": 10563,
+        "stars": 85983,
+        "forks": 10564,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -20396,7 +20396,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 3757,
+        "stars": 3758,
         "forks": 1142,
         "language": "Python",
         "pushed_at": "2025-08-01T15:46:49Z",
@@ -21977,7 +21977,7 @@
         "description": "Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers",
         "url": "https://github.com/google/autocxx",
         "stars": 2452,
-        "forks": 161,
+        "forks": 162,
         "language": "Rust",
         "pushed_at": "2025-03-05T08:17:58Z",
         "created_at": "2020-08-13T05:16:10Z"
@@ -22929,7 +22929,7 @@
         "stars": 16,
         "forks": 8,
         "language": "TypeScript",
-        "pushed_at": "2025-08-02T07:41:31Z",
+        "pushed_at": "2025-08-03T16:14:30Z",
         "created_at": "2022-01-12T06:03:46Z"
       },
       {
@@ -24846,7 +24846,7 @@
         "name": "comprehensive-rust",
         "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
         "url": "https://github.com/google/comprehensive-rust",
-        "stars": 30495,
+        "stars": 30496,
         "forks": 1826,
         "language": "Rust",
         "pushed_at": "2025-08-03T09:28:39Z",
@@ -27376,7 +27376,7 @@
         "name": "EarlGrey",
         "description": ":tea: iOS UI Automation Test Framework",
         "url": "https://github.com/google/EarlGrey",
-        "stars": 5653,
+        "stars": 5654,
         "forks": 738,
         "language": "Objective-C",
         "pushed_at": "2025-07-21T16:34:09Z",
@@ -28536,7 +28536,7 @@
         "name": "filament",
         "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
         "url": "https://github.com/google/filament",
-        "stars": 18706,
+        "stars": 18707,
         "forks": 2002,
         "language": "C++",
         "pushed_at": "2025-08-01T23:27:40Z",
@@ -31536,7 +31536,7 @@
         "name": "googletest",
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "url": "https://github.com/google/googletest",
-        "stars": 36518,
+        "stars": 36519,
         "forks": 10444,
         "language": "C++",
         "pushed_at": "2025-07-28T18:14:25Z",
@@ -31837,7 +31837,7 @@
         "description": "Ground mobile data collection app for Android",
         "url": "https://github.com/google/ground-android",
         "stars": 265,
-        "forks": 131,
+        "forks": 132,
         "language": "Kotlin",
         "pushed_at": "2025-07-31T17:00:00Z",
         "created_at": "2018-04-02T15:51:24Z"
@@ -32219,7 +32219,7 @@
         "stars": 10,
         "forks": 1,
         "language": "C++",
-        "pushed_at": "2025-08-01T21:15:59Z",
+        "pushed_at": "2025-08-03T16:19:40Z",
         "created_at": "2024-08-29T16:03:26Z"
       },
       {
@@ -34676,8 +34676,8 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 3087,
-        "forks": 155,
+        "stars": 3121,
+        "forks": 157,
         "language": "Python",
         "pushed_at": "2025-08-03T14:44:44Z",
         "created_at": "2025-07-08T20:46:06Z"
@@ -35957,7 +35957,7 @@
         "description": "Material Design icons by Google (Material Symbols)",
         "url": "https://github.com/google/material-design-icons",
         "stars": 51902,
-        "forks": 9657,
+        "forks": 9656,
         "language": "未指定",
         "pushed_at": "2025-08-01T18:36:00Z",
         "created_at": "2014-10-08T18:01:28Z"
@@ -37609,7 +37609,7 @@
         "stars": 1753,
         "forks": 284,
         "language": "Java",
-        "pushed_at": "2025-08-03T11:12:59Z",
+        "pushed_at": "2025-08-03T16:03:37Z",
         "created_at": "2016-02-29T20:16:48Z"
       },
       {
@@ -38289,7 +38289,7 @@
         "stars": 11215,
         "forks": 2442,
         "language": "Shell",
-        "pushed_at": "2025-08-02T20:31:08Z",
+        "pushed_at": "2025-08-03T16:08:32Z",
         "created_at": "2016-07-20T19:39:50Z"
       },
       {
