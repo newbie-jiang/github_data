@@ -339,7 +339,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-08-05T14:46:48Z",
+        "pushed_at": "2025-08-05T15:21:36Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4006,7 +4006,7 @@
         "name": "zephyr-lang-rust",
         "description": "Support for Zephyr applications written in Rust",
         "url": "https://github.com/zephyrproject-rtos/zephyr-lang-rust",
-        "stars": 157,
+        "stars": 156,
         "forks": 33,
         "language": "Rust",
         "pushed_at": "2025-07-21T21:24:46Z",
@@ -11616,7 +11616,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15958,
+        "stars": 15959,
         "forks": 7805,
         "language": "C",
         "pushed_at": "2025-08-05T03:16:45Z",
@@ -12376,7 +12376,7 @@
         "name": "esp-webrtc-solution",
         "description": "（无简介）",
         "url": "https://github.com/espressif/esp-webrtc-solution",
-        "stars": 226,
+        "stars": 227,
         "forks": 36,
         "language": "C",
         "pushed_at": "2025-07-31T13:36:16Z",
@@ -13209,7 +13209,7 @@
         "stars": 247,
         "forks": 26,
         "language": "LLVM",
-        "pushed_at": "2025-08-05T14:51:39Z",
+        "pushed_at": "2025-08-05T15:23:38Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15901,7 +15901,7 @@
         "name": "rt-thread",
         "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
         "url": "https://github.com/RT-Thread/rt-thread",
-        "stars": 11327,
+        "stars": 11326,
         "forks": 5230,
         "language": "C",
         "pushed_at": "2025-08-04T01:55:01Z",
@@ -16286,7 +16286,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 31804,
+        "stars": 31806,
         "forks": 3724,
         "language": "Rust",
         "pushed_at": "2025-08-05T14:31:11Z",
@@ -17186,7 +17186,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 13254,
+        "stars": 13256,
         "forks": 2117,
         "language": "Python",
         "pushed_at": "2025-08-05T09:23:18Z",
@@ -17336,7 +17336,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27590,
+        "stars": 27591,
         "forks": 4109,
         "language": "Python",
         "pushed_at": "2025-08-05T11:24:08Z",
@@ -17366,7 +17366,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 6119,
+        "stars": 6118,
         "forks": 848,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T14:47:04Z",
@@ -18116,7 +18116,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 86090,
+        "stars": 86093,
         "forks": 10579,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
@@ -20851,8 +20851,8 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 11507,
-        "forks": 1584,
+        "stars": 11509,
+        "forks": 1585,
         "language": "Python",
         "pushed_at": "2025-08-05T09:44:21Z",
         "created_at": "2025-04-01T20:44:40Z"
@@ -20861,7 +20861,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 3911,
+        "stars": 3912,
         "forks": 1175,
         "language": "Python",
         "pushed_at": "2025-08-01T15:46:49Z",
@@ -22094,7 +22094,7 @@
         "stars": 95,
         "forks": 19,
         "language": "C++",
-        "pushed_at": "2025-08-05T15:06:37Z",
+        "pushed_at": "2025-08-05T15:33:52Z",
         "created_at": "2022-04-08T21:51:01Z"
       },
       {
@@ -22131,7 +22131,7 @@
         "name": "aside",
         "description": "🚀 Apps Script development with formatting, linting, testing and more!",
         "url": "https://github.com/google/aside",
-        "stars": 370,
+        "stars": 371,
         "forks": 10,
         "language": "TypeScript",
         "pushed_at": "2025-04-15T12:39:59Z",
@@ -22761,7 +22761,7 @@
         "name": "benchmark",
         "description": "A microbenchmark support library",
         "url": "https://github.com/google/benchmark",
-        "stars": 9649,
+        "stars": 9650,
         "forks": 1698,
         "language": "C++",
         "pushed_at": "2025-07-31T08:40:53Z",
@@ -23274,7 +23274,7 @@
         "stars": 14221,
         "forks": 1282,
         "language": "TypeScript",
-        "pushed_at": "2025-08-05T15:19:14Z",
+        "pushed_at": "2025-08-05T15:38:38Z",
         "created_at": "2014-10-09T14:35:14Z"
       },
       {
@@ -24664,7 +24664,7 @@
         "stars": 7547,
         "forks": 1168,
         "language": "Java",
-        "pushed_at": "2025-08-04T19:59:09Z",
+        "pushed_at": "2025-08-05T15:30:28Z",
         "created_at": "2014-04-16T15:30:36Z"
       },
       {
@@ -24931,8 +24931,8 @@
         "name": "clusterfuzz",
         "description": "Scalable fuzzing infrastructure.",
         "url": "https://github.com/google/clusterfuzz",
-        "stars": 5434,
-        "forks": 583,
+        "stars": 5435,
+        "forks": 584,
         "language": "Python",
         "pushed_at": "2025-08-05T14:50:28Z",
         "created_at": "2019-01-29T00:19:40Z"
@@ -24941,8 +24941,8 @@
         "name": "clusterfuzzlite",
         "description": "ClusterFuzzLite - Simple continuous fuzzing that runs in CI.",
         "url": "https://github.com/google/clusterfuzzlite",
-        "stars": 493,
-        "forks": 44,
+        "stars": 494,
+        "forks": 45,
         "language": "未指定",
         "pushed_at": "2024-12-03T03:28:53Z",
         "created_at": "2021-08-26T05:06:10Z"
@@ -29111,7 +29111,7 @@
         "name": "flatbuffers",
         "description": "FlatBuffers: Memory Efficient Serialization Library",
         "url": "https://github.com/google/flatbuffers",
-        "stars": 24578,
+        "stars": 24579,
         "forks": 3377,
         "language": "C++",
         "pushed_at": "2025-08-05T04:39:50Z",
@@ -32001,7 +32001,7 @@
         "name": "googletest",
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "url": "https://github.com/google/googletest",
-        "stars": 36528,
+        "stars": 36529,
         "forks": 10445,
         "language": "C++",
         "pushed_at": "2025-07-28T18:14:25Z",
@@ -32584,7 +32584,7 @@
         "stars": 50986,
         "forks": 11033,
         "language": "Java",
-        "pushed_at": "2025-08-05T15:06:45Z",
+        "pushed_at": "2025-08-05T15:32:02Z",
         "created_at": "2014-05-29T16:23:17Z"
       },
       {
@@ -32691,7 +32691,7 @@
         "name": "gvisor",
         "description": "Application Kernel for Containers",
         "url": "https://github.com/google/gvisor",
-        "stars": 16794,
+        "stars": 16795,
         "forks": 1414,
         "language": "Go",
         "pushed_at": "2025-08-05T03:50:13Z",
@@ -33131,8 +33131,8 @@
         "name": "honggfuzz",
         "description": "Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based)",
         "url": "https://github.com/google/honggfuzz",
-        "stars": 3222,
-        "forks": 518,
+        "stars": 3223,
+        "forks": 519,
         "language": "C",
         "pushed_at": "2025-05-19T02:18:35Z",
         "created_at": "2015-05-07T15:43:01Z"
@@ -35004,7 +35004,7 @@
         "stars": 26,
         "forks": 14,
         "language": "C++",
-        "pushed_at": "2025-08-05T14:58:00Z",
+        "pushed_at": "2025-08-05T15:25:10Z",
         "created_at": "2024-05-07T11:31:53Z"
       },
       {
@@ -35151,7 +35151,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 5075,
+        "stars": 5097,
         "forks": 273,
         "language": "Python",
         "pushed_at": "2025-08-05T13:47:11Z",
@@ -37664,7 +37664,7 @@
         "stars": 849,
         "forks": 179,
         "language": "C++",
-        "pushed_at": "2025-08-05T12:46:37Z",
+        "pushed_at": "2025-08-05T15:32:04Z",
         "created_at": "2020-04-23T20:41:37Z"
       },
       {
@@ -38761,8 +38761,8 @@
         "name": "oss-fuzz",
         "description": "OSS-Fuzz - continuous fuzzing for open source software.",
         "url": "https://github.com/google/oss-fuzz",
-        "stars": 11218,
-        "forks": 2443,
+        "stars": 11219,
+        "forks": 2444,
         "language": "Shell",
         "pushed_at": "2025-08-04T13:13:39Z",
         "created_at": "2016-07-20T19:39:50Z"
@@ -39394,7 +39394,7 @@
         "stars": 4439,
         "forks": 542,
         "language": "C++",
-        "pushed_at": "2025-08-05T14:12:45Z",
+        "pushed_at": "2025-08-05T15:47:38Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -41701,7 +41701,7 @@
         "name": "rekall",
         "description": "Rekall Memory Forensic Framework",
         "url": "https://github.com/google/rekall",
-        "stars": 1962,
+        "stars": 1963,
         "forks": 400,
         "language": "Python",
         "pushed_at": "2020-10-18T04:33:58Z",
@@ -43414,7 +43414,7 @@
         "stars": 10004,
         "forks": 1601,
         "language": "C++",
-        "pushed_at": "2025-08-05T13:53:31Z",
+        "pushed_at": "2025-08-05T15:35:31Z",
         "created_at": "2014-01-09T17:09:57Z"
       },
       {
@@ -43752,7 +43752,7 @@
         "description": "（无简介）",
         "url": "https://github.com/google/smali",
         "stars": 298,
-        "forks": 48,
+        "forks": 49,
         "language": "Java",
         "pushed_at": "2025-04-07T06:57:00Z",
         "created_at": "2022-12-09T13:46:08Z"
@@ -44012,7 +44012,7 @@
         "description": "Hessian spectral density estimation in TF and Jax",
         "url": "https://github.com/google/spectral-density",
         "stars": 123,
-        "forks": 31,
+        "forks": 32,
         "language": "Python",
         "pushed_at": "2020-09-06T19:41:04Z",
         "created_at": "2019-03-20T19:23:28Z"
@@ -45984,7 +45984,7 @@
         "stars": 2766,
         "forks": 265,
         "language": "Java",
-        "pushed_at": "2025-08-05T15:03:53Z",
+        "pushed_at": "2025-08-05T15:28:53Z",
         "created_at": "2011-06-22T18:55:12Z"
       },
       {
@@ -46054,7 +46054,7 @@
         "stars": 8439,
         "forks": 914,
         "language": "Java",
-        "pushed_at": "2025-07-31T18:09:11Z",
+        "pushed_at": "2025-08-05T15:21:57Z",
         "created_at": "2020-06-03T16:20:00Z"
       },
       {
