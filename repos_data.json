@@ -339,7 +339,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-08-06T12:40:09Z",
+        "pushed_at": "2025-08-06T13:29:19Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3067,7 +3067,7 @@
         "description": "（无简介）",
         "url": "https://github.com/zephyrproject-rtos/hal_nordic",
         "stars": 35,
-        "forks": 135,
+        "forks": 136,
         "language": "C",
         "pushed_at": "2025-07-24T09:19:17Z",
         "created_at": "2019-04-06T22:26:39Z"
@@ -3159,7 +3159,7 @@
         "stars": 10,
         "forks": 76,
         "language": "C",
-        "pushed_at": "2025-08-04T08:25:28Z",
+        "pushed_at": "2025-08-06T13:32:25Z",
         "created_at": "2019-04-06T22:27:02Z"
       },
       {
@@ -4026,7 +4026,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12802,
+        "stars": 12800,
         "forks": 7740,
         "language": "C",
         "pushed_at": "2025-08-06T09:16:42Z",
@@ -6532,7 +6532,7 @@
         "description": "Platform-independent drivers for STMicroelectronics MEMS motion and environmental sensors, based on Rust Programming Language",
         "url": "https://github.com/STMicroelectronics/st-mems-rust-drivers",
         "stars": 3,
-        "forks": 0,
+        "forks": 1,
         "language": "Rust",
         "pushed_at": "2025-07-31T14:02:31Z",
         "created_at": "2025-07-28T09:08:00Z"
@@ -10876,7 +10876,7 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15185,
+        "stars": 15186,
         "forks": 7668,
         "language": "C++",
         "pushed_at": "2025-08-06T03:22:28Z",
@@ -11129,7 +11129,7 @@
         "stars": 5,
         "forks": 1,
         "language": "Python",
-        "pushed_at": "2025-07-10T08:17:47Z",
+        "pushed_at": "2025-08-06T13:46:05Z",
         "created_at": "2022-10-21T07:22:51Z"
       },
       {
@@ -12999,7 +12999,7 @@
         "stars": 342,
         "forks": 129,
         "language": "Java",
-        "pushed_at": "2025-08-06T06:40:40Z",
+        "pushed_at": "2025-08-06T13:52:36Z",
         "created_at": "2019-09-16T02:21:43Z"
       },
       {
@@ -13239,7 +13239,7 @@
         "stars": 248,
         "forks": 26,
         "language": "LLVM",
-        "pushed_at": "2025-08-06T13:21:38Z",
+        "pushed_at": "2025-08-06T13:52:38Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16316,10 +16316,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 31908,
-        "forks": 3732,
+        "stars": 31910,
+        "forks": 3733,
         "language": "Rust",
-        "pushed_at": "2025-08-06T13:25:48Z",
+        "pushed_at": "2025-08-06T13:46:39Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16726,8 +16726,8 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 8007,
-        "forks": 587,
+        "stars": 8166,
+        "forks": 599,
         "language": "Python",
         "pushed_at": "2025-08-06T00:53:08Z",
         "created_at": "2025-06-23T16:43:33Z"
@@ -16836,7 +16836,7 @@
         "name": "harmony",
         "description": "Renderer for the harmony response format to be used with gpt-oss",
         "url": "https://github.com/openai/harmony",
-        "stars": 2341,
+        "stars": 2356,
         "forks": 96,
         "language": "Rust",
         "pushed_at": "2025-08-06T00:13:42Z",
@@ -17236,7 +17236,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 13299,
+        "stars": 13301,
         "forks": 2125,
         "language": "Python",
         "pushed_at": "2025-08-06T10:22:38Z",
@@ -17276,8 +17276,8 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65882,
-        "forks": 10959,
+        "stars": 65893,
+        "forks": 10961,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-08-06T04:47:13Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -17316,7 +17316,7 @@
         "name": "openai-dotnet",
         "description": "The official .NET library for the OpenAI API",
         "url": "https://github.com/openai/openai-dotnet",
-        "stars": 2195,
+        "stars": 2196,
         "forks": 293,
         "language": "C#",
         "pushed_at": "2025-08-04T22:58:04Z",
@@ -17386,7 +17386,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27607,
+        "stars": 27608,
         "forks": 4111,
         "language": "Python",
         "pushed_at": "2025-08-05T19:42:08Z",
@@ -17996,7 +17996,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 20219,
+        "stars": 20218,
         "forks": 2154,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
@@ -18036,7 +18036,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 15378,
+        "stars": 15379,
         "forks": 1156,
         "language": "Python",
         "pushed_at": "2025-08-05T17:52:42Z",
@@ -18166,7 +18166,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 86159,
+        "stars": 86160,
         "forks": 10589,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
@@ -18641,7 +18641,7 @@
         "name": "CMSIS-DSP",
         "description": "CMSIS-DSP embedded compute library for Cortex-M and Cortex-A",
         "url": "https://github.com/ARM-software/CMSIS-DSP",
-        "stars": 774,
+        "stars": 775,
         "forks": 189,
         "language": "C",
         "pushed_at": "2025-07-28T12:39:26Z",
@@ -18944,7 +18944,7 @@
         "stars": 16,
         "forks": 8,
         "language": "C++",
-        "pushed_at": "2025-08-06T12:50:28Z",
+        "pushed_at": "2025-08-06T13:37:31Z",
         "created_at": "2021-09-14T14:54:28Z"
       },
       {
@@ -20044,7 +20044,7 @@
         "stars": 0,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-08-06T13:23:38Z",
+        "pushed_at": "2025-08-06T14:00:44Z",
         "created_at": "2025-07-29T15:11:16Z"
       },
       {
@@ -20199,7 +20199,7 @@
         "stars": 0,
         "forks": 1,
         "language": "未指定",
-        "pushed_at": "2025-08-06T13:13:33Z",
+        "pushed_at": "2025-08-06T13:40:30Z",
         "created_at": "2025-05-09T10:14:00Z"
       },
       {
@@ -20901,7 +20901,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 11545,
+        "stars": 11548,
         "forks": 1599,
         "language": "Python",
         "pushed_at": "2025-08-06T11:10:00Z",
@@ -21831,7 +21831,7 @@
         "name": "apis-client-generator",
         "description": "The Google APIs Client Generator is a tool for generating client libraries for APIs based on the Google API Discovery format. It is based on the same core technology Google uses to publish their API libraries.  Current support is for C++, C#/.NET, Dart, Java, Java/GWT, and PHP.",
         "url": "https://github.com/google/apis-client-generator",
-        "stars": 161,
+        "stars": 162,
         "forks": 51,
         "language": "Python",
         "pushed_at": "2021-01-25T17:11:53Z",
@@ -22904,7 +22904,7 @@
         "stars": 99,
         "forks": 39,
         "language": "C++",
-        "pushed_at": "2025-07-24T16:46:58Z",
+        "pushed_at": "2025-08-06T13:51:05Z",
         "created_at": "2022-10-21T18:06:37Z"
       },
       {
@@ -24251,7 +24251,7 @@
         "name": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "url": "https://github.com/google/CFU-Playground",
-        "stars": 512,
+        "stars": 513,
         "forks": 145,
         "language": "Verilog",
         "pushed_at": "2025-03-26T22:28:41Z",
@@ -25361,7 +25361,7 @@
         "name": "comprehensive-rust",
         "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
         "url": "https://github.com/google/comprehensive-rust",
-        "stars": 30522,
+        "stars": 30523,
         "forks": 1830,
         "language": "Rust",
         "pushed_at": "2025-08-06T07:52:37Z",
@@ -26674,7 +26674,7 @@
         "stars": 669,
         "forks": 109,
         "language": "C++",
-        "pushed_at": "2025-08-06T10:12:31Z",
+        "pushed_at": "2025-08-06T13:50:20Z",
         "created_at": "2023-10-04T16:54:23Z"
       },
       {
@@ -26971,7 +26971,7 @@
         "name": "desugar_jdk_libs",
         "description": "（无简介）",
         "url": "https://github.com/google/desugar_jdk_libs",
-        "stars": 378,
+        "stars": 377,
         "forks": 30,
         "language": "Java",
         "pushed_at": "2025-03-08T02:19:19Z",
@@ -29054,7 +29054,7 @@
         "stars": 18720,
         "forks": 2004,
         "language": "C++",
-        "pushed_at": "2025-08-06T06:03:08Z",
+        "pushed_at": "2025-08-06T14:00:51Z",
         "created_at": "2018-08-03T17:26:00Z"
       },
       {
@@ -29511,7 +29511,7 @@
         "name": "fonts",
         "description": "Font files available from Google Fonts, and a public issue tracker for all things Google Fonts",
         "url": "https://github.com/google/fonts",
-        "stars": 19098,
+        "stars": 19099,
         "forks": 2747,
         "language": "HTML",
         "pushed_at": "2025-08-06T13:18:44Z",
@@ -31024,7 +31024,7 @@
         "stars": 13,
         "forks": 3,
         "language": "Rust",
-        "pushed_at": "2025-08-06T13:19:02Z",
+        "pushed_at": "2025-08-06T13:42:08Z",
         "created_at": "2025-01-03T15:28:31Z"
       },
       {
@@ -35201,10 +35201,10 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 5618,
-        "forks": 305,
+        "stars": 5634,
+        "forks": 306,
         "language": "Python",
-        "pushed_at": "2025-08-06T13:13:51Z",
+        "pushed_at": "2025-08-06T13:39:22Z",
         "created_at": "2025-07-08T20:46:06Z"
       },
       {
@@ -35761,8 +35761,8 @@
         "name": "liquidfun",
         "description": "2D physics engine for games",
         "url": "https://github.com/google/liquidfun",
-        "stars": 4846,
-        "forks": 647,
+        "stars": 4847,
+        "forks": 648,
         "language": "C++",
         "pushed_at": "2023-04-26T20:07:43Z",
         "created_at": "2013-11-26T18:20:10Z"
@@ -36241,7 +36241,7 @@
         "name": "magika",
         "description": "Detect file content types with deep learning",
         "url": "https://github.com/google/magika",
-        "stars": 8745,
+        "stars": 8746,
         "forks": 451,
         "language": "Python",
         "pushed_at": "2025-08-04T07:30:51Z",
@@ -36872,7 +36872,7 @@
         "description": "A minimalistic C++ Jinja templating engine for LLM chat templates",
         "url": "https://github.com/google/minja",
         "stars": 164,
-        "forks": 19,
+        "forks": 20,
         "language": "C++",
         "pushed_at": "2025-07-11T09:01:01Z",
         "created_at": "2024-09-30T12:13:48Z"
@@ -38544,7 +38544,7 @@
         "stars": 593,
         "forks": 222,
         "language": "Python",
-        "pushed_at": "2025-08-05T20:38:11Z",
+        "pushed_at": "2025-08-06T13:59:01Z",
         "created_at": "2015-08-28T01:14:17Z"
       },
       {
@@ -38664,7 +38664,7 @@
         "stars": 63,
         "forks": 38,
         "language": "Shell",
-        "pushed_at": "2025-08-05T17:48:17Z",
+        "pushed_at": "2025-08-06T13:43:26Z",
         "created_at": "2020-06-11T19:57:36Z"
       },
       {
@@ -38851,7 +38851,7 @@
         "name": "oss-rebuild",
         "description": "Securing open-source package ecosystems by originating, validating, and augmenting build attestations.",
         "url": "https://github.com/google/oss-rebuild",
-        "stars": 587,
+        "stars": 588,
         "forks": 31,
         "language": "Go",
         "pushed_at": "2025-07-29T13:56:02Z",
@@ -39444,7 +39444,7 @@
         "stars": 4444,
         "forks": 543,
         "language": "C++",
-        "pushed_at": "2025-08-06T12:52:37Z",
+        "pushed_at": "2025-08-06T13:58:31Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -41244,7 +41244,7 @@
         "stars": 764,
         "forks": 146,
         "language": "C++",
-        "pushed_at": "2025-08-05T22:45:45Z",
+        "pushed_at": "2025-08-06T13:42:41Z",
         "created_at": "2021-07-27T18:19:46Z"
       },
       {
@@ -43454,7 +43454,7 @@
         "stars": 1319,
         "forks": 314,
         "language": "JavaScript",
-        "pushed_at": "2025-08-06T13:07:24Z",
+        "pushed_at": "2025-08-06T13:44:00Z",
         "created_at": "2019-06-11T14:20:21Z"
       },
       {
@@ -43802,7 +43802,7 @@
         "description": "（无简介）",
         "url": "https://github.com/google/smali",
         "stars": 298,
-        "forks": 49,
+        "forks": 48,
         "language": "Java",
         "pushed_at": "2025-04-07T06:57:00Z",
         "created_at": "2022-12-09T13:46:08Z"
@@ -44984,7 +44984,7 @@
         "stars": 5761,
         "forks": 1311,
         "language": "Go",
-        "pushed_at": "2025-08-06T10:08:53Z",
+        "pushed_at": "2025-08-06T13:54:32Z",
         "created_at": "2015-10-12T06:05:05Z"
       },
       {
@@ -45571,7 +45571,7 @@
         "name": "timesketch",
         "description": "Collaborative forensic timeline analysis",
         "url": "https://github.com/google/timesketch",
-        "stars": 2817,
+        "stars": 2818,
         "forks": 613,
         "language": "Python",
         "pushed_at": "2025-08-06T07:48:42Z",
@@ -46914,7 +46914,7 @@
         "stars": 7,
         "forks": 11,
         "language": "Python",
-        "pushed_at": "2025-08-06T13:25:31Z",
+        "pushed_at": "2025-08-06T13:54:56Z",
         "created_at": "2025-03-11T15:53:53Z"
       },
       {
