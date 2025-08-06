@@ -339,7 +339,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-08-06T14:02:01Z",
+        "pushed_at": "2025-08-06T14:46:24Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4027,7 +4027,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 12800,
-        "forks": 7740,
+        "forks": 7741,
         "language": "C",
         "pushed_at": "2025-08-06T14:20:15Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -11049,7 +11049,7 @@
         "stars": 38,
         "forks": 30,
         "language": "C++",
-        "pushed_at": "2025-08-06T14:37:17Z",
+        "pushed_at": "2025-08-06T15:08:10Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11097,7 +11097,7 @@
         "description": "Developer Portal",
         "url": "https://github.com/espressif/developer-portal",
         "stars": 17,
-        "forks": 39,
+        "forks": 38,
         "language": "HTML",
         "pushed_at": "2025-08-06T11:29:24Z",
         "created_at": "2024-02-08T09:26:09Z"
@@ -11476,7 +11476,7 @@
         "name": "esp-dsp",
         "description": "DSP library for ESP-IDF",
         "url": "https://github.com/espressif/esp-dsp",
-        "stars": 571,
+        "stars": 572,
         "forks": 103,
         "language": "C",
         "pushed_at": "2025-06-27T18:08:54Z",
@@ -12426,7 +12426,7 @@
         "name": "esp-who",
         "description": "Face detection and recognition framework",
         "url": "https://github.com/espressif/esp-who",
-        "stars": 1881,
+        "stars": 1882,
         "forks": 499,
         "language": "C",
         "pushed_at": "2025-07-23T07:54:40Z",
@@ -13239,7 +13239,7 @@
         "stars": 248,
         "forks": 26,
         "language": "LLVM",
-        "pushed_at": "2025-08-06T14:24:40Z",
+        "pushed_at": "2025-08-06T14:56:39Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13599,7 +13599,7 @@
         "stars": 1271,
         "forks": 332,
         "language": "TypeScript",
-        "pushed_at": "2025-08-06T05:10:07Z",
+        "pushed_at": "2025-08-06T14:50:55Z",
         "created_at": "2018-11-21T03:27:08Z"
       },
       {
@@ -15931,7 +15931,7 @@
         "name": "rt-thread",
         "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
         "url": "https://github.com/RT-Thread/rt-thread",
-        "stars": 11327,
+        "stars": 11328,
         "forks": 5229,
         "language": "C",
         "pushed_at": "2025-08-06T11:44:04Z",
@@ -16176,7 +16176,7 @@
         "name": "baselines",
         "description": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
         "url": "https://github.com/openai/baselines",
-        "stars": 16379,
+        "stars": 16380,
         "forks": 4923,
         "language": "Python",
         "pushed_at": "2024-08-01T21:31:33Z",
@@ -16286,7 +16286,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 30159,
+        "stars": 30162,
         "forks": 3701,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16316,10 +16316,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 31913,
+        "stars": 31918,
         "forks": 3733,
         "language": "Rust",
-        "pushed_at": "2025-08-06T13:46:39Z",
+        "pushed_at": "2025-08-06T15:05:19Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16676,7 +16676,7 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 24023,
+        "stars": 24024,
         "forks": 5756,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
@@ -16726,8 +16726,8 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 8373,
-        "forks": 617,
+        "stars": 8482,
+        "forks": 631,
         "language": "Python",
         "pushed_at": "2025-08-06T00:53:08Z",
         "created_at": "2025-06-23T16:43:33Z"
@@ -16767,7 +16767,7 @@
         "description": "（无简介）",
         "url": "https://github.com/openai/guided-diffusion",
         "stars": 6971,
-        "forks": 875,
+        "forks": 876,
         "language": "Python",
         "pushed_at": "2024-07-02T11:26:50Z",
         "created_at": "2021-04-27T20:27:52Z"
@@ -16776,8 +16776,8 @@
         "name": "gym",
         "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
         "url": "https://github.com/openai/gym",
-        "stars": 36336,
-        "forks": 8686,
+        "stars": 36337,
+        "forks": 8687,
         "language": "Python",
         "pushed_at": "2024-10-11T20:07:05Z",
         "created_at": "2016-04-27T14:59:16Z"
@@ -16836,8 +16836,8 @@
         "name": "harmony",
         "description": "Renderer for the harmony response format to be used with gpt-oss",
         "url": "https://github.com/openai/harmony",
-        "stars": 2391,
-        "forks": 100,
+        "stars": 2417,
+        "forks": 101,
         "language": "Rust",
         "pushed_at": "2025-08-06T00:13:42Z",
         "created_at": "2025-07-31T16:10:01Z"
@@ -16846,7 +16846,7 @@
         "name": "human-eval",
         "description": "Code for the paper \"Evaluating Large Language Models Trained on Code\"",
         "url": "https://github.com/openai/human-eval",
-        "stars": 2863,
+        "stars": 2864,
         "forks": 401,
         "language": "Python",
         "pushed_at": "2025-01-17T18:22:17Z",
@@ -17236,7 +17236,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 13302,
+        "stars": 13308,
         "forks": 2125,
         "language": "Python",
         "pushed_at": "2025-08-06T10:22:38Z",
@@ -17276,7 +17276,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65911,
+        "stars": 65919,
         "forks": 10961,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-08-06T04:47:13Z",
@@ -17316,7 +17316,7 @@
         "name": "openai-dotnet",
         "description": "The official .NET library for the OpenAI API",
         "url": "https://github.com/openai/openai-dotnet",
-        "stars": 2196,
+        "stars": 2197,
         "forks": 293,
         "language": "C#",
         "pushed_at": "2025-08-04T22:58:04Z",
@@ -17996,7 +17996,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 20218,
+        "stars": 20219,
         "forks": 2154,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
@@ -18294,7 +18294,7 @@
         "stars": 66,
         "forks": 67,
         "language": "Python",
-        "pushed_at": "2025-07-31T03:28:18Z",
+        "pushed_at": "2025-08-06T14:48:12Z",
         "created_at": "2020-09-30T14:08:10Z"
       },
       {
@@ -20399,7 +20399,7 @@
         "stars": 1127,
         "forks": 1352,
         "language": "C",
-        "pushed_at": "2025-08-06T14:10:49Z",
+        "pushed_at": "2025-08-06T15:15:02Z",
         "created_at": "2018-02-14T13:50:55Z"
       },
       {
@@ -20509,7 +20509,7 @@
         "stars": 327,
         "forks": 683,
         "language": "C",
-        "pushed_at": "2025-08-06T14:09:47Z",
+        "pushed_at": "2025-08-06T15:17:10Z",
         "created_at": "2018-02-05T14:45:23Z"
       },
       {
@@ -20901,7 +20901,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 11550,
+        "stars": 11552,
         "forks": 1600,
         "language": "Python",
         "pushed_at": "2025-08-06T11:10:00Z",
@@ -20911,7 +20911,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 3967,
+        "stars": 3968,
         "forks": 1186,
         "language": "Python",
         "pushed_at": "2025-08-01T15:46:49Z",
@@ -22904,7 +22904,7 @@
         "stars": 99,
         "forks": 39,
         "language": "C++",
-        "pushed_at": "2025-08-06T13:51:05Z",
+        "pushed_at": "2025-08-06T15:13:27Z",
         "created_at": "2022-10-21T18:06:37Z"
       },
       {
@@ -25921,7 +25921,7 @@
         "name": "cpu_features",
         "description": "A cross platform C99 library to get cpu features at runtime.",
         "url": "https://github.com/google/cpu_features",
-        "stars": 2539,
+        "stars": 2540,
         "forks": 282,
         "language": "C++",
         "pushed_at": "2025-08-05T10:37:15Z",
@@ -27064,7 +27064,7 @@
         "stars": 51,
         "forks": 20,
         "language": "Java",
-        "pushed_at": "2025-08-06T12:43:28Z",
+        "pushed_at": "2025-08-06T14:49:51Z",
         "created_at": "2022-04-15T03:00:41Z"
       },
       {
@@ -29051,7 +29051,7 @@
         "name": "filament",
         "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
         "url": "https://github.com/google/filament",
-        "stars": 18721,
+        "stars": 18722,
         "forks": 2004,
         "language": "C++",
         "pushed_at": "2025-08-06T14:00:51Z",
@@ -29514,7 +29514,7 @@
         "stars": 19100,
         "forks": 2747,
         "language": "HTML",
-        "pushed_at": "2025-08-06T13:18:44Z",
+        "pushed_at": "2025-08-06T15:06:56Z",
         "created_at": "2015-02-11T23:34:54Z"
       },
       {
@@ -29864,7 +29864,7 @@
         "stars": 880,
         "forks": 101,
         "language": "C++",
-        "pushed_at": "2025-08-06T14:34:23Z",
+        "pushed_at": "2025-08-06T14:52:07Z",
         "created_at": "2022-08-10T20:54:25Z"
       },
       {
@@ -31024,7 +31024,7 @@
         "stars": 13,
         "forks": 3,
         "language": "Rust",
-        "pushed_at": "2025-08-06T13:42:08Z",
+        "pushed_at": "2025-08-06T15:00:42Z",
         "created_at": "2025-01-03T15:28:31Z"
       },
       {
@@ -32531,7 +32531,7 @@
         "name": "gtest-parallel",
         "description": "Run Google Test suites in parallel.",
         "url": "https://github.com/google/gtest-parallel",
-        "stars": 444,
+        "stars": 445,
         "forks": 112,
         "language": "Python",
         "pushed_at": "2025-07-16T12:44:39Z",
@@ -32634,7 +32634,7 @@
         "stars": 50989,
         "forks": 11035,
         "language": "Java",
-        "pushed_at": "2025-08-06T14:33:59Z",
+        "pushed_at": "2025-08-06T14:59:13Z",
         "created_at": "2014-05-29T16:23:17Z"
       },
       {
@@ -34262,7 +34262,7 @@
         "description": "Google IT Automation with Python Professional Certificate - Practice files",
         "url": "https://github.com/google/it-cert-automation-practice",
         "stars": 948,
-        "forks": 45651,
+        "forks": 45652,
         "language": "Python",
         "pushed_at": "2024-08-21T14:58:21Z",
         "created_at": "2019-12-17T19:04:12Z"
@@ -34644,7 +34644,7 @@
         "stars": 71,
         "forks": 16,
         "language": "Java",
-        "pushed_at": "2025-08-06T13:20:01Z",
+        "pushed_at": "2025-08-06T15:09:58Z",
         "created_at": "2017-11-10T19:19:52Z"
       },
       {
@@ -35201,8 +35201,8 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 5655,
-        "forks": 307,
+        "stars": 5669,
+        "forks": 308,
         "language": "Python",
         "pushed_at": "2025-08-06T14:01:54Z",
         "created_at": "2025-07-08T20:46:06Z"
@@ -36241,7 +36241,7 @@
         "name": "magika",
         "description": "Detect file content types with deep learning",
         "url": "https://github.com/google/magika",
-        "stars": 8747,
+        "stars": 8748,
         "forks": 451,
         "language": "Python",
         "pushed_at": "2025-08-04T07:30:51Z",
@@ -36492,7 +36492,7 @@
         "description": "Material Design Components in HTML/CSS/JS",
         "url": "https://github.com/google/material-design-lite",
         "stars": 32267,
-        "forks": 4980,
+        "forks": 4979,
         "language": "HTML",
         "pushed_at": "2025-03-11T00:13:36Z",
         "created_at": "2015-01-14T22:01:33Z"
@@ -36714,7 +36714,7 @@
         "stars": 1079,
         "forks": 183,
         "language": "Python",
-        "pushed_at": "2025-08-06T06:34:32Z",
+        "pushed_at": "2025-08-06T15:06:09Z",
         "created_at": "2024-01-31T18:15:38Z"
       },
       {
@@ -36841,7 +36841,7 @@
         "name": "minijail",
         "description": "sandboxing and containment tool used in ChromeOS and Android",
         "url": "https://github.com/google/minijail",
-        "stars": 323,
+        "stars": 324,
         "forks": 31,
         "language": "C",
         "pushed_at": "2025-08-05T07:08:32Z",
@@ -38134,7 +38134,7 @@
         "stars": 1753,
         "forks": 284,
         "language": "Java",
-        "pushed_at": "2025-08-06T10:40:14Z",
+        "pushed_at": "2025-08-06T15:09:49Z",
         "created_at": "2016-02-29T20:16:48Z"
       },
       {
@@ -38834,7 +38834,7 @@
         "stars": 160,
         "forks": 42,
         "language": "Python",
-        "pushed_at": "2025-08-04T14:30:04Z",
+        "pushed_at": "2025-08-06T15:10:16Z",
         "created_at": "2021-03-23T06:04:38Z"
       },
       {
@@ -39444,7 +39444,7 @@
         "stars": 4444,
         "forks": 543,
         "language": "C++",
-        "pushed_at": "2025-08-06T14:43:18Z",
+        "pushed_at": "2025-08-06T15:16:13Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -41074,7 +41074,7 @@
         "stars": 40,
         "forks": 15,
         "language": "Python",
-        "pushed_at": "2025-08-06T14:37:25Z",
+        "pushed_at": "2025-08-06T14:52:04Z",
         "created_at": "2018-11-01T18:18:59Z"
       },
       {
@@ -42954,7 +42954,7 @@
         "stars": 4120,
         "forks": 480,
         "language": "C",
-        "pushed_at": "2025-08-06T14:44:20Z",
+        "pushed_at": "2025-08-06T15:00:23Z",
         "created_at": "2020-06-15T09:19:51Z"
       },
       {
@@ -43454,7 +43454,7 @@
         "stars": 1319,
         "forks": 314,
         "language": "JavaScript",
-        "pushed_at": "2025-08-06T13:44:00Z",
+        "pushed_at": "2025-08-06T15:11:52Z",
         "created_at": "2019-06-11T14:20:21Z"
       },
       {
@@ -43464,7 +43464,7 @@
         "stars": 10005,
         "forks": 1601,
         "language": "C++",
-        "pushed_at": "2025-08-06T14:38:31Z",
+        "pushed_at": "2025-08-06T15:04:32Z",
         "created_at": "2014-01-09T17:09:57Z"
       },
       {
