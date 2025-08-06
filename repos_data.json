@@ -339,7 +339,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-08-06T17:26:11Z",
+        "pushed_at": "2025-08-06T17:52:38Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4026,8 +4026,8 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12803,
-        "forks": 7741,
+        "stars": 12804,
+        "forks": 7742,
         "language": "C",
         "pushed_at": "2025-08-06T16:04:26Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -8601,7 +8601,7 @@
         "name": "STM32CubeH7",
         "description": "STM32Cube MCU Full Package for the STM32H7 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
         "url": "https://github.com/STMicroelectronics/STM32CubeH7",
-        "stars": 632,
+        "stars": 633,
         "forks": 338,
         "language": "C",
         "pushed_at": "2025-07-24T16:32:22Z",
@@ -11646,7 +11646,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 15966,
+        "stars": 15965,
         "forks": 7803,
         "language": "C",
         "pushed_at": "2025-08-06T02:22:41Z",
@@ -12019,7 +12019,7 @@
         "stars": 4,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-08-06T16:03:30Z",
+        "pushed_at": "2025-08-06T18:05:58Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -13239,7 +13239,7 @@
         "stars": 248,
         "forks": 26,
         "language": "LLVM",
-        "pushed_at": "2025-08-06T17:33:40Z",
+        "pushed_at": "2025-08-06T18:04:38Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13359,7 +13359,7 @@
         "stars": 30,
         "forks": 9,
         "language": "C++",
-        "pushed_at": "2025-08-06T02:59:13Z",
+        "pushed_at": "2025-08-06T17:58:06Z",
         "created_at": "2021-03-01T07:44:10Z"
       },
       {
@@ -16276,7 +16276,7 @@
         "name": "chz",
         "description": "（无简介）",
         "url": "https://github.com/openai/chz",
-        "stars": 121,
+        "stars": 122,
         "forks": 4,
         "language": "Python",
         "pushed_at": "2025-08-04T06:37:37Z",
@@ -16319,7 +16319,7 @@
         "stars": 31926,
         "forks": 3734,
         "language": "Rust",
-        "pushed_at": "2025-08-06T17:52:06Z",
+        "pushed_at": "2025-08-06T18:12:07Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16726,8 +16726,8 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 8956,
-        "forks": 685,
+        "stars": 9040,
+        "forks": 691,
         "language": "Python",
         "pushed_at": "2025-08-06T00:53:08Z",
         "created_at": "2025-06-23T16:43:33Z"
@@ -16776,7 +16776,7 @@
         "name": "gym",
         "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
         "url": "https://github.com/openai/gym",
-        "stars": 36338,
+        "stars": 36340,
         "forks": 8687,
         "language": "Python",
         "pushed_at": "2024-10-11T20:07:05Z",
@@ -16836,8 +16836,8 @@
         "name": "harmony",
         "description": "Renderer for the harmony response format to be used with gpt-oss",
         "url": "https://github.com/openai/harmony",
-        "stars": 2515,
-        "forks": 111,
+        "stars": 2531,
+        "forks": 115,
         "language": "Rust",
         "pushed_at": "2025-08-06T00:13:42Z",
         "created_at": "2025-07-31T16:10:01Z"
@@ -17236,10 +17236,10 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 13314,
+        "stars": 13315,
         "forks": 2125,
         "language": "Python",
-        "pushed_at": "2025-08-06T10:22:38Z",
+        "pushed_at": "2025-08-06T18:12:51Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -17276,10 +17276,10 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 65952,
+        "stars": 65959,
         "forks": 10965,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-08-06T04:47:13Z",
+        "pushed_at": "2025-08-06T18:21:35Z",
         "created_at": "2022-03-11T02:08:53Z"
       },
       {
@@ -17416,7 +17416,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 6120,
+        "stars": 6122,
         "forks": 851,
         "language": "TypeScript",
         "pushed_at": "2025-06-16T14:47:04Z",
@@ -17466,7 +17466,7 @@
         "name": "openai-realtime-twilio-demo",
         "description": "（无简介）",
         "url": "https://github.com/openai/openai-realtime-twilio-demo",
-        "stars": 411,
+        "stars": 412,
         "forks": 134,
         "language": "TypeScript",
         "pushed_at": "2024-12-30T16:38:04Z",
@@ -17996,7 +17996,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 20219,
+        "stars": 20220,
         "forks": 2154,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
@@ -18036,7 +18036,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 15386,
+        "stars": 15387,
         "forks": 1157,
         "language": "Python",
         "pushed_at": "2025-08-05T17:52:42Z",
@@ -18166,8 +18166,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 86168,
-        "forks": 10588,
+        "stars": 86170,
+        "forks": 10589,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -18771,7 +18771,7 @@
         "name": "CMSIS_5",
         "description": "CMSIS Version 5 Development Repository",
         "url": "https://github.com/ARM-software/CMSIS_5",
-        "stars": 1494,
+        "stars": 1495,
         "forks": 1100,
         "language": "C",
         "pushed_at": "2024-09-03T14:33:59Z",
@@ -20901,17 +20901,17 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 11556,
+        "stars": 11557,
         "forks": 1602,
         "language": "Python",
-        "pushed_at": "2025-08-06T17:51:12Z",
+        "pushed_at": "2025-08-06T18:09:50Z",
         "created_at": "2025-04-01T20:44:40Z"
       },
       {
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 3971,
+        "stars": 3974,
         "forks": 1188,
         "language": "Python",
         "pushed_at": "2025-08-01T15:46:49Z",
@@ -21734,7 +21734,7 @@
         "stars": 52,
         "forks": 17,
         "language": "C++",
-        "pushed_at": "2025-08-06T16:38:45Z",
+        "pushed_at": "2025-08-06T18:08:34Z",
         "created_at": "2023-03-09T17:56:45Z"
       },
       {
@@ -23014,7 +23014,7 @@
         "stars": 13031,
         "forks": 3790,
         "language": "TypeScript",
-        "pushed_at": "2025-08-06T17:45:54Z",
+        "pushed_at": "2025-08-06T17:55:13Z",
         "created_at": "2013-10-25T21:13:33Z"
       },
       {
@@ -24094,7 +24094,7 @@
         "stars": 193,
         "forks": 60,
         "language": "C++",
-        "pushed_at": "2025-08-06T17:24:14Z",
+        "pushed_at": "2025-08-06T18:19:07Z",
         "created_at": "2018-02-15T22:25:24Z"
       },
       {
@@ -24984,7 +24984,7 @@
         "stars": 5435,
         "forks": 584,
         "language": "Python",
-        "pushed_at": "2025-08-06T15:59:00Z",
+        "pushed_at": "2025-08-06T18:21:43Z",
         "created_at": "2019-01-29T00:19:40Z"
       },
       {
@@ -26674,7 +26674,7 @@
         "stars": 669,
         "forks": 109,
         "language": "C++",
-        "pushed_at": "2025-08-06T16:11:29Z",
+        "pushed_at": "2025-08-06T18:13:22Z",
         "created_at": "2023-10-04T16:54:23Z"
       },
       {
@@ -26821,7 +26821,7 @@
         "name": "deeppolisher",
         "description": "Transformer-based sequence correction method for genome assembly polishing",
         "url": "https://github.com/google/deeppolisher",
-        "stars": 54,
+        "stars": 55,
         "forks": 3,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-03-11T16:18:02Z",
@@ -29864,7 +29864,7 @@
         "stars": 880,
         "forks": 101,
         "language": "C++",
-        "pushed_at": "2025-08-06T16:48:02Z",
+        "pushed_at": "2025-08-06T18:25:25Z",
         "created_at": "2022-08-10T20:54:25Z"
       },
       {
@@ -31024,7 +31024,7 @@
         "stars": 13,
         "forks": 3,
         "language": "Rust",
-        "pushed_at": "2025-08-06T15:00:42Z",
+        "pushed_at": "2025-08-06T18:03:48Z",
         "created_at": "2025-01-03T15:28:31Z"
       },
       {
@@ -31731,7 +31731,7 @@
         "name": "google-authenticator",
         "description": "Open source version of Google Authenticator (except the Android app)",
         "url": "https://github.com/google/google-authenticator",
-        "stars": 5294,
+        "stars": 5295,
         "forks": 980,
         "language": "Java",
         "pushed_at": "2020-09-28T13:57:17Z",
@@ -31741,7 +31741,7 @@
         "name": "google-authenticator-android",
         "description": "Open source fork of the Google Authenticator Android app",
         "url": "https://github.com/google/google-authenticator-android",
-        "stars": 1644,
+        "stars": 1645,
         "forks": 481,
         "language": "Java",
         "pushed_at": "2020-06-09T13:34:39Z",
@@ -32191,7 +32191,7 @@
         "name": "gpt-disk-rs",
         "description": "Rust libraries for working with GPT (GUID Partition Table) disk data",
         "url": "https://github.com/google/gpt-disk-rs",
-        "stars": 67,
+        "stars": 68,
         "forks": 12,
         "language": "Rust",
         "pushed_at": "2025-08-03T17:28:18Z",
@@ -32594,7 +32594,7 @@
         "stars": 407,
         "forks": 214,
         "language": "Swift",
-        "pushed_at": "2025-08-05T20:16:38Z",
+        "pushed_at": "2025-08-06T18:25:11Z",
         "created_at": "2016-08-08T21:42:48Z"
       },
       {
@@ -32634,7 +32634,7 @@
         "stars": 50990,
         "forks": 11035,
         "language": "Java",
-        "pushed_at": "2025-08-06T17:32:36Z",
+        "pushed_at": "2025-08-06T18:08:53Z",
         "created_at": "2014-05-29T16:23:17Z"
       },
       {
@@ -32744,7 +32744,7 @@
         "stars": 16799,
         "forks": 1415,
         "language": "Go",
-        "pushed_at": "2025-08-06T17:40:04Z",
+        "pushed_at": "2025-08-06T18:04:42Z",
         "created_at": "2018-04-26T21:28:49Z"
       },
       {
@@ -34262,7 +34262,7 @@
         "description": "Google IT Automation with Python Professional Certificate - Practice files",
         "url": "https://github.com/google/it-cert-automation-practice",
         "stars": 948,
-        "forks": 45653,
+        "forks": 45654,
         "language": "Python",
         "pushed_at": "2024-08-21T14:58:21Z",
         "created_at": "2019-12-17T19:04:12Z"
@@ -34284,7 +34284,7 @@
         "stars": 1317,
         "forks": 150,
         "language": "Java",
-        "pushed_at": "2025-08-06T13:21:14Z",
+        "pushed_at": "2025-08-06T18:19:06Z",
         "created_at": "2017-06-20T09:53:52Z"
       },
       {
@@ -35114,7 +35114,7 @@
         "stars": 3184,
         "forks": 330,
         "language": "Kotlin",
-        "pushed_at": "2025-08-05T19:12:34Z",
+        "pushed_at": "2025-08-06T18:01:30Z",
         "created_at": "2020-09-22T18:59:42Z"
       },
       {
@@ -35201,7 +35201,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 5729,
+        "stars": 5743,
         "forks": 310,
         "language": "Python",
         "pushed_at": "2025-08-06T14:01:54Z",
@@ -35391,7 +35391,7 @@
         "name": "leveldb",
         "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
         "url": "https://github.com/google/leveldb",
-        "stars": 37961,
+        "stars": 37962,
         "forks": 8037,
         "language": "C++",
         "pushed_at": "2025-01-30T17:33:01Z",
@@ -36481,8 +36481,8 @@
         "name": "material-design-icons",
         "description": "Material Design icons by Google (Material Symbols)",
         "url": "https://github.com/google/material-design-icons",
-        "stars": 51919,
-        "forks": 9661,
+        "stars": 51920,
+        "forks": 9660,
         "language": "未指定",
         "pushed_at": "2025-08-01T18:36:00Z",
         "created_at": "2014-10-08T18:01:28Z"
@@ -37714,7 +37714,7 @@
         "stars": 850,
         "forks": 179,
         "language": "C++",
-        "pushed_at": "2025-08-06T17:28:39Z",
+        "pushed_at": "2025-08-06T18:21:42Z",
         "created_at": "2020-04-23T20:41:37Z"
       },
       {
@@ -38274,7 +38274,7 @@
         "stars": 3895,
         "forks": 591,
         "language": "C++",
-        "pushed_at": "2025-08-06T00:39:12Z",
+        "pushed_at": "2025-08-06T18:17:17Z",
         "created_at": "2017-10-02T17:56:48Z"
       },
       {
@@ -38674,7 +38674,7 @@
         "stars": 410,
         "forks": 64,
         "language": "Python",
-        "pushed_at": "2025-08-06T17:48:31Z",
+        "pushed_at": "2025-08-06T18:12:15Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -38811,7 +38811,7 @@
         "name": "oss-fuzz",
         "description": "OSS-Fuzz - continuous fuzzing for open source software.",
         "url": "https://github.com/google/oss-fuzz",
-        "stars": 11221,
+        "stars": 11220,
         "forks": 2446,
         "language": "Shell",
         "pushed_at": "2025-08-06T17:00:08Z",
@@ -39444,7 +39444,7 @@
         "stars": 4445,
         "forks": 544,
         "language": "C++",
-        "pushed_at": "2025-08-06T17:43:34Z",
+        "pushed_at": "2025-08-06T18:12:02Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -39684,7 +39684,7 @@
         "stars": 427,
         "forks": 92,
         "language": "C++",
-        "pushed_at": "2025-08-06T17:43:59Z",
+        "pushed_at": "2025-08-06T18:02:31Z",
         "created_at": "2021-03-09T22:07:25Z"
       },
       {
@@ -40141,7 +40141,7 @@
         "name": "pprof",
         "description": "pprof is a tool for visualization and analysis of profiling data",
         "url": "https://github.com/google/pprof",
-        "stars": 8646,
+        "stars": 8647,
         "forks": 628,
         "language": "Go",
         "pushed_at": "2025-07-01T23:37:15Z",
@@ -40484,7 +40484,7 @@
         "stars": 33,
         "forks": 8,
         "language": "TypeScript",
-        "pushed_at": "2025-08-05T08:38:48Z",
+        "pushed_at": "2025-08-06T18:04:19Z",
         "created_at": "2025-02-17T07:25:12Z"
       },
       {
@@ -43454,7 +43454,7 @@
         "stars": 1319,
         "forks": 314,
         "language": "JavaScript",
-        "pushed_at": "2025-08-06T17:20:59Z",
+        "pushed_at": "2025-08-06T18:20:30Z",
         "created_at": "2019-06-11T14:20:21Z"
       },
       {
@@ -43474,7 +43474,7 @@
         "stars": 155,
         "forks": 76,
         "language": "Go",
-        "pushed_at": "2025-08-06T17:07:31Z",
+        "pushed_at": "2025-08-06T18:23:30Z",
         "created_at": "2014-01-09T17:10:17Z"
       },
       {
@@ -43531,7 +43531,7 @@
         "name": "skywater-pdk",
         "description": "Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.",
         "url": "https://github.com/google/skywater-pdk",
-        "stars": 3216,
+        "stars": 3217,
         "forks": 424,
         "language": "Python",
         "pushed_at": "2024-10-28T09:51:48Z",
