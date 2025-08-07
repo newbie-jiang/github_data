@@ -339,7 +339,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-08-07T22:43:15Z",
+        "pushed_at": "2025-08-07T23:18:26Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -1861,7 +1861,7 @@
         "name": "nrf24l01",
         "description": "NRF24L01 full-featured driver library for general-purpose MCU and Linux.",
         "url": "https://github.com/libdriver/nrf24l01",
-        "stars": 291,
+        "stars": 292,
         "forks": 41,
         "language": "C",
         "pushed_at": "2025-04-17T17:26:52Z",
@@ -4027,7 +4027,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 12816,
-        "forks": 7745,
+        "forks": 7746,
         "language": "C",
         "pushed_at": "2025-08-07T14:20:41Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -10621,7 +10621,7 @@
         "name": "X-CUBE-MEMS1",
         "description": "X-CUBE-MEMS1 is an expansion software package for STM32Cube. The software runs on the STM32 and includes drivers that recognize the sensors and collect temperature, humidity, pressure and motion data.",
         "url": "https://github.com/STMicroelectronics/X-CUBE-MEMS1",
-        "stars": 63,
+        "stars": 64,
         "forks": 16,
         "language": "C",
         "pushed_at": "2025-05-13T07:12:45Z",
@@ -13239,7 +13239,7 @@
         "stars": 248,
         "forks": 26,
         "language": "LLVM",
-        "pushed_at": "2025-08-07T22:56:39Z",
+        "pushed_at": "2025-08-07T23:27:40Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16316,10 +16316,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 32198,
-        "forks": 3758,
+        "stars": 32206,
+        "forks": 3760,
         "language": "Rust",
-        "pushed_at": "2025-08-07T23:17:39Z",
+        "pushed_at": "2025-08-07T23:33:53Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16676,7 +16676,7 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 24036,
+        "stars": 24037,
         "forks": 5758,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
@@ -16716,8 +16716,8 @@
         "name": "gpt-5-coding-examples",
         "description": "GPT-5 coding examples",
         "url": "https://github.com/openai/gpt-5-coding-examples",
-        "stars": 277,
-        "forks": 26,
+        "stars": 280,
+        "forks": 25,
         "language": "HTML",
         "pushed_at": "2025-08-07T18:20:10Z",
         "created_at": "2025-08-07T01:06:40Z"
@@ -16736,8 +16736,8 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 13351,
-        "forks": 1051,
+        "stars": 13395,
+        "forks": 1057,
         "language": "Python",
         "pushed_at": "2025-08-07T19:58:44Z",
         "created_at": "2025-06-23T16:43:33Z"
@@ -16756,7 +16756,7 @@
         "name": "grade-school-math",
         "description": "（无简介）",
         "url": "https://github.com/openai/grade-school-math",
-        "stars": 1304,
+        "stars": 1305,
         "forks": 177,
         "language": "Python",
         "pushed_at": "2024-01-21T10:54:11Z",
@@ -16846,7 +16846,7 @@
         "name": "harmony",
         "description": "Renderer for the harmony response format to be used with gpt-oss",
         "url": "https://github.com/openai/harmony",
-        "stars": 3023,
+        "stars": 3025,
         "forks": 147,
         "language": "Rust",
         "pushed_at": "2025-08-06T23:21:08Z",
@@ -17246,7 +17246,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 13358,
+        "stars": 13359,
         "forks": 2131,
         "language": "Python",
         "pushed_at": "2025-08-07T21:06:16Z",
@@ -17286,10 +17286,10 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 66303,
-        "forks": 11005,
+        "stars": 66307,
+        "forks": 11006,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-08-07T23:12:05Z",
+        "pushed_at": "2025-08-07T23:31:22Z",
         "created_at": "2022-03-11T02:08:53Z"
       },
       {
@@ -18087,7 +18087,7 @@
         "description": "Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.",
         "url": "https://github.com/openai/universe",
         "stars": 7516,
-        "forks": 956,
+        "forks": 955,
         "language": "Python",
         "pushed_at": "2018-04-05T18:58:15Z",
         "created_at": "2016-12-04T21:53:35Z"
@@ -20911,7 +20911,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 11638,
+        "stars": 11639,
         "forks": 1632,
         "language": "Python",
         "pushed_at": "2025-08-07T22:41:10Z",
@@ -21484,7 +21484,7 @@
         "stars": 521,
         "forks": 164,
         "language": "C++",
-        "pushed_at": "2025-08-07T23:15:15Z",
+        "pushed_at": "2025-08-07T23:26:06Z",
         "created_at": "2017-12-13T19:42:51Z"
       },
       {
@@ -26684,7 +26684,7 @@
         "stars": 671,
         "forks": 109,
         "language": "C++",
-        "pushed_at": "2025-08-07T22:03:34Z",
+        "pushed_at": "2025-08-07T23:35:54Z",
         "created_at": "2023-10-04T16:54:23Z"
       },
       {
@@ -27582,7 +27582,7 @@
         "description": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
         "url": "https://github.com/google/draco",
         "stars": 6888,
-        "forks": 1004,
+        "forks": 1005,
         "language": "C++",
         "pushed_at": "2025-07-22T23:32:34Z",
         "created_at": "2016-12-05T20:14:02Z"
@@ -29884,7 +29884,7 @@
         "stars": 880,
         "forks": 101,
         "language": "C++",
-        "pushed_at": "2025-08-07T21:19:52Z",
+        "pushed_at": "2025-08-07T23:19:36Z",
         "created_at": "2022-08-10T20:54:25Z"
       },
       {
@@ -32764,7 +32764,7 @@
         "stars": 16807,
         "forks": 1415,
         "language": "Go",
-        "pushed_at": "2025-08-07T23:07:55Z",
+        "pushed_at": "2025-08-07T23:33:47Z",
         "created_at": "2018-04-26T21:28:49Z"
       },
       {
@@ -34681,7 +34681,7 @@
         "name": "jsir",
         "description": "Next-generation JavaScript analysis tooling",
         "url": "https://github.com/google/jsir",
-        "stars": 46,
+        "stars": 49,
         "forks": 5,
         "language": "C++",
         "pushed_at": "2025-08-06T23:43:05Z",
@@ -35221,7 +35221,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 6215,
+        "stars": 6216,
         "forks": 342,
         "language": "Python",
         "pushed_at": "2025-08-07T07:56:51Z",
@@ -37734,7 +37734,7 @@
         "stars": 850,
         "forks": 179,
         "language": "C++",
-        "pushed_at": "2025-08-07T23:09:22Z",
+        "pushed_at": "2025-08-07T23:36:39Z",
         "created_at": "2020-04-23T20:41:37Z"
       },
       {
@@ -38874,7 +38874,7 @@
         "stars": 592,
         "forks": 32,
         "language": "Go",
-        "pushed_at": "2025-08-07T20:14:56Z",
+        "pushed_at": "2025-08-07T23:31:38Z",
         "created_at": "2024-05-22T15:44:36Z"
       },
       {
@@ -39374,7 +39374,7 @@
         "stars": 61,
         "forks": 12,
         "language": "Rust",
-        "pushed_at": "2025-08-07T22:24:08Z",
+        "pushed_at": "2025-08-07T23:35:29Z",
         "created_at": "2023-04-19T22:11:03Z"
       },
       {
@@ -41314,7 +41314,7 @@
         "stars": 22,
         "forks": 3,
         "language": "Python",
-        "pushed_at": "2025-08-07T00:44:17Z",
+        "pushed_at": "2025-08-07T23:26:12Z",
         "created_at": "2025-03-19T23:45:26Z"
       },
       {
@@ -42901,7 +42901,7 @@
         "name": "sec-gemini",
         "description": "Sec-Gemini v1 is a cutting-edge AI model designed to enhance cybersecurity capabilities and empower defenders in the ongoing battle against cyber threats.",
         "url": "https://github.com/google/sec-gemini",
-        "stars": 31,
+        "stars": 32,
         "forks": 8,
         "language": "Svelte",
         "pushed_at": "2025-08-07T16:47:22Z",
