@@ -339,7 +339,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-08-08T14:28:35Z",
+        "pushed_at": "2025-08-08T14:54:01Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -10886,10 +10886,10 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15197,
+        "stars": 15198,
         "forks": 7670,
         "language": "C++",
-        "pushed_at": "2025-08-08T14:22:07Z",
+        "pushed_at": "2025-08-08T15:12:58Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -11059,7 +11059,7 @@
         "stars": 38,
         "forks": 30,
         "language": "C++",
-        "pushed_at": "2025-08-08T07:57:09Z",
+        "pushed_at": "2025-08-08T15:10:37Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11657,7 +11657,7 @@
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
         "stars": 15975,
-        "forks": 7804,
+        "forks": 7805,
         "language": "C",
         "pushed_at": "2025-08-06T02:22:41Z",
         "created_at": "2016-08-17T10:40:35Z"
@@ -12436,7 +12436,7 @@
         "name": "esp-who",
         "description": "Face detection and recognition framework",
         "url": "https://github.com/espressif/esp-who",
-        "stars": 1884,
+        "stars": 1885,
         "forks": 499,
         "language": "C",
         "pushed_at": "2025-07-23T07:54:40Z",
@@ -15942,7 +15942,7 @@
         "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
         "url": "https://github.com/RT-Thread/rt-thread",
         "stars": 11335,
-        "forks": 5229,
+        "forks": 5230,
         "language": "C",
         "pushed_at": "2025-08-08T06:50:52Z",
         "created_at": "2013-01-02T14:49:21Z"
@@ -16326,10 +16326,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 32622,
-        "forks": 3796,
+        "stars": 32631,
+        "forks": 3797,
         "language": "Rust",
-        "pushed_at": "2025-08-08T12:05:34Z",
+        "pushed_at": "2025-08-08T15:13:18Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16546,7 +16546,7 @@
         "name": "evolution-strategies-starter",
         "description": "Code for the paper \"Evolution Strategies as a Scalable Alternative to Reinforcement Learning\"",
         "url": "https://github.com/openai/evolution-strategies-starter",
-        "stars": 1594,
+        "stars": 1595,
         "forks": 279,
         "language": "Python",
         "pushed_at": "2019-10-31T09:20:13Z",
@@ -16726,7 +16726,7 @@
         "name": "gpt-5-coding-examples",
         "description": "GPT-5 coding examples",
         "url": "https://github.com/openai/gpt-5-coding-examples",
-        "stars": 513,
+        "stars": 515,
         "forks": 50,
         "language": "HTML",
         "pushed_at": "2025-08-08T04:36:36Z",
@@ -16746,8 +16746,8 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 15387,
-        "forks": 1206,
+        "stars": 15399,
+        "forks": 1210,
         "language": "Python",
         "pushed_at": "2025-08-07T23:43:05Z",
         "created_at": "2025-06-23T16:43:33Z"
@@ -16856,7 +16856,7 @@
         "name": "harmony",
         "description": "Renderer for the harmony response format to be used with gpt-oss",
         "url": "https://github.com/openai/harmony",
-        "stars": 3119,
+        "stars": 3120,
         "forks": 155,
         "language": "Rust",
         "pushed_at": "2025-08-06T23:21:08Z",
@@ -17296,7 +17296,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 66518,
+        "stars": 66523,
         "forks": 11026,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-08-07T23:31:22Z",
@@ -17366,10 +17366,10 @@
         "name": "openai-go",
         "description": "The official Go library for the OpenAI API",
         "url": "https://github.com/openai/openai-go",
-        "stars": 2164,
+        "stars": 2165,
         "forks": 181,
         "language": "Go",
-        "pushed_at": "2025-08-08T11:22:22Z",
+        "pushed_at": "2025-08-08T14:54:33Z",
         "created_at": "2024-07-22T19:29:26Z"
       },
       {
@@ -17379,7 +17379,7 @@
         "stars": 1003,
         "forks": 146,
         "language": "Kotlin",
-        "pushed_at": "2025-08-08T13:53:37Z",
+        "pushed_at": "2025-08-08T15:00:49Z",
         "created_at": "2024-10-31T17:42:57Z"
       },
       {
@@ -17387,9 +17387,9 @@
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
         "stars": 9572,
-        "forks": 1170,
+        "forks": 1171,
         "language": "TypeScript",
-        "pushed_at": "2025-08-08T11:22:38Z",
+        "pushed_at": "2025-08-08T14:54:54Z",
         "created_at": "2021-12-14T22:32:58Z"
       },
       {
@@ -17406,10 +17406,10 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 27719,
+        "stars": 27732,
         "forks": 4128,
         "language": "Python",
-        "pushed_at": "2025-08-08T13:49:25Z",
+        "pushed_at": "2025-08-08T14:57:04Z",
         "created_at": "2020-10-25T23:23:54Z"
       },
       {
@@ -17509,7 +17509,7 @@
         "stars": 298,
         "forks": 19,
         "language": "Ruby",
-        "pushed_at": "2025-08-08T11:23:18Z",
+        "pushed_at": "2025-08-08T14:57:59Z",
         "created_at": "2025-03-05T18:31:42Z"
       },
       {
@@ -17966,7 +17966,7 @@
         "name": "spinningup",
         "description": "An educational resource to help anyone learn deep reinforcement learning.",
         "url": "https://github.com/openai/spinningup",
-        "stars": 11116,
+        "stars": 11117,
         "forks": 2371,
         "language": "Python",
         "pushed_at": "2024-08-05T03:30:30Z",
@@ -18016,7 +18016,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 20225,
+        "stars": 20224,
         "forks": 2154,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
@@ -18186,7 +18186,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 86287,
+        "stars": 86288,
         "forks": 10616,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
@@ -19884,7 +19884,7 @@
         "stars": 271,
         "forks": 146,
         "language": "Python",
-        "pushed_at": "2025-08-08T14:41:23Z",
+        "pushed_at": "2025-08-08T15:10:16Z",
         "created_at": "2018-10-31T08:39:51Z"
       },
       {
@@ -20064,7 +20064,7 @@
         "stars": 0,
         "forks": 0,
         "language": "C++",
-        "pushed_at": "2025-08-08T14:47:26Z",
+        "pushed_at": "2025-08-08T15:14:35Z",
         "created_at": "2025-07-29T15:11:16Z"
       },
       {
@@ -20429,7 +20429,7 @@
         "stars": 154,
         "forks": 329,
         "language": "C",
-        "pushed_at": "2025-08-08T12:12:54Z",
+        "pushed_at": "2025-08-08T14:55:55Z",
         "created_at": "2018-09-21T11:46:24Z"
       },
       {
@@ -20921,7 +20921,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 11729,
+        "stars": 11732,
         "forks": 1637,
         "language": "Python",
         "pushed_at": "2025-08-08T14:35:55Z",
@@ -20931,7 +20931,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 4142,
+        "stars": 4149,
         "forks": 1221,
         "language": "Python",
         "pushed_at": "2025-08-01T15:46:49Z",
@@ -23094,7 +23094,7 @@
         "stars": 16,
         "forks": 13,
         "language": "TypeScript",
-        "pushed_at": "2025-08-08T01:10:05Z",
+        "pushed_at": "2025-08-08T15:05:57Z",
         "created_at": "2024-06-07T20:59:16Z"
       },
       {
@@ -23411,7 +23411,7 @@
         "name": "btree",
         "description": "BTree provides a simple, ordered, in-memory data structure for Go programs.",
         "url": "https://github.com/google/btree",
-        "stars": 4113,
+        "stars": 4114,
         "forks": 421,
         "language": "Go",
         "pushed_at": "2024-08-21T16:46:53Z",
@@ -23784,7 +23784,7 @@
         "stars": 333,
         "forks": 38,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-08-08T13:36:37Z",
+        "pushed_at": "2025-08-08T15:09:15Z",
         "created_at": "2024-09-06T17:43:58Z"
       },
       {
@@ -26154,7 +26154,7 @@
         "stars": 846,
         "forks": 53,
         "language": "Rust",
-        "pushed_at": "2025-08-08T11:31:27Z",
+        "pushed_at": "2025-08-08T15:07:18Z",
         "created_at": "2022-03-02T09:13:13Z"
       },
       {
@@ -29894,7 +29894,7 @@
         "stars": 880,
         "forks": 101,
         "language": "C++",
-        "pushed_at": "2025-08-08T14:50:08Z",
+        "pushed_at": "2025-08-08T15:14:57Z",
         "created_at": "2022-08-10T20:54:25Z"
       },
       {
@@ -31234,7 +31234,7 @@
         "stars": 10882,
         "forks": 2150,
         "language": "Go",
-        "pushed_at": "2025-08-04T19:02:51Z",
+        "pushed_at": "2025-08-08T15:09:04Z",
         "created_at": "2013-05-24T16:42:58Z"
       },
       {
@@ -31761,7 +31761,7 @@
         "name": "google-authenticator",
         "description": "Open source version of Google Authenticator (except the Android app)",
         "url": "https://github.com/google/google-authenticator",
-        "stars": 5297,
+        "stars": 5296,
         "forks": 981,
         "language": "Java",
         "pushed_at": "2020-09-28T13:57:17Z",
@@ -31881,7 +31881,7 @@
         "name": "google-java-format",
         "description": "Reformats Java source code to comply with Google Java Style.",
         "url": "https://github.com/google/google-java-format",
-        "stars": 5878,
+        "stars": 5879,
         "forks": 889,
         "language": "Java",
         "pushed_at": "2025-07-18T19:06:31Z",
@@ -32664,7 +32664,7 @@
         "stars": 50992,
         "forks": 11036,
         "language": "Java",
-        "pushed_at": "2025-08-08T14:46:08Z",
+        "pushed_at": "2025-08-08T15:11:18Z",
         "created_at": "2014-05-29T16:23:17Z"
       },
       {
@@ -34191,7 +34191,7 @@
         "name": "ios-webkit-debug-proxy",
         "description": "A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).",
         "url": "https://github.com/google/ios-webkit-debug-proxy",
-        "stars": 6076,
+        "stars": 6075,
         "forks": 472,
         "language": "C",
         "pushed_at": "2025-07-02T07:34:34Z",
@@ -35084,7 +35084,7 @@
         "stars": 26,
         "forks": 14,
         "language": "C++",
-        "pushed_at": "2025-08-08T14:53:28Z",
+        "pushed_at": "2025-08-08T15:02:08Z",
         "created_at": "2024-05-07T11:31:53Z"
       },
       {
@@ -35231,7 +35231,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 6392,
+        "stars": 6397,
         "forks": 358,
         "language": "Python",
         "pushed_at": "2025-08-08T12:13:26Z",
@@ -36511,7 +36511,7 @@
         "name": "material-design-icons",
         "description": "Material Design icons by Google (Material Symbols)",
         "url": "https://github.com/google/material-design-icons",
-        "stars": 51935,
+        "stars": 51936,
         "forks": 9660,
         "language": "未指定",
         "pushed_at": "2025-08-01T18:36:00Z",
@@ -36744,7 +36744,7 @@
         "stars": 1083,
         "forks": 183,
         "language": "Python",
-        "pushed_at": "2025-08-08T14:02:31Z",
+        "pushed_at": "2025-08-08T14:58:06Z",
         "created_at": "2024-01-31T18:15:38Z"
       },
       {
@@ -38694,7 +38694,7 @@
         "stars": 63,
         "forks": 38,
         "language": "Shell",
-        "pushed_at": "2025-08-07T20:33:53Z",
+        "pushed_at": "2025-08-08T14:57:56Z",
         "created_at": "2020-06-11T19:57:36Z"
       },
       {
@@ -39474,7 +39474,7 @@
         "stars": 4458,
         "forks": 546,
         "language": "C++",
-        "pushed_at": "2025-08-08T14:49:02Z",
+        "pushed_at": "2025-08-08T15:17:21Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -40171,7 +40171,7 @@
         "name": "pprof",
         "description": "pprof is a tool for visualization and analysis of profiling data",
         "url": "https://github.com/google/pprof",
-        "stars": 8650,
+        "stars": 8651,
         "forks": 629,
         "language": "Go",
         "pushed_at": "2025-07-01T23:37:15Z",
