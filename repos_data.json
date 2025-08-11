@@ -339,7 +339,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-08-11T16:56:47Z",
+        "pushed_at": "2025-08-11T17:19:58Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -11496,7 +11496,7 @@
         "name": "esp-drone",
         "description": "Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.",
         "url": "https://github.com/espressif/esp-drone",
-        "stars": 1201,
+        "stars": 1202,
         "forks": 316,
         "language": "C",
         "pushed_at": "2025-07-24T13:59:16Z",
@@ -16207,7 +16207,7 @@
         "description": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
         "url": "https://github.com/openai/baselines",
         "stars": 16388,
-        "forks": 4924,
+        "forks": 4925,
         "language": "Python",
         "pushed_at": "2024-08-01T21:31:33Z",
         "created_at": "2017-05-24T01:58:13Z"
@@ -16346,10 +16346,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 34263,
+        "stars": 34268,
         "forks": 3922,
         "language": "Rust",
-        "pushed_at": "2025-08-11T17:18:12Z",
+        "pushed_at": "2025-08-11T17:35:05Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16706,8 +16706,8 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 24046,
-        "forks": 5758,
+        "stars": 24047,
+        "forks": 5759,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
         "created_at": "2019-02-11T04:21:59Z"
@@ -16766,8 +16766,8 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 16511,
-        "forks": 1383,
+        "stars": 16514,
+        "forks": 1384,
         "language": "Python",
         "pushed_at": "2025-08-10T01:52:22Z",
         "created_at": "2025-06-23T16:43:33Z"
@@ -16817,7 +16817,7 @@
         "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
         "url": "https://github.com/openai/gym",
         "stars": 36357,
-        "forks": 8686,
+        "forks": 8687,
         "language": "Python",
         "pushed_at": "2024-10-11T20:07:05Z",
         "created_at": "2016-04-27T14:59:16Z"
@@ -16876,7 +16876,7 @@
         "name": "harmony",
         "description": "Renderer for the harmony response format to be used with gpt-oss",
         "url": "https://github.com/openai/harmony",
-        "stars": 3329,
+        "stars": 3328,
         "forks": 164,
         "language": "Rust",
         "pushed_at": "2025-08-09T01:28:08Z",
@@ -17276,7 +17276,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 13494,
+        "stars": 13495,
         "forks": 2157,
         "language": "Python",
         "pushed_at": "2025-08-11T15:11:36Z",
@@ -17316,8 +17316,8 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 66863,
-        "forks": 11075,
+        "stars": 66865,
+        "forks": 11077,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-08-08T17:02:47Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -17347,7 +17347,7 @@
         "description": "Deno build of the official Typescript library for the OpenAI API.",
         "url": "https://github.com/openai/openai-deno-build",
         "stars": 139,
-        "forks": 21,
+        "forks": 22,
         "language": "TypeScript",
         "pushed_at": "2024-10-30T16:22:45Z",
         "created_at": "2023-10-27T18:37:13Z"
@@ -17426,7 +17426,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 28281,
+        "stars": 28282,
         "forks": 4172,
         "language": "Python",
         "pushed_at": "2025-08-11T15:31:04Z",
@@ -17467,7 +17467,7 @@
         "description": "Node.js + JavaScript reference client for the Realtime API (beta)",
         "url": "https://github.com/openai/openai-realtime-api-beta",
         "stars": 979,
-        "forks": 287,
+        "forks": 288,
         "language": "JavaScript",
         "pushed_at": "2024-11-07T22:51:02Z",
         "created_at": "2024-09-30T21:11:38Z"
@@ -17987,7 +17987,7 @@
         "description": "An educational resource to help anyone learn deep reinforcement learning.",
         "url": "https://github.com/openai/spinningup",
         "stars": 11129,
-        "forks": 2370,
+        "forks": 2371,
         "language": "Python",
         "pushed_at": "2024-08-05T03:30:30Z",
         "created_at": "2018-11-07T20:52:15Z"
@@ -18206,7 +18206,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 86427,
+        "stars": 86428,
         "forks": 10632,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
@@ -20931,7 +20931,7 @@
         "name": "adk-java",
         "description": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-java",
-        "stars": 524,
+        "stars": 523,
         "forks": 101,
         "language": "Java",
         "pushed_at": "2025-08-11T17:12:35Z",
@@ -21304,7 +21304,7 @@
         "stars": 276,
         "forks": 18,
         "language": "Rust",
-        "pushed_at": "2025-08-11T07:28:41Z",
+        "pushed_at": "2025-08-11T17:23:58Z",
         "created_at": "2024-04-25T02:06:33Z"
       },
       {
@@ -22174,7 +22174,7 @@
         "stars": 20,
         "forks": 12,
         "language": "C++",
-        "pushed_at": "2025-08-11T16:09:05Z",
+        "pushed_at": "2025-08-11T17:32:38Z",
         "created_at": "2023-09-18T13:03:53Z"
       },
       {
@@ -23474,7 +23474,7 @@
         "stars": 1510,
         "forks": 38,
         "language": "Python",
-        "pushed_at": "2025-08-04T15:41:00Z",
+        "pushed_at": "2025-08-11T17:28:02Z",
         "created_at": "2021-11-18T00:28:23Z"
       },
       {
@@ -27404,7 +27404,7 @@
         "stars": 15,
         "forks": 9,
         "language": "C++",
-        "pushed_at": "2025-08-07T21:45:43Z",
+        "pushed_at": "2025-08-11T17:28:41Z",
         "created_at": "2023-08-16T13:43:51Z"
       },
       {
@@ -27944,7 +27944,7 @@
         "stars": 2978,
         "forks": 1028,
         "language": "JavaScript",
-        "pushed_at": "2025-08-04T22:47:15Z",
+        "pushed_at": "2025-08-11T17:33:11Z",
         "created_at": "2015-04-22T00:36:55Z"
       },
       {
@@ -28541,7 +28541,7 @@
         "name": "etils",
         "description": "Collection of eclectic utils for python.",
         "url": "https://github.com/google/etils",
-        "stars": 235,
+        "stars": 236,
         "forks": 25,
         "language": "Python",
         "pushed_at": "2025-08-06T10:42:45Z",
@@ -29104,7 +29104,7 @@
         "stars": 18732,
         "forks": 2009,
         "language": "C++",
-        "pushed_at": "2025-08-11T17:10:56Z",
+        "pushed_at": "2025-08-11T17:33:57Z",
         "created_at": "2018-08-03T17:26:00Z"
       },
       {
@@ -29211,7 +29211,7 @@
         "name": "flatbuffers",
         "description": "FlatBuffers: Memory Efficient Serialization Library",
         "url": "https://github.com/google/flatbuffers",
-        "stars": 24597,
+        "stars": 24598,
         "forks": 3380,
         "language": "C++",
         "pushed_at": "2025-08-08T17:18:42Z",
@@ -30591,7 +30591,7 @@
         "name": "gin-config",
         "description": "Gin provides a lightweight configuration framework for Python",
         "url": "https://github.com/google/gin-config",
-        "stars": 2120,
+        "stars": 2121,
         "forks": 118,
         "language": "Python",
         "pushed_at": "2025-04-30T17:01:01Z",
@@ -32114,7 +32114,7 @@
         "stars": 373,
         "forks": 24,
         "language": "Rust",
-        "pushed_at": "2025-08-08T16:11:26Z",
+        "pushed_at": "2025-08-11T17:39:02Z",
         "created_at": "2022-10-21T14:20:24Z"
       },
       {
@@ -32684,7 +32684,7 @@
         "stars": 51001,
         "forks": 11040,
         "language": "Java",
-        "pushed_at": "2025-08-11T17:05:10Z",
+        "pushed_at": "2025-08-11T17:28:35Z",
         "created_at": "2014-05-29T16:23:17Z"
       },
       {
@@ -32794,7 +32794,7 @@
         "stars": 16824,
         "forks": 1418,
         "language": "Go",
-        "pushed_at": "2025-08-11T17:05:47Z",
+        "pushed_at": "2025-08-11T17:35:58Z",
         "created_at": "2018-04-26T21:28:49Z"
       },
       {
@@ -33984,7 +33984,7 @@
         "stars": 38,
         "forks": 10,
         "language": "C++",
-        "pushed_at": "2025-08-11T17:19:47Z",
+        "pushed_at": "2025-08-11T17:32:58Z",
         "created_at": "2019-01-02T16:04:39Z"
       },
       {
@@ -34312,7 +34312,7 @@
         "description": "Google IT Automation with Python Professional Certificate - Practice files",
         "url": "https://github.com/google/it-cert-automation-practice",
         "stars": 950,
-        "forks": 45669,
+        "forks": 45668,
         "language": "Python",
         "pushed_at": "2024-08-21T14:58:21Z",
         "created_at": "2019-12-17T19:04:12Z"
@@ -35251,10 +35251,10 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 8709,
-        "forks": 509,
+        "stars": 8727,
+        "forks": 512,
         "language": "Python",
-        "pushed_at": "2025-08-11T02:46:46Z",
+        "pushed_at": "2025-08-11T17:36:51Z",
         "created_at": "2025-07-08T20:46:06Z"
       },
       {
@@ -36764,7 +36764,7 @@
         "stars": 1086,
         "forks": 183,
         "language": "Python",
-        "pushed_at": "2025-08-11T17:19:36Z",
+        "pushed_at": "2025-08-11T17:41:10Z",
         "created_at": "2024-01-31T18:15:38Z"
       },
       {
@@ -38724,7 +38724,7 @@
         "stars": 415,
         "forks": 64,
         "language": "Python",
-        "pushed_at": "2025-08-11T16:46:16Z",
+        "pushed_at": "2025-08-11T17:24:16Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -38921,7 +38921,7 @@
         "name": "osv-scalibr",
         "description": "OSV-SCALIBR: A library for Software Composition Analysis",
         "url": "https://github.com/google/osv-scalibr",
-        "stars": 420,
+        "stars": 421,
         "forks": 56,
         "language": "Go",
         "pushed_at": "2025-08-11T13:00:28Z",
@@ -39504,7 +39504,7 @@
         "stars": 4470,
         "forks": 550,
         "language": "C++",
-        "pushed_at": "2025-08-11T17:16:03Z",
+        "pushed_at": "2025-08-11T17:27:12Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -39744,7 +39744,7 @@
         "stars": 428,
         "forks": 93,
         "language": "C++",
-        "pushed_at": "2025-08-11T12:24:10Z",
+        "pushed_at": "2025-08-11T17:39:06Z",
         "created_at": "2021-03-09T22:07:25Z"
       },
       {
@@ -40201,7 +40201,7 @@
         "name": "pprof",
         "description": "pprof is a tool for visualization and analysis of profiling data",
         "url": "https://github.com/google/pprof",
-        "stars": 8656,
+        "stars": 8657,
         "forks": 631,
         "language": "Go",
         "pushed_at": "2025-07-01T23:37:15Z",
@@ -43164,7 +43164,7 @@
         "stars": 585,
         "forks": 58,
         "language": "Python",
-        "pushed_at": "2025-08-11T17:05:07Z",
+        "pushed_at": "2025-08-11T17:26:44Z",
         "created_at": "2021-04-15T23:42:08Z"
       },
       {
