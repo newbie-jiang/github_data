@@ -339,7 +339,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-08-13T19:14:15Z",
+        "pushed_at": "2025-08-13T19:30:00Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -13206,7 +13206,7 @@
         "name": "idf-extra-components",
         "description": "Additional components for ESP-IDF, maintained by Espressif",
         "url": "https://github.com/espressif/idf-extra-components",
-        "stars": 198,
+        "stars": 199,
         "forks": 111,
         "language": "C",
         "pushed_at": "2025-08-12T03:01:24Z",
@@ -13419,7 +13419,7 @@
         "stars": 248,
         "forks": 26,
         "language": "LLVM",
-        "pushed_at": "2025-08-13T19:01:10Z",
+        "pushed_at": "2025-08-13T19:33:18Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16496,7 +16496,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 34786,
+        "stars": 34787,
         "forks": 3969,
         "language": "Rust",
         "pushed_at": "2025-08-13T19:05:14Z",
@@ -16896,7 +16896,7 @@
         "name": "gpt-5-coding-examples",
         "description": "GPT-5 coding examples",
         "url": "https://github.com/openai/gpt-5-coding-examples",
-        "stars": 1120,
+        "stars": 1121,
         "forks": 129,
         "language": "HTML",
         "pushed_at": "2025-08-08T04:36:36Z",
@@ -16916,7 +16916,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 16929,
+        "stars": 16931,
         "forks": 1455,
         "language": "Python",
         "pushed_at": "2025-08-13T17:09:58Z",
@@ -17026,7 +17026,7 @@
         "name": "harmony",
         "description": "Renderer for the harmony response format to be used with gpt-oss",
         "url": "https://github.com/openai/harmony",
-        "stars": 3425,
+        "stars": 3426,
         "forks": 170,
         "language": "Rust",
         "pushed_at": "2025-08-13T16:13:08Z",
@@ -21091,18 +21091,18 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 12068,
+        "stars": 12069,
         "forks": 1675,
         "language": "Python",
-        "pushed_at": "2025-08-13T19:29:42Z",
+        "pushed_at": "2025-08-13T19:33:29Z",
         "created_at": "2025-04-01T20:44:40Z"
       },
       {
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 4505,
-        "forks": 1272,
+        "stars": 4506,
+        "forks": 1274,
         "language": "Python",
         "pushed_at": "2025-08-13T18:37:40Z",
         "created_at": "2025-04-01T20:44:42Z"
@@ -21664,7 +21664,7 @@
         "stars": 521,
         "forks": 164,
         "language": "C++",
-        "pushed_at": "2025-08-13T19:03:10Z",
+        "pushed_at": "2025-08-13T19:40:11Z",
         "created_at": "2017-12-13T19:42:51Z"
       },
       {
@@ -23094,7 +23094,7 @@
         "stars": 99,
         "forks": 39,
         "language": "C++",
-        "pushed_at": "2025-08-11T15:17:08Z",
+        "pushed_at": "2025-08-13T19:43:05Z",
         "created_at": "2022-10-21T18:06:37Z"
       },
       {
@@ -25174,7 +25174,7 @@
         "stars": 5443,
         "forks": 585,
         "language": "Python",
-        "pushed_at": "2025-08-13T18:44:36Z",
+        "pushed_at": "2025-08-13T19:33:51Z",
         "created_at": "2019-01-29T00:19:40Z"
       },
       {
@@ -28104,7 +28104,7 @@
         "stars": 112,
         "forks": 84,
         "language": "Jsonnet",
-        "pushed_at": "2025-08-13T19:27:43Z",
+        "pushed_at": "2025-08-13T19:44:07Z",
         "created_at": "2022-06-06T17:21:40Z"
       },
       {
@@ -28631,7 +28631,7 @@
         "name": "esamplusplus",
         "description": "（无简介）",
         "url": "https://github.com/google/esamplusplus",
-        "stars": 2,
+        "stars": 3,
         "forks": 2,
         "language": "Python",
         "pushed_at": "2025-08-05T21:23:44Z",
@@ -29164,7 +29164,7 @@
         "stars": 187,
         "forks": 109,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-08-13T18:40:07Z",
+        "pushed_at": "2025-08-13T19:39:25Z",
         "created_at": "2020-08-07T18:07:01Z"
       },
       {
@@ -32231,7 +32231,7 @@
         "name": "googletest",
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "url": "https://github.com/google/googletest",
-        "stars": 36579,
+        "stars": 36580,
         "forks": 10453,
         "language": "C++",
         "pushed_at": "2025-08-11T12:10:59Z",
@@ -32814,7 +32814,7 @@
         "stars": 51010,
         "forks": 11044,
         "language": "Java",
-        "pushed_at": "2025-08-13T19:15:13Z",
+        "pushed_at": "2025-08-13T19:39:28Z",
         "created_at": "2014-05-29T16:23:17Z"
       },
       {
@@ -33451,7 +33451,7 @@
         "name": "howtodiv",
         "description": "（无简介）",
         "url": "https://github.com/google/howtodiv",
-        "stars": 0,
+        "stars": 1,
         "forks": 1,
         "language": "Python",
         "pushed_at": "2025-08-12T20:59:21Z",
@@ -34724,7 +34724,7 @@
         "stars": 243,
         "forks": 47,
         "language": "Kotlin",
-        "pushed_at": "2025-08-13T19:26:51Z",
+        "pushed_at": "2025-08-13T19:37:27Z",
         "created_at": "2023-01-19T23:20:10Z"
       },
       {
@@ -35391,7 +35391,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 10411,
+        "stars": 10416,
         "forks": 645,
         "language": "Python",
         "pushed_at": "2025-08-13T10:14:07Z",
@@ -36901,7 +36901,7 @@
         "name": "meridian",
         "description": "Meridian is an MMM framework that enables advertisers to set up and run their own in-house models.",
         "url": "https://github.com/google/meridian",
-        "stars": 1089,
+        "stars": 1090,
         "forks": 184,
         "language": "Python",
         "pushed_at": "2025-08-13T19:00:28Z",
@@ -37914,7 +37914,7 @@
         "stars": 852,
         "forks": 179,
         "language": "C++",
-        "pushed_at": "2025-08-13T19:23:28Z",
+        "pushed_at": "2025-08-13T19:31:54Z",
         "created_at": "2020-04-23T20:41:37Z"
       },
       {
@@ -38874,7 +38874,7 @@
         "stars": 415,
         "forks": 65,
         "language": "Python",
-        "pushed_at": "2025-08-13T18:38:59Z",
+        "pushed_at": "2025-08-13T19:35:41Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39591,7 +39591,7 @@
         "name": "pebble",
         "description": "This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will not compile as-is. This is for information only.",
         "url": "https://github.com/google/pebble",
-        "stars": 4828,
+        "stars": 4830,
         "forks": 359,
         "language": "C",
         "pushed_at": "2025-02-25T19:05:35Z",
@@ -43664,7 +43664,7 @@
         "stars": 1319,
         "forks": 315,
         "language": "JavaScript",
-        "pushed_at": "2025-08-13T19:25:54Z",
+        "pushed_at": "2025-08-13T19:32:29Z",
         "created_at": "2019-06-11T14:20:21Z"
       },
       {
