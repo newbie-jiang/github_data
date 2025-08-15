@@ -339,7 +339,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-08-15T19:13:35Z",
+        "pushed_at": "2025-08-15T19:28:54Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -2547,7 +2547,7 @@
         "description": "Zephyr repository tracking https://github.com/CANopenNode/CANopenNode",
         "url": "https://github.com/zephyrproject-rtos/canopennode",
         "stars": 11,
-        "forks": 15,
+        "forks": 16,
         "language": "C",
         "pushed_at": "2023-10-06T13:59:00Z",
         "created_at": "2020-01-16T17:27:20Z"
@@ -13419,7 +13419,7 @@
         "stars": 248,
         "forks": 26,
         "language": "LLVM",
-        "pushed_at": "2025-08-15T18:59:38Z",
+        "pushed_at": "2025-08-15T19:31:38Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16496,7 +16496,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 35047,
+        "stars": 35050,
         "forks": 4012,
         "language": "Rust",
         "pushed_at": "2025-08-15T19:26:44Z",
@@ -16916,8 +16916,8 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 17167,
-        "forks": 1504,
+        "stars": 17168,
+        "forks": 1506,
         "language": "Python",
         "pushed_at": "2025-08-15T19:27:56Z",
         "created_at": "2025-06-23T16:43:33Z"
@@ -17026,7 +17026,7 @@
         "name": "harmony",
         "description": "Renderer for the harmony response format to be used with gpt-oss",
         "url": "https://github.com/openai/harmony",
-        "stars": 3473,
+        "stars": 3474,
         "forks": 175,
         "language": "Rust",
         "pushed_at": "2025-08-13T16:13:08Z",
@@ -17469,7 +17469,7 @@
         "stars": 67159,
         "forks": 11137,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-08-15T19:27:37Z",
+        "pushed_at": "2025-08-15T19:30:08Z",
         "created_at": "2022-03-11T02:08:53Z"
       },
       {
@@ -17506,7 +17506,7 @@
         "name": "openai-dotnet",
         "description": "The official .NET library for the OpenAI API",
         "url": "https://github.com/openai/openai-dotnet",
-        "stars": 2224,
+        "stars": 2225,
         "forks": 298,
         "language": "C#",
         "pushed_at": "2025-08-15T18:08:14Z",
@@ -17606,7 +17606,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 6149,
+        "stars": 6150,
         "forks": 871,
         "language": "TypeScript",
         "pushed_at": "2025-08-14T22:46:47Z",
@@ -17656,7 +17656,7 @@
         "name": "openai-realtime-twilio-demo",
         "description": "（无简介）",
         "url": "https://github.com/openai/openai-realtime-twilio-demo",
-        "stars": 420,
+        "stars": 421,
         "forks": 140,
         "language": "TypeScript",
         "pushed_at": "2024-12-30T16:38:04Z",
@@ -21101,17 +21101,17 @@
         "name": "adk-python-community",
         "description": "Community repo for adk-python",
         "url": "https://github.com/google/adk-python-community",
-        "stars": 3,
+        "stars": 4,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-08-15T19:21:00Z",
+        "pushed_at": "2025-08-15T19:29:57Z",
         "created_at": "2025-08-14T01:57:37Z"
       },
       {
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 4548,
+        "stars": 4550,
         "forks": 1285,
         "language": "Python",
         "pushed_at": "2025-08-15T15:20:45Z",
@@ -21272,7 +21272,7 @@
         "description": "Android GPU Inspector",
         "url": "https://github.com/google/agi",
         "stars": 1006,
-        "forks": 153,
+        "forks": 154,
         "language": "Go",
         "pushed_at": "2025-05-19T20:22:00Z",
         "created_at": "2020-01-25T00:59:50Z"
@@ -21932,7 +21932,7 @@
         "description": "（无简介）",
         "url": "https://github.com/google/anonymous-tokens",
         "stars": 56,
-        "forks": 17,
+        "forks": 18,
         "language": "C++",
         "pushed_at": "2025-08-14T20:39:49Z",
         "created_at": "2023-03-09T17:56:45Z"
@@ -25561,7 +25561,7 @@
         "name": "comprehensive-rust",
         "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
         "url": "https://github.com/google/comprehensive-rust",
-        "stars": 30546,
+        "stars": 30547,
         "forks": 1834,
         "language": "Rust",
         "pushed_at": "2025-08-13T07:15:53Z",
@@ -27564,7 +27564,7 @@
         "stars": 15,
         "forks": 9,
         "language": "C++",
-        "pushed_at": "2025-08-14T05:33:40Z",
+        "pushed_at": "2025-08-15T19:35:22Z",
         "created_at": "2023-08-16T13:43:51Z"
       },
       {
@@ -29261,7 +29261,7 @@
         "name": "filament",
         "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
         "url": "https://github.com/google/filament",
-        "stars": 18741,
+        "stars": 18742,
         "forks": 2011,
         "language": "C++",
         "pushed_at": "2025-08-15T19:06:06Z",
@@ -32214,7 +32214,7 @@
         "stars": 633,
         "forks": 234,
         "language": "Objective-C",
-        "pushed_at": "2025-08-15T19:03:33Z",
+        "pushed_at": "2025-08-15T19:38:37Z",
         "created_at": "2021-03-24T17:01:02Z"
       },
       {
@@ -35341,7 +35341,7 @@
         "name": "kube-startup-cpu-boost",
         "description": "Kube Startup CPU Boost is a controller that increases CPU resource requests and limits during Kubernetes workload startup time",
         "url": "https://github.com/google/kube-startup-cpu-boost",
-        "stars": 475,
+        "stars": 476,
         "forks": 22,
         "language": "Go",
         "pushed_at": "2025-08-01T14:59:35Z",
@@ -35401,8 +35401,8 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 11500,
-        "forks": 724,
+        "stars": 11504,
+        "forks": 725,
         "language": "Python",
         "pushed_at": "2025-08-15T08:28:02Z",
         "created_at": "2025-07-08T20:46:06Z"
@@ -36064,7 +36064,7 @@
         "stars": 3,
         "forks": 0,
         "language": "C++",
-        "pushed_at": "2025-08-15T18:01:27Z",
+        "pushed_at": "2025-08-15T19:37:59Z",
         "created_at": "2025-06-03T22:32:25Z"
       },
       {
@@ -37924,7 +37924,7 @@
         "stars": 851,
         "forks": 179,
         "language": "C++",
-        "pushed_at": "2025-08-15T19:18:08Z",
+        "pushed_at": "2025-08-15T19:35:48Z",
         "created_at": "2020-04-23T20:41:37Z"
       },
       {
@@ -44091,7 +44091,7 @@
         "name": "snappy",
         "description": "A fast compressor/decompressor",
         "url": "https://github.com/google/snappy",
-        "stars": 6412,
+        "stars": 6413,
         "forks": 1010,
         "language": "C++",
         "pushed_at": "2025-07-29T08:45:06Z",
@@ -46736,6 +46736,1876 @@
         "language": "C",
         "pushed_at": "2021-02-22T22:15:36Z",
         "created_at": "2019-04-15T19:16:09Z"
+      },
+      {
+        "name": "usd_from_gltf",
+        "description": "（无简介）",
+        "url": "https://github.com/google/usd_from_gltf",
+        "stars": 567,
+        "forks": 90,
+        "language": "C++",
+        "pushed_at": "2023-04-03T13:31:37Z",
+        "created_at": "2019-07-19T20:26:52Z"
+      },
+      {
+        "name": "usm-voice-transcriber",
+        "description": "（无简介）",
+        "url": "https://github.com/google/usm-voice-transcriber",
+        "stars": 1,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2023-09-27T05:55:32Z",
+        "created_at": "2023-09-27T05:55:31Z"
+      },
+      {
+        "name": "uuid",
+        "description": "Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.",
+        "url": "https://github.com/google/uuid",
+        "stars": 5791,
+        "forks": 397,
+        "language": "Go",
+        "pushed_at": "2024-11-14T17:05:06Z",
+        "created_at": "2016-02-12T22:17:59Z"
+      },
+      {
+        "name": "uv-metrics",
+        "description": "Composable metric reporters in Python.",
+        "url": "https://github.com/google/uv-metrics",
+        "stars": 13,
+        "forks": 5,
+        "language": "Python",
+        "pushed_at": "2024-06-06T22:38:30Z",
+        "created_at": "2020-06-16T17:29:47Z"
+      },
+      {
+        "name": "uVkCompute",
+        "description": "A micro Vulkan compute pipeline and a collection of benchmarking compute shaders",
+        "url": "https://github.com/google/uVkCompute",
+        "stars": 248,
+        "forks": 41,
+        "language": "C++",
+        "pushed_at": "2025-03-27T02:35:37Z",
+        "created_at": "2020-10-05T10:53:50Z"
+      },
+      {
+        "name": "uvq",
+        "description": "（无简介）",
+        "url": "https://github.com/google/uvq",
+        "stars": 111,
+        "forks": 16,
+        "language": "Python",
+        "pushed_at": "2025-05-15T19:17:57Z",
+        "created_at": "2022-09-30T17:08:44Z"
+      },
+      {
+        "name": "v8-snapshot-ghidra-plugin",
+        "description": "（无简介）",
+        "url": "https://github.com/google/v8-snapshot-ghidra-plugin",
+        "stars": 10,
+        "forks": 3,
+        "language": "Java",
+        "pushed_at": "2023-05-01T19:42:39Z",
+        "created_at": "2023-05-01T15:12:30Z"
+      },
+      {
+        "name": "vae-seq",
+        "description": "Variational Auto-Encoders in a Sequential Setting.",
+        "url": "https://github.com/google/vae-seq",
+        "stars": 175,
+        "forks": 32,
+        "language": "Python",
+        "pushed_at": "2018-03-23T19:59:46Z",
+        "created_at": "2018-03-23T19:52:38Z"
+      },
+      {
+        "name": "valid-avatar-library",
+        "description": "We present VALID, a validated avatar library for inclusivity and diversity created by the University of Central Florida and Google. The library features 210 fully rigged 3D avatars representing the seven ethnicities recommended by U.S. Census Bureau research. And perceptually validated by 132 participants from 33 countries.",
+        "url": "https://github.com/google/valid-avatar-library",
+        "stars": 51,
+        "forks": 7,
+        "language": "ShaderLab",
+        "pushed_at": "2023-12-15T21:57:29Z",
+        "created_at": "2023-10-17T22:59:11Z"
+      },
+      {
+        "name": "vandalir",
+        "description": "（无简介）",
+        "url": "https://github.com/google/vandalir",
+        "stars": 42,
+        "forks": 8,
+        "language": "LLVM",
+        "pushed_at": "2023-04-15T00:14:17Z",
+        "created_at": "2023-01-24T22:41:31Z"
+      },
+      {
+        "name": "vanir",
+        "description": "Vanir is a source code-based static analysis tool that automatically identifies the list of missing security patches in the target system. By default, Vanir pulls up-to-date CVEs from Open Source Vulnerabilities (OSV) together with their corresponding signatures so that users can transparently scan missing patches for an up-to-date list of CVEs.",
+        "url": "https://github.com/google/vanir",
+        "stars": 339,
+        "forks": 29,
+        "language": "Python",
+        "pushed_at": "2025-08-13T07:00:04Z",
+        "created_at": "2024-08-07T19:04:05Z"
+      },
+      {
+        "name": "vapso",
+        "description": "（无简介）",
+        "url": "https://github.com/google/vapso",
+        "stars": 5,
+        "forks": 8,
+        "language": "JavaScript",
+        "pushed_at": "2022-04-18T19:56:18Z",
+        "created_at": "2019-01-16T23:16:14Z"
+      },
+      {
+        "name": "varstruct",
+        "description": "（无简介）",
+        "url": "https://github.com/google/varstruct",
+        "stars": 18,
+        "forks": 15,
+        "language": "C++",
+        "pushed_at": "2017-03-14T08:01:19Z",
+        "created_at": "2017-03-14T06:25:59Z"
+      },
+      {
+        "name": "vbootrom",
+        "description": "（无简介）",
+        "url": "https://github.com/google/vbootrom",
+        "stars": 14,
+        "forks": 16,
+        "language": "C",
+        "pushed_at": "2025-07-28T16:44:06Z",
+        "created_at": "2020-06-10T16:25:58Z"
+      },
+      {
+        "name": "vc-defer",
+        "description": "vc-defer makes (some) Emacs VC operations fast(er).",
+        "url": "https://github.com/google/vc-defer",
+        "stars": 14,
+        "forks": 7,
+        "language": "Emacs Lisp",
+        "pushed_at": "2020-11-16T07:01:49Z",
+        "created_at": "2019-02-23T21:53:42Z"
+      },
+      {
+        "name": "vectorio",
+        "description": "Library for Go (golang) to implement writev system call (not an official Google product)",
+        "url": "https://github.com/google/vectorio",
+        "stars": 97,
+        "forks": 14,
+        "language": "Go",
+        "pushed_at": "2019-06-24T12:10:50Z",
+        "created_at": "2016-01-04T19:37:24Z"
+      },
+      {
+        "name": "vector_math.dart",
+        "description": "A vector math package for 2D and 3D applications",
+        "url": "https://github.com/google/vector_math.dart",
+        "stars": 327,
+        "forks": 84,
+        "language": "Dart",
+        "pushed_at": "2025-08-04T19:19:33Z",
+        "created_at": "2013-04-12T19:46:07Z"
+      },
+      {
+        "name": "verilogpp",
+        "description": "（无简介）",
+        "url": "https://github.com/google/verilogpp",
+        "stars": 17,
+        "forks": 9,
+        "language": "Perl",
+        "pushed_at": "2024-06-05T17:34:05Z",
+        "created_at": "2017-09-11T20:22:30Z"
+      },
+      {
+        "name": "vertex-ai-benchmarker",
+        "description": "（无简介）",
+        "url": "https://github.com/google/vertex-ai-benchmarker",
+        "stars": 9,
+        "forks": 5,
+        "language": "Java",
+        "pushed_at": "2023-03-23T17:07:01Z",
+        "created_at": "2022-12-22T15:00:11Z"
+      },
+      {
+        "name": "vertex-ai-nas",
+        "description": "With Vertex AI NAS, you can search for optimal neural architectures in terms of accuracy, latency, memory, a combination of these, or a custom metric.",
+        "url": "https://github.com/google/vertex-ai-nas",
+        "stars": 29,
+        "forks": 5,
+        "language": "Python",
+        "pushed_at": "2023-10-16T19:07:52Z",
+        "created_at": "2023-03-30T23:33:13Z"
+      },
+      {
+        "name": "vertex-pipelines-boilerplate",
+        "description": "Boilerplate code for setting up a Kubeflow pipeline to run in Cloud Vertex AI Pipelines.",
+        "url": "https://github.com/google/vertex-pipelines-boilerplate",
+        "stars": 10,
+        "forks": 3,
+        "language": "Python",
+        "pushed_at": "2024-07-05T23:07:23Z",
+        "created_at": "2022-09-26T14:20:11Z"
+      },
+      {
+        "name": "viai-sdk",
+        "description": "An SDK for Google Cloud's Visual Inspection AI product.",
+        "url": "https://github.com/google/viai-sdk",
+        "stars": 6,
+        "forks": 3,
+        "language": "Python",
+        "pushed_at": "2022-07-28T20:14:06Z",
+        "created_at": "2022-07-27T18:26:41Z"
+      },
+      {
+        "name": "video-localized-narratives",
+        "description": "（无简介）",
+        "url": "https://github.com/google/video-localized-narratives",
+        "stars": 59,
+        "forks": 3,
+        "language": "HTML",
+        "pushed_at": "2023-08-10T09:39:42Z",
+        "created_at": "2023-02-17T09:15:24Z"
+      },
+      {
+        "name": "videotts",
+        "description": "（无简介）",
+        "url": "https://github.com/google/videotts",
+        "stars": 3,
+        "forks": 0,
+        "language": "JavaScript",
+        "pushed_at": "2021-11-08T04:03:55Z",
+        "created_at": "2021-11-02T22:28:09Z"
+      },
+      {
+        "name": "vim-codefmt",
+        "description": "Vim plugin for syntax-aware code formatting",
+        "url": "https://github.com/google/vim-codefmt",
+        "stars": 1118,
+        "forks": 105,
+        "language": "Vim Script",
+        "pushed_at": "2024-08-31T16:39:54Z",
+        "created_at": "2015-01-20T19:16:44Z"
+      },
+      {
+        "name": "vim-codereview",
+        "description": "（无简介）",
+        "url": "https://github.com/google/vim-codereview",
+        "stars": 75,
+        "forks": 8,
+        "language": "Vim script",
+        "pushed_at": "2019-08-14T17:02:08Z",
+        "created_at": "2016-02-29T18:25:18Z"
+      },
+      {
+        "name": "vim-colorscheme-primary",
+        "description": "Primary, a Vim color scheme based on Google's colors",
+        "url": "https://github.com/google/vim-colorscheme-primary",
+        "stars": 270,
+        "forks": 30,
+        "language": "Vim Script",
+        "pushed_at": "2022-11-18T14:14:46Z",
+        "created_at": "2015-04-22T21:56:07Z"
+      },
+      {
+        "name": "vim-coverage",
+        "description": "（无简介）",
+        "url": "https://github.com/google/vim-coverage",
+        "stars": 104,
+        "forks": 22,
+        "language": "Vim Script",
+        "pushed_at": "2022-09-14T09:41:45Z",
+        "created_at": "2015-04-20T14:05:05Z"
+      },
+      {
+        "name": "vim-ft-go",
+        "description": "（无简介）",
+        "url": "https://github.com/google/vim-ft-go",
+        "stars": 54,
+        "forks": 8,
+        "language": "Vim script",
+        "pushed_at": "2023-02-14T03:17:14Z",
+        "created_at": "2014-08-18T14:56:37Z"
+      },
+      {
+        "name": "vim-ft-vroom",
+        "description": "（无简介）",
+        "url": "https://github.com/google/vim-ft-vroom",
+        "stars": 12,
+        "forks": 14,
+        "language": "VimL",
+        "pushed_at": "2014-11-24T04:36:38Z",
+        "created_at": "2014-03-17T18:12:17Z"
+      },
+      {
+        "name": "vim-glaive",
+        "description": "（无简介）",
+        "url": "https://github.com/google/vim-glaive",
+        "stars": 77,
+        "forks": 15,
+        "language": "Vim Script",
+        "pushed_at": "2022-12-09T06:52:36Z",
+        "created_at": "2013-12-06T23:28:52Z"
+      },
+      {
+        "name": "vim-jsonnet",
+        "description": "Jsonnet filetype plugin for Vim.",
+        "url": "https://github.com/google/vim-jsonnet",
+        "stars": 161,
+        "forks": 29,
+        "language": "Vim Script",
+        "pushed_at": "2023-05-23T07:37:18Z",
+        "created_at": "2015-10-01T00:14:33Z"
+      },
+      {
+        "name": "vim-maktaba",
+        "description": "Consistent Vimscript",
+        "url": "https://github.com/google/vim-maktaba",
+        "stars": 592,
+        "forks": 41,
+        "language": "Vim Script",
+        "pushed_at": "2023-03-21T11:14:43Z",
+        "created_at": "2013-12-05T21:59:43Z"
+      },
+      {
+        "name": "vim-searchindex",
+        "description": "vim-searchindex: display number of search matches & index of a current match",
+        "url": "https://github.com/google/vim-searchindex",
+        "stars": 370,
+        "forks": 24,
+        "language": "Vim script",
+        "pushed_at": "2019-09-26T12:40:42Z",
+        "created_at": "2015-10-13T23:03:16Z"
+      },
+      {
+        "name": "vim-selector",
+        "description": "（无简介）",
+        "url": "https://github.com/google/vim-selector",
+        "stars": 17,
+        "forks": 11,
+        "language": "Vim script",
+        "pushed_at": "2021-08-05T20:51:54Z",
+        "created_at": "2016-02-19T21:47:58Z"
+      },
+      {
+        "name": "vim-syncopate",
+        "description": "Make it easy to share beautiful code.  DISCLAIMER: This is not an official Google product.",
+        "url": "https://github.com/google/vim-syncopate",
+        "stars": 90,
+        "forks": 7,
+        "language": "Vim script",
+        "pushed_at": "2019-08-14T17:01:31Z",
+        "created_at": "2014-11-25T17:17:11Z"
+      },
+      {
+        "name": "vimdoc",
+        "description": "Helpfile generation for vim ",
+        "url": "https://github.com/google/vimdoc",
+        "stars": 301,
+        "forks": 29,
+        "language": "Python",
+        "pushed_at": "2024-09-09T22:38:52Z",
+        "created_at": "2014-03-17T18:12:29Z"
+      },
+      {
+        "name": "vimscript-language-server",
+        "description": "（无简介）",
+        "url": "https://github.com/google/vimscript-language-server",
+        "stars": 396,
+        "forks": 15,
+        "language": "Rust",
+        "pushed_at": "2024-12-09T20:52:56Z",
+        "created_at": "2020-08-04T08:22:47Z"
+      },
+      {
+        "name": "virtual-authenticators-tab",
+        "description": "Debug webauthn with a chrome extension that adds a virtual authenticators tab to devtools",
+        "url": "https://github.com/google/virtual-authenticators-tab",
+        "stars": 177,
+        "forks": 28,
+        "language": "JavaScript",
+        "pushed_at": "2022-12-06T21:13:59Z",
+        "created_at": "2019-11-06T21:47:08Z"
+      },
+      {
+        "name": "virtual-broadcast-production-assistant",
+        "description": "（无简介）",
+        "url": "https://github.com/google/virtual-broadcast-production-assistant",
+        "stars": 7,
+        "forks": 12,
+        "language": "JavaScript",
+        "pushed_at": "2025-08-15T13:53:23Z",
+        "created_at": "2025-03-11T15:53:53Z"
+      },
+      {
+        "name": "virtual-tutors",
+        "description": "（无简介）",
+        "url": "https://github.com/google/virtual-tutors",
+        "stars": 6,
+        "forks": 11,
+        "language": "HTML",
+        "pushed_at": "2018-10-01T11:29:18Z",
+        "created_at": "2017-03-29T23:56:54Z"
+      },
+      {
+        "name": "virtualdesktops-extension",
+        "description": "（无简介）",
+        "url": "https://github.com/google/virtualdesktops-extension",
+        "stars": 24,
+        "forks": 13,
+        "language": "JavaScript",
+        "pushed_at": "2018-06-18T18:37:10Z",
+        "created_at": "2015-08-06T15:59:32Z"
+      },
+      {
+        "name": "visionai",
+        "description": "（无简介）",
+        "url": "https://github.com/google/visionai",
+        "stars": 46,
+        "forks": 13,
+        "language": "Python",
+        "pushed_at": "2024-03-15T23:51:34Z",
+        "created_at": "2022-12-08T22:51:24Z"
+      },
+      {
+        "name": "visqol",
+        "description": "Perceptual Quality Estimator for speech and audio",
+        "url": "https://github.com/google/visqol",
+        "stars": 799,
+        "forks": 134,
+        "language": "C++",
+        "pushed_at": "2025-05-17T12:18:13Z",
+        "created_at": "2019-12-06T19:44:18Z"
+      },
+      {
+        "name": "visualblocks",
+        "description": "Visual Blocks for ML is a Google visual programming framework that lets you create ML pipelines in a no-code graph editor. You – and your users – can quickly prototype workflows by connecting drag-and-drop ML components, including models, user inputs, processors, and visualizations.",
+        "url": "https://github.com/google/visualblocks",
+        "stars": 1279,
+        "forks": 174,
+        "language": "TypeScript",
+        "pushed_at": "2025-05-29T17:16:31Z",
+        "created_at": "2023-03-29T21:33:01Z"
+      },
+      {
+        "name": "vizier",
+        "description": "Python-based research interface for blackbox and hyperparameter optimization, based on the internal Google Vizier Service.",
+        "url": "https://github.com/google/vizier",
+        "stars": 1588,
+        "forks": 104,
+        "language": "Python",
+        "pushed_at": "2025-08-13T23:40:06Z",
+        "created_at": "2022-02-16T20:48:16Z"
+      },
+      {
+        "name": "vk-layer-for-rust",
+        "description": "（无简介）",
+        "url": "https://github.com/google/vk-layer-for-rust",
+        "stars": 13,
+        "forks": 4,
+        "language": "Rust",
+        "pushed_at": "2025-05-27T14:33:25Z",
+        "created_at": "2023-07-24T17:25:08Z"
+      },
+      {
+        "name": "vkb",
+        "description": "Build scripts to build many bits of Vulkan together in one place.",
+        "url": "https://github.com/google/vkb",
+        "stars": 10,
+        "forks": 8,
+        "language": "CMake",
+        "pushed_at": "2020-10-21T17:46:39Z",
+        "created_at": "2019-10-15T13:34:02Z"
+      },
+      {
+        "name": "vk_callback_swapchain",
+        "description": "（无简介）",
+        "url": "https://github.com/google/vk_callback_swapchain",
+        "stars": 9,
+        "forks": 13,
+        "language": "C++",
+        "pushed_at": "2022-09-09T19:10:14Z",
+        "created_at": "2017-06-14T18:31:13Z"
+      },
+      {
+        "name": "vmregistry",
+        "description": "VM Registry — manage and provision your VMs",
+        "url": "https://github.com/google/vmregistry",
+        "stars": 25,
+        "forks": 16,
+        "language": "Go",
+        "pushed_at": "2020-05-14T12:58:16Z",
+        "created_at": "2017-05-24T18:39:02Z"
+      },
+      {
+        "name": "vogon",
+        "description": "Scalable customization of video campaigns",
+        "url": "https://github.com/google/vogon",
+        "stars": 108,
+        "forks": 50,
+        "language": "JavaScript",
+        "pushed_at": "2020-12-01T13:44:01Z",
+        "created_at": "2014-10-02T17:47:31Z"
+      },
+      {
+        "name": "voice-builder",
+        "description": "An opensource text-to-speech (TTS) voice building tool",
+        "url": "https://github.com/google/voice-builder",
+        "stars": 679,
+        "forks": 137,
+        "language": "JavaScript",
+        "pushed_at": "2024-07-22T20:40:56Z",
+        "created_at": "2018-03-05T13:17:52Z"
+      },
+      {
+        "name": "voice-iot-maker-demo",
+        "description": "Google Actions + Particle Photon (via Dialogflow)",
+        "url": "https://github.com/google/voice-iot-maker-demo",
+        "stars": 70,
+        "forks": 21,
+        "language": "JavaScript",
+        "pushed_at": "2017-11-13T20:52:30Z",
+        "created_at": "2017-09-11T21:16:45Z"
+      },
+      {
+        "name": "volley",
+        "description": "（无简介）",
+        "url": "https://github.com/google/volley",
+        "stars": 3410,
+        "forks": 755,
+        "language": "Java",
+        "pushed_at": "2025-02-25T16:36:30Z",
+        "created_at": "2017-01-24T17:39:33Z"
+      },
+      {
+        "name": "VoltAir",
+        "description": "（无简介）",
+        "url": "https://github.com/google/VoltAir",
+        "stars": 317,
+        "forks": 83,
+        "language": "C++",
+        "pushed_at": "2016-08-18T04:41:46Z",
+        "created_at": "2014-07-08T00:21:40Z"
+      },
+      {
+        "name": "volux-gan",
+        "description": "（无简介）",
+        "url": "https://github.com/google/volux-gan",
+        "stars": 29,
+        "forks": 6,
+        "language": "Python",
+        "pushed_at": "2023-03-31T12:53:17Z",
+        "created_at": "2022-04-28T03:34:06Z"
+      },
+      {
+        "name": "voter-info-tool",
+        "description": "Automatically exported from code.google.com/p/voter-info-tool",
+        "url": "https://github.com/google/voter-info-tool",
+        "stars": 7,
+        "forks": 10,
+        "language": "JavaScript",
+        "pushed_at": "2015-05-05T23:14:47Z",
+        "created_at": "2015-05-05T23:12:14Z"
+      },
+      {
+        "name": "vpn-libraries",
+        "description": "The VPN client libraries provide a reference implementation for a secure, encrypted tunnel for connected devices. Full Public report: https://research.nccgroup.com/2021/04/08/public-report-vpn-by-google-one-technical-security-privacy-assessment/",
+        "url": "https://github.com/google/vpn-libraries",
+        "stars": 553,
+        "forks": 48,
+        "language": "C++",
+        "pushed_at": "2024-05-30T14:43:47Z",
+        "created_at": "2020-10-15T20:05:04Z"
+      },
+      {
+        "name": "vpn-reverse-tether",
+        "description": "VPN-based USB \"reverse tether\"",
+        "url": "https://github.com/google/vpn-reverse-tether",
+        "stars": 189,
+        "forks": 61,
+        "language": "C",
+        "pushed_at": "2016-11-20T21:07:30Z",
+        "created_at": "2013-09-17T22:26:12Z"
+      },
+      {
+        "name": "vr180",
+        "description": "（无简介）",
+        "url": "https://github.com/google/vr180",
+        "stars": 53,
+        "forks": 15,
+        "language": "Java",
+        "pushed_at": "2019-02-14T22:30:10Z",
+        "created_at": "2018-12-06T21:33:29Z"
+      },
+      {
+        "name": "VRD",
+        "description": "（无简介）",
+        "url": "https://github.com/google/VRD",
+        "stars": 6,
+        "forks": 7,
+        "language": "Python",
+        "pushed_at": "2017-10-13T11:50:29Z",
+        "created_at": "2017-09-29T15:15:29Z"
+      },
+      {
+        "name": "vroom",
+        "description": "Launch vim tests",
+        "url": "https://github.com/google/vroom",
+        "stars": 275,
+        "forks": 27,
+        "language": "Python",
+        "pushed_at": "2025-06-12T15:30:34Z",
+        "created_at": "2014-02-24T21:00:11Z"
+      },
+      {
+        "name": "vsaq",
+        "description": "VSAQ is an interactive questionnaire application to assess the security programs of third parties.",
+        "url": "https://github.com/google/vsaq",
+        "stars": 854,
+        "forks": 178,
+        "language": "JavaScript",
+        "pushed_at": "2021-01-11T11:08:09Z",
+        "created_at": "2016-01-25T17:24:47Z"
+      },
+      {
+        "name": "vscode-bigquery",
+        "description": "A Visual Studio Code plugin for running BigQuery queries.",
+        "url": "https://github.com/google/vscode-bigquery",
+        "stars": 149,
+        "forks": 22,
+        "language": "TypeScript",
+        "pushed_at": "2023-07-08T04:59:34Z",
+        "created_at": "2018-10-16T17:19:35Z"
+      },
+      {
+        "name": "vscode-vnc",
+        "description": "（无简介）",
+        "url": "https://github.com/google/vscode-vnc",
+        "stars": 3,
+        "forks": 2,
+        "language": "TypeScript",
+        "pushed_at": "2025-04-30T06:09:31Z",
+        "created_at": "2025-03-15T00:14:45Z"
+      },
+      {
+        "name": "vscode-zxdb",
+        "description": "（无简介）",
+        "url": "https://github.com/google/vscode-zxdb",
+        "stars": 4,
+        "forks": 1,
+        "language": "TypeScript",
+        "pushed_at": "2024-06-16T23:23:00Z",
+        "created_at": "2021-06-14T17:49:02Z"
+      },
+      {
+        "name": "vsf-time-series",
+        "description": "（无简介）",
+        "url": "https://github.com/google/vsf-time-series",
+        "stars": 30,
+        "forks": 5,
+        "language": "Python",
+        "pushed_at": "2024-06-17T23:34:20Z",
+        "created_at": "2022-06-03T17:14:37Z"
+      },
+      {
+        "name": "vulkan-cpp-library",
+        "description": "（无简介）",
+        "url": "https://github.com/google/vulkan-cpp-library",
+        "stars": 250,
+        "forks": 23,
+        "language": "C++",
+        "pushed_at": "2017-11-27T17:22:24Z",
+        "created_at": "2016-04-04T19:51:46Z"
+      },
+      {
+        "name": "Vulkan-Errata",
+        "description": "（无简介）",
+        "url": "https://github.com/google/Vulkan-Errata",
+        "stars": 5,
+        "forks": 1,
+        "language": "Python",
+        "pushed_at": "2024-08-30T02:56:00Z",
+        "created_at": "2023-07-31T14:16:55Z"
+      },
+      {
+        "name": "vulkan-performance-layers",
+        "description": "Vulkan layers to measure and analyze graphics performance.",
+        "url": "https://github.com/google/vulkan-performance-layers",
+        "stars": 55,
+        "forks": 18,
+        "language": "C++",
+        "pushed_at": "2023-06-12T16:54:27Z",
+        "created_at": "2020-01-28T17:59:48Z"
+      },
+      {
+        "name": "vulkan-pre-rotation-demo",
+        "description": "Handle Vulkan pre-rotation properly on Android",
+        "url": "https://github.com/google/vulkan-pre-rotation-demo",
+        "stars": 24,
+        "forks": 8,
+        "language": "C++",
+        "pushed_at": "2021-08-24T04:28:01Z",
+        "created_at": "2019-12-31T06:51:38Z"
+      },
+      {
+        "name": "vulkan_test_applications",
+        "description": "（无简介）",
+        "url": "https://github.com/google/vulkan_test_applications",
+        "stars": 72,
+        "forks": 36,
+        "language": "C++",
+        "pushed_at": "2023-08-24T19:18:50Z",
+        "created_at": "2017-06-14T18:32:23Z"
+      },
+      {
+        "name": "vulncode-db",
+        "description": "Vulncode-DB project",
+        "url": "https://github.com/google/vulncode-db",
+        "stars": 581,
+        "forks": 71,
+        "language": "Python",
+        "pushed_at": "2022-01-03T13:14:06Z",
+        "created_at": "2019-03-05T11:47:04Z"
+      },
+      {
+        "name": "vxsig",
+        "description": "Automatically generate AV byte signatures from sets of similar binaries.",
+        "url": "https://github.com/google/vxsig",
+        "stars": 277,
+        "forks": 32,
+        "language": "C++",
+        "pushed_at": "2024-12-10T13:57:25Z",
+        "created_at": "2019-05-17T07:11:02Z"
+      },
+      {
+        "name": "walk",
+        "description": "Plan 9 style utilities to replace find(1)",
+        "url": "https://github.com/google/walk",
+        "stars": 76,
+        "forks": 11,
+        "language": "C",
+        "pushed_at": "2020-08-14T05:55:30Z",
+        "created_at": "2019-09-19T14:08:38Z"
+      },
+      {
+        "name": "walt",
+        "description": "A device for measuring latency of physical sensors and outputs on phones and computers",
+        "url": "https://github.com/google/walt",
+        "stars": 459,
+        "forks": 76,
+        "language": "Java",
+        "pushed_at": "2025-07-14T17:25:30Z",
+        "created_at": "2016-02-26T19:41:21Z"
+      },
+      {
+        "name": "wasefire",
+        "description": "Secure firmware framework focusing on developer experience",
+        "url": "https://github.com/google/wasefire",
+        "stars": 105,
+        "forks": 27,
+        "language": "Rust",
+        "pushed_at": "2025-08-15T10:06:15Z",
+        "created_at": "2023-02-09T13:36:18Z"
+      },
+      {
+        "name": "wasserstein-dist",
+        "description": "tensorflow implementation of the Wasserstein (aka optimal transport) distance",
+        "url": "https://github.com/google/wasserstein-dist",
+        "stars": 72,
+        "forks": 17,
+        "language": "Python",
+        "pushed_at": "2021-03-23T15:49:07Z",
+        "created_at": "2017-09-15T07:56:22Z"
+      },
+      {
+        "name": "watchface",
+        "description": "（无简介）",
+        "url": "https://github.com/google/watchface",
+        "stars": 44,
+        "forks": 3,
+        "language": "Java",
+        "pushed_at": "2025-07-25T13:04:01Z",
+        "created_at": "2023-12-02T22:51:58Z"
+      },
+      {
+        "name": "watchpresenter",
+        "description": "Pass your slides on Google Drive using your phone or watch",
+        "url": "https://github.com/google/watchpresenter",
+        "stars": 24,
+        "forks": 15,
+        "language": "Java",
+        "pushed_at": "2023-04-09T23:58:43Z",
+        "created_at": "2015-05-19T15:56:04Z"
+      },
+      {
+        "name": "wayback-machine-button",
+        "description": "Chrome extension to reopen the current page in the Wayback Machine",
+        "url": "https://github.com/google/wayback-machine-button",
+        "stars": 11,
+        "forks": 8,
+        "language": "JavaScript",
+        "pushed_at": "2020-03-03T16:31:35Z",
+        "created_at": "2018-01-04T17:24:19Z"
+      },
+      {
+        "name": "waze-ccp-gcp",
+        "description": "This AppEngine sample application is designed to process your Waze CCP JSON Feed into; BigQuery GIS tables for analysis, Google Cloud Storage as GeoJSON for use in desktop or web GIS applications, and, optionally into Carto for advanced spatial visualization.",
+        "url": "https://github.com/google/waze-ccp-gcp",
+        "stars": 11,
+        "forks": 8,
+        "language": "Python",
+        "pushed_at": "2023-12-12T18:45:53Z",
+        "created_at": "2018-12-05T20:34:43Z"
+      },
+      {
+        "name": "wci",
+        "description": "Conversion Import for WhatsApp",
+        "url": "https://github.com/google/wci",
+        "stars": 33,
+        "forks": 11,
+        "language": "Python",
+        "pushed_at": "2025-08-01T14:29:00Z",
+        "created_at": "2022-10-14T19:12:14Z"
+      },
+      {
+        "name": "wear-displaylock",
+        "description": "（无简介）",
+        "url": "https://github.com/google/wear-displaylock",
+        "stars": 5,
+        "forks": 11,
+        "language": "Java",
+        "pushed_at": "2019-07-11T00:45:00Z",
+        "created_at": "2015-08-04T00:28:52Z"
+      },
+      {
+        "name": "wear-screeninfo",
+        "description": "Android Wear ScreenInfo",
+        "url": "https://github.com/google/wear-screeninfo",
+        "stars": 30,
+        "forks": 8,
+        "language": "Java",
+        "pushed_at": "2019-07-11T00:47:20Z",
+        "created_at": "2015-08-04T00:11:30Z"
+      },
+      {
+        "name": "wear-sensors",
+        "description": "（无简介）",
+        "url": "https://github.com/google/wear-sensors",
+        "stars": 52,
+        "forks": 19,
+        "language": "Java",
+        "pushed_at": "2019-07-11T08:33:18Z",
+        "created_at": "2015-08-04T00:30:37Z"
+      },
+      {
+        "name": "weasel",
+        "description": "A simple frontend (App Engine app) that serves content from a Google Cloud Storage (GCS) bucket",
+        "url": "https://github.com/google/weasel",
+        "stars": 66,
+        "forks": 19,
+        "language": "Go",
+        "pushed_at": "2025-03-12T22:13:56Z",
+        "created_at": "2015-12-31T10:09:17Z"
+      },
+      {
+        "name": "weather-tools",
+        "description": "Tools to make weather data accessible and useful.",
+        "url": "https://github.com/google/weather-tools",
+        "stars": 231,
+        "forks": 44,
+        "language": "Python",
+        "pushed_at": "2025-08-13T10:23:18Z",
+        "created_at": "2021-11-22T22:30:09Z"
+      },
+      {
+        "name": "web-activities",
+        "description": "（无简介）",
+        "url": "https://github.com/google/web-activities",
+        "stars": 51,
+        "forks": 9,
+        "language": "JavaScript",
+        "pushed_at": "2019-05-14T16:44:32Z",
+        "created_at": "2017-12-05T18:32:48Z"
+      },
+      {
+        "name": "web-api-gateway",
+        "description": "（无简介）",
+        "url": "https://github.com/google/web-api-gateway",
+        "stars": 46,
+        "forks": 22,
+        "language": "Go",
+        "pushed_at": "2025-07-18T17:30:16Z",
+        "created_at": "2018-09-24T22:06:10Z"
+      },
+      {
+        "name": "web-audio-recognition",
+        "description": "（无简介）",
+        "url": "https://github.com/google/web-audio-recognition",
+        "stars": 83,
+        "forks": 31,
+        "language": "Jupyter Notebook",
+        "pushed_at": "2018-08-01T13:19:48Z",
+        "created_at": "2017-12-21T02:42:25Z"
+      },
+      {
+        "name": "web-bsd-hunt",
+        "description": "Port of the networked real-time multi-player 2D maze war BSD game \"Hunt\" to Google App Engine and modern web browsers",
+        "url": "https://github.com/google/web-bsd-hunt",
+        "stars": 34,
+        "forks": 7,
+        "language": "Go",
+        "pushed_at": "2022-09-12T16:16:43Z",
+        "created_at": "2016-09-30T23:04:28Z"
+      },
+      {
+        "name": "web-game-samples",
+        "description": "（无简介）",
+        "url": "https://github.com/google/web-game-samples",
+        "stars": 52,
+        "forks": 12,
+        "language": "JavaScript",
+        "pushed_at": "2025-07-24T19:47:39Z",
+        "created_at": "2023-10-23T19:08:45Z"
+      },
+      {
+        "name": "web-hv",
+        "description": "A web based tool for inspecting UI of an in-development android app",
+        "url": "https://github.com/google/web-hv",
+        "stars": 45,
+        "forks": 12,
+        "language": "JavaScript",
+        "pushed_at": "2025-07-24T15:57:54Z",
+        "created_at": "2019-01-02T03:54:12Z"
+      },
+      {
+        "name": "web-prototyping-tool",
+        "description": "（无简介）",
+        "url": "https://github.com/google/web-prototyping-tool",
+        "stars": 29,
+        "forks": 9,
+        "language": "TypeScript",
+        "pushed_at": "2022-01-17T22:13:23Z",
+        "created_at": "2021-10-04T16:41:52Z"
+      },
+      {
+        "name": "web-serial-polyfill",
+        "description": "（无简介）",
+        "url": "https://github.com/google/web-serial-polyfill",
+        "stars": 135,
+        "forks": 31,
+        "language": "TypeScript",
+        "pushed_at": "2023-11-21T01:01:07Z",
+        "created_at": "2019-07-31T19:32:02Z"
+      },
+      {
+        "name": "web-starter-kit",
+        "description": "Web Starter Kit - a workflow for multi-device websites",
+        "url": "https://github.com/google/web-starter-kit",
+        "stars": 18385,
+        "forks": 2971,
+        "language": "HTML",
+        "pushed_at": "2024-04-22T23:42:34Z",
+        "created_at": "2014-04-07T08:45:18Z"
+      },
+      {
+        "name": "web-starter-kit-extras",
+        "description": "Optional additions to Web Starter Kit",
+        "url": "https://github.com/google/web-starter-kit-extras",
+        "stars": 71,
+        "forks": 29,
+        "language": "未指定",
+        "pushed_at": "2014-10-27T11:51:03Z",
+        "created_at": "2014-08-12T16:00:39Z"
+      },
+      {
+        "name": "webauthndemo",
+        "description": "An example Node.js Relying Party implementation of the WebAuthn specification",
+        "url": "https://github.com/google/webauthndemo",
+        "stars": 617,
+        "forks": 133,
+        "language": "TypeScript",
+        "pushed_at": "2025-05-29T01:16:22Z",
+        "created_at": "2017-06-09T17:49:49Z"
+      },
+      {
+        "name": "webbundle",
+        "description": "WebBundle library for packaging web sites",
+        "url": "https://github.com/google/webbundle",
+        "stars": 100,
+        "forks": 22,
+        "language": "Rust",
+        "pushed_at": "2023-04-10T00:39:29Z",
+        "created_at": "2020-01-29T03:11:19Z"
+      },
+      {
+        "name": "webcrypto.dart",
+        "description": "Cross-platform implementation of Web Cryptography APIs",
+        "url": "https://github.com/google/webcrypto.dart",
+        "stars": 87,
+        "forks": 57,
+        "language": "Dart",
+        "pushed_at": "2025-07-26T22:43:28Z",
+        "created_at": "2020-08-10T14:35:13Z"
+      },
+      {
+        "name": "webdriver-shadow-dom",
+        "description": "（无简介）",
+        "url": "https://github.com/google/webdriver-shadow-dom",
+        "stars": 2,
+        "forks": 0,
+        "language": "Kotlin",
+        "pushed_at": "2024-09-17T17:55:18Z",
+        "created_at": "2024-09-11T18:29:03Z"
+      },
+      {
+        "name": "webdriver.dart",
+        "description": "Dart WebDriver client",
+        "url": "https://github.com/google/webdriver.dart",
+        "stars": 139,
+        "forks": 48,
+        "language": "Dart",
+        "pushed_at": "2025-08-01T16:23:33Z",
+        "created_at": "2013-07-22T23:48:29Z"
+      },
+      {
+        "name": "WebFundamentals",
+        "description": "Former git repo for WebFundamentals on developers.google.com",
+        "url": "https://github.com/google/WebFundamentals",
+        "stars": 13856,
+        "forks": 2549,
+        "language": "JavaScript",
+        "pushed_at": "2022-08-10T14:38:07Z",
+        "created_at": "2014-04-28T18:45:45Z"
+      },
+      {
+        "name": "webkit_inspection_protocol.dart",
+        "description": "A client for the Webkit Inspection Protocol (WIP).",
+        "url": "https://github.com/google/webkit_inspection_protocol.dart",
+        "stars": 33,
+        "forks": 19,
+        "language": "Dart",
+        "pushed_at": "2025-03-01T11:53:42Z",
+        "created_at": "2015-05-06T16:53:15Z"
+      },
+      {
+        "name": "webpackager",
+        "description": "（无简介）",
+        "url": "https://github.com/google/webpackager",
+        "stars": 77,
+        "forks": 20,
+        "language": "Go",
+        "pushed_at": "2024-12-11T22:13:51Z",
+        "created_at": "2019-08-26T05:26:03Z"
+      },
+      {
+        "name": "webrisk",
+        "description": "（无简介）",
+        "url": "https://github.com/google/webrisk",
+        "stars": 76,
+        "forks": 37,
+        "language": "Go",
+        "pushed_at": "2025-02-20T15:38:13Z",
+        "created_at": "2019-10-01T17:21:04Z"
+      },
+      {
+        "name": "webview-ads",
+        "description": "（无简介）",
+        "url": "https://github.com/google/webview-ads",
+        "stars": 1,
+        "forks": 1,
+        "language": "HTML",
+        "pushed_at": "2025-08-14T18:56:19Z",
+        "created_at": "2025-06-13T09:39:56Z"
+      },
+      {
+        "name": "webview-local-server",
+        "description": "（无简介）",
+        "url": "https://github.com/google/webview-local-server",
+        "stars": 108,
+        "forks": 43,
+        "language": "Java",
+        "pushed_at": "2019-08-08T10:51:00Z",
+        "created_at": "2015-01-27T23:42:45Z"
+      },
+      {
+        "name": "web_notifications.dart",
+        "description": "（无简介）",
+        "url": "https://github.com/google/web_notifications.dart",
+        "stars": 13,
+        "forks": 12,
+        "language": "Dart",
+        "pushed_at": "2021-09-02T01:59:57Z",
+        "created_at": "2015-04-11T03:57:53Z"
+      },
+      {
+        "name": "weighted-dict",
+        "description": "（无简介）",
+        "url": "https://github.com/google/weighted-dict",
+        "stars": 19,
+        "forks": 10,
+        "language": "Python",
+        "pushed_at": "2020-05-25T00:27:44Z",
+        "created_at": "2018-06-28T18:46:44Z"
+      },
+      {
+        "name": "werewolf_arena",
+        "description": "（无简介）",
+        "url": "https://github.com/google/werewolf_arena",
+        "stars": 21,
+        "forks": 9,
+        "language": "Python",
+        "pushed_at": "2024-07-22T18:19:28Z",
+        "created_at": "2024-06-21T20:58:29Z"
+      },
+      {
+        "name": "werm",
+        "description": "Tab-friendly terminal multiplexer via Chrome",
+        "url": "https://github.com/google/werm",
+        "stars": 43,
+        "forks": 4,
+        "language": "C",
+        "pushed_at": "2024-11-15T22:01:10Z",
+        "created_at": "2023-09-27T11:03:23Z"
+      },
+      {
+        "name": "wheelbarrow",
+        "description": "（无简介）",
+        "url": "https://github.com/google/wheelbarrow",
+        "stars": 11,
+        "forks": 14,
+        "language": "Python",
+        "pushed_at": "2014-05-27T23:51:24Z",
+        "created_at": "2014-01-06T23:50:14Z"
+      },
+      {
+        "name": "where-am-i",
+        "description": "Wear OS Complication to tell you your current GPS location",
+        "url": "https://github.com/google/where-am-i",
+        "stars": 36,
+        "forks": 15,
+        "language": "Kotlin",
+        "pushed_at": "2022-03-29T18:36:46Z",
+        "created_at": "2018-07-25T18:59:12Z"
+      },
+      {
+        "name": "where-is-my-watch",
+        "description": "（无简介）",
+        "url": "https://github.com/google/where-is-my-watch",
+        "stars": 1,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2020-06-16T16:33:36Z",
+        "created_at": "2020-06-16T16:33:35Z"
+      },
+      {
+        "name": "wiberg-minimization",
+        "description": "（无简介）",
+        "url": "https://github.com/google/wiberg-minimization",
+        "stars": 17,
+        "forks": 10,
+        "language": "未指定",
+        "pushed_at": "2013-09-10T23:16:05Z",
+        "created_at": "2013-09-10T01:33:08Z"
+      },
+      {
+        "name": "wicked-good-xpath",
+        "description": "Pure JS implementation of the DOM Level 3 XPath specification",
+        "url": "https://github.com/google/wicked-good-xpath",
+        "stars": 285,
+        "forks": 67,
+        "language": "JavaScript",
+        "pushed_at": "2020-09-03T18:15:20Z",
+        "created_at": "2015-04-01T19:50:40Z"
+      },
+      {
+        "name": "wide_bnn_sampling",
+        "description": "（无简介）",
+        "url": "https://github.com/google/wide_bnn_sampling",
+        "stars": 7,
+        "forks": 1,
+        "language": "Python",
+        "pushed_at": "2022-02-11T10:50:01Z",
+        "created_at": "2022-02-10T13:36:39Z"
+      },
+      {
+        "name": "wikiloop-analysis",
+        "description": "（无简介）",
+        "url": "https://github.com/google/wikiloop-analysis",
+        "stars": 4,
+        "forks": 5,
+        "language": "Python",
+        "pushed_at": "2020-06-24T01:54:11Z",
+        "created_at": "2020-06-11T21:26:10Z"
+      },
+      {
+        "name": "wikiloop-datasets",
+        "description": "（无简介）",
+        "url": "https://github.com/google/wikiloop-datasets",
+        "stars": 7,
+        "forks": 3,
+        "language": "未指定",
+        "pushed_at": "2019-03-19T20:14:50Z",
+        "created_at": "2018-08-30T22:05:03Z"
+      },
+      {
+        "name": "wikiloop-doublecheck",
+        "description": "WikiLoop DoubleCheck: a web tool to help review Wikipedia edits easily and collaboratively.",
+        "url": "https://github.com/google/wikiloop-doublecheck",
+        "stars": 83,
+        "forks": 55,
+        "language": "TypeScript",
+        "pushed_at": "2024-06-19T21:38:30Z",
+        "created_at": "2019-04-10T18:35:37Z"
+      },
+      {
+        "name": "wikiloop-explorer",
+        "description": "（无简介）",
+        "url": "https://github.com/google/wikiloop-explorer",
+        "stars": 8,
+        "forks": 7,
+        "language": "Vue",
+        "pushed_at": "2024-07-15T21:14:27Z",
+        "created_at": "2019-08-14T07:40:43Z"
+      },
+      {
+        "name": "wikiloop-wikidata-game",
+        "description": "（无简介）",
+        "url": "https://github.com/google/wikiloop-wikidata-game",
+        "stars": 5,
+        "forks": 4,
+        "language": "JavaScript",
+        "pushed_at": "2019-11-01T14:14:22Z",
+        "created_at": "2019-08-17T15:04:47Z"
+      },
+      {
+        "name": "window-mirror",
+        "description": "The WindowMirror toolkit provides users with a simulated, extended screen real-estate. It allows users to interact with multiple desktop applications in real-time within a XR environment.",
+        "url": "https://github.com/google/window-mirror",
+        "stars": 18,
+        "forks": 3,
+        "language": "C#",
+        "pushed_at": "2024-07-09T18:50:33Z",
+        "created_at": "2024-01-11T00:12:00Z"
+      },
+      {
+        "name": "windowtester",
+        "description": "Automatically exported from code.google.com/p/windowtester",
+        "url": "https://github.com/google/windowtester",
+        "stars": 19,
+        "forks": 18,
+        "language": "Java",
+        "pushed_at": "2017-02-09T23:33:58Z",
+        "created_at": "2015-05-04T15:20:07Z"
+      },
+      {
+        "name": "winops",
+        "description": "Small scripts and libraries for managing Windows in a corporate environment.",
+        "url": "https://github.com/google/winops",
+        "stars": 117,
+        "forks": 15,
+        "language": "Go",
+        "pushed_at": "2025-07-09T17:13:34Z",
+        "created_at": "2016-03-21T14:36:40Z"
+      },
+      {
+        "name": "wire",
+        "description": "Compile-time Dependency Injection for Go",
+        "url": "https://github.com/google/wire",
+        "stars": 14103,
+        "forks": 667,
+        "language": "Go",
+        "pushed_at": "2024-07-24T00:27:16Z",
+        "created_at": "2018-11-28T17:34:51Z"
+      },
+      {
+        "name": "wireit",
+        "description": "Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.",
+        "url": "https://github.com/google/wireit",
+        "stars": 6247,
+        "forks": 114,
+        "language": "TypeScript",
+        "pushed_at": "2025-08-13T11:21:52Z",
+        "created_at": "2021-12-22T15:52:53Z"
+      },
+      {
+        "name": "wmt-mqm-human-evaluation",
+        "description": "（无简介）",
+        "url": "https://github.com/google/wmt-mqm-human-evaluation",
+        "stars": 90,
+        "forks": 9,
+        "language": "未指定",
+        "pushed_at": "2024-09-20T18:21:47Z",
+        "created_at": "2021-04-27T21:39:08Z"
+      },
+      {
+        "name": "wmt19-paraphrased-references",
+        "description": "（无简介）",
+        "url": "https://github.com/google/wmt19-paraphrased-references",
+        "stars": 14,
+        "forks": 6,
+        "language": "未指定",
+        "pushed_at": "2020-11-05T22:10:41Z",
+        "created_at": "2020-04-10T22:16:18Z"
+      },
+      {
+        "name": "woff2",
+        "description": "（无简介）",
+        "url": "https://github.com/google/woff2",
+        "stars": 1660,
+        "forks": 206,
+        "language": "C++",
+        "pushed_at": "2024-08-02T21:13:32Z",
+        "created_at": "2014-10-09T14:34:43Z"
+      },
+      {
+        "name": "workflow-graph",
+        "description": "（无简介）",
+        "url": "https://github.com/google/workflow-graph",
+        "stars": 147,
+        "forks": 27,
+        "language": "TypeScript",
+        "pushed_at": "2025-07-30T14:17:02Z",
+        "created_at": "2022-12-07T16:50:39Z"
+      },
+      {
+        "name": "wuffs",
+        "description": "Wrangling Untrusted File Formats Safely",
+        "url": "https://github.com/google/wuffs",
+        "stars": 4614,
+        "forks": 141,
+        "language": "C",
+        "pushed_at": "2025-07-19T01:36:57Z",
+        "created_at": "2017-11-13T00:44:45Z"
+      },
+      {
+        "name": "wuffs-mirror-release-c",
+        "description": "（无简介）",
+        "url": "https://github.com/google/wuffs-mirror-release-c",
+        "stars": 36,
+        "forks": 17,
+        "language": "C",
+        "pushed_at": "2025-03-25T02:53:54Z",
+        "created_at": "2021-03-30T21:07:49Z"
+      },
+      {
+        "name": "wwwbasic",
+        "description": "wwwBASIC is an implementation of BASIC that runs on Node.js and the Web.",
+        "url": "https://github.com/google/wwwbasic",
+        "stars": 1138,
+        "forks": 63,
+        "language": "JavaScript",
+        "pushed_at": "2023-08-21T16:19:58Z",
+        "created_at": "2018-07-17T04:57:29Z"
+      },
+      {
+        "name": "x",
+        "description": "（无简介）",
+        "url": "https://github.com/google/x",
+        "stars": 4,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2020-09-30T18:54:49Z",
+        "created_at": "2020-09-30T18:54:46Z"
+      },
+      {
+        "name": "x-amber",
+        "description": "（无简介）",
+        "url": "https://github.com/google/x-amber",
+        "stars": 163,
+        "forks": 35,
+        "language": "C",
+        "pushed_at": "2020-08-28T01:31:32Z",
+        "created_at": "2020-08-28T01:20:59Z"
+      },
+      {
+        "name": "x509test",
+        "description": "X.509 certificate test suite",
+        "url": "https://github.com/google/x509test",
+        "stars": 42,
+        "forks": 14,
+        "language": "Python",
+        "pushed_at": "2021-09-06T11:06:40Z",
+        "created_at": "2016-09-14T13:15:19Z"
+      },
+      {
+        "name": "xarray-beam",
+        "description": "Distributed Xarray with Apache Beam",
+        "url": "https://github.com/google/xarray-beam",
+        "stars": 148,
+        "forks": 10,
+        "language": "Python",
+        "pushed_at": "2025-08-14T23:29:53Z",
+        "created_at": "2021-05-11T20:48:07Z"
+      },
+      {
+        "name": "xarray-tensorstore",
+        "description": "（无简介）",
+        "url": "https://github.com/google/xarray-tensorstore",
+        "stars": 60,
+        "forks": 3,
+        "language": "Python",
+        "pushed_at": "2025-08-14T21:28:08Z",
+        "created_at": "2023-03-12T05:29:18Z"
+      },
+      {
+        "name": "xctestrunner",
+        "description": "A executable binary to run prebuilt iOS tests on iOS simulator/real device.",
+        "url": "https://github.com/google/xctestrunner",
+        "stars": 152,
+        "forks": 67,
+        "language": "Python",
+        "pushed_at": "2025-05-27T22:11:00Z",
+        "created_at": "2017-09-08T02:37:43Z"
+      },
+      {
+        "name": "xdelta3-decoder-js",
+        "description": "（无简介）",
+        "url": "https://github.com/google/xdelta3-decoder-js",
+        "stars": 13,
+        "forks": 10,
+        "language": "C",
+        "pushed_at": "2017-01-24T21:22:43Z",
+        "created_at": "2017-01-24T19:40:23Z"
+      },
+      {
+        "name": "xdtk",
+        "description": "XDTK is an open-source toolkit for building interactions between Android devices and a Unity application.",
+        "url": "https://github.com/google/xdtk",
+        "stars": 35,
+        "forks": 3,
+        "language": "Java",
+        "pushed_at": "2025-02-05T21:44:46Z",
+        "created_at": "2024-01-10T23:37:26Z"
+      },
+      {
+        "name": "Xee",
+        "description": "An Xarray extension for Google Earth Engine",
+        "url": "https://github.com/google/Xee",
+        "stars": 304,
+        "forks": 36,
+        "language": "Python",
+        "pushed_at": "2025-08-11T15:08:38Z",
+        "created_at": "2023-08-23T18:09:46Z"
+      },
+      {
+        "name": "xls",
+        "description": "XLS: Accelerated HW Synthesis",
+        "url": "https://github.com/google/xls",
+        "stars": 1335,
+        "forks": 208,
+        "language": "C++",
+        "pushed_at": "2025-08-15T19:28:14Z",
+        "created_at": "2020-05-07T21:38:30Z"
+      },
+      {
+        "name": "xmpmeta",
+        "description": "（无简介）",
+        "url": "https://github.com/google/xmpmeta",
+        "stars": 18,
+        "forks": 10,
+        "language": "C++",
+        "pushed_at": "2017-04-18T00:17:31Z",
+        "created_at": "2017-02-24T00:23:16Z"
+      },
+      {
+        "name": "XNNPACK",
+        "description": "High-efficiency floating-point neural network inference operators for mobile, server, and Web",
+        "url": "https://github.com/google/XNNPACK",
+        "stars": 2083,
+        "forks": 436,
+        "language": "C",
+        "pushed_at": "2025-08-15T16:50:25Z",
+        "created_at": "2019-09-13T23:48:37Z"
+      },
+      {
+        "name": "xpaf",
+        "description": "（无简介）",
+        "url": "https://github.com/google/xpaf",
+        "stars": 152,
+        "forks": 54,
+        "language": "C++",
+        "pushed_at": "2016-05-28T18:39:31Z",
+        "created_at": "2014-08-29T18:38:08Z"
+      },
+      {
+        "name": "xplat",
+        "description": "（无简介）",
+        "url": "https://github.com/google/xplat",
+        "stars": 18,
+        "forks": 4,
+        "language": "Java",
+        "pushed_at": "2025-08-08T14:56:42Z",
+        "created_at": "2022-06-03T11:45:12Z"
+      },
+      {
+        "name": "xpra-upstart",
+        "description": "Upstart script for Xpra",
+        "url": "https://github.com/google/xpra-upstart",
+        "stars": 3,
+        "forks": 10,
+        "language": "未指定",
+        "pushed_at": "2015-11-05T02:01:37Z",
+        "created_at": "2015-11-05T02:01:09Z"
+      },
+      {
+        "name": "xr-objects",
+        "description": "XR-Objects is an open-source prototype that anchors contextual interactions onto analog objects to not only convey information but also to initiate digital actions, such as querying LLMs for details or executing tasks. Creating an early form of Augmented Object Intelligence.",
+        "url": "https://github.com/google/xr-objects",
+        "stars": 153,
+        "forks": 19,
+        "language": "C#",
+        "pushed_at": "2025-03-08T00:53:02Z",
+        "created_at": "2024-02-17T11:08:33Z"
+      },
+      {
+        "name": "xrtl",
+        "description": "Cross-platform Real-Time Rendering Library",
+        "url": "https://github.com/google/xrtl",
+        "stars": 130,
+        "forks": 26,
+        "language": "C++",
+        "pushed_at": "2018-07-18T17:48:58Z",
+        "created_at": "2017-03-29T17:10:19Z"
+      },
+      {
+        "name": "xscreensaver-dbus",
+        "description": "D-Bus interface for xscreensaver",
+        "url": "https://github.com/google/xscreensaver-dbus",
+        "stars": 3,
+        "forks": 5,
+        "language": "Haskell",
+        "pushed_at": "2020-12-15T22:35:56Z",
+        "created_at": "2020-11-18T18:05:04Z"
+      },
+      {
+        "name": "xsecurelock",
+        "description": "X11 screen lock utility with security in mind",
+        "url": "https://github.com/google/xsecurelock",
+        "stars": 916,
+        "forks": 63,
+        "language": "C",
+        "pushed_at": "2024-03-14T22:35:11Z",
+        "created_at": "2014-06-20T14:55:28Z"
+      },
+      {
+        "name": "xsecurelock-saver-rs",
+        "description": "Rust + SFML Screensavers for XSecureLock",
+        "url": "https://github.com/google/xsecurelock-saver-rs",
+        "stars": 14,
+        "forks": 11,
+        "language": "Rust",
+        "pushed_at": "2021-09-30T23:37:04Z",
+        "created_at": "2018-11-13T17:32:51Z"
+      },
+      {
+        "name": "xssxss",
+        "description": "deprecated – use https://github.com/google/xscreensaver-dbus",
+        "url": "https://github.com/google/xssxss",
+        "stars": 3,
+        "forks": 7,
+        "language": "C",
+        "pushed_at": "2020-11-18T18:15:45Z",
+        "created_at": "2019-10-22T20:23:59Z"
+      },
+      {
+        "name": "xtoproto",
+        "description": "Automatically generate a Protocol Buffer definition and csv-to-proto converter from an example CSV file. See website for interactive playground",
+        "url": "https://github.com/google/xtoproto",
+        "stars": 56,
+        "forks": 16,
+        "language": "Go",
+        "pushed_at": "2024-12-18T22:17:17Z",
+        "created_at": "2020-06-29T23:30:27Z"
+      },
+      {
+        "name": "yaml-ui-editor",
+        "description": "YAML UI editor application with Git repository storage",
+        "url": "https://github.com/google/yaml-ui-editor",
+        "stars": 32,
+        "forks": 11,
+        "language": "Java",
+        "pushed_at": "2024-09-20T04:53:56Z",
+        "created_at": "2023-08-30T01:05:15Z"
+      },
+      {
+        "name": "yamlfmt",
+        "description": "An extensible command line tool or library to format yaml files.",
+        "url": "https://github.com/google/yamlfmt",
+        "stars": 1526,
+        "forks": 55,
+        "language": "Go",
+        "pushed_at": "2025-06-24T01:51:55Z",
+        "created_at": "2022-08-10T17:04:01Z"
+      },
+      {
+        "name": "yang_vocoder",
+        "description": "（无简介）",
+        "url": "https://github.com/google/yang_vocoder",
+        "stars": 91,
+        "forks": 26,
+        "language": "Matlab",
+        "pushed_at": "2017-01-11T11:45:56Z",
+        "created_at": "2017-01-02T10:32:11Z"
+      },
+      {
+        "name": "yapf",
+        "description": "A formatter for Python files",
+        "url": "https://github.com/google/yapf",
+        "stars": 13937,
+        "forks": 902,
+        "language": "Python",
+        "pushed_at": "2025-08-15T16:01:33Z",
+        "created_at": "2015-03-18T18:22:31Z"
+      },
+      {
+        "name": "yara-procdump-python",
+        "description": "A Python extension to wrap the Yara process memory access API.",
+        "url": "https://github.com/google/yara-procdump-python",
+        "stars": 11,
+        "forks": 5,
+        "language": "C",
+        "pushed_at": "2017-11-02T11:51:38Z",
+        "created_at": "2017-10-19T14:20:35Z"
+      },
+      {
+        "name": "yaricv32",
+        "description": "（无简介）",
+        "url": "https://github.com/google/yaricv32",
+        "stars": 11,
+        "forks": 10,
+        "language": "Verilog",
+        "pushed_at": "2018-01-08T21:59:26Z",
+        "created_at": "2018-01-08T17:08:36Z"
+      },
+      {
+        "name": "yarsa",
+        "description": "（无简介）",
+        "url": "https://github.com/google/yarsa",
+        "stars": 1,
+        "forks": 0,
+        "language": "Go",
+        "pushed_at": "2025-03-06T21:55:55Z",
+        "created_at": "2025-03-06T01:34:56Z"
+      },
+      {
+        "name": "YetAnotherChatApp",
+        "description": "（无简介）",
+        "url": "https://github.com/google/YetAnotherChatApp",
+        "stars": 9,
+        "forks": 8,
+        "language": "Java",
+        "pushed_at": "2018-04-14T03:06:15Z",
+        "created_at": "2017-10-20T13:51:55Z"
+      },
+      {
+        "name": "yggdrasil-decision-forests",
+        "description": "A library to train, evaluate, interpret, and productionize decision forest models such as Random Forest and Gradient Boosted Decision Trees. ",
+        "url": "https://github.com/google/yggdrasil-decision-forests",
+        "stars": 600,
+        "forks": 65,
+        "language": "C++",
+        "pushed_at": "2025-08-14T15:48:37Z",
+        "created_at": "2021-04-22T08:21:18Z"
+      },
+      {
+        "name": "YouCompleteSubl",
+        "description": "（无简介）",
+        "url": "https://github.com/google/YouCompleteSubl",
+        "stars": 2,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2014-03-26T15:31:08Z",
+        "created_at": "2014-03-26T15:31:07Z"
+      },
+      {
+        "name": "youtube-8m",
+        "description": "Starter code for working with the YouTube-8M dataset.",
+        "url": "https://github.com/google/youtube-8m",
+        "stars": 2359,
+        "forks": 851,
+        "language": "Python",
+        "pushed_at": "2021-10-25T04:30:45Z",
+        "created_at": "2016-12-20T21:49:38Z"
+      },
+      {
+        "name": "ytstatistics-demo",
+        "description": "Automatically exported from code.google.com/p/ytstatistics-demo",
+        "url": "https://github.com/google/ytstatistics-demo",
+        "stars": 5,
+        "forks": 11,
+        "language": "Java",
+        "pushed_at": "2015-06-09T18:24:30Z",
+        "created_at": "2015-03-16T20:20:28Z"
+      },
+      {
+        "name": "zarathustra",
+        "description": "（无简介）",
+        "url": "https://github.com/google/zarathustra",
+        "stars": 14,
+        "forks": 13,
+        "language": "Java",
+        "pushed_at": "2014-12-17T14:53:15Z",
+        "created_at": "2014-09-25T16:47:01Z"
+      },
+      {
+        "name": "zazu",
+        "description": "（无简介）",
+        "url": "https://github.com/google/zazu",
+        "stars": 21,
+        "forks": 11,
+        "language": "TypeScript",
+        "pushed_at": "2024-07-22T20:45:15Z",
+        "created_at": "2018-05-11T17:27:25Z"
+      },
+      {
+        "name": "zero-touch-reseller-tool",
+        "description": "（无简介）",
+        "url": "https://github.com/google/zero-touch-reseller-tool",
+        "stars": 3,
+        "forks": 6,
+        "language": "Java",
+        "pushed_at": "2020-08-17T22:23:44Z",
+        "created_at": "2020-08-17T13:57:28Z"
+      },
+      {
+        "name": "zerocopy",
+        "description": "Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.",
+        "url": "https://github.com/google/zerocopy",
+        "stars": 2004,
+        "forks": 122,
+        "language": "Rust",
+        "pushed_at": "2025-08-15T18:23:02Z",
+        "created_at": "2022-09-08T19:01:01Z"
+      },
+      {
+        "name": "zeroshell-linode",
+        "description": "Script for Zeroshell installation on Linode (Xen)",
+        "url": "https://github.com/google/zeroshell-linode",
+        "stars": 14,
+        "forks": 15,
+        "language": "Shell",
+        "pushed_at": "2021-01-28T21:50:12Z",
+        "created_at": "2015-11-05T02:04:10Z"
+      },
+      {
+        "name": "zetasketch",
+        "description": "A collection of libraries for single-pass, distributed, sublinear-space approximate aggregation and sketching algorithms. Currently: HyperLogLog++; more to come.",
+        "url": "https://github.com/google/zetasketch",
+        "stars": 158,
+        "forks": 23,
+        "language": "Java",
+        "pushed_at": "2025-05-21T11:24:50Z",
+        "created_at": "2019-05-23T17:10:53Z"
+      },
+      {
+        "name": "zetasql",
+        "description": "ZetaSQL - Analyzer Framework for SQL",
+        "url": "https://github.com/google/zetasql",
+        "stars": 2418,
+        "forks": 232,
+        "language": "C++",
+        "pushed_at": "2025-06-23T17:11:58Z",
+        "created_at": "2019-04-16T17:43:46Z"
+      },
+      {
+        "name": "Zhi",
+        "description": "Interactive LaTeX Paper Writing in Google Drive",
+        "url": "https://github.com/google/Zhi",
+        "stars": 28,
+        "forks": 14,
+        "language": "Python",
+        "pushed_at": "2017-04-03T18:19:50Z",
+        "created_at": "2017-04-03T18:14:56Z"
+      },
+      {
+        "name": "zimtohrli",
+        "description": "（无简介）",
+        "url": "https://github.com/google/zimtohrli",
+        "stars": 152,
+        "forks": 6,
+        "language": "Jupyter Notebook",
+        "pushed_at": "2025-08-12T16:54:35Z",
+        "created_at": "2024-03-15T07:49:05Z"
+      },
+      {
+        "name": "zimu",
+        "description": "（无简介）",
+        "url": "https://github.com/google/zimu",
+        "stars": 6,
+        "forks": 6,
+        "language": "C",
+        "pushed_at": "2013-10-02T20:59:09Z",
+        "created_at": "2013-10-02T20:45:17Z"
+      },
+      {
+        "name": "zoekt",
+        "description": "Fast trigram based code search  ",
+        "url": "https://github.com/google/zoekt",
+        "stars": 1732,
+        "forks": 116,
+        "language": "未指定",
+        "pushed_at": "2024-01-16T08:47:30Z",
+        "created_at": "2016-04-29T16:46:16Z"
+      },
+      {
+        "name": "zoom-to-inpaint",
+        "description": "（无简介）",
+        "url": "https://github.com/google/zoom-to-inpaint",
+        "stars": 21,
+        "forks": 6,
+        "language": "Python",
+        "pushed_at": "2022-06-29T15:06:34Z",
+        "created_at": "2021-02-16T20:36:47Z"
+      },
+      {
+        "name": "zooshi",
+        "description": "Multi-platform game where you feed well dressed animals with sushi",
+        "url": "https://github.com/google/zooshi",
+        "stars": 292,
+        "forks": 57,
+        "language": "C++",
+        "pushed_at": "2018-06-16T09:54:28Z",
+        "created_at": "2015-05-21T19:26:59Z"
+      },
+      {
+        "name": "zopfli",
+        "description": "Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.",
+        "url": "https://github.com/google/zopfli",
+        "stars": 3538,
+        "forks": 338,
+        "language": "C++",
+        "pushed_at": "2024-08-10T16:45:24Z",
+        "created_at": "2015-03-09T10:32:36Z"
+      },
+      {
+        "name": "zsldemo",
+        "description": "（无简介）",
+        "url": "https://github.com/google/zsldemo",
+        "stars": 20,
+        "forks": 6,
+        "language": "Kotlin",
+        "pushed_at": "2019-03-08T00:51:41Z",
+        "created_at": "2019-03-08T00:37:14Z"
+      },
+      {
+        "name": "zuckerli",
+        "description": "（无简介）",
+        "url": "https://github.com/google/zuckerli",
+        "stars": 28,
+        "forks": 11,
+        "language": "C++",
+        "pushed_at": "2022-09-28T13:57:00Z",
+        "created_at": "2020-09-02T20:02:36Z"
+      },
+      {
+        "name": "zx",
+        "description": "A tool for writing better scripts",
+        "url": "https://github.com/google/zx",
+        "stars": 44465,
+        "forks": 1156,
+        "language": "JavaScript",
+        "pushed_at": "2025-08-10T18:05:00Z",
+        "created_at": "2021-05-05T05:50:01Z"
       }
     ]
   }
