@@ -339,7 +339,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-08-15T06:27:11Z",
+        "pushed_at": "2025-08-15T06:56:42Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3996,7 +3996,7 @@
         "name": "west",
         "description": "West, Zephyr's meta-tool",
         "url": "https://github.com/zephyrproject-rtos/west",
-        "stars": 279,
+        "stars": 278,
         "forks": 142,
         "language": "Python",
         "pushed_at": "2025-08-14T12:26:38Z",
@@ -4039,7 +4039,7 @@
         "stars": 12890,
         "forks": 7781,
         "language": "C",
-        "pushed_at": "2025-08-15T02:38:38Z",
+        "pushed_at": "2025-08-15T07:11:16Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -11056,7 +11056,7 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15226,
+        "stars": 15227,
         "forks": 7676,
         "language": "C++",
         "pushed_at": "2025-08-15T00:56:53Z",
@@ -12606,7 +12606,7 @@
         "name": "esp-who",
         "description": "Face detection and recognition framework",
         "url": "https://github.com/espressif/esp-who",
-        "stars": 1888,
+        "stars": 1889,
         "forks": 502,
         "language": "C",
         "pushed_at": "2025-07-23T07:54:40Z",
@@ -16496,8 +16496,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 34990,
-        "forks": 4002,
+        "stars": 34994,
+        "forks": 4003,
         "language": "Rust",
         "pushed_at": "2025-08-15T06:48:11Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16796,7 +16796,7 @@
         "name": "glide-text2im",
         "description": "GLIDE: a diffusion-based text-conditional image synthesis model",
         "url": "https://github.com/openai/glide-text2im",
-        "stars": 3655,
+        "stars": 3656,
         "forks": 505,
         "language": "Python",
         "pushed_at": "2024-03-08T08:44:28Z",
@@ -16857,7 +16857,7 @@
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
         "stars": 24066,
-        "forks": 5766,
+        "forks": 5765,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
         "created_at": "2019-02-11T04:21:59Z"
@@ -16877,7 +16877,7 @@
         "description": "GPT-3: Language Models are Few-Shot Learners",
         "url": "https://github.com/openai/gpt-3",
         "stars": 15776,
-        "forks": 2302,
+        "forks": 2301,
         "language": "未指定",
         "pushed_at": "2020-09-18T22:06:11Z",
         "created_at": "2020-05-18T08:03:50Z"
@@ -16896,8 +16896,8 @@
         "name": "gpt-5-coding-examples",
         "description": "GPT-5 coding examples",
         "url": "https://github.com/openai/gpt-5-coding-examples",
-        "stars": 1208,
-        "forks": 139,
+        "stars": 1212,
+        "forks": 140,
         "language": "HTML",
         "pushed_at": "2025-08-08T04:36:36Z",
         "created_at": "2025-08-07T01:06:40Z"
@@ -16916,7 +16916,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 17113,
+        "stars": 17116,
         "forks": 1488,
         "language": "Python",
         "pushed_at": "2025-08-14T16:33:33Z",
@@ -17466,7 +17466,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 67135,
+        "stars": 67136,
         "forks": 11129,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-08-14T16:22:20Z",
@@ -17536,7 +17536,7 @@
         "name": "openai-go",
         "description": "The official Go library for the OpenAI API",
         "url": "https://github.com/openai/openai-go",
-        "stars": 2303,
+        "stars": 2304,
         "forks": 192,
         "language": "Go",
         "pushed_at": "2025-08-15T05:07:33Z",
@@ -18036,7 +18036,7 @@
         "name": "safety-rbr-code-and-data",
         "description": "Code and example data for the paper: Rule Based Rewards for Language Model Safety",
         "url": "https://github.com/openai/safety-rbr-code-and-data",
-        "stars": 191,
+        "stars": 192,
         "forks": 17,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-19T23:24:59Z",
@@ -18356,7 +18356,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 86657,
+        "stars": 86659,
         "forks": 10665,
         "language": "Python",
         "pushed_at": "2025-06-26T01:05:52Z",
@@ -20569,7 +20569,7 @@
         "stars": 68,
         "forks": 235,
         "language": "C",
-        "pushed_at": "2025-08-14T13:46:42Z",
+        "pushed_at": "2025-08-15T07:03:46Z",
         "created_at": "2018-02-05T14:45:56Z"
       },
       {
@@ -20589,7 +20589,7 @@
         "stars": 1136,
         "forks": 1358,
         "language": "C",
-        "pushed_at": "2025-08-14T13:47:23Z",
+        "pushed_at": "2025-08-15T07:02:52Z",
         "created_at": "2018-02-14T13:50:55Z"
       },
       {
@@ -20699,7 +20699,7 @@
         "stars": 328,
         "forks": 687,
         "language": "C",
-        "pushed_at": "2025-08-14T13:31:56Z",
+        "pushed_at": "2025-08-15T07:03:47Z",
         "created_at": "2018-02-05T14:45:23Z"
       },
       {
@@ -20882,7 +20882,7 @@
         "description": "A collection of extension libraries for Jetpack Compose",
         "url": "https://github.com/google/accompanist",
         "stars": 7707,
-        "forks": 632,
+        "forks": 633,
         "language": "Kotlin",
         "pushed_at": "2025-04-28T06:28:59Z",
         "created_at": "2020-05-05T07:48:10Z"
@@ -21091,10 +21091,10 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 12114,
+        "stars": 12116,
         "forks": 1681,
         "language": "Python",
-        "pushed_at": "2025-08-15T05:14:23Z",
+        "pushed_at": "2025-08-15T07:01:42Z",
         "created_at": "2025-04-01T20:44:40Z"
       },
       {
@@ -23081,7 +23081,7 @@
         "name": "BIG-bench",
         "description": "Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models",
         "url": "https://github.com/google/BIG-bench",
-        "stars": 3099,
+        "stars": 3100,
         "forks": 608,
         "language": "Python",
         "pushed_at": "2024-07-19T11:57:37Z",
@@ -27432,7 +27432,7 @@
         "description": "Google's differential privacy libraries.",
         "url": "https://github.com/google/differential-privacy",
         "stars": 3195,
-        "forks": 385,
+        "forks": 386,
         "language": "Go",
         "pushed_at": "2025-08-06T13:26:01Z",
         "created_at": "2019-09-04T13:04:15Z"
@@ -33314,7 +33314,7 @@
         "stars": 4803,
         "forks": 368,
         "language": "C++",
-        "pushed_at": "2025-08-14T16:30:34Z",
+        "pushed_at": "2025-08-15T07:14:51Z",
         "created_at": "2019-09-06T12:41:23Z"
       },
       {
@@ -35401,10 +35401,10 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 11276,
-        "forks": 704,
+        "stars": 11282,
+        "forks": 705,
         "language": "Python",
-        "pushed_at": "2025-08-15T06:54:55Z",
+        "pushed_at": "2025-08-15T07:17:53Z",
         "created_at": "2025-07-08T20:46:06Z"
       },
       {
@@ -35591,7 +35591,7 @@
         "name": "leveldb",
         "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
         "url": "https://github.com/google/leveldb",
-        "stars": 37998,
+        "stars": 37999,
         "forks": 8046,
         "language": "C++",
         "pushed_at": "2025-01-30T17:33:01Z",
@@ -36914,7 +36914,7 @@
         "stars": 1091,
         "forks": 183,
         "language": "Python",
-        "pushed_at": "2025-08-15T06:45:22Z",
+        "pushed_at": "2025-08-15T07:01:08Z",
         "created_at": "2024-01-31T18:15:38Z"
       },
       {
@@ -38344,7 +38344,7 @@
         "stars": 1755,
         "forks": 284,
         "language": "Java",
-        "pushed_at": "2025-08-15T05:58:26Z",
+        "pushed_at": "2025-08-15T07:01:27Z",
         "created_at": "2016-02-29T20:16:48Z"
       },
       {
@@ -40381,7 +40381,7 @@
         "name": "practical-inverse-rendering-of-textured-and-translucent-appearance",
         "description": "SIGGRAPH 2025 \"Practical Inverse Rendering Of Textured And Translucent Appearance\"",
         "url": "https://github.com/google/practical-inverse-rendering-of-textured-and-translucent-appearance",
-        "stars": 102,
+        "stars": 103,
         "forks": 10,
         "language": "Python",
         "pushed_at": "2025-08-03T19:53:48Z",
@@ -40824,7 +40824,7 @@
         "stars": 550,
         "forks": 194,
         "language": "Dart",
-        "pushed_at": "2025-08-12T08:16:27Z",
+        "pushed_at": "2025-08-15T07:09:48Z",
         "created_at": "2013-07-10T16:36:09Z"
       },
       {
@@ -41231,7 +41231,7 @@
         "name": "python-fire",
         "description": "Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
         "url": "https://github.com/google/python-fire",
-        "stars": 27825,
+        "stars": 27826,
         "forks": 1455,
         "language": "Python",
         "pushed_at": "2025-08-07T11:29:37Z",
@@ -41902,7 +41902,7 @@
         "description": "Reflectable is a Dart library that allows programmers to eliminate certain usages of dynamic reflection by specialization of reflective code to an equivalent implementation using only static techniques. The use of dynamic reflection is constrained in order to ensure that the specialized code can be generated and will have a reasonable size.",
         "url": "https://github.com/google/reflectable.dart",
         "stars": 382,
-        "forks": 60,
+        "forks": 61,
         "language": "Dart",
         "pushed_at": "2025-05-28T07:24:41Z",
         "created_at": "2015-01-16T13:09:05Z"
@@ -42861,7 +42861,7 @@
         "name": "sanitizers",
         "description": "AddressSanitizer, ThreadSanitizer, MemorySanitizer",
         "url": "https://github.com/google/sanitizers",
-        "stars": 12041,
+        "stars": 12042,
         "forks": 1075,
         "language": "C",
         "pushed_at": "2025-08-15T02:25:31Z",
@@ -43674,7 +43674,7 @@
         "stars": 1319,
         "forks": 315,
         "language": "JavaScript",
-        "pushed_at": "2025-08-15T01:50:51Z",
+        "pushed_at": "2025-08-15T07:08:06Z",
         "created_at": "2019-06-11T14:20:21Z"
       },
       {
@@ -45534,7 +45534,7 @@
         "stars": 1429,
         "forks": 128,
         "language": "C++",
-        "pushed_at": "2025-08-15T04:54:41Z",
+        "pushed_at": "2025-08-15T07:08:51Z",
         "created_at": "2020-03-30T13:24:59Z"
       },
       {
@@ -48601,7 +48601,7 @@
         "name": "zx",
         "description": "A tool for writing better scripts",
         "url": "https://github.com/google/zx",
-        "stars": 44461,
+        "stars": 44462,
         "forks": 1156,
         "language": "JavaScript",
         "pushed_at": "2025-08-10T18:05:00Z",
