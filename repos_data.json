@@ -339,7 +339,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-08-19T07:16:44Z",
+        "pushed_at": "2025-08-19T07:32:26Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -5373,8 +5373,8 @@
         "url": "https://github.com/STMicroelectronics/iis2dlpc-rs",
         "stars": 0,
         "forks": 0,
-        "language": "未指定",
-        "pushed_at": "2025-08-12T09:42:27Z",
+        "language": "Rust",
+        "pushed_at": "2025-08-19T07:33:48Z",
         "created_at": "2025-08-12T09:42:27Z"
       },
       {
@@ -5393,8 +5393,8 @@
         "url": "https://github.com/STMicroelectronics/iis2dulpx-rs",
         "stars": 0,
         "forks": 0,
-        "language": "未指定",
-        "pushed_at": "2025-08-12T09:42:49Z",
+        "language": "Rust",
+        "pushed_at": "2025-08-19T07:38:32Z",
         "created_at": "2025-08-12T09:42:49Z"
       },
       {
@@ -5423,8 +5423,8 @@
         "url": "https://github.com/STMicroelectronics/iis2mdc-rs",
         "stars": 0,
         "forks": 0,
-        "language": "未指定",
-        "pushed_at": "2025-08-12T09:43:50Z",
+        "language": "Rust",
+        "pushed_at": "2025-08-19T07:40:57Z",
         "created_at": "2025-08-12T09:43:50Z"
       },
       {
@@ -11516,7 +11516,7 @@
         "name": "esp-bsp",
         "description": "Board support components for Espressif development boards",
         "url": "https://github.com/espressif/esp-bsp",
-        "stars": 317,
+        "stars": 318,
         "forks": 158,
         "language": "C",
         "pushed_at": "2025-08-14T15:43:14Z",
@@ -11826,7 +11826,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 16045,
+        "stars": 16046,
         "forks": 7812,
         "language": "C",
         "pushed_at": "2025-08-19T00:29:42Z",
@@ -12539,7 +12539,7 @@
         "stars": 53,
         "forks": 30,
         "language": "C++",
-        "pushed_at": "2025-08-19T06:51:26Z",
+        "pushed_at": "2025-08-19T07:42:58Z",
         "created_at": "2024-01-18T07:20:01Z"
       },
       {
@@ -16417,7 +16417,7 @@
         "description": "Build hours code to share.",
         "url": "https://github.com/openai/build-hours",
         "stars": 434,
-        "forks": 89,
+        "forks": 90,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-07-31T16:21:23Z",
         "created_at": "2024-07-29T18:23:42Z"
@@ -16716,7 +16716,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 16784,
+        "stars": 16785,
         "forks": 2778,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -16926,7 +16926,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 17431,
+        "stars": 17432,
         "forks": 1564,
         "language": "Python",
         "pushed_at": "2025-08-18T01:03:14Z",
@@ -18246,7 +18246,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 15596,
+        "stars": 15597,
         "forks": 1185,
         "language": "Python",
         "pushed_at": "2025-08-08T23:45:27Z",
@@ -18377,7 +18377,7 @@
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
         "stars": 86855,
-        "forks": 10706,
+        "forks": 10707,
         "language": "Python",
         "pushed_at": "2025-08-18T15:03:07Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -20619,7 +20619,7 @@
         "stars": 2,
         "forks": 6,
         "language": "C",
-        "pushed_at": "2025-08-19T07:29:02Z",
+        "pushed_at": "2025-08-19T07:35:06Z",
         "created_at": "2024-10-14T12:43:23Z"
       },
       {
@@ -21121,7 +21121,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 12198,
+        "stars": 12199,
         "forks": 1705,
         "language": "Python",
         "pushed_at": "2025-08-19T00:59:18Z",
@@ -21141,10 +21141,10 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 4593,
+        "stars": 4594,
         "forks": 1306,
         "language": "Python",
-        "pushed_at": "2025-08-18T15:55:45Z",
+        "pushed_at": "2025-08-19T07:35:20Z",
         "created_at": "2025-04-01T20:44:42Z"
       },
       {
@@ -24324,7 +24324,7 @@
         "stars": 196,
         "forks": 60,
         "language": "C++",
-        "pushed_at": "2025-08-19T06:57:25Z",
+        "pushed_at": "2025-08-19T07:43:41Z",
         "created_at": "2018-02-15T22:25:24Z"
       },
       {
@@ -31381,7 +31381,7 @@
         "name": "go-containerregistry",
         "description": "Go library and CLIs for working with container registries",
         "url": "https://github.com/google/go-containerregistry",
-        "stars": 3469,
+        "stars": 3470,
         "forks": 580,
         "language": "Go",
         "pushed_at": "2025-08-19T06:12:10Z",
@@ -32574,7 +32574,7 @@
         "stars": 265,
         "forks": 132,
         "language": "Kotlin",
-        "pushed_at": "2025-08-14T03:37:40Z",
+        "pushed_at": "2025-08-19T07:39:23Z",
         "created_at": "2018-04-02T15:51:24Z"
       },
       {
@@ -32831,7 +32831,7 @@
         "name": "gts",
         "description": "☂️ TypeScript style guide, formatter, and linter.  ",
         "url": "https://github.com/google/gts",
-        "stars": 5194,
+        "stars": 5195,
         "forks": 209,
         "language": "TypeScript",
         "pushed_at": "2024-10-25T01:05:36Z",
@@ -35431,7 +35431,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 12257,
+        "stars": 12258,
         "forks": 793,
         "language": "Python",
         "pushed_at": "2025-08-18T02:20:21Z",
@@ -36621,7 +36621,7 @@
         "name": "mangle",
         "description": "（无简介）",
         "url": "https://github.com/google/mangle",
-        "stars": 1262,
+        "stars": 1263,
         "forks": 43,
         "language": "Go",
         "pushed_at": "2025-08-12T13:37:52Z",
@@ -39694,7 +39694,7 @@
         "stars": 4503,
         "forks": 556,
         "language": "C++",
-        "pushed_at": "2025-08-19T06:10:26Z",
+        "pushed_at": "2025-08-19T07:32:57Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
