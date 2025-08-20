@@ -339,7 +339,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-08-20T11:45:20Z",
+        "pushed_at": "2025-08-20T12:35:28Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -11496,7 +11496,7 @@
         "name": "esp-box",
         "description": "The ESP-BOX is a new generation AIoT development platform released by Espressif Systems.",
         "url": "https://github.com/espressif/esp-box",
-        "stars": 1076,
+        "stars": 1077,
         "forks": 241,
         "language": "HTML",
         "pushed_at": "2025-08-08T10:29:35Z",
@@ -12486,7 +12486,7 @@
         "name": "esp-tflite-micro",
         "description": "TensorFlow Lite Micro for Espressif Chipsets",
         "url": "https://github.com/espressif/esp-tflite-micro",
-        "stars": 518,
+        "stars": 519,
         "forks": 117,
         "language": "C++",
         "pushed_at": "2025-06-02T09:16:17Z",
@@ -13259,7 +13259,7 @@
         "stars": 18,
         "forks": 2,
         "language": "Rust",
-        "pushed_at": "2025-08-20T12:20:00Z",
+        "pushed_at": "2025-08-20T12:51:05Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
@@ -13429,7 +13429,7 @@
         "stars": 249,
         "forks": 26,
         "language": "LLVM",
-        "pushed_at": "2025-08-20T12:17:39Z",
+        "pushed_at": "2025-08-20T12:49:47Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13526,7 +13526,7 @@
         "name": "openocd-esp32",
         "description": "OpenOCD branch with ESP32 JTAG support",
         "url": "https://github.com/espressif/openocd-esp32",
-        "stars": 414,
+        "stars": 415,
         "forks": 147,
         "language": "C",
         "pushed_at": "2025-08-20T06:40:12Z",
@@ -16286,8 +16286,8 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 1015,
-        "forks": 49,
+        "stars": 1060,
+        "forks": 50,
         "language": "TypeScript",
         "pushed_at": "2025-08-19T21:49:15Z",
         "created_at": "2025-08-19T17:22:54Z"
@@ -16426,7 +16426,7 @@
         "name": "build-hours",
         "description": "Build hours code to share.",
         "url": "https://github.com/openai/build-hours",
-        "stars": 435,
+        "stars": 436,
         "forks": 90,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-08-20T08:54:28Z",
@@ -16486,7 +16486,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 30364,
+        "stars": 30363,
         "forks": 3721,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16516,7 +16516,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 35663,
+        "stars": 35664,
         "forks": 4087,
         "language": "Rust",
         "pushed_at": "2025-08-20T09:46:38Z",
@@ -16526,8 +16526,8 @@
         "name": "codex-universal",
         "description": "Base docker image used in Codex environments",
         "url": "https://github.com/openai/codex-universal",
-        "stars": 527,
-        "forks": 143,
+        "stars": 528,
+        "forks": 144,
         "language": "Dockerfile",
         "pushed_at": "2025-05-28T03:10:36Z",
         "created_at": "2025-05-11T05:20:12Z"
@@ -16936,8 +16936,8 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 17535,
-        "forks": 1576,
+        "stars": 17536,
+        "forks": 1577,
         "language": "Python",
         "pushed_at": "2025-08-19T21:40:44Z",
         "created_at": "2025-06-23T16:43:33Z"
@@ -17046,7 +17046,7 @@
         "name": "harmony",
         "description": "Renderer for the harmony response format to be used with gpt-oss",
         "url": "https://github.com/openai/harmony",
-        "stars": 3564,
+        "stars": 3563,
         "forks": 176,
         "language": "Rust",
         "pushed_at": "2025-08-15T23:28:11Z",
@@ -17056,7 +17056,7 @@
         "name": "human-eval",
         "description": "Code for the paper \"Evaluating Large Language Models Trained on Code\"",
         "url": "https://github.com/openai/human-eval",
-        "stars": 2887,
+        "stars": 2888,
         "forks": 405,
         "language": "Python",
         "pushed_at": "2025-01-17T18:22:17Z",
@@ -17146,7 +17146,7 @@
         "name": "jukebox",
         "description": "Code for the paper \"Jukebox: A Generative Model for Music\"",
         "url": "https://github.com/openai/jukebox",
-        "stars": 8016,
+        "stars": 8015,
         "forks": 1450,
         "language": "Python",
         "pushed_at": "2024-06-19T05:14:24Z",
@@ -17446,7 +17446,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 13744,
+        "stars": 13745,
         "forks": 2233,
         "language": "Python",
         "pushed_at": "2025-08-20T12:31:21Z",
@@ -17507,7 +17507,7 @@
         "description": "Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.",
         "url": "https://github.com/openai/openai-cua-sample-app",
         "stars": 1079,
-        "forks": 317,
+        "forks": 316,
         "language": "Python",
         "pushed_at": "2025-04-24T17:36:50Z",
         "created_at": "2025-03-11T14:57:29Z"
@@ -17576,8 +17576,8 @@
         "name": "openai-node",
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
-        "stars": 9993,
-        "forks": 1203,
+        "stars": 9994,
+        "forks": 1204,
         "language": "TypeScript",
         "pushed_at": "2025-08-20T05:07:46Z",
         "created_at": "2021-12-14T22:32:58Z"
@@ -18216,7 +18216,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 20278,
+        "stars": 20277,
         "forks": 2164,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
@@ -18256,7 +18256,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 15617,
+        "stars": 15616,
         "forks": 1185,
         "language": "Python",
         "pushed_at": "2025-08-08T23:45:27Z",
@@ -18386,8 +18386,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 86944,
-        "forks": 10722,
+        "stars": 86948,
+        "forks": 10723,
         "language": "Python",
         "pushed_at": "2025-08-18T15:03:07Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -18861,7 +18861,7 @@
         "name": "CMSIS-DSP",
         "description": "CMSIS-DSP embedded compute library for Cortex-M and Cortex-A",
         "url": "https://github.com/ARM-software/CMSIS-DSP",
-        "stars": 788,
+        "stars": 789,
         "forks": 190,
         "language": "C",
         "pushed_at": "2025-08-18T04:09:17Z",
@@ -19164,7 +19164,7 @@
         "stars": 16,
         "forks": 8,
         "language": "C++",
-        "pushed_at": "2025-08-20T12:27:37Z",
+        "pushed_at": "2025-08-20T13:12:59Z",
         "created_at": "2021-09-14T14:54:28Z"
       },
       {
@@ -20291,7 +20291,7 @@
         "name": "vulkan_best_practice_for_mobile_developers",
         "description": "Vulkan best practice for mobile developers",
         "url": "https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers",
-        "stars": 670,
+        "stars": 671,
         "forks": 68,
         "language": "C++",
         "pushed_at": "2024-08-06T14:42:05Z",
@@ -20419,7 +20419,7 @@
         "stars": 0,
         "forks": 1,
         "language": "Python",
-        "pushed_at": "2025-08-14T13:48:49Z",
+        "pushed_at": "2025-08-20T12:36:53Z",
         "created_at": "2025-05-09T10:14:00Z"
       },
       {
@@ -20439,7 +20439,7 @@
         "stars": 9,
         "forks": 13,
         "language": "C",
-        "pushed_at": "2025-08-20T12:16:57Z",
+        "pushed_at": "2025-08-20T12:47:06Z",
         "created_at": "2024-11-22T12:00:48Z"
       },
       {
@@ -20619,7 +20619,7 @@
         "stars": 1139,
         "forks": 1361,
         "language": "C",
-        "pushed_at": "2025-08-20T12:13:16Z",
+        "pushed_at": "2025-08-20T13:14:16Z",
         "created_at": "2018-02-14T13:50:55Z"
       },
       {
@@ -21154,7 +21154,7 @@
         "stars": 4605,
         "forks": 1310,
         "language": "Python",
-        "pushed_at": "2025-08-20T12:21:32Z",
+        "pushed_at": "2025-08-20T12:48:32Z",
         "created_at": "2025-04-01T20:44:42Z"
       },
       {
@@ -21904,7 +21904,7 @@
         "stars": 3779,
         "forks": 674,
         "language": "C++",
-        "pushed_at": "2025-08-20T11:03:53Z",
+        "pushed_at": "2025-08-20T12:47:52Z",
         "created_at": "2014-08-26T14:59:07Z"
       },
       {
@@ -23561,7 +23561,7 @@
         "name": "brotli",
         "description": "Brotli compression format",
         "url": "https://github.com/google/brotli",
-        "stars": 14245,
+        "stars": 14244,
         "forks": 1281,
         "language": "TypeScript",
         "pushed_at": "2025-08-15T13:18:48Z",
@@ -24294,7 +24294,7 @@
         "stars": 10,
         "forks": 1,
         "language": "TypeScript",
-        "pushed_at": "2025-08-20T09:16:39Z",
+        "pushed_at": "2025-08-20T13:06:07Z",
         "created_at": "2023-07-07T07:59:21Z"
       },
       {
@@ -25224,7 +25224,7 @@
         "stars": 5447,
         "forks": 586,
         "language": "Python",
-        "pushed_at": "2025-08-19T20:48:08Z",
+        "pushed_at": "2025-08-20T13:16:25Z",
         "created_at": "2019-01-29T00:19:40Z"
       },
       {
@@ -25601,7 +25601,7 @@
         "name": "comprehensive-rust",
         "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
         "url": "https://github.com/google/comprehensive-rust",
-        "stars": 30560,
+        "stars": 30561,
         "forks": 1834,
         "language": "Rust",
         "pushed_at": "2025-08-20T09:13:37Z",
@@ -26924,7 +26924,7 @@
         "stars": 688,
         "forks": 112,
         "language": "C++",
-        "pushed_at": "2025-08-20T12:01:53Z",
+        "pushed_at": "2025-08-20T13:15:49Z",
         "created_at": "2023-10-04T16:54:23Z"
       },
       {
@@ -27462,7 +27462,7 @@
         "description": "Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.",
         "url": "https://github.com/google/diff-match-patch",
         "stars": 7881,
-        "forks": 1158,
+        "forks": 1157,
         "language": "Python",
         "pushed_at": "2024-05-22T22:13:22Z",
         "created_at": "2018-01-23T19:42:02Z"
@@ -27484,7 +27484,7 @@
         "stars": 3198,
         "forks": 385,
         "language": "Go",
-        "pushed_at": "2025-08-20T05:35:02Z",
+        "pushed_at": "2025-08-20T13:13:37Z",
         "created_at": "2019-09-04T13:04:15Z"
       },
       {
@@ -28674,7 +28674,7 @@
         "stars": 7025,
         "forks": 762,
         "language": "Java",
-        "pushed_at": "2025-08-19T19:05:23Z",
+        "pushed_at": "2025-08-20T13:09:24Z",
         "created_at": "2014-08-21T23:26:50Z"
       },
       {
@@ -28981,7 +28981,7 @@
         "name": "facade",
         "description": "（无简介）",
         "url": "https://github.com/google/facade",
-        "stars": 60,
+        "stars": 61,
         "forks": 9,
         "language": "Python",
         "pushed_at": "2025-08-07T10:49:59Z",
@@ -29314,7 +29314,7 @@
         "stars": 18760,
         "forks": 2016,
         "language": "C++",
-        "pushed_at": "2025-08-20T12:28:16Z",
+        "pushed_at": "2025-08-20T12:54:10Z",
         "created_at": "2018-08-03T17:26:00Z"
       },
       {
@@ -29444,7 +29444,7 @@
         "stars": 6751,
         "forks": 729,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-08-20T00:24:22Z",
+        "pushed_at": "2025-08-20T12:37:30Z",
         "created_at": "2020-01-10T09:48:37Z"
       },
       {
@@ -32872,7 +32872,7 @@
         "description": "Google core libraries for Java",
         "url": "https://github.com/google/guava",
         "stars": 51022,
-        "forks": 11044,
+        "forks": 11045,
         "language": "Java",
         "pushed_at": "2025-08-13T20:49:53Z",
         "created_at": "2014-05-29T16:23:17Z"
@@ -32981,7 +32981,7 @@
         "name": "gvisor",
         "description": "Application Kernel for Containers",
         "url": "https://github.com/google/gvisor",
-        "stars": 16856,
+        "stars": 16857,
         "forks": 1421,
         "language": "Go",
         "pushed_at": "2025-08-20T05:25:36Z",
@@ -34512,7 +34512,7 @@
         "description": "Google IT Automation with Python Professional Certificate - Practice files",
         "url": "https://github.com/google/it-cert-automation-practice",
         "stars": 952,
-        "forks": 45686,
+        "forks": 45687,
         "language": "Python",
         "pushed_at": "2024-08-21T14:58:21Z",
         "created_at": "2019-12-17T19:04:12Z"
@@ -35451,7 +35451,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 12552,
+        "stars": 12557,
         "forks": 820,
         "language": "Python",
         "pushed_at": "2025-08-20T02:03:01Z",
@@ -39134,7 +39134,7 @@
         "stars": 441,
         "forks": 67,
         "language": "Go",
-        "pushed_at": "2025-08-20T11:49:40Z",
+        "pushed_at": "2025-08-20T12:47:49Z",
         "created_at": "2024-04-10T09:09:11Z"
       },
       {
@@ -39714,7 +39714,7 @@
         "stars": 4504,
         "forks": 555,
         "language": "C++",
-        "pushed_at": "2025-08-20T11:41:39Z",
+        "pushed_at": "2025-08-20T13:14:14Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -41281,7 +41281,7 @@
         "name": "python-fire",
         "description": "Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
         "url": "https://github.com/google/python-fire",
-        "stars": 27836,
+        "stars": 27837,
         "forks": 1455,
         "language": "Python",
         "pushed_at": "2025-08-16T21:26:05Z",
