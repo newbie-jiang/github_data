@@ -339,7 +339,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-08-21T14:52:38Z",
+        "pushed_at": "2025-08-21T15:18:19Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3569,7 +3569,7 @@
         "stars": 0,
         "forks": 16,
         "language": "C",
-        "pushed_at": "2025-08-21T13:26:58Z",
+        "pushed_at": "2025-08-21T15:19:35Z",
         "created_at": "2024-11-20T17:42:16Z"
       },
       {
@@ -4037,7 +4037,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 12947,
-        "forks": 7802,
+        "forks": 7803,
         "language": "C",
         "pushed_at": "2025-08-21T15:13:37Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -11826,7 +11826,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 16056,
+        "stars": 16058,
         "forks": 7816,
         "language": "C",
         "pushed_at": "2025-08-20T23:56:24Z",
@@ -13429,7 +13429,7 @@
         "stars": 249,
         "forks": 26,
         "language": "LLVM",
-        "pushed_at": "2025-08-21T15:05:40Z",
+        "pushed_at": "2025-08-21T15:36:42Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16286,8 +16286,8 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 2099,
-        "forks": 109,
+        "stars": 2111,
+        "forks": 110,
         "language": "TypeScript",
         "pushed_at": "2025-08-19T21:49:15Z",
         "created_at": "2025-08-19T17:22:54Z"
@@ -16516,8 +16516,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 35784,
-        "forks": 4106,
+        "stars": 35787,
+        "forks": 4105,
         "language": "Rust",
         "pushed_at": "2025-08-21T12:10:08Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16876,7 +16876,7 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 24090,
+        "stars": 24091,
         "forks": 5770,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
@@ -16916,7 +16916,7 @@
         "name": "gpt-5-coding-examples",
         "description": "GPT-5 coding examples",
         "url": "https://github.com/openai/gpt-5-coding-examples",
-        "stars": 1426,
+        "stars": 1427,
         "forks": 175,
         "language": "HTML",
         "pushed_at": "2025-08-08T04:36:36Z",
@@ -16936,8 +16936,8 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 17589,
-        "forks": 1586,
+        "stars": 17592,
+        "forks": 1587,
         "language": "Python",
         "pushed_at": "2025-08-19T21:40:44Z",
         "created_at": "2025-06-23T16:43:33Z"
@@ -17047,7 +17047,7 @@
         "description": "Renderer for the harmony response format to be used with gpt-oss",
         "url": "https://github.com/openai/harmony",
         "stars": 3583,
-        "forks": 176,
+        "forks": 177,
         "language": "Rust",
         "pushed_at": "2025-08-15T23:28:11Z",
         "created_at": "2025-07-31T16:10:01Z"
@@ -18386,7 +18386,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 87009,
+        "stars": 87010,
         "forks": 10730,
         "language": "Python",
         "pushed_at": "2025-08-18T15:03:07Z",
@@ -20264,7 +20264,7 @@
         "stars": 3,
         "forks": 0,
         "language": "C++",
-        "pushed_at": "2025-08-20T16:27:14Z",
+        "pushed_at": "2025-08-21T15:27:46Z",
         "created_at": "2025-07-29T15:11:16Z"
       },
       {
@@ -21132,7 +21132,7 @@
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
         "stars": 12264,
-        "forks": 1722,
+        "forks": 1723,
         "language": "Python",
         "pushed_at": "2025-08-21T13:56:15Z",
         "created_at": "2025-04-01T20:44:40Z"
@@ -21152,9 +21152,9 @@
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
         "stars": 4622,
-        "forks": 1318,
+        "forks": 1319,
         "language": "Python",
-        "pushed_at": "2025-08-21T14:35:46Z",
+        "pushed_at": "2025-08-21T15:20:11Z",
         "created_at": "2025-04-01T20:44:42Z"
       },
       {
@@ -21904,7 +21904,7 @@
         "stars": 3780,
         "forks": 675,
         "language": "C++",
-        "pushed_at": "2025-08-21T13:16:53Z",
+        "pushed_at": "2025-08-21T15:22:52Z",
         "created_at": "2014-08-26T14:59:07Z"
       },
       {
@@ -22384,7 +22384,7 @@
         "stars": 98,
         "forks": 21,
         "language": "C++",
-        "pushed_at": "2025-08-20T21:08:00Z",
+        "pushed_at": "2025-08-21T15:31:26Z",
         "created_at": "2022-04-08T21:51:01Z"
       },
       {
@@ -23051,7 +23051,7 @@
         "name": "benchmark",
         "description": "A microbenchmark support library",
         "url": "https://github.com/google/benchmark",
-        "stars": 9674,
+        "stars": 9675,
         "forks": 1698,
         "language": "C++",
         "pushed_at": "2025-08-20T08:17:24Z",
@@ -23531,7 +23531,7 @@
         "name": "breakpad",
         "description": "Mirror of Google Breakpad project",
         "url": "https://github.com/google/breakpad",
-        "stars": 2790,
+        "stars": 2791,
         "forks": 767,
         "language": "C++",
         "pushed_at": "2025-08-18T16:21:31Z",
@@ -23561,7 +23561,7 @@
         "name": "brotli",
         "description": "Brotli compression format",
         "url": "https://github.com/google/brotli",
-        "stars": 14247,
+        "stars": 14248,
         "forks": 1281,
         "language": "TypeScript",
         "pushed_at": "2025-08-15T13:18:48Z",
@@ -25601,7 +25601,7 @@
         "name": "comprehensive-rust",
         "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
         "url": "https://github.com/google/comprehensive-rust",
-        "stars": 30572,
+        "stars": 30573,
         "forks": 1834,
         "language": "Rust",
         "pushed_at": "2025-08-20T17:41:47Z",
@@ -26364,7 +26364,7 @@
         "stars": 1022,
         "forks": 124,
         "language": "Rust",
-        "pushed_at": "2025-08-21T15:11:34Z",
+        "pushed_at": "2025-08-21T15:32:18Z",
         "created_at": "2021-09-13T06:47:51Z"
       },
       {
@@ -26374,7 +26374,7 @@
         "stars": 856,
         "forks": 53,
         "language": "Rust",
-        "pushed_at": "2025-08-21T14:54:23Z",
+        "pushed_at": "2025-08-21T15:23:47Z",
         "created_at": "2022-03-02T09:13:13Z"
       },
       {
@@ -28074,7 +28074,7 @@
         "stars": 52,
         "forks": 60,
         "language": "Java",
-        "pushed_at": "2025-08-21T14:45:27Z",
+        "pushed_at": "2025-08-21T15:25:32Z",
         "created_at": "2022-03-18T19:18:39Z"
       },
       {
@@ -28164,7 +28164,7 @@
         "stars": 113,
         "forks": 84,
         "language": "Jsonnet",
-        "pushed_at": "2025-08-21T11:52:18Z",
+        "pushed_at": "2025-08-21T15:20:33Z",
         "created_at": "2022-06-06T17:21:40Z"
       },
       {
@@ -29614,7 +29614,7 @@
         "stars": 65,
         "forks": 9,
         "language": "TypeScript",
-        "pushed_at": "2025-08-21T14:32:42Z",
+        "pushed_at": "2025-08-21T15:34:01Z",
         "created_at": "2024-11-15T15:30:29Z"
       },
       {
@@ -29772,7 +29772,7 @@
         "description": "Font files available from Google Fonts, and a public issue tracker for all things Google Fonts",
         "url": "https://github.com/google/fonts",
         "stars": 19146,
-        "forks": 2755,
+        "forks": 2754,
         "language": "HTML",
         "pushed_at": "2025-08-20T09:46:41Z",
         "created_at": "2015-02-11T23:34:54Z"
@@ -32341,7 +32341,7 @@
         "name": "gops",
         "description": "A tool to list and diagnose Go processes currently running on your system",
         "url": "https://github.com/google/gops",
-        "stars": 6908,
+        "stars": 6909,
         "forks": 335,
         "language": "Go",
         "pushed_at": "2025-08-12T04:33:04Z",
@@ -33451,7 +33451,7 @@
         "name": "horologist",
         "description": "Horologist is a group of libraries that aim to supplement Wear OS developers with features that are commonly required by developers but not yet available.",
         "url": "https://github.com/google/horologist",
-        "stars": 637,
+        "stars": 638,
         "forks": 108,
         "language": "Kotlin",
         "pushed_at": "2025-08-20T17:39:46Z",
@@ -34194,7 +34194,7 @@
         "stars": 94,
         "forks": 16,
         "language": "C++",
-        "pushed_at": "2025-08-21T15:12:49Z",
+        "pushed_at": "2025-08-21T15:26:16Z",
         "created_at": "2021-11-30T20:23:43Z"
       },
       {
@@ -35304,7 +35304,7 @@
         "stars": 27,
         "forks": 14,
         "language": "C++",
-        "pushed_at": "2025-08-21T14:59:46Z",
+        "pushed_at": "2025-08-21T15:27:11Z",
         "created_at": "2024-05-07T11:31:53Z"
       },
       {
@@ -35451,8 +35451,8 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 12793,
-        "forks": 835,
+        "stars": 12797,
+        "forks": 836,
         "language": "Python",
         "pushed_at": "2025-08-21T05:28:33Z",
         "created_at": "2025-07-08T20:46:06Z"
@@ -35771,7 +35771,7 @@
         "name": "libphonenumber",
         "description": "Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.",
         "url": "https://github.com/google/libphonenumber",
-        "stars": 17459,
+        "stars": 17460,
         "forks": 2115,
         "language": "C++",
         "pushed_at": "2025-08-14T07:08:52Z",
@@ -36964,7 +36964,7 @@
         "stars": 1092,
         "forks": 183,
         "language": "Python",
-        "pushed_at": "2025-08-21T15:13:24Z",
+        "pushed_at": "2025-08-21T15:35:31Z",
         "created_at": "2024-01-31T18:15:38Z"
       },
       {
@@ -38394,7 +38394,7 @@
         "stars": 1755,
         "forks": 284,
         "language": "Java",
-        "pushed_at": "2025-08-21T13:24:03Z",
+        "pushed_at": "2025-08-21T15:32:07Z",
         "created_at": "2016-02-29T20:16:48Z"
       },
       {
@@ -38934,7 +38934,7 @@
         "stars": 415,
         "forks": 65,
         "language": "Python",
-        "pushed_at": "2025-08-21T14:48:52Z",
+        "pushed_at": "2025-08-21T15:21:49Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39142,7 +39142,7 @@
         "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
         "url": "https://github.com/google/osv-scanner",
         "stars": 7649,
-        "forks": 450,
+        "forks": 451,
         "language": "Go",
         "pushed_at": "2025-08-21T13:06:04Z",
         "created_at": "2022-11-14T01:05:20Z"
@@ -39712,9 +39712,9 @@
         "description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.",
         "url": "https://github.com/google/perfetto",
         "stars": 4505,
-        "forks": 559,
+        "forks": 560,
         "language": "C++",
-        "pushed_at": "2025-08-21T15:16:35Z",
+        "pushed_at": "2025-08-21T15:36:12Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -43044,7 +43044,7 @@
         "stars": 1046,
         "forks": 44,
         "language": "TypeScript",
-        "pushed_at": "2025-06-20T15:35:55Z",
+        "pushed_at": "2025-08-21T15:22:20Z",
         "created_at": "2018-11-29T21:45:45Z"
       },
       {
@@ -43152,7 +43152,7 @@
         "description": "Sec-Gemini v1 is a cutting-edge AI model designed to enhance cybersecurity capabilities and empower defenders in the ongoing battle against cyber threats.",
         "url": "https://github.com/google/sec-gemini",
         "stars": 49,
-        "forks": 10,
+        "forks": 11,
         "language": "Svelte",
         "pushed_at": "2025-08-07T16:47:22Z",
         "created_at": "2025-04-05T08:42:35Z"
@@ -43734,7 +43734,7 @@
         "stars": 10042,
         "forks": 1607,
         "language": "C++",
-        "pushed_at": "2025-08-21T14:55:31Z",
+        "pushed_at": "2025-08-21T15:21:31Z",
         "created_at": "2014-01-09T17:09:57Z"
       },
       {
@@ -46372,7 +46372,7 @@
         "description": "Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.",
         "url": "https://github.com/google/tsunami-security-scanner",
         "stars": 8454,
-        "forks": 917,
+        "forks": 918,
         "language": "Java",
         "pushed_at": "2025-08-20T08:52:37Z",
         "created_at": "2020-06-03T16:20:00Z"
@@ -48244,7 +48244,7 @@
         "stars": 1337,
         "forks": 208,
         "language": "C++",
-        "pushed_at": "2025-08-21T07:50:59Z",
+        "pushed_at": "2025-08-21T15:34:41Z",
         "created_at": "2020-05-07T21:38:30Z"
       },
       {
@@ -48524,7 +48524,7 @@
         "stars": 2007,
         "forks": 122,
         "language": "Rust",
-        "pushed_at": "2025-08-20T18:42:29Z",
+        "pushed_at": "2025-08-21T15:32:54Z",
         "created_at": "2022-09-08T19:01:01Z"
       },
       {
