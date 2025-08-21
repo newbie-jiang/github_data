@@ -339,7 +339,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-08-21T15:18:19Z",
+        "pushed_at": "2025-08-21T15:37:15Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -2121,7 +2121,7 @@
         "name": "ssd1306",
         "description": "SSD1306 full-featured driver library for general-purpose MCU and Linux.",
         "url": "https://github.com/libdriver/ssd1306",
-        "stars": 504,
+        "stars": 503,
         "forks": 102,
         "language": "C",
         "pushed_at": "2025-04-19T03:41:35Z",
@@ -2766,7 +2766,7 @@
         "name": "docker-image",
         "description": "Docker image suitable for Zephyr development and CI",
         "url": "https://github.com/zephyrproject-rtos/docker-image",
-        "stars": 189,
+        "stars": 188,
         "forks": 102,
         "language": "Shell",
         "pushed_at": "2025-08-17T22:55:09Z",
@@ -16286,8 +16286,8 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 2111,
-        "forks": 110,
+        "stars": 2116,
+        "forks": 111,
         "language": "TypeScript",
         "pushed_at": "2025-08-19T21:49:15Z",
         "created_at": "2025-08-19T17:22:54Z"
@@ -16486,7 +16486,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 30383,
+        "stars": 30384,
         "forks": 3724,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16516,17 +16516,17 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 35787,
+        "stars": 35788,
         "forks": 4105,
         "language": "Rust",
-        "pushed_at": "2025-08-21T12:10:08Z",
+        "pushed_at": "2025-08-21T15:52:19Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
         "name": "codex-universal",
         "description": "Base docker image used in Codex environments",
         "url": "https://github.com/openai/codex-universal",
-        "stars": 529,
+        "stars": 530,
         "forks": 145,
         "language": "Dockerfile",
         "pushed_at": "2025-05-28T03:10:36Z",
@@ -17487,7 +17487,7 @@
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
         "stars": 67309,
-        "forks": 11178,
+        "forks": 11179,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-08-21T14:52:16Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -17566,7 +17566,7 @@
         "name": "openai-java",
         "description": "The official Java library for the OpenAI API",
         "url": "https://github.com/openai/openai-java",
-        "stars": 1039,
+        "stars": 1040,
         "forks": 149,
         "language": "Kotlin",
         "pushed_at": "2025-08-21T05:04:55Z",
@@ -17596,7 +17596,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 28423,
+        "stars": 28424,
         "forks": 4192,
         "language": "Python",
         "pushed_at": "2025-08-20T15:23:48Z",
@@ -19581,7 +19581,7 @@
         "name": "ML-KWS-for-MCU",
         "description": "Keyword spotting on Arm Cortex-M Microcontrollers",
         "url": "https://github.com/ARM-software/ML-KWS-for-MCU",
-        "stars": 1197,
+        "stars": 1196,
         "forks": 424,
         "language": "C",
         "pushed_at": "2019-04-10T15:17:43Z",
@@ -20617,7 +20617,7 @@
         "description": "nRF Connect SDK main repository",
         "url": "https://github.com/nrfconnect/sdk-nrf",
         "stars": 1140,
-        "forks": 1363,
+        "forks": 1364,
         "language": "C",
         "pushed_at": "2025-08-21T13:55:07Z",
         "created_at": "2018-02-14T13:50:55Z"
@@ -21124,15 +21124,15 @@
         "stars": 559,
         "forks": 108,
         "language": "Java",
-        "pushed_at": "2025-08-21T15:11:11Z",
+        "pushed_at": "2025-08-21T15:39:44Z",
         "created_at": "2025-05-05T17:16:25Z"
       },
       {
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 12264,
-        "forks": 1723,
+        "stars": 12265,
+        "forks": 1724,
         "language": "Python",
         "pushed_at": "2025-08-21T13:56:15Z",
         "created_at": "2025-04-01T20:44:40Z"
@@ -21714,7 +21714,7 @@
         "stars": 526,
         "forks": 165,
         "language": "C++",
-        "pushed_at": "2025-08-20T23:46:21Z",
+        "pushed_at": "2025-08-21T15:49:21Z",
         "created_at": "2017-12-13T19:42:51Z"
       },
       {
@@ -21904,7 +21904,7 @@
         "stars": 3780,
         "forks": 675,
         "language": "C++",
-        "pushed_at": "2025-08-21T15:22:52Z",
+        "pushed_at": "2025-08-21T15:47:52Z",
         "created_at": "2014-08-26T14:59:07Z"
       },
       {
@@ -22384,7 +22384,7 @@
         "stars": 98,
         "forks": 21,
         "language": "C++",
-        "pushed_at": "2025-08-21T15:31:26Z",
+        "pushed_at": "2025-08-21T15:47:14Z",
         "created_at": "2022-04-08T21:51:01Z"
       },
       {
@@ -28601,7 +28601,7 @@
         "name": "eng-practices",
         "description": "Google's Engineering Practices documentation",
         "url": "https://github.com/google/eng-practices",
-        "stars": 20259,
+        "stars": 20260,
         "forks": 1984,
         "language": "未指定",
         "pushed_at": "2024-09-19T05:27:52Z",
@@ -29444,7 +29444,7 @@
         "stars": 6751,
         "forks": 730,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-08-20T19:55:42Z",
+        "pushed_at": "2025-08-21T15:38:49Z",
         "created_at": "2020-01-10T09:48:37Z"
       },
       {
@@ -30451,7 +30451,7 @@
         "name": "gemma.cpp",
         "description": "lightweight, standalone C++ inference engine for Google's Gemma models.",
         "url": "https://github.com/google/gemma.cpp",
-        "stars": 6540,
+        "stars": 6539,
         "forks": 567,
         "language": "C++",
         "pushed_at": "2025-08-21T06:00:03Z",
@@ -33284,7 +33284,7 @@
         "stars": 501,
         "forks": 84,
         "language": "C++",
-        "pushed_at": "2025-08-21T14:15:59Z",
+        "pushed_at": "2025-08-21T15:49:36Z",
         "created_at": "2023-04-17T21:14:13Z"
       },
       {
@@ -34184,7 +34184,7 @@
         "stars": 38,
         "forks": 11,
         "language": "C++",
-        "pushed_at": "2025-08-21T01:02:27Z",
+        "pushed_at": "2025-08-21T15:49:11Z",
         "created_at": "2019-01-02T16:04:39Z"
       },
       {
@@ -34534,7 +34534,7 @@
         "stars": 1322,
         "forks": 150,
         "language": "Java",
-        "pushed_at": "2025-08-21T00:47:16Z",
+        "pushed_at": "2025-08-21T15:45:50Z",
         "created_at": "2017-06-20T09:53:52Z"
       },
       {
@@ -35324,7 +35324,7 @@
         "stars": 31,
         "forks": 10,
         "language": "Kotlin",
-        "pushed_at": "2025-08-15T16:23:03Z",
+        "pushed_at": "2025-08-21T15:53:09Z",
         "created_at": "2025-01-11T17:46:11Z"
       },
       {
@@ -35451,8 +35451,8 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 12797,
-        "forks": 836,
+        "stars": 12799,
+        "forks": 837,
         "language": "Python",
         "pushed_at": "2025-08-21T05:28:33Z",
         "created_at": "2025-07-08T20:46:06Z"
@@ -39714,7 +39714,7 @@
         "stars": 4505,
         "forks": 560,
         "language": "C++",
-        "pushed_at": "2025-08-21T15:36:12Z",
+        "pushed_at": "2025-08-21T15:52:46Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -40781,7 +40781,7 @@
         "name": "promises",
         "description": "Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.",
         "url": "https://github.com/google/promises",
-        "stars": 3834,
+        "stars": 3835,
         "forks": 301,
         "language": "Objective-C",
         "pushed_at": "2024-11-05T18:26:00Z",
@@ -47231,7 +47231,7 @@
         "name": "visualblocks",
         "description": "Visual Blocks for ML is a Google visual programming framework that lets you create ML pipelines in a no-code graph editor. You – and your users – can quickly prototype workflows by connecting drag-and-drop ML components, including models, user inputs, processors, and visualizations.",
         "url": "https://github.com/google/visualblocks",
-        "stars": 1281,
+        "stars": 1282,
         "forks": 175,
         "language": "TypeScript",
         "pushed_at": "2025-05-29T17:16:31Z",
