@@ -339,7 +339,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-08-21T19:13:31Z",
+        "pushed_at": "2025-08-21T19:28:09Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -13026,7 +13026,7 @@
         "name": "esptool",
         "description": "Serial utility for flashing, provisioning, and interacting with Espressif SoCs",
         "url": "https://github.com/espressif/esptool",
-        "stars": 6012,
+        "stars": 6013,
         "forks": 1444,
         "language": "Python",
         "pushed_at": "2025-08-21T10:17:49Z",
@@ -16286,7 +16286,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 2191,
+        "stars": 2196,
         "forks": 118,
         "language": "TypeScript",
         "pushed_at": "2025-08-21T18:50:52Z",
@@ -16516,8 +16516,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 35799,
-        "forks": 4108,
+        "stars": 35801,
+        "forks": 4107,
         "language": "Rust",
         "pushed_at": "2025-08-21T19:07:53Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16936,7 +16936,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 17592,
+        "stars": 17593,
         "forks": 1587,
         "language": "Python",
         "pushed_at": "2025-08-19T21:40:44Z",
@@ -17437,7 +17437,7 @@
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
         "stars": 1086,
-        "forks": 256,
+        "forks": 255,
         "language": "TypeScript",
         "pushed_at": "2025-08-21T14:41:10Z",
         "created_at": "2025-05-31T00:08:49Z"
@@ -17566,7 +17566,7 @@
         "name": "openai-java",
         "description": "The official Java library for the OpenAI API",
         "url": "https://github.com/openai/openai-java",
-        "stars": 1040,
+        "stars": 1041,
         "forks": 149,
         "language": "Kotlin",
         "pushed_at": "2025-08-21T19:10:22Z",
@@ -17599,7 +17599,7 @@
         "stars": 28426,
         "forks": 4191,
         "language": "Python",
-        "pushed_at": "2025-08-21T16:23:42Z",
+        "pushed_at": "2025-08-21T19:30:06Z",
         "created_at": "2020-10-25T23:23:54Z"
       },
       {
@@ -17627,7 +17627,7 @@
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
         "stars": 6175,
-        "forks": 885,
+        "forks": 886,
         "language": "TypeScript",
         "pushed_at": "2025-08-14T22:46:47Z",
         "created_at": "2025-01-16T01:29:28Z"
@@ -18386,7 +18386,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 87018,
+        "stars": 87019,
         "forks": 10732,
         "language": "Python",
         "pushed_at": "2025-08-18T15:03:07Z",
@@ -18474,7 +18474,7 @@
         "stars": 349,
         "forks": 83,
         "language": "C",
-        "pushed_at": "2025-08-21T19:26:34Z",
+        "pushed_at": "2025-08-21T19:40:48Z",
         "created_at": "2022-06-13T09:08:33Z"
       },
       {
@@ -21561,7 +21561,7 @@
         "name": "amber",
         "description": "Amber is a multi-API shader test framework",
         "url": "https://github.com/google/amber",
-        "stars": 210,
+        "stars": 211,
         "forks": 68,
         "language": "C++",
         "pushed_at": "2025-08-07T16:36:33Z",
@@ -27852,7 +27852,7 @@
         "description": "DraNet is a Kubernetes Network Driver that uses Dynamic Resource Allocation (DRA) to deliver high-performance networking for demanding applications in Kubernetes.",
         "url": "https://github.com/google/dranet",
         "stars": 102,
-        "forks": 19,
+        "forks": 20,
         "language": "Go",
         "pushed_at": "2025-08-21T18:32:28Z",
         "created_at": "2024-11-15T13:18:31Z"
@@ -29314,7 +29314,7 @@
         "stars": 18767,
         "forks": 2017,
         "language": "C++",
-        "pushed_at": "2025-08-21T19:07:52Z",
+        "pushed_at": "2025-08-21T19:38:56Z",
         "created_at": "2018-08-03T17:26:00Z"
       },
       {
@@ -30124,7 +30124,7 @@
         "stars": 890,
         "forks": 102,
         "language": "C++",
-        "pushed_at": "2025-08-21T14:20:09Z",
+        "pushed_at": "2025-08-21T19:36:07Z",
         "created_at": "2022-08-10T20:54:25Z"
       },
       {
@@ -30821,7 +30821,7 @@
         "name": "git-appraise",
         "description": "Distributed code review system for Git repos",
         "url": "https://github.com/google/git-appraise",
-        "stars": 5240,
+        "stars": 5241,
         "forks": 144,
         "language": "Go",
         "pushed_at": "2023-08-12T01:06:27Z",
@@ -32291,7 +32291,7 @@
         "name": "googletest",
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "url": "https://github.com/google/googletest",
-        "stars": 36645,
+        "stars": 36648,
         "forks": 10465,
         "language": "C++",
         "pushed_at": "2025-08-20T05:05:51Z",
@@ -34184,7 +34184,7 @@
         "stars": 38,
         "forks": 11,
         "language": "C++",
-        "pushed_at": "2025-08-21T18:47:52Z",
+        "pushed_at": "2025-08-21T19:36:55Z",
         "created_at": "2019-01-02T16:04:39Z"
       },
       {
@@ -35451,7 +35451,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 12817,
+        "stars": 12819,
         "forks": 840,
         "language": "Python",
         "pushed_at": "2025-08-21T05:28:33Z",
@@ -36254,7 +36254,7 @@
         "stars": 866,
         "forks": 59,
         "language": "C++",
-        "pushed_at": "2025-08-21T19:18:31Z",
+        "pushed_at": "2025-08-21T19:34:45Z",
         "created_at": "2025-04-29T12:41:54Z"
       },
       {
@@ -36964,7 +36964,7 @@
         "stars": 1092,
         "forks": 183,
         "language": "Python",
-        "pushed_at": "2025-08-21T19:07:43Z",
+        "pushed_at": "2025-08-21T19:41:59Z",
         "created_at": "2024-01-31T18:15:38Z"
       },
       {
@@ -39954,7 +39954,7 @@
         "stars": 429,
         "forks": 93,
         "language": "C++",
-        "pushed_at": "2025-08-21T19:18:41Z",
+        "pushed_at": "2025-08-21T19:28:24Z",
         "created_at": "2021-03-09T22:07:25Z"
       },
       {
