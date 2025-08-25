@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-08-25T03:56:21Z",
+        "pushed_at": "2025-08-25T04:26:19Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -11636,7 +11636,7 @@
         "name": "esp-dl",
         "description": "Espressif deep-learning library for AIoT applications",
         "url": "https://github.com/espressif/esp-dl",
-        "stars": 782,
+        "stars": 783,
         "forks": 152,
         "language": "Assembly",
         "pushed_at": "2025-08-22T07:01:22Z",
@@ -12619,7 +12619,7 @@
         "stars": 245,
         "forks": 40,
         "language": "C",
-        "pushed_at": "2025-08-22T09:57:03Z",
+        "pushed_at": "2025-08-25T04:46:43Z",
         "created_at": "2025-01-22T02:24:37Z"
       },
       {
@@ -13449,7 +13449,7 @@
         "stars": 249,
         "forks": 26,
         "language": "LLVM",
-        "pushed_at": "2025-08-25T02:57:43Z",
+        "pushed_at": "2025-08-25T04:30:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16546,10 +16546,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 36242,
-        "forks": 4165,
+        "stars": 36244,
+        "forks": 4166,
         "language": "Rust",
-        "pushed_at": "2025-08-25T02:58:06Z",
+        "pushed_at": "2025-08-25T04:43:32Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16966,7 +16966,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 17765,
+        "stars": 17766,
         "forks": 1613,
         "language": "Python",
         "pushed_at": "2025-08-19T21:40:44Z",
@@ -17336,7 +17336,7 @@
         "name": "mle-bench",
         "description": "MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering",
         "url": "https://github.com/openai/mle-bench",
-        "stars": 897,
+        "stars": 898,
         "forks": 125,
         "language": "Python",
         "pushed_at": "2025-08-14T10:54:48Z",
@@ -17606,7 +17606,7 @@
         "name": "openai-node",
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
-        "stars": 10021,
+        "stars": 10022,
         "forks": 1212,
         "language": "TypeScript",
         "pushed_at": "2025-08-24T05:07:19Z",
@@ -17626,7 +17626,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 28469,
+        "stars": 28470,
         "forks": 4205,
         "language": "Python",
         "pushed_at": "2025-08-21T21:10:49Z",
@@ -18417,7 +18417,7 @@
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
         "stars": 87150,
-        "forks": 10766,
+        "forks": 10767,
         "language": "Python",
         "pushed_at": "2025-08-18T15:03:07Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -18734,7 +18734,7 @@
         "stars": 11,
         "forks": 28,
         "language": "C",
-        "pushed_at": "2025-06-20T05:05:09Z",
+        "pushed_at": "2025-08-25T04:37:57Z",
         "created_at": "2020-09-30T14:06:29Z"
       },
       {
@@ -21161,8 +21161,8 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 12341,
-        "forks": 1737,
+        "stars": 12343,
+        "forks": 1739,
         "language": "Python",
         "pushed_at": "2025-08-24T21:05:27Z",
         "created_at": "2025-04-01T20:44:40Z"
@@ -23281,7 +23281,7 @@
         "name": "blockly",
         "description": "The web-based visual programming editor.",
         "url": "https://github.com/google/blockly",
-        "stars": 13062,
+        "stars": 13063,
         "forks": 3794,
         "language": "TypeScript",
         "pushed_at": "2025-08-22T21:55:10Z",
@@ -24134,7 +24134,7 @@
         "stars": 950,
         "forks": 33,
         "language": "Go",
-        "pushed_at": "2025-08-18T05:38:29Z",
+        "pushed_at": "2025-08-25T04:51:55Z",
         "created_at": "2023-07-24T23:19:36Z"
       },
       {
@@ -27344,7 +27344,7 @@
         "stars": 53,
         "forks": 20,
         "language": "Java",
-        "pushed_at": "2025-08-24T21:02:37Z",
+        "pushed_at": "2025-08-25T04:44:27Z",
         "created_at": "2022-04-15T03:00:41Z"
       },
       {
@@ -28181,7 +28181,7 @@
         "name": "earthengine-api",
         "description": "Python and JavaScript bindings for calling the Earth Engine API.",
         "url": "https://github.com/google/earthengine-api",
-        "stars": 3009,
+        "stars": 3010,
         "forks": 1031,
         "language": "JavaScript",
         "pushed_at": "2025-08-18T23:20:03Z",
@@ -28332,7 +28332,7 @@
         "description": "Specification for Eddystone, an open beacon format from Google",
         "url": "https://github.com/google/eddystone",
         "stars": 3099,
-        "forks": 755,
+        "forks": 756,
         "language": "C",
         "pushed_at": "2019-12-10T09:06:48Z",
         "created_at": "2015-06-26T10:58:02Z"
@@ -29231,8 +29231,8 @@
         "name": "fhir",
         "description": "FHIR Protocol Buffers",
         "url": "https://github.com/google/fhir",
-        "stars": 888,
-        "forks": 198,
+        "stars": 889,
+        "forks": 199,
         "language": "C++",
         "pushed_at": "2025-07-28T17:47:22Z",
         "created_at": "2018-01-10T04:54:52Z"
@@ -29281,8 +29281,8 @@
         "name": "fhir-examples",
         "description": "Usage Examples for github.com/google/fhir",
         "url": "https://github.com/google/fhir-examples",
-        "stars": 111,
-        "forks": 34,
+        "stars": 112,
+        "forks": 35,
         "language": "C++",
         "pushed_at": "2023-07-28T00:59:31Z",
         "created_at": "2019-11-14T21:13:32Z"
@@ -32321,7 +32321,7 @@
         "name": "googletest",
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "url": "https://github.com/google/googletest",
-        "stars": 36875,
+        "stars": 36876,
         "forks": 10482,
         "language": "C++",
         "pushed_at": "2025-08-24T21:51:56Z",
@@ -32371,7 +32371,7 @@
         "name": "gops",
         "description": "A tool to list and diagnose Go processes currently running on your system",
         "url": "https://github.com/google/gops",
-        "stars": 6928,
+        "stars": 6929,
         "forks": 336,
         "language": "Go",
         "pushed_at": "2025-08-12T04:33:04Z",
@@ -35481,7 +35481,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 13257,
+        "stars": 13261,
         "forks": 880,
         "language": "Python",
         "pushed_at": "2025-08-25T02:38:54Z",
@@ -36671,7 +36671,7 @@
         "name": "mangle",
         "description": "（无简介）",
         "url": "https://github.com/google/mangle",
-        "stars": 1599,
+        "stars": 1600,
         "forks": 72,
         "language": "Go",
         "pushed_at": "2025-08-12T13:37:52Z",
@@ -38964,7 +38964,7 @@
         "stars": 415,
         "forks": 66,
         "language": "Python",
-        "pushed_at": "2025-08-24T12:27:26Z",
+        "pushed_at": "2025-08-25T04:40:37Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39141,7 +39141,7 @@
         "name": "oss-rebuild",
         "description": "Securing open-source package ecosystems by originating, validating, and augmenting build attestations.",
         "url": "https://github.com/google/oss-rebuild",
-        "stars": 620,
+        "stars": 621,
         "forks": 33,
         "language": "Go",
         "pushed_at": "2025-08-22T21:01:33Z",
@@ -43774,7 +43774,7 @@
         "stars": 155,
         "forks": 76,
         "language": "Go",
-        "pushed_at": "2025-08-22T20:38:31Z",
+        "pushed_at": "2025-08-25T04:30:31Z",
         "created_at": "2014-01-09T17:10:17Z"
       },
       {
@@ -48681,7 +48681,7 @@
         "name": "zx",
         "description": "A tool for writing better scripts",
         "url": "https://github.com/google/zx",
-        "stars": 44517,
+        "stars": 44518,
         "forks": 1160,
         "language": "JavaScript",
         "pushed_at": "2025-08-21T11:00:58Z",
