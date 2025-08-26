@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-08-26T22:33:56Z",
+        "pushed_at": "2025-08-26T22:45:49Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -11076,7 +11076,7 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15277,
+        "stars": 15278,
         "forks": 7685,
         "language": "C++",
         "pushed_at": "2025-08-26T11:28:23Z",
@@ -13449,7 +13449,7 @@
         "stars": 249,
         "forks": 26,
         "language": "LLVM",
-        "pushed_at": "2025-08-26T22:29:39Z",
+        "pushed_at": "2025-08-26T23:00:41Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16336,8 +16336,8 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 3753,
-        "forks": 260,
+        "stars": 3755,
+        "forks": 261,
         "language": "TypeScript",
         "pushed_at": "2025-08-21T18:50:52Z",
         "created_at": "2025-08-19T17:22:54Z"
@@ -16496,7 +16496,7 @@
         "name": "chatgpt-retrieval-plugin",
         "description": "The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.",
         "url": "https://github.com/openai/chatgpt-retrieval-plugin",
-        "stars": 21215,
+        "stars": 21214,
         "forks": 3683,
         "language": "Python",
         "pushed_at": "2024-07-04T22:00:16Z",
@@ -16566,10 +16566,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 36592,
-        "forks": 4207,
+        "stars": 36597,
+        "forks": 4208,
         "language": "Rust",
-        "pushed_at": "2025-08-26T22:20:18Z",
+        "pushed_at": "2025-08-26T23:11:23Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16966,7 +16966,7 @@
         "name": "gpt-5-coding-examples",
         "description": "GPT-5 coding examples",
         "url": "https://github.com/openai/gpt-5-coding-examples",
-        "stars": 1495,
+        "stars": 1496,
         "forks": 190,
         "language": "HTML",
         "pushed_at": "2025-08-08T04:36:36Z",
@@ -16987,7 +16987,7 @@
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
         "stars": 17857,
-        "forks": 1626,
+        "forks": 1627,
         "language": "Python",
         "pushed_at": "2025-08-26T17:26:52Z",
         "created_at": "2025-06-23T16:43:33Z"
@@ -17036,7 +17036,7 @@
         "name": "gym",
         "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
         "url": "https://github.com/openai/gym",
-        "stars": 36416,
+        "stars": 36417,
         "forks": 8691,
         "language": "Python",
         "pushed_at": "2024-10-11T20:07:05Z",
@@ -17096,7 +17096,7 @@
         "name": "harmony",
         "description": "Renderer for the harmony response format to be used with gpt-oss",
         "url": "https://github.com/openai/harmony",
-        "stars": 3645,
+        "stars": 3646,
         "forks": 179,
         "language": "Rust",
         "pushed_at": "2025-08-15T23:28:11Z",
@@ -17489,7 +17489,7 @@
         "stars": 1119,
         "forks": 266,
         "language": "TypeScript",
-        "pushed_at": "2025-08-26T16:51:19Z",
+        "pushed_at": "2025-08-26T23:12:28Z",
         "created_at": "2025-05-31T00:08:49Z"
       },
       {
@@ -17497,9 +17497,9 @@
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
         "stars": 13940,
-        "forks": 2268,
+        "forks": 2269,
         "language": "Python",
-        "pushed_at": "2025-08-26T12:29:45Z",
+        "pushed_at": "2025-08-26T23:12:56Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -17536,8 +17536,8 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 67448,
-        "forks": 11198,
+        "stars": 67449,
+        "forks": 11199,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-08-26T17:53:20Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -17626,7 +17626,7 @@
         "name": "openai-node",
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
-        "stars": 10028,
+        "stars": 10029,
         "forks": 1213,
         "language": "TypeScript",
         "pushed_at": "2025-08-26T20:49:50Z",
@@ -18436,7 +18436,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 87264,
+        "stars": 87266,
         "forks": 10788,
         "language": "Python",
         "pushed_at": "2025-08-18T15:03:07Z",
@@ -21181,10 +21181,10 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 12475,
+        "stars": 12476,
         "forks": 1760,
         "language": "Python",
-        "pushed_at": "2025-08-26T21:55:52Z",
+        "pushed_at": "2025-08-26T23:08:24Z",
         "created_at": "2025-04-01T20:44:40Z"
       },
       {
@@ -21764,7 +21764,7 @@
         "stars": 529,
         "forks": 167,
         "language": "C++",
-        "pushed_at": "2025-08-26T22:37:03Z",
+        "pushed_at": "2025-08-26T22:46:21Z",
         "created_at": "2017-12-13T19:42:51Z"
       },
       {
@@ -22294,7 +22294,7 @@
         "stars": 326,
         "forks": 29,
         "language": "Python",
-        "pushed_at": "2025-08-26T22:14:32Z",
+        "pushed_at": "2025-08-26T22:59:09Z",
         "created_at": "2021-12-11T01:44:36Z"
       },
       {
@@ -28324,7 +28324,7 @@
         "stars": 14,
         "forks": 4,
         "language": "C++",
-        "pushed_at": "2025-08-26T20:00:58Z",
+        "pushed_at": "2025-08-26T23:09:36Z",
         "created_at": "2020-12-29T19:35:41Z"
       },
       {
@@ -32541,7 +32541,7 @@
         "name": "grain",
         "description": "Library for reading and processing ML training data.",
         "url": "https://github.com/google/grain",
-        "stars": 515,
+        "stars": 516,
         "forks": 47,
         "language": "Python",
         "pushed_at": "2025-08-26T22:37:36Z",
@@ -34834,7 +34834,7 @@
         "stars": 245,
         "forks": 47,
         "language": "Kotlin",
-        "pushed_at": "2025-08-26T21:40:56Z",
+        "pushed_at": "2025-08-26T22:49:11Z",
         "created_at": "2023-01-19T23:20:10Z"
       },
       {
@@ -36781,7 +36781,7 @@
         "name": "material-design-icons",
         "description": "Material Design icons by Google (Material Symbols)",
         "url": "https://github.com/google/material-design-icons",
-        "stars": 52013,
+        "stars": 52014,
         "forks": 9661,
         "language": "未指定",
         "pushed_at": "2025-08-15T03:42:17Z",
@@ -38024,7 +38024,7 @@
         "stars": 855,
         "forks": 178,
         "language": "C++",
-        "pushed_at": "2025-08-26T22:41:28Z",
+        "pushed_at": "2025-08-26T22:49:18Z",
         "created_at": "2020-04-23T20:41:37Z"
       },
       {
@@ -38061,7 +38061,7 @@
         "name": "nerfactor",
         "description": "Neural Factorization of Shape and Reflectance Under an Unknown Illumination",
         "url": "https://github.com/google/nerfactor",
-        "stars": 448,
+        "stars": 449,
         "forks": 55,
         "language": "Python",
         "pushed_at": "2023-04-30T01:12:03Z",
@@ -38961,7 +38961,7 @@
         "name": "or-tools",
         "description": "Google's Operations Research tools:",
         "url": "https://github.com/google/or-tools",
-        "stars": 12383,
+        "stars": 12384,
         "forks": 2263,
         "language": "C++",
         "pushed_at": "2025-08-26T20:05:38Z",
@@ -38984,14 +38984,14 @@
         "stars": 418,
         "forks": 66,
         "language": "Python",
-        "pushed_at": "2025-08-26T22:32:42Z",
+        "pushed_at": "2025-08-26T23:04:37Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
         "name": "orbit",
         "description": "C/C++ Performance Profiler",
         "url": "https://github.com/google/orbit",
-        "stars": 4312,
+        "stars": 4313,
         "forks": 357,
         "language": "C++",
         "pushed_at": "2025-01-31T10:36:00Z",
@@ -39184,7 +39184,7 @@
         "stars": 467,
         "forks": 72,
         "language": "Go",
-        "pushed_at": "2025-08-26T19:04:11Z",
+        "pushed_at": "2025-08-26T23:03:44Z",
         "created_at": "2024-04-10T09:09:11Z"
       },
       {
@@ -39224,7 +39224,7 @@
         "stars": 1964,
         "forks": 224,
         "language": "Python",
-        "pushed_at": "2025-08-26T05:18:06Z",
+        "pushed_at": "2025-08-26T22:59:59Z",
         "created_at": "2021-01-08T02:14:10Z"
       },
       {
@@ -41451,7 +41451,7 @@
         "name": "pytype",
         "description": "A static type analyzer for Python code",
         "url": "https://github.com/google/pytype",
-        "stars": 4992,
+        "stars": 4991,
         "forks": 290,
         "language": "Python",
         "pushed_at": "2025-08-25T23:06:48Z",
