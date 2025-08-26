@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-08-26T19:13:18Z",
+        "pushed_at": "2025-08-26T19:27:14Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4056,7 +4056,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 12968,
+        "stars": 12967,
         "forks": 7828,
         "language": "C",
         "pushed_at": "2025-08-26T14:14:16Z",
@@ -11537,7 +11537,7 @@
         "description": "Board support components for Espressif development boards",
         "url": "https://github.com/espressif/esp-bsp",
         "stars": 320,
-        "forks": 158,
+        "forks": 159,
         "language": "C",
         "pushed_at": "2025-08-26T12:55:43Z",
         "created_at": "2021-09-14T09:33:04Z"
@@ -11846,7 +11846,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 16097,
+        "stars": 16098,
         "forks": 7827,
         "language": "C",
         "pushed_at": "2025-08-26T10:25:57Z",
@@ -12559,7 +12559,7 @@
         "stars": 53,
         "forks": 31,
         "language": "C++",
-        "pushed_at": "2025-08-26T15:39:10Z",
+        "pushed_at": "2025-08-26T19:36:43Z",
         "created_at": "2024-01-18T07:20:01Z"
       },
       {
@@ -16171,7 +16171,7 @@
         "name": "rt-thread",
         "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/",
         "url": "https://github.com/RT-Thread/rt-thread",
-        "stars": 11372,
+        "stars": 11371,
         "forks": 5238,
         "language": "C",
         "pushed_at": "2025-08-26T03:06:02Z",
@@ -16291,7 +16291,7 @@
         "name": "userapps",
         "description": "user applications for rt-smart",
         "url": "https://github.com/RT-Thread/userapps",
-        "stars": 27,
+        "stars": 25,
         "forks": 32,
         "language": "Lua",
         "pushed_at": "2024-12-24T16:13:23Z",
@@ -16336,7 +16336,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 3733,
+        "stars": 3734,
         "forks": 259,
         "language": "TypeScript",
         "pushed_at": "2025-08-21T18:50:52Z",
@@ -16566,7 +16566,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 36558,
+        "stars": 36560,
         "forks": 4204,
         "language": "Rust",
         "pushed_at": "2025-08-26T19:18:31Z",
@@ -16776,7 +16776,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 16843,
+        "stars": 16844,
         "forks": 2776,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -17676,7 +17676,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 6191,
+        "stars": 6192,
         "forks": 890,
         "language": "TypeScript",
         "pushed_at": "2025-08-14T22:46:47Z",
@@ -18216,7 +18216,7 @@
         "name": "spinningup",
         "description": "An educational resource to help anyone learn deep reinforcement learning.",
         "url": "https://github.com/openai/spinningup",
-        "stars": 11167,
+        "stars": 11166,
         "forks": 2383,
         "language": "Python",
         "pushed_at": "2024-08-05T03:30:30Z",
@@ -18437,7 +18437,7 @@
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
         "stars": 87255,
-        "forks": 10787,
+        "forks": 10788,
         "language": "Python",
         "pushed_at": "2025-08-18T15:03:07Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -19101,7 +19101,7 @@
         "name": "Cortex_DFP",
         "description": "CMSIS generic Arm Cortex-M device family pack",
         "url": "https://github.com/ARM-software/Cortex_DFP",
-        "stars": 18,
+        "stars": 17,
         "forks": 8,
         "language": "C",
         "pushed_at": "2025-08-18T09:39:00Z",
@@ -20951,7 +20951,7 @@
         "name": "Accessibility-Test-Framework-for-Android",
         "description": "Accessibility checks for automated Android testing",
         "url": "https://github.com/google/Accessibility-Test-Framework-for-Android",
-        "stars": 487,
+        "stars": 486,
         "forks": 142,
         "language": "Java",
         "pushed_at": "2024-04-03T11:08:51Z",
@@ -21164,7 +21164,7 @@
         "stars": 418,
         "forks": 300,
         "language": "HTML",
-        "pushed_at": "2025-08-26T18:35:38Z",
+        "pushed_at": "2025-08-26T19:32:58Z",
         "created_at": "2025-04-01T20:44:41Z"
       },
       {
@@ -21181,10 +21181,10 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 12464,
+        "stars": 12467,
         "forks": 1759,
         "language": "Python",
-        "pushed_at": "2025-08-26T19:26:45Z",
+        "pushed_at": "2025-08-26T19:44:09Z",
         "created_at": "2025-04-01T20:44:40Z"
       },
       {
@@ -21751,7 +21751,7 @@
         "name": "android-classyshark",
         "description": "Android and Java bytecode viewer",
         "url": "https://github.com/google/android-classyshark",
-        "stars": 7586,
+        "stars": 7585,
         "forks": 870,
         "language": "Java",
         "pushed_at": "2023-05-19T10:01:03Z",
@@ -23614,7 +23614,7 @@
         "stars": 14256,
         "forks": 1282,
         "language": "TypeScript",
-        "pushed_at": "2025-08-26T19:03:53Z",
+        "pushed_at": "2025-08-26T19:31:27Z",
         "created_at": "2014-10-09T14:35:14Z"
       },
       {
@@ -24884,7 +24884,7 @@
         "stars": 32,
         "forks": 22,
         "language": "Python",
-        "pushed_at": "2025-08-26T15:06:40Z",
+        "pushed_at": "2025-08-26T19:29:27Z",
         "created_at": "2016-07-28T15:27:05Z"
       },
       {
@@ -25274,7 +25274,7 @@
         "stars": 5452,
         "forks": 586,
         "language": "Python",
-        "pushed_at": "2025-08-26T19:04:14Z",
+        "pushed_at": "2025-08-26T19:39:34Z",
         "created_at": "2019-01-29T00:19:40Z"
       },
       {
@@ -28124,7 +28124,7 @@
         "stars": 52,
         "forks": 60,
         "language": "Java",
-        "pushed_at": "2025-08-26T14:11:25Z",
+        "pushed_at": "2025-08-26T19:42:43Z",
         "created_at": "2022-03-18T19:18:39Z"
       },
       {
@@ -28334,7 +28334,7 @@
         "stars": 39,
         "forks": 6,
         "language": "C++",
-        "pushed_at": "2025-08-26T01:05:21Z",
+        "pushed_at": "2025-08-26T19:42:24Z",
         "created_at": "2025-06-05T21:12:30Z"
       },
       {
@@ -29494,7 +29494,7 @@
         "stars": 6757,
         "forks": 731,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-08-26T13:38:15Z",
+        "pushed_at": "2025-08-26T19:41:07Z",
         "created_at": "2020-01-10T09:48:37Z"
       },
       {
@@ -30174,7 +30174,7 @@
         "stars": 892,
         "forks": 102,
         "language": "C++",
-        "pushed_at": "2025-08-26T19:15:40Z",
+        "pushed_at": "2025-08-26T19:37:24Z",
         "created_at": "2022-08-10T20:54:25Z"
       },
       {
@@ -30764,7 +30764,7 @@
         "stars": 5,
         "forks": 6,
         "language": "C++",
-        "pushed_at": "2025-08-26T18:49:42Z",
+        "pushed_at": "2025-08-26T19:30:38Z",
         "created_at": "2025-05-07T22:21:39Z"
       },
       {
@@ -32531,7 +32531,7 @@
         "name": "grafika",
         "description": "Grafika test app",
         "url": "https://github.com/google/grafika",
-        "stars": 6133,
+        "stars": 6130,
         "forks": 1477,
         "language": "Java",
         "pushed_at": "2024-02-09T00:34:48Z",
@@ -33334,7 +33334,7 @@
         "stars": 506,
         "forks": 86,
         "language": "C++",
-        "pushed_at": "2025-08-26T19:26:37Z",
+        "pushed_at": "2025-08-26T19:27:16Z",
         "created_at": "2023-04-17T21:14:13Z"
       },
       {
@@ -34861,7 +34861,7 @@
         "name": "jni-bind",
         "description": "JNI Bind is a set of advanced syntactic sugar for writing efficient correct JNI Code in C++20 and up (or C++17 with clang).  ",
         "url": "https://github.com/google/jni-bind",
-        "stars": 297,
+        "stars": 296,
         "forks": 34,
         "language": "C++",
         "pushed_at": "2025-07-13T12:44:00Z",
@@ -35821,7 +35821,7 @@
         "name": "libphonenumber",
         "description": "Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.",
         "url": "https://github.com/google/libphonenumber",
-        "stars": 17473,
+        "stars": 17472,
         "forks": 2115,
         "language": "C++",
         "pushed_at": "2025-08-14T07:08:52Z",
@@ -36691,7 +36691,7 @@
         "name": "mangle",
         "description": "（无简介）",
         "url": "https://github.com/google/mangle",
-        "stars": 1693,
+        "stars": 1694,
         "forks": 80,
         "language": "Go",
         "pushed_at": "2025-08-12T13:37:52Z",
@@ -36781,7 +36781,7 @@
         "name": "material-design-icons",
         "description": "Material Design icons by Google (Material Symbols)",
         "url": "https://github.com/google/material-design-icons",
-        "stars": 52014,
+        "stars": 52013,
         "forks": 9660,
         "language": "未指定",
         "pushed_at": "2025-08-15T03:42:17Z",
@@ -37141,7 +37141,7 @@
         "name": "minijail",
         "description": "sandboxing and containment tool used in ChromeOS and Android",
         "url": "https://github.com/google/minijail",
-        "stars": 326,
+        "stars": 325,
         "forks": 31,
         "language": "C",
         "pushed_at": "2025-08-26T16:12:33Z",
@@ -37621,7 +37621,7 @@
         "name": "mozc",
         "description": "Mozc - a Japanese Input Method Editor designed for multi-platform",
         "url": "https://github.com/google/mozc",
-        "stars": 2667,
+        "stars": 2665,
         "forks": 425,
         "language": "C++",
         "pushed_at": "2025-08-22T01:38:35Z",
@@ -38444,7 +38444,7 @@
         "stars": 1756,
         "forks": 285,
         "language": "Java",
-        "pushed_at": "2025-08-26T07:11:19Z",
+        "pushed_at": "2025-08-26T19:38:24Z",
         "created_at": "2016-02-29T20:16:48Z"
       },
       {
@@ -38984,7 +38984,7 @@
         "stars": 418,
         "forks": 66,
         "language": "Python",
-        "pushed_at": "2025-08-26T18:48:28Z",
+        "pushed_at": "2025-08-26T19:34:37Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39764,7 +39764,7 @@
         "stars": 4521,
         "forks": 566,
         "language": "C++",
-        "pushed_at": "2025-08-26T18:59:57Z",
+        "pushed_at": "2025-08-26T19:42:10Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -43784,7 +43784,7 @@
         "stars": 1321,
         "forks": 316,
         "language": "JavaScript",
-        "pushed_at": "2025-08-26T18:28:53Z",
+        "pushed_at": "2025-08-26T19:31:23Z",
         "created_at": "2019-06-11T14:20:21Z"
       },
       {
