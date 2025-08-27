@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-08-27T19:27:34Z",
+        "pushed_at": "2025-08-27T19:44:44Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -11249,7 +11249,7 @@
         "stars": 38,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-08-27T16:42:12Z",
+        "pushed_at": "2025-08-27T19:48:40Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -12219,7 +12219,7 @@
         "stars": 4,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-08-27T18:04:18Z",
+        "pushed_at": "2025-08-27T20:03:01Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -13057,7 +13057,7 @@
         "description": "Javascript implementation of flasher tool for Espressif chips, running in web browser using WebSerial.",
         "url": "https://github.com/espressif/esptool-js",
         "stars": 393,
-        "forks": 134,
+        "forks": 135,
         "language": "TypeScript",
         "pushed_at": "2025-08-21T07:02:49Z",
         "created_at": "2021-06-16T12:06:46Z"
@@ -13449,7 +13449,7 @@
         "stars": 250,
         "forks": 25,
         "language": "LLVM",
-        "pushed_at": "2025-08-27T17:49:37Z",
+        "pushed_at": "2025-08-27T19:57:29Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16576,10 +16576,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 36784,
+        "stars": 36789,
         "forks": 4229,
         "language": "Rust",
-        "pushed_at": "2025-08-27T19:11:55Z",
+        "pushed_at": "2025-08-27T20:12:45Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16589,7 +16589,7 @@
         "stars": 543,
         "forks": 151,
         "language": "Dockerfile",
-        "pushed_at": "2025-08-27T17:58:30Z",
+        "pushed_at": "2025-08-27T20:12:05Z",
         "created_at": "2025-05-11T05:20:12Z"
       },
       {
@@ -16657,7 +16657,7 @@
         "description": "PyTorch package for the discrete VAE used for DALL·E.",
         "url": "https://github.com/openai/DALL-E",
         "stars": 10876,
-        "forks": 1911,
+        "forks": 1912,
         "language": "Python",
         "pushed_at": "2024-01-31T15:42:28Z",
         "created_at": "2021-02-23T23:01:11Z"
@@ -16996,7 +16996,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 17890,
+        "stars": 17892,
         "forks": 1630,
         "language": "Python",
         "pushed_at": "2025-08-26T17:26:52Z",
@@ -17046,7 +17046,7 @@
         "name": "gym",
         "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
         "url": "https://github.com/openai/gym",
-        "stars": 36417,
+        "stars": 36418,
         "forks": 8691,
         "language": "Python",
         "pushed_at": "2024-10-11T20:07:05Z",
@@ -17106,7 +17106,7 @@
         "name": "harmony",
         "description": "Renderer for the harmony response format to be used with gpt-oss",
         "url": "https://github.com/openai/harmony",
-        "stars": 3656,
+        "stars": 3657,
         "forks": 179,
         "language": "Rust",
         "pushed_at": "2025-08-15T23:28:11Z",
@@ -17496,7 +17496,7 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 1131,
+        "stars": 1132,
         "forks": 267,
         "language": "TypeScript",
         "pushed_at": "2025-08-27T12:25:23Z",
@@ -17506,7 +17506,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 13970,
+        "stars": 13971,
         "forks": 2274,
         "language": "Python",
         "pushed_at": "2025-08-27T14:59:34Z",
@@ -17546,7 +17546,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 67478,
+        "stars": 67479,
         "forks": 11202,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-08-26T17:53:20Z",
@@ -17636,8 +17636,8 @@
         "name": "openai-node",
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
-        "stars": 10030,
-        "forks": 1213,
+        "stars": 10031,
+        "forks": 1214,
         "language": "TypeScript",
         "pushed_at": "2025-08-26T20:49:50Z",
         "created_at": "2021-12-14T22:32:58Z"
@@ -17646,7 +17646,7 @@
         "name": "openai-openapi",
         "description": "OpenAPI specification for the OpenAI API",
         "url": "https://github.com/openai/openai-openapi",
-        "stars": 2165,
+        "stars": 2166,
         "forks": 472,
         "language": "未指定",
         "pushed_at": "2025-06-17T14:47:31Z",
@@ -18446,7 +18446,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 87306,
+        "stars": 87310,
         "forks": 10805,
         "language": "Python",
         "pushed_at": "2025-08-18T15:03:07Z",
@@ -21174,7 +21174,7 @@
         "stars": 420,
         "forks": 301,
         "language": "HTML",
-        "pushed_at": "2025-08-27T19:43:31Z",
+        "pushed_at": "2025-08-27T20:16:00Z",
         "created_at": "2025-04-01T20:44:41Z"
       },
       {
@@ -21191,10 +21191,10 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 12522,
-        "forks": 1768,
+        "stars": 12523,
+        "forks": 1769,
         "language": "Python",
-        "pushed_at": "2025-08-27T18:20:35Z",
+        "pushed_at": "2025-08-27T20:17:44Z",
         "created_at": "2025-04-01T20:44:40Z"
       },
       {
@@ -24431,7 +24431,7 @@
         "name": "cel-spec",
         "description": "Common Expression Language -- specification and binary representation",
         "url": "https://github.com/google/cel-spec",
-        "stars": 3361,
+        "stars": 3362,
         "forks": 255,
         "language": "Starlark",
         "pushed_at": "2025-07-18T22:22:30Z",
@@ -26434,7 +26434,7 @@
         "stars": 862,
         "forks": 53,
         "language": "Rust",
-        "pushed_at": "2025-08-27T18:17:05Z",
+        "pushed_at": "2025-08-27T19:56:50Z",
         "created_at": "2022-03-02T09:13:13Z"
       },
       {
@@ -26704,7 +26704,7 @@
         "stars": 17626,
         "forks": 2040,
         "language": "Java",
-        "pushed_at": "2025-08-27T19:26:32Z",
+        "pushed_at": "2025-08-27T19:56:58Z",
         "created_at": "2013-02-01T23:14:14Z"
       },
       {
@@ -29084,7 +29084,7 @@
         "stars": 13,
         "forks": 1,
         "language": "C++",
-        "pushed_at": "2025-08-25T19:17:51Z",
+        "pushed_at": "2025-08-27T19:58:07Z",
         "created_at": "2025-05-23T23:05:46Z"
       },
       {
@@ -29374,7 +29374,7 @@
         "stars": 18788,
         "forks": 2018,
         "language": "C++",
-        "pushed_at": "2025-08-27T19:42:24Z",
+        "pushed_at": "2025-08-27T19:48:30Z",
         "created_at": "2018-08-03T17:26:00Z"
       },
       {
@@ -29834,7 +29834,7 @@
         "stars": 19166,
         "forks": 2761,
         "language": "HTML",
-        "pushed_at": "2025-08-27T14:29:30Z",
+        "pushed_at": "2025-08-27T19:45:36Z",
         "created_at": "2015-02-11T23:34:54Z"
       },
       {
@@ -30511,7 +30511,7 @@
         "name": "gemma.cpp",
         "description": "lightweight, standalone C++ inference engine for Google's Gemma models.",
         "url": "https://github.com/google/gemma.cpp",
-        "stars": 6545,
+        "stars": 6546,
         "forks": 568,
         "language": "C++",
         "pushed_at": "2025-08-27T15:42:16Z",
@@ -32351,7 +32351,7 @@
         "name": "googletest",
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "url": "https://github.com/google/googletest",
-        "stars": 36926,
+        "stars": 36927,
         "forks": 10487,
         "language": "C++",
         "pushed_at": "2025-08-24T21:51:56Z",
@@ -33044,7 +33044,7 @@
         "stars": 16889,
         "forks": 1428,
         "language": "Go",
-        "pushed_at": "2025-08-27T19:34:06Z",
+        "pushed_at": "2025-08-27T20:01:49Z",
         "created_at": "2018-04-26T21:28:49Z"
       },
       {
@@ -33421,7 +33421,7 @@
         "name": "highway",
         "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
         "url": "https://github.com/google/highway",
-        "stars": 4977,
+        "stars": 4978,
         "forks": 377,
         "language": "C++",
         "pushed_at": "2025-08-27T14:02:58Z",
@@ -34244,7 +34244,7 @@
         "stars": 39,
         "forks": 12,
         "language": "C++",
-        "pushed_at": "2025-08-27T19:38:06Z",
+        "pushed_at": "2025-08-27T19:52:42Z",
         "created_at": "2019-01-02T16:04:39Z"
       },
       {
@@ -35424,7 +35424,7 @@
         "stars": 3204,
         "forks": 335,
         "language": "Kotlin",
-        "pushed_at": "2025-08-27T19:23:36Z",
+        "pushed_at": "2025-08-27T20:12:03Z",
         "created_at": "2020-09-22T18:59:42Z"
       },
       {
@@ -35511,8 +35511,8 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 13737,
-        "forks": 917,
+        "stars": 13740,
+        "forks": 918,
         "language": "Python",
         "pushed_at": "2025-08-27T08:17:58Z",
         "created_at": "2025-07-08T20:46:06Z"
@@ -37024,7 +37024,7 @@
         "stars": 1100,
         "forks": 186,
         "language": "Python",
-        "pushed_at": "2025-08-27T14:07:23Z",
+        "pushed_at": "2025-08-27T20:05:47Z",
         "created_at": "2024-01-31T18:15:38Z"
       },
       {
@@ -39001,7 +39001,7 @@
         "name": "orbit",
         "description": "C/C++ Performance Profiler",
         "url": "https://github.com/google/orbit",
-        "stars": 4313,
+        "stars": 4312,
         "forks": 358,
         "language": "C++",
         "pushed_at": "2025-01-31T10:36:00Z",
@@ -39304,7 +39304,7 @@
         "stars": 1,
         "forks": 1,
         "language": "C++",
-        "pushed_at": "2025-08-20T17:48:16Z",
+        "pushed_at": "2025-08-27T20:16:56Z",
         "created_at": "2025-04-30T21:39:49Z"
       },
       {
@@ -39774,7 +39774,7 @@
         "stars": 4523,
         "forks": 567,
         "language": "C++",
-        "pushed_at": "2025-08-27T19:28:47Z",
+        "pushed_at": "2025-08-27T20:16:25Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -40014,7 +40014,7 @@
         "stars": 429,
         "forks": 97,
         "language": "C++",
-        "pushed_at": "2025-08-27T18:37:31Z",
+        "pushed_at": "2025-08-27T20:06:45Z",
         "created_at": "2021-03-09T22:07:25Z"
       },
       {
@@ -41024,7 +41024,7 @@
         "stars": 12,
         "forks": 7,
         "language": "C++",
-        "pushed_at": "2025-08-27T14:18:41Z",
+        "pushed_at": "2025-08-27T20:13:27Z",
         "created_at": "2024-11-26T18:53:13Z"
       },
       {
@@ -42821,7 +42821,7 @@
         "name": "safebrowsing",
         "description": "Safe Browsing API Go Client",
         "url": "https://github.com/google/safebrowsing",
-        "stars": 487,
+        "stars": 488,
         "forks": 135,
         "language": "Go",
         "pushed_at": "2024-04-19T09:33:35Z",
@@ -43442,7 +43442,7 @@
         "description": "Task-based datasets, preprocessing, and evaluation for sequence models.",
         "url": "https://github.com/google/seqio",
         "stars": 586,
-        "forks": 58,
+        "forks": 59,
         "language": "Python",
         "pushed_at": "2025-08-11T17:26:44Z",
         "created_at": "2021-04-15T23:42:08Z"
@@ -45722,7 +45722,7 @@
         "description": "A lightweight record-replay reverse proxy for testing",
         "url": "https://github.com/google/test-server",
         "stars": 11,
-        "forks": 7,
+        "forks": 8,
         "language": "Go",
         "pushed_at": "2025-08-25T22:58:17Z",
         "created_at": "2025-03-20T03:07:16Z"
@@ -47264,7 +47264,7 @@
         "stars": 12,
         "forks": 14,
         "language": "JavaScript",
-        "pushed_at": "2025-08-25T23:37:32Z",
+        "pushed_at": "2025-08-27T20:14:54Z",
         "created_at": "2025-03-11T15:53:53Z"
       },
       {
@@ -48324,7 +48324,7 @@
         "stars": 1342,
         "forks": 210,
         "language": "C++",
-        "pushed_at": "2025-08-27T18:51:17Z",
+        "pushed_at": "2025-08-27T20:05:33Z",
         "created_at": "2020-05-07T21:38:30Z"
       },
       {
@@ -48654,7 +48654,7 @@
         "stars": 153,
         "forks": 7,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-08-25T20:58:17Z",
+        "pushed_at": "2025-08-27T19:45:03Z",
         "created_at": "2024-03-15T07:49:05Z"
       },
       {
