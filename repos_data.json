@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-08-28T20:35:15Z",
+        "pushed_at": "2025-08-28T20:46:11Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -12726,7 +12726,7 @@
         "name": "esp-zigbee-sdk",
         "description": "Espressif Zigbee SDK",
         "url": "https://github.com/espressif/esp-zigbee-sdk",
-        "stars": 294,
+        "stars": 295,
         "forks": 57,
         "language": "C",
         "pushed_at": "2025-08-14T11:01:30Z",
@@ -13459,7 +13459,7 @@
         "stars": 250,
         "forks": 25,
         "language": "LLVM",
-        "pushed_at": "2025-08-28T20:39:36Z",
+        "pushed_at": "2025-08-28T21:11:39Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16356,7 +16356,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 4046,
+        "stars": 4049,
         "forks": 284,
         "language": "TypeScript",
         "pushed_at": "2025-08-21T18:50:52Z",
@@ -16586,17 +16586,17 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 37088,
+        "stars": 37091,
         "forks": 4257,
         "language": "Rust",
-        "pushed_at": "2025-08-28T20:37:02Z",
+        "pushed_at": "2025-08-28T21:08:12Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
         "name": "codex-universal",
         "description": "Base docker image used in Codex environments",
         "url": "https://github.com/openai/codex-universal",
-        "stars": 546,
+        "stars": 547,
         "forks": 152,
         "language": "Dockerfile",
         "pushed_at": "2025-08-28T19:58:28Z",
@@ -17186,7 +17186,7 @@
         "name": "improved-gan",
         "description": "Code for the paper \"Improved Techniques for Training GANs\"",
         "url": "https://github.com/openai/improved-gan",
-        "stars": 2324,
+        "stars": 2325,
         "forks": 622,
         "language": "Python",
         "pushed_at": "2018-11-21T23:56:07Z",
@@ -17396,7 +17396,7 @@
         "name": "model_spec",
         "description": "The OpenAI Model Spec",
         "url": "https://github.com/openai/model_spec",
-        "stars": 585,
+        "stars": 586,
         "forks": 71,
         "language": "未指定",
         "pushed_at": "2025-04-11T21:48:05Z",
@@ -17516,7 +17516,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 14007,
+        "stars": 14008,
         "forks": 2278,
         "language": "Python",
         "pushed_at": "2025-08-28T20:09:44Z",
@@ -17747,7 +17747,7 @@
         "description": "（无简介）",
         "url": "https://github.com/openai/openai-realtime-twilio-demo",
         "stars": 458,
-        "forks": 151,
+        "forks": 152,
         "language": "TypeScript",
         "pushed_at": "2024-12-30T16:38:04Z",
         "created_at": "2024-12-16T21:04:00Z"
@@ -17816,7 +17816,7 @@
         "name": "openai-testing-agent-demo",
         "description": "Demo of a UI testing agent using the OpenAI CUA model and the Responses API.",
         "url": "https://github.com/openai/openai-testing-agent-demo",
-        "stars": 677,
+        "stars": 678,
         "forks": 95,
         "language": "TypeScript",
         "pushed_at": "2025-06-17T10:18:47Z",
@@ -18326,7 +18326,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 15701,
+        "stars": 15703,
         "forks": 1193,
         "language": "Python",
         "pushed_at": "2025-08-08T23:45:27Z",
@@ -18416,7 +18416,7 @@
         "name": "weak-to-strong",
         "description": "（无简介）",
         "url": "https://github.com/openai/weak-to-strong",
-        "stars": 2530,
+        "stars": 2531,
         "forks": 304,
         "language": "Python",
         "pushed_at": "2024-05-19T23:30:56Z",
@@ -18456,7 +18456,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 87360,
+        "stars": 87361,
         "forks": 10813,
         "language": "Python",
         "pushed_at": "2025-08-18T15:03:07Z",
@@ -21184,7 +21184,7 @@
         "stars": 589,
         "forks": 118,
         "language": "Java",
-        "pushed_at": "2025-08-28T19:52:46Z",
+        "pushed_at": "2025-08-28T20:57:34Z",
         "created_at": "2025-05-05T17:16:25Z"
       },
       {
@@ -21192,9 +21192,9 @@
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
         "stars": 12561,
-        "forks": 1777,
+        "forks": 1778,
         "language": "Python",
-        "pushed_at": "2025-08-28T20:43:07Z",
+        "pushed_at": "2025-08-28T21:10:07Z",
         "created_at": "2025-04-01T20:44:40Z"
       },
       {
@@ -21211,7 +21211,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 4717,
+        "stars": 4718,
         "forks": 1352,
         "language": "Python",
         "pushed_at": "2025-08-27T09:08:18Z",
@@ -21774,7 +21774,7 @@
         "stars": 530,
         "forks": 167,
         "language": "C++",
-        "pushed_at": "2025-08-28T18:04:33Z",
+        "pushed_at": "2025-08-28T21:06:40Z",
         "created_at": "2017-12-13T19:42:51Z"
       },
       {
@@ -21964,7 +21964,7 @@
         "stars": 3788,
         "forks": 675,
         "language": "C++",
-        "pushed_at": "2025-08-28T20:33:52Z",
+        "pushed_at": "2025-08-28T20:59:53Z",
         "created_at": "2014-08-26T14:59:07Z"
       },
       {
@@ -23211,7 +23211,7 @@
         "name": "bindiff",
         "description": "Quickly find differences and similarities in disassembled code",
         "url": "https://github.com/google/bindiff",
-        "stars": 2684,
+        "stars": 2685,
         "forks": 186,
         "language": "Java",
         "pushed_at": "2025-08-07T11:26:52Z",
@@ -23391,7 +23391,7 @@
         "name": "blockly-samples",
         "description": "Plugins, codelabs, and examples related to the Blockly library.",
         "url": "https://github.com/google/blockly-samples",
-        "stars": 921,
+        "stars": 922,
         "forks": 656,
         "language": "JavaScript",
         "pushed_at": "2025-08-28T17:15:12Z",
@@ -24394,7 +24394,7 @@
         "stars": 198,
         "forks": 61,
         "language": "C++",
-        "pushed_at": "2025-08-28T18:39:01Z",
+        "pushed_at": "2025-08-28T20:59:39Z",
         "created_at": "2018-02-15T22:25:24Z"
       },
       {
@@ -25981,7 +25981,7 @@
         "name": "corpuscrawler",
         "description": "Crawler for linguistic corpora",
         "url": "https://github.com/google/corpuscrawler",
-        "stars": 207,
+        "stars": 208,
         "forks": 55,
         "language": "Python",
         "pushed_at": "2025-08-18T22:03:50Z",
@@ -26984,7 +26984,7 @@
         "stars": 691,
         "forks": 117,
         "language": "C++",
-        "pushed_at": "2025-08-28T19:53:07Z",
+        "pushed_at": "2025-08-28T20:46:20Z",
         "created_at": "2023-10-04T16:54:23Z"
       },
       {
@@ -29374,7 +29374,7 @@
         "stars": 18790,
         "forks": 2018,
         "language": "C++",
-        "pushed_at": "2025-08-28T19:37:49Z",
+        "pushed_at": "2025-08-28T21:05:18Z",
         "created_at": "2018-08-03T17:26:00Z"
       },
       {
@@ -29504,7 +29504,7 @@
         "stars": 6760,
         "forks": 732,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-08-28T20:41:51Z",
+        "pushed_at": "2025-08-28T21:07:31Z",
         "created_at": "2020-01-10T09:48:37Z"
       },
       {
@@ -31341,7 +31341,7 @@
         "name": "gnostic",
         "description": "A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.",
         "url": "https://github.com/google/gnostic",
-        "stars": 2215,
+        "stars": 2216,
         "forks": 267,
         "language": "Go",
         "pushed_at": "2025-08-14T19:29:22Z",
@@ -32351,8 +32351,8 @@
         "name": "googletest",
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "url": "https://github.com/google/googletest",
-        "stars": 36946,
-        "forks": 10490,
+        "stars": 36947,
+        "forks": 10491,
         "language": "C++",
         "pushed_at": "2025-08-24T21:51:56Z",
         "created_at": "2015-07-28T15:07:53Z"
@@ -33044,7 +33044,7 @@
         "stars": 16902,
         "forks": 1428,
         "language": "Go",
-        "pushed_at": "2025-08-28T20:19:51Z",
+        "pushed_at": "2025-08-28T21:12:16Z",
         "created_at": "2018-04-26T21:28:49Z"
       },
       {
@@ -33344,7 +33344,7 @@
         "stars": 509,
         "forks": 88,
         "language": "C++",
-        "pushed_at": "2025-08-28T20:41:19Z",
+        "pushed_at": "2025-08-28T21:03:26Z",
         "created_at": "2023-04-17T21:14:13Z"
       },
       {
@@ -35144,7 +35144,7 @@
         "stars": 235,
         "forks": 19,
         "language": "Go",
-        "pushed_at": "2025-08-20T21:06:30Z",
+        "pushed_at": "2025-08-28T20:53:40Z",
         "created_at": "2023-02-23T15:47:45Z"
       },
       {
@@ -36772,7 +36772,7 @@
         "description": "A 360° media viewer for the modern web.",
         "url": "https://github.com/google/marzipano",
         "stars": 2133,
-        "forks": 1030,
+        "forks": 1029,
         "language": "JavaScript",
         "pushed_at": "2023-10-08T12:35:56Z",
         "created_at": "2016-02-29T18:28:26Z"
@@ -37024,7 +37024,7 @@
         "stars": 1099,
         "forks": 185,
         "language": "Python",
-        "pushed_at": "2025-08-28T20:13:36Z",
+        "pushed_at": "2025-08-28T20:52:41Z",
         "created_at": "2024-01-31T18:15:38Z"
       },
       {
@@ -38034,7 +38034,7 @@
         "stars": 855,
         "forks": 178,
         "language": "C++",
-        "pushed_at": "2025-08-28T20:27:40Z",
+        "pushed_at": "2025-08-28T21:11:43Z",
         "created_at": "2020-04-23T20:41:37Z"
       },
       {
@@ -38994,7 +38994,7 @@
         "stars": 419,
         "forks": 66,
         "language": "Python",
-        "pushed_at": "2025-08-28T20:35:32Z",
+        "pushed_at": "2025-08-28T21:10:59Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39774,7 +39774,7 @@
         "stars": 4524,
         "forks": 567,
         "language": "C++",
-        "pushed_at": "2025-08-28T20:38:21Z",
+        "pushed_at": "2025-08-28T21:07:52Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -40014,7 +40014,7 @@
         "stars": 430,
         "forks": 97,
         "language": "C++",
-        "pushed_at": "2025-08-28T20:40:00Z",
+        "pushed_at": "2025-08-28T21:08:50Z",
         "created_at": "2021-03-09T22:07:25Z"
       },
       {
