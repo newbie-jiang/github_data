@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-08-28T13:40:57Z",
+        "pushed_at": "2025-08-28T14:17:02Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -6124,7 +6124,7 @@
         "stars": 7,
         "forks": 4,
         "language": "C",
-        "pushed_at": "2025-07-22T10:09:37Z",
+        "pushed_at": "2025-08-28T14:32:21Z",
         "created_at": "2022-12-05T15:01:03Z"
       },
       {
@@ -6154,7 +6154,7 @@
         "stars": 8,
         "forks": 3,
         "language": "C",
-        "pushed_at": "2025-07-22T10:09:36Z",
+        "pushed_at": "2025-08-28T14:29:26Z",
         "created_at": "2022-08-02T20:00:55Z"
       },
       {
@@ -6194,7 +6194,7 @@
         "stars": 2,
         "forks": 0,
         "language": "C",
-        "pushed_at": "2025-07-22T10:20:13Z",
+        "pushed_at": "2025-08-28T14:31:26Z",
         "created_at": "2024-02-22T08:52:34Z"
       },
       {
@@ -12569,7 +12569,7 @@
         "stars": 53,
         "forks": 31,
         "language": "C++",
-        "pushed_at": "2025-08-28T08:38:28Z",
+        "pushed_at": "2025-08-28T14:36:43Z",
         "created_at": "2024-01-18T07:20:01Z"
       },
       {
@@ -13459,7 +13459,7 @@
         "stars": 250,
         "forks": 25,
         "language": "LLVM",
-        "pushed_at": "2025-08-28T13:51:38Z",
+        "pushed_at": "2025-08-28T14:22:39Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16356,7 +16356,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 3972,
+        "stars": 3978,
         "forks": 279,
         "language": "TypeScript",
         "pushed_at": "2025-08-21T18:50:52Z",
@@ -16586,17 +16586,17 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 36999,
-        "forks": 4247,
+        "stars": 37006,
+        "forks": 4248,
         "language": "Rust",
-        "pushed_at": "2025-08-28T06:31:16Z",
+        "pushed_at": "2025-08-28T14:35:02Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
         "name": "codex-universal",
         "description": "Base docker image used in Codex environments",
         "url": "https://github.com/openai/codex-universal",
-        "stars": 543,
+        "stars": 544,
         "forks": 152,
         "language": "Dockerfile",
         "pushed_at": "2025-08-27T20:12:05Z",
@@ -17006,7 +17006,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 17923,
+        "stars": 17926,
         "forks": 1634,
         "language": "Python",
         "pushed_at": "2025-08-28T02:57:04Z",
@@ -17116,7 +17116,7 @@
         "name": "harmony",
         "description": "Renderer for the harmony response format to be used with gpt-oss",
         "url": "https://github.com/openai/harmony",
-        "stars": 3672,
+        "stars": 3673,
         "forks": 182,
         "language": "Rust",
         "pushed_at": "2025-08-15T23:28:11Z",
@@ -17506,7 +17506,7 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 1140,
+        "stars": 1141,
         "forks": 267,
         "language": "TypeScript",
         "pushed_at": "2025-08-28T06:15:26Z",
@@ -17516,7 +17516,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 13995,
+        "stars": 13998,
         "forks": 2277,
         "language": "Python",
         "pushed_at": "2025-08-28T10:58:01Z",
@@ -17556,7 +17556,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 67498,
+        "stars": 67500,
         "forks": 11210,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-08-28T10:32:31Z",
@@ -17626,7 +17626,7 @@
         "name": "openai-go",
         "description": "The official Go library for the OpenAI API",
         "url": "https://github.com/openai/openai-go",
-        "stars": 2382,
+        "stars": 2383,
         "forks": 197,
         "language": "Go",
         "pushed_at": "2025-08-28T05:06:38Z",
@@ -17646,7 +17646,7 @@
         "name": "openai-node",
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
-        "stars": 10033,
+        "stars": 10034,
         "forks": 1214,
         "language": "TypeScript",
         "pushed_at": "2025-08-28T05:07:35Z",
@@ -17666,7 +17666,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 28507,
+        "stars": 28508,
         "forks": 4215,
         "language": "Python",
         "pushed_at": "2025-08-28T05:03:43Z",
@@ -17696,7 +17696,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 6196,
+        "stars": 6197,
         "forks": 892,
         "language": "TypeScript",
         "pushed_at": "2025-08-14T22:46:47Z",
@@ -17939,7 +17939,7 @@
         "stars": 846,
         "forks": 90,
         "language": "Python",
-        "pushed_at": "2025-08-28T10:59:25Z",
+        "pushed_at": "2025-08-28T14:37:28Z",
         "created_at": "2025-03-28T15:45:01Z"
       },
       {
@@ -18456,7 +18456,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 87354,
+        "stars": 87355,
         "forks": 10812,
         "language": "Python",
         "pushed_at": "2025-08-18T15:03:07Z",
@@ -20687,7 +20687,7 @@
         "description": "nRF Connect SDK main repository",
         "url": "https://github.com/nrfconnect/sdk-nrf",
         "stars": 1142,
-        "forks": 1372,
+        "forks": 1371,
         "language": "C",
         "pushed_at": "2025-08-28T12:26:55Z",
         "created_at": "2018-02-14T13:50:55Z"
@@ -20787,7 +20787,7 @@
         "description": "NCS downstream of https://github.com/zephyrproject-rtos/trusted-firmware-m",
         "url": "https://github.com/nrfconnect/sdk-trusted-firmware-m",
         "stars": 18,
-        "forks": 50,
+        "forks": 49,
         "language": "C",
         "pushed_at": "2025-08-13T15:53:32Z",
         "created_at": "2021-01-18T11:58:41Z"
@@ -21784,7 +21784,7 @@
         "stars": 530,
         "forks": 167,
         "language": "C++",
-        "pushed_at": "2025-08-28T12:07:12Z",
+        "pushed_at": "2025-08-28T14:32:49Z",
         "created_at": "2017-12-13T19:42:51Z"
       },
       {
@@ -24411,7 +24411,7 @@
         "name": "cel-go",
         "description": "Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)",
         "url": "https://github.com/google/cel-go",
-        "stars": 2654,
+        "stars": 2655,
         "forks": 250,
         "language": "Go",
         "pushed_at": "2025-08-27T23:17:16Z",
@@ -25021,7 +25021,7 @@
         "name": "closure-compiler",
         "description": "A JavaScript checker and optimizer.",
         "url": "https://github.com/google/closure-compiler",
-        "stars": 7564,
+        "stars": 7565,
         "forks": 1167,
         "language": "Java",
         "pushed_at": "2025-08-27T20:27:15Z",
@@ -25094,7 +25094,7 @@
         "stars": 663,
         "forks": 192,
         "language": "Java",
-        "pushed_at": "2025-08-27T23:35:09Z",
+        "pushed_at": "2025-08-28T14:28:50Z",
         "created_at": "2014-04-16T15:31:58Z"
       },
       {
@@ -28234,7 +28234,7 @@
         "stars": 115,
         "forks": 84,
         "language": "Jsonnet",
-        "pushed_at": "2025-08-28T12:42:55Z",
+        "pushed_at": "2025-08-28T14:29:09Z",
         "created_at": "2022-06-06T17:21:40Z"
       },
       {
@@ -30524,7 +30524,7 @@
         "stars": 6548,
         "forks": 568,
         "language": "C++",
-        "pushed_at": "2025-08-28T13:02:51Z",
+        "pushed_at": "2025-08-28T14:31:22Z",
         "created_at": "2024-02-13T04:36:03Z"
       },
       {
@@ -31964,7 +31964,7 @@
         "stars": 98,
         "forks": 44,
         "language": "Go",
-        "pushed_at": "2025-08-19T19:36:33Z",
+        "pushed_at": "2025-08-28T14:21:35Z",
         "created_at": "2016-03-01T18:14:21Z"
       },
       {
@@ -33054,7 +33054,7 @@
         "stars": 16896,
         "forks": 1428,
         "language": "Go",
-        "pushed_at": "2025-08-28T07:00:42Z",
+        "pushed_at": "2025-08-28T14:29:54Z",
         "created_at": "2018-04-26T21:28:49Z"
       },
       {
@@ -33354,7 +33354,7 @@
         "stars": 508,
         "forks": 88,
         "language": "C++",
-        "pushed_at": "2025-08-28T01:06:13Z",
+        "pushed_at": "2025-08-28T14:23:50Z",
         "created_at": "2023-04-17T21:14:13Z"
       },
       {
@@ -34582,7 +34582,7 @@
         "description": "Google IT Automation with Python Professional Certificate - Practice files",
         "url": "https://github.com/google/it-cert-automation-practice",
         "stars": 957,
-        "forks": 45701,
+        "forks": 45702,
         "language": "Python",
         "pushed_at": "2024-08-21T14:58:21Z",
         "created_at": "2019-12-17T19:04:12Z"
@@ -34851,7 +34851,7 @@
         "name": "jetpack-camera-app",
         "description": "A CameraX/Compose camera app built for validating camera feature implementations, serving as a reference for developers and OEMs.",
         "url": "https://github.com/google/jetpack-camera-app",
-        "stars": 246,
+        "stars": 247,
         "forks": 47,
         "language": "Kotlin",
         "pushed_at": "2025-08-27T16:25:11Z",
@@ -35021,7 +35021,7 @@
         "name": "jsonnet",
         "description": "Jsonnet - The data templating language",
         "url": "https://github.com/google/jsonnet",
-        "stars": 7326,
+        "stars": 7327,
         "forks": 462,
         "language": "Jsonnet",
         "pushed_at": "2025-07-23T09:16:57Z",
@@ -35521,8 +35521,8 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 13823,
-        "forks": 923,
+        "stars": 13826,
+        "forks": 924,
         "language": "Python",
         "pushed_at": "2025-08-27T08:17:58Z",
         "created_at": "2025-07-08T20:46:06Z"
@@ -36214,7 +36214,7 @@
         "stars": 442,
         "forks": 41,
         "language": "C++",
-        "pushed_at": "2025-08-27T06:55:44Z",
+        "pushed_at": "2025-08-28T14:34:50Z",
         "created_at": "2019-09-09T17:16:49Z"
       },
       {
@@ -36711,7 +36711,7 @@
         "name": "mangle",
         "description": "（无简介）",
         "url": "https://github.com/google/mangle",
-        "stars": 1743,
+        "stars": 1745,
         "forks": 79,
         "language": "Go",
         "pushed_at": "2025-08-12T13:37:52Z",
@@ -39004,7 +39004,7 @@
         "stars": 419,
         "forks": 66,
         "language": "Python",
-        "pushed_at": "2025-08-28T13:39:28Z",
+        "pushed_at": "2025-08-28T14:29:32Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39784,7 +39784,7 @@
         "stars": 4524,
         "forks": 567,
         "language": "C++",
-        "pushed_at": "2025-08-28T14:12:27Z",
+        "pushed_at": "2025-08-28T14:31:09Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -40871,7 +40871,7 @@
         "name": "proto-lens",
         "description": "API for protocol buffers using modern Haskell language and library patterns.",
         "url": "https://github.com/google/proto-lens",
-        "stars": 487,
+        "stars": 488,
         "forks": 115,
         "language": "Haskell",
         "pushed_at": "2025-08-02T00:18:26Z",
@@ -44951,7 +44951,7 @@
         "name": "styleguide",
         "description": "Style guides for Google-originated open-source projects",
         "url": "https://github.com/google/styleguide",
-        "stars": 38457,
+        "stars": 38458,
         "forks": 13002,
         "language": "HTML",
         "pushed_at": "2025-07-31T22:16:21Z",
@@ -47274,7 +47274,7 @@
         "stars": 12,
         "forks": 14,
         "language": "JavaScript",
-        "pushed_at": "2025-08-28T13:41:20Z",
+        "pushed_at": "2025-08-28T14:28:59Z",
         "created_at": "2025-03-11T15:53:53Z"
       },
       {
@@ -47392,7 +47392,7 @@
         "description": "An opensource text-to-speech (TTS) voice building tool",
         "url": "https://github.com/google/voice-builder",
         "stars": 680,
-        "forks": 137,
+        "forks": 138,
         "language": "JavaScript",
         "pushed_at": "2024-07-22T20:40:56Z",
         "created_at": "2018-03-05T13:17:52Z"
