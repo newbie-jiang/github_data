@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-02T15:47:54Z",
+        "pushed_at": "2025-09-02T16:20:45Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4077,9 +4077,9 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 13024,
-        "forks": 7853,
+        "forks": 7854,
         "language": "C",
-        "pushed_at": "2025-09-02T15:18:06Z",
+        "pushed_at": "2025-09-02T16:42:54Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -16396,10 +16396,10 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 4667,
+        "stars": 4670,
         "forks": 332,
         "language": "TypeScript",
-        "pushed_at": "2025-09-02T16:18:03Z",
+        "pushed_at": "2025-09-02T16:22:00Z",
         "created_at": "2025-08-19T17:22:54Z"
       },
       {
@@ -16626,8 +16626,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 38011,
-        "forks": 4392,
+        "stars": 38015,
+        "forks": 4393,
         "language": "Rust",
         "pushed_at": "2025-09-02T16:09:19Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16986,7 +16986,7 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 24137,
+        "stars": 24138,
         "forks": 5771,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
@@ -17049,7 +17049,7 @@
         "stars": 18086,
         "forks": 1663,
         "language": "Python",
-        "pushed_at": "2025-09-02T15:22:01Z",
+        "pushed_at": "2025-09-02T16:42:12Z",
         "created_at": "2025-06-23T16:43:33Z"
       },
       {
@@ -17066,7 +17066,7 @@
         "name": "grade-school-math",
         "description": "（无简介）",
         "url": "https://github.com/openai/grade-school-math",
-        "stars": 1321,
+        "stars": 1320,
         "forks": 180,
         "language": "Python",
         "pushed_at": "2024-01-21T10:54:11Z",
@@ -17556,7 +17556,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 14185,
+        "stars": 14186,
         "forks": 2306,
         "language": "Python",
         "pushed_at": "2025-09-02T12:03:31Z",
@@ -17596,7 +17596,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 67648,
+        "stars": 67649,
         "forks": 11240,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-08-29T22:50:47Z",
@@ -17677,7 +17677,7 @@
         "description": "The official Java library for the OpenAI API",
         "url": "https://github.com/openai/openai-java",
         "stars": 1067,
-        "forks": 152,
+        "forks": 153,
         "language": "Kotlin",
         "pushed_at": "2025-09-02T13:35:37Z",
         "created_at": "2024-10-31T17:42:57Z"
@@ -17736,7 +17736,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 6270,
+        "stars": 6271,
         "forks": 908,
         "language": "TypeScript",
         "pushed_at": "2025-08-28T23:22:47Z",
@@ -18496,7 +18496,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 87597,
+        "stars": 87598,
         "forks": 10852,
         "language": "Python",
         "pushed_at": "2025-08-18T15:03:07Z",
@@ -21221,7 +21221,7 @@
         "name": "adk-java",
         "description": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-java",
-        "stars": 612,
+        "stars": 613,
         "forks": 121,
         "language": "Java",
         "pushed_at": "2025-09-02T11:10:54Z",
@@ -21231,7 +21231,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 12669,
+        "stars": 12671,
         "forks": 1805,
         "language": "Python",
         "pushed_at": "2025-08-30T18:08:46Z",
@@ -22881,7 +22881,7 @@
         "name": "automl",
         "description": "Google Brain AutoML",
         "url": "https://github.com/google/automl",
-        "stars": 6391,
+        "stars": 6392,
         "forks": 1465,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-03-02T07:46:39Z",
@@ -25324,7 +25324,7 @@
         "stars": 5452,
         "forks": 584,
         "language": "Python",
-        "pushed_at": "2025-09-02T16:12:59Z",
+        "pushed_at": "2025-09-02T16:42:13Z",
         "created_at": "2019-01-29T00:19:40Z"
       },
       {
@@ -25701,8 +25701,8 @@
         "name": "comprehensive-rust",
         "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
         "url": "https://github.com/google/comprehensive-rust",
-        "stars": 31277,
-        "forks": 1858,
+        "stars": 31285,
+        "forks": 1861,
         "language": "Rust",
         "pushed_at": "2025-09-01T20:35:11Z",
         "created_at": "2022-12-21T15:17:24Z"
@@ -27024,7 +27024,7 @@
         "stars": 695,
         "forks": 119,
         "language": "C++",
-        "pushed_at": "2025-09-02T15:48:03Z",
+        "pushed_at": "2025-09-02T16:24:00Z",
         "created_at": "2023-10-04T16:54:23Z"
       },
       {
@@ -33094,7 +33094,7 @@
         "stars": 16912,
         "forks": 1429,
         "language": "Go",
-        "pushed_at": "2025-09-01T01:15:06Z",
+        "pushed_at": "2025-09-02T16:38:38Z",
         "created_at": "2018-04-26T21:28:49Z"
       },
       {
@@ -33392,7 +33392,7 @@
         "description": "A compiler for homomorphic encryption",
         "url": "https://github.com/google/heir",
         "stars": 513,
-        "forks": 89,
+        "forks": 88,
         "language": "C++",
         "pushed_at": "2025-09-02T15:03:08Z",
         "created_at": "2023-04-17T21:14:13Z"
@@ -33472,7 +33472,7 @@
         "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
         "url": "https://github.com/google/highway",
         "stars": 4993,
-        "forks": 378,
+        "forks": 377,
         "language": "C++",
         "pushed_at": "2025-09-01T08:32:59Z",
         "created_at": "2019-09-06T12:41:23Z"
@@ -35561,7 +35561,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 14200,
+        "stars": 14201,
         "forks": 951,
         "language": "Python",
         "pushed_at": "2025-09-01T21:34:18Z",
@@ -36751,8 +36751,8 @@
         "name": "mangle",
         "description": "（无简介）",
         "url": "https://github.com/google/mangle",
-        "stars": 1979,
-        "forks": 94,
+        "stars": 1986,
+        "forks": 95,
         "language": "Go",
         "pushed_at": "2025-09-02T09:56:12Z",
         "created_at": "2022-11-24T13:22:28Z"
@@ -38004,7 +38004,7 @@
         "stars": 62,
         "forks": 18,
         "language": "Rust",
-        "pushed_at": "2025-08-29T20:53:19Z",
+        "pushed_at": "2025-09-02T16:23:27Z",
         "created_at": "2021-08-20T19:08:26Z"
       },
       {
@@ -38842,7 +38842,7 @@
         "description": "Open Location Code is a library to generate short codes, called \"plus codes\", that can be used as digital addresses where street addresses don't exist.",
         "url": "https://github.com/google/open-location-code",
         "stars": 4240,
-        "forks": 516,
+        "forks": 515,
         "language": "Java",
         "pushed_at": "2025-06-20T13:48:21Z",
         "created_at": "2014-09-30T18:26:35Z"
@@ -39044,7 +39044,7 @@
         "stars": 421,
         "forks": 66,
         "language": "Python",
-        "pushed_at": "2025-09-02T16:18:04Z",
+        "pushed_at": "2025-09-02T16:38:10Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39184,7 +39184,7 @@
         "stars": 11282,
         "forks": 2468,
         "language": "Shell",
-        "pushed_at": "2025-09-02T16:04:37Z",
+        "pushed_at": "2025-09-02T16:42:53Z",
         "created_at": "2016-07-20T19:39:50Z"
       },
       {
@@ -39304,7 +39304,7 @@
         "stars": 12,
         "forks": 4,
         "language": "JavaScript",
-        "pushed_at": "2024-07-09T20:07:39Z",
+        "pushed_at": "2025-09-02T16:41:22Z",
         "created_at": "2021-09-03T16:00:03Z"
       },
       {
@@ -40524,7 +40524,7 @@
         "stars": 8713,
         "forks": 635,
         "language": "Go",
-        "pushed_at": "2025-09-02T16:00:20Z",
+        "pushed_at": "2025-09-02T16:35:15Z",
         "created_at": "2016-01-29T01:52:07Z"
       },
       {
@@ -40914,7 +40914,7 @@
         "stars": 488,
         "forks": 115,
         "language": "Haskell",
-        "pushed_at": "2025-09-02T15:15:28Z",
+        "pushed_at": "2025-09-02T16:24:37Z",
         "created_at": "2016-05-03T18:35:31Z"
       },
       {
