@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-04T17:31:29Z",
+        "pushed_at": "2025-09-04T17:45:16Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3239,7 +3239,7 @@
         "stars": 2,
         "forks": 1,
         "language": "C",
-        "pushed_at": "2025-04-04T07:24:34Z",
+        "pushed_at": "2025-09-04T18:02:46Z",
         "created_at": "2024-09-05T10:33:47Z"
       },
       {
@@ -4077,7 +4077,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 13031,
-        "forks": 7866,
+        "forks": 7868,
         "language": "C",
         "pushed_at": "2025-09-04T14:48:42Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -5021,7 +5021,7 @@
         "name": "dt-stm32mp",
         "description": "（无简介）",
         "url": "https://github.com/STMicroelectronics/dt-stm32mp",
-        "stars": 2,
+        "stars": 3,
         "forks": 0,
         "language": "Makefile",
         "pushed_at": "2025-07-09T10:58:29Z",
@@ -11327,7 +11327,7 @@
         "description": "Developer Portal",
         "url": "https://github.com/espressif/developer-portal",
         "stars": 17,
-        "forks": 40,
+        "forks": 41,
         "language": "HTML",
         "pushed_at": "2025-09-04T02:35:24Z",
         "created_at": "2024-02-08T09:26:09Z"
@@ -12249,7 +12249,7 @@
         "stars": 4,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-09-04T08:03:18Z",
+        "pushed_at": "2025-09-04T18:05:25Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -13326,7 +13326,7 @@
         "name": "idf-python",
         "description": "Project which packages a minimal self-contained Python distributions with pip and virtualenv included.",
         "url": "https://github.com/espressif/idf-python",
-        "stars": 7,
+        "stars": 8,
         "forks": 7,
         "language": "PowerShell",
         "pushed_at": "2023-03-06T15:59:55Z",
@@ -13479,7 +13479,7 @@
         "stars": 252,
         "forks": 26,
         "language": "LLVM",
-        "pushed_at": "2025-09-04T17:38:41Z",
+        "pushed_at": "2025-09-04T18:10:39Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13599,7 +13599,7 @@
         "stars": 31,
         "forks": 9,
         "language": "C++",
-        "pushed_at": "2025-09-04T05:32:07Z",
+        "pushed_at": "2025-09-04T17:56:07Z",
         "created_at": "2021-03-01T07:44:10Z"
       },
       {
@@ -16396,8 +16396,8 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 4840,
-        "forks": 345,
+        "stars": 4842,
+        "forks": 347,
         "language": "TypeScript",
         "pushed_at": "2025-09-02T16:22:00Z",
         "created_at": "2025-08-19T17:22:54Z"
@@ -16596,7 +16596,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 30546,
+        "stars": 30547,
         "forks": 3731,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16626,10 +16626,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 38533,
-        "forks": 4449,
+        "stars": 38539,
+        "forks": 4452,
         "language": "Rust",
-        "pushed_at": "2025-09-04T17:41:41Z",
+        "pushed_at": "2025-09-04T18:08:03Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -17046,8 +17046,8 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 18167,
-        "forks": 1679,
+        "stars": 18166,
+        "forks": 1680,
         "language": "Python",
         "pushed_at": "2025-09-03T22:37:51Z",
         "created_at": "2025-06-23T16:43:33Z"
@@ -17076,7 +17076,7 @@
         "name": "grok",
         "description": "（无简介）",
         "url": "https://github.com/openai/grok",
-        "stars": 4178,
+        "stars": 4177,
         "forks": 563,
         "language": "Python",
         "pushed_at": "2024-03-19T07:03:15Z",
@@ -17096,7 +17096,7 @@
         "name": "gym",
         "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
         "url": "https://github.com/openai/gym",
-        "stars": 36456,
+        "stars": 36455,
         "forks": 8689,
         "language": "Python",
         "pushed_at": "2024-10-11T20:07:05Z",
@@ -17156,7 +17156,7 @@
         "name": "harmony",
         "description": "Renderer for the harmony response format to be used with gpt-oss",
         "url": "https://github.com/openai/harmony",
-        "stars": 3729,
+        "stars": 3728,
         "forks": 185,
         "language": "Rust",
         "pushed_at": "2025-08-15T23:28:11Z",
@@ -17556,7 +17556,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 14276,
+        "stars": 14278,
         "forks": 2324,
         "language": "Python",
         "pushed_at": "2025-09-04T15:27:55Z",
@@ -17596,7 +17596,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 67706,
+        "stars": 67705,
         "forks": 11250,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-09-04T05:06:55Z",
@@ -17706,10 +17706,10 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 28565,
+        "stars": 28566,
         "forks": 4240,
         "language": "Python",
-        "pushed_at": "2025-09-04T14:55:34Z",
+        "pushed_at": "2025-09-04T18:16:54Z",
         "created_at": "2020-10-25T23:23:54Z"
       },
       {
@@ -17816,7 +17816,7 @@
         "name": "openai-ruby",
         "description": "Official Ruby SDK for the OpenAI API",
         "url": "https://github.com/openai/openai-ruby",
-        "stars": 322,
+        "stars": 323,
         "forks": 23,
         "language": "Ruby",
         "pushed_at": "2025-09-03T14:15:41Z",
@@ -18584,7 +18584,7 @@
         "stars": 355,
         "forks": 83,
         "language": "C",
-        "pushed_at": "2025-09-04T17:41:30Z",
+        "pushed_at": "2025-09-04T18:19:21Z",
         "created_at": "2022-06-13T09:08:33Z"
       },
       {
@@ -21214,7 +21214,7 @@
         "stars": 431,
         "forks": 312,
         "language": "HTML",
-        "pushed_at": "2025-09-03T22:57:01Z",
+        "pushed_at": "2025-09-04T18:16:57Z",
         "created_at": "2025-04-01T20:44:41Z"
       },
       {
@@ -21231,7 +21231,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 12723,
+        "stars": 12724,
         "forks": 1821,
         "language": "Python",
         "pushed_at": "2025-09-04T05:36:28Z",
@@ -21814,7 +21814,7 @@
         "stars": 533,
         "forks": 168,
         "language": "C++",
-        "pushed_at": "2025-09-04T17:11:11Z",
+        "pushed_at": "2025-09-04T17:51:01Z",
         "created_at": "2017-12-13T19:42:51Z"
       },
       {
@@ -23601,7 +23601,7 @@
         "name": "brax",
         "description": "Massively parallel rigidbody physics simulation on accelerator hardware.",
         "url": "https://github.com/google/brax",
-        "stars": 2841,
+        "stars": 2842,
         "forks": 306,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-08-21T16:39:31Z",
@@ -23634,7 +23634,7 @@
         "stars": 2799,
         "forks": 766,
         "language": "C++",
-        "pushed_at": "2025-08-28T15:41:31Z",
+        "pushed_at": "2025-09-04T18:03:30Z",
         "created_at": "2016-02-29T16:14:14Z"
       },
       {
@@ -25334,7 +25334,7 @@
         "stars": 5454,
         "forks": 584,
         "language": "Python",
-        "pushed_at": "2025-09-04T17:35:54Z",
+        "pushed_at": "2025-09-04T18:12:05Z",
         "created_at": "2019-01-29T00:19:40Z"
       },
       {
@@ -25711,7 +25711,7 @@
         "name": "comprehensive-rust",
         "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
         "url": "https://github.com/google/comprehensive-rust",
-        "stars": 31560,
+        "stars": 31561,
         "forks": 1871,
         "language": "Rust",
         "pushed_at": "2025-09-01T20:35:11Z",
@@ -25931,7 +25931,7 @@
         "name": "copybara",
         "description": "Copybara: A tool for transforming and moving code between repositories.",
         "url": "https://github.com/google/copybara",
-        "stars": 2443,
+        "stars": 2444,
         "forks": 285,
         "language": "Java",
         "pushed_at": "2025-09-04T17:14:07Z",
@@ -27034,7 +27034,7 @@
         "stars": 694,
         "forks": 120,
         "language": "C++",
-        "pushed_at": "2025-09-04T17:11:03Z",
+        "pushed_at": "2025-09-04T18:06:32Z",
         "created_at": "2023-10-04T16:54:23Z"
       },
       {
@@ -27571,7 +27571,7 @@
         "name": "diff-match-patch",
         "description": "Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.",
         "url": "https://github.com/google/diff-match-patch",
-        "stars": 7894,
+        "stars": 7895,
         "forks": 1163,
         "language": "Python",
         "pushed_at": "2024-05-22T22:13:22Z",
@@ -27594,7 +27594,7 @@
         "stars": 3210,
         "forks": 390,
         "language": "Go",
-        "pushed_at": "2025-09-04T17:36:37Z",
+        "pushed_at": "2025-09-04T17:54:38Z",
         "created_at": "2019-09-04T13:04:15Z"
       },
       {
@@ -27944,7 +27944,7 @@
         "stars": 6927,
         "forks": 1015,
         "language": "C++",
-        "pushed_at": "2025-09-04T16:22:56Z",
+        "pushed_at": "2025-09-04T18:04:36Z",
         "created_at": "2016-12-05T20:14:02Z"
       },
       {
@@ -28401,10 +28401,10 @@
         "name": "eclipsa-audio-plugin",
         "description": "（无简介）",
         "url": "https://github.com/google/eclipsa-audio-plugin",
-        "stars": 39,
+        "stars": 40,
         "forks": 6,
         "language": "C++",
-        "pushed_at": "2025-09-02T19:18:47Z",
+        "pushed_at": "2025-09-04T17:56:25Z",
         "created_at": "2025-06-05T21:12:30Z"
       },
       {
@@ -28991,7 +28991,7 @@
         "name": "ExoPlayer",
         "description": "This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media",
         "url": "https://github.com/google/ExoPlayer",
-        "stars": 21872,
+        "stars": 21873,
         "forks": 6044,
         "language": "Java",
         "pushed_at": "2024-08-07T18:54:48Z",
@@ -30612,7 +30612,7 @@
         "description": "Documentation for Google's Gen AI site - including the Gemini API and Gemma",
         "url": "https://github.com/google/generative-ai-docs",
         "stars": 2119,
-        "forks": 725,
+        "forks": 726,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-09-04T15:43:54Z",
         "created_at": "2023-04-06T05:20:25Z"
@@ -31544,7 +31544,7 @@
         "stars": 131,
         "forks": 28,
         "language": "Go",
-        "pushed_at": "2024-02-26T20:49:29Z",
+        "pushed_at": "2025-09-04T18:10:21Z",
         "created_at": "2019-11-19T20:36:30Z"
       },
       {
@@ -32264,7 +32264,7 @@
         "stars": 1180,
         "forks": 263,
         "language": "Objective-C",
-        "pushed_at": "2025-09-04T14:08:33Z",
+        "pushed_at": "2025-09-04T18:15:35Z",
         "created_at": "2015-04-21T21:43:36Z"
       },
       {
@@ -32411,7 +32411,7 @@
         "name": "googletest",
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "url": "https://github.com/google/googletest",
-        "stars": 37004,
+        "stars": 37005,
         "forks": 10504,
         "language": "C++",
         "pushed_at": "2025-09-02T14:15:52Z",
@@ -33104,7 +33104,7 @@
         "stars": 16930,
         "forks": 1430,
         "language": "Go",
-        "pushed_at": "2025-09-03T22:26:56Z",
+        "pushed_at": "2025-09-04T18:15:44Z",
         "created_at": "2018-04-26T21:28:49Z"
       },
       {
@@ -35424,7 +35424,7 @@
         "stars": 28,
         "forks": 14,
         "language": "C++",
-        "pushed_at": "2025-09-04T17:12:03Z",
+        "pushed_at": "2025-09-04T17:53:06Z",
         "created_at": "2024-05-07T11:31:53Z"
       },
       {
@@ -35874,7 +35874,7 @@
         "stars": 61,
         "forks": 26,
         "language": "C",
-        "pushed_at": "2025-08-12T21:53:57Z",
+        "pushed_at": "2025-09-04T18:09:45Z",
         "created_at": "2014-05-27T16:55:16Z"
       },
       {
@@ -35891,7 +35891,7 @@
         "name": "libphonenumber",
         "description": "Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.",
         "url": "https://github.com/google/libphonenumber",
-        "stars": 17494,
+        "stars": 17495,
         "forks": 2115,
         "language": "C++",
         "pushed_at": "2025-08-28T11:21:36Z",
@@ -36761,7 +36761,7 @@
         "name": "mangle",
         "description": "（无简介）",
         "url": "https://github.com/google/mangle",
-        "stars": 2177,
+        "stars": 2179,
         "forks": 103,
         "language": "Go",
         "pushed_at": "2025-09-03T20:04:53Z",
@@ -37084,7 +37084,7 @@
         "stars": 1103,
         "forks": 186,
         "language": "Python",
-        "pushed_at": "2025-09-04T16:25:03Z",
+        "pushed_at": "2025-09-04T17:46:58Z",
         "created_at": "2024-01-31T18:15:38Z"
       },
       {
@@ -37134,7 +37134,7 @@
         "stars": 108,
         "forks": 20,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-08-20T23:01:40Z",
+        "pushed_at": "2025-09-04T17:54:59Z",
         "created_at": "2016-11-03T16:58:57Z"
       },
       {
@@ -37424,7 +37424,7 @@
         "stars": 55,
         "forks": 63,
         "language": "Java",
-        "pushed_at": "2025-09-04T16:40:36Z",
+        "pushed_at": "2025-09-04T17:52:49Z",
         "created_at": "2017-01-21T00:14:06Z"
       },
       {
@@ -37691,7 +37691,7 @@
         "name": "mozc",
         "description": "Mozc - a Japanese Input Method Editor designed for multi-platform",
         "url": "https://github.com/google/mozc",
-        "stars": 2699,
+        "stars": 2698,
         "forks": 427,
         "language": "C++",
         "pushed_at": "2025-09-04T15:09:32Z",
@@ -38094,7 +38094,7 @@
         "stars": 857,
         "forks": 178,
         "language": "C++",
-        "pushed_at": "2025-09-04T17:20:40Z",
+        "pushed_at": "2025-09-04T18:13:10Z",
         "created_at": "2020-04-23T20:41:37Z"
       },
       {
@@ -39044,7 +39044,7 @@
         "stars": 64,
         "forks": 37,
         "language": "Shell",
-        "pushed_at": "2025-09-02T20:51:18Z",
+        "pushed_at": "2025-09-04T18:04:33Z",
         "created_at": "2020-06-11T19:57:36Z"
       },
       {
@@ -39054,7 +39054,7 @@
         "stars": 422,
         "forks": 66,
         "language": "Python",
-        "pushed_at": "2025-09-04T17:33:48Z",
+        "pushed_at": "2025-09-04T18:06:55Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39771,7 +39771,7 @@
         "name": "pebble",
         "description": "This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will not compile as-is. This is for information only.",
         "url": "https://github.com/google/pebble",
-        "stars": 4845,
+        "stars": 4844,
         "forks": 365,
         "language": "C",
         "pushed_at": "2025-02-25T19:05:35Z",
@@ -41604,7 +41604,7 @@
         "stars": 2,
         "forks": 1,
         "language": "Python",
-        "pushed_at": "2025-04-21T23:13:06Z",
+        "pushed_at": "2025-09-04T18:14:01Z",
         "created_at": "2025-04-14T20:43:58Z"
       },
       {
@@ -41784,7 +41784,7 @@
         "stars": 331,
         "forks": 12,
         "language": "Python",
-        "pushed_at": "2025-09-04T17:03:25Z",
+        "pushed_at": "2025-09-04T17:45:13Z",
         "created_at": "2022-01-13T14:35:06Z"
       },
       {
