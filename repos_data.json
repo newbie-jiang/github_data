@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-05T09:33:17Z",
+        "pushed_at": "2025-09-05T09:45:17Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3327,7 +3327,7 @@
         "description": "Zephyr repository tracking https://w1.fi/cgit/hostap/",
         "url": "https://github.com/zephyrproject-rtos/hostap",
         "stars": 4,
-        "forks": 21,
+        "forks": 22,
         "language": "C",
         "pushed_at": "2025-09-02T13:42:45Z",
         "created_at": "2023-10-19T13:30:45Z"
@@ -9004,7 +9004,7 @@
         "stars": 653,
         "forks": 106,
         "language": "未指定",
-        "pushed_at": "2025-07-18T10:00:16Z",
+        "pushed_at": "2025-09-05T10:12:20Z",
         "created_at": "2019-04-26T14:26:10Z"
       },
       {
@@ -11876,7 +11876,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 16170,
+        "stars": 16171,
         "forks": 7844,
         "language": "C",
         "pushed_at": "2025-09-02T00:27:01Z",
@@ -12249,7 +12249,7 @@
         "stars": 4,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-09-05T08:17:01Z",
+        "pushed_at": "2025-09-05T10:03:09Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12589,7 +12589,7 @@
         "stars": 53,
         "forks": 32,
         "language": "C",
-        "pushed_at": "2025-09-05T09:11:54Z",
+        "pushed_at": "2025-09-05T10:13:15Z",
         "created_at": "2024-01-18T07:20:01Z"
       },
       {
@@ -16396,7 +16396,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 4878,
+        "stars": 4880,
         "forks": 351,
         "language": "TypeScript",
         "pushed_at": "2025-09-02T16:22:00Z",
@@ -16597,7 +16597,7 @@
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
         "stars": 30561,
-        "forks": 3731,
+        "forks": 3730,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
         "created_at": "2020-12-16T11:24:42Z"
@@ -16626,7 +16626,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 38709,
+        "stars": 38714,
         "forks": 4469,
         "language": "Rust",
         "pushed_at": "2025-09-05T05:25:40Z",
@@ -16706,7 +16706,7 @@
         "name": "DALL-E",
         "description": "PyTorch package for the discrete VAE used for DALL·E.",
         "url": "https://github.com/openai/DALL-E",
-        "stars": 10873,
+        "stars": 10872,
         "forks": 1913,
         "language": "Python",
         "pushed_at": "2024-01-31T15:42:28Z",
@@ -17556,8 +17556,8 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 14313,
-        "forks": 2331,
+        "stars": 14314,
+        "forks": 2332,
         "language": "Python",
         "pushed_at": "2025-09-05T06:52:12Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -17596,7 +17596,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 67711,
+        "stars": 67713,
         "forks": 11250,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-09-05T09:44:25Z",
@@ -17639,7 +17639,7 @@
         "stars": 2273,
         "forks": 307,
         "language": "C#",
-        "pushed_at": "2025-09-05T09:38:25Z",
+        "pushed_at": "2025-09-05T09:58:58Z",
         "created_at": "2024-04-25T23:27:40Z"
       },
       {
@@ -17736,7 +17736,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 6302,
+        "stars": 6303,
         "forks": 913,
         "language": "TypeScript",
         "pushed_at": "2025-09-03T16:52:46Z",
@@ -18117,7 +18117,7 @@
         "description": "Robotics Gym Environments",
         "url": "https://github.com/openai/robogym",
         "stars": 423,
-        "forks": 62,
+        "forks": 61,
         "language": "Python",
         "pushed_at": "2023-04-02T11:41:32Z",
         "created_at": "2020-10-19T22:46:09Z"
@@ -18496,7 +18496,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 87742,
+        "stars": 87744,
         "forks": 10875,
         "language": "Python",
         "pushed_at": "2025-08-18T15:03:07Z",
@@ -18644,7 +18644,7 @@
         "stars": 1281,
         "forks": 324,
         "language": "C++",
-        "pushed_at": "2025-08-07T08:46:48Z",
+        "pushed_at": "2025-09-05T09:51:50Z",
         "created_at": "2018-03-09T12:11:48Z"
       },
       {
@@ -19444,7 +19444,7 @@
         "stars": 74,
         "forks": 9,
         "language": "C",
-        "pushed_at": "2025-09-05T07:31:08Z",
+        "pushed_at": "2025-09-05T10:16:15Z",
         "created_at": "2025-01-23T14:23:07Z"
       },
       {
@@ -20539,7 +20539,7 @@
         "stars": 12,
         "forks": 14,
         "language": "C",
-        "pushed_at": "2025-09-05T08:45:45Z",
+        "pushed_at": "2025-09-05T09:51:03Z",
         "created_at": "2024-11-22T12:00:48Z"
       },
       {
@@ -20719,7 +20719,7 @@
         "stars": 1143,
         "forks": 1373,
         "language": "C",
-        "pushed_at": "2025-09-05T09:26:22Z",
+        "pushed_at": "2025-09-05T10:00:17Z",
         "created_at": "2018-02-14T13:50:55Z"
       },
       {
@@ -21231,7 +21231,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 12742,
+        "stars": 12743,
         "forks": 1824,
         "language": "Python",
         "pushed_at": "2025-09-04T22:58:22Z",
@@ -21251,7 +21251,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 4808,
+        "stars": 4809,
         "forks": 1384,
         "language": "Python",
         "pushed_at": "2025-09-03T15:16:40Z",
@@ -21851,7 +21851,7 @@
         "name": "android-emulator-m1-preview",
         "description": "（无简介）",
         "url": "https://github.com/google/android-emulator-m1-preview",
-        "stars": 1860,
+        "stars": 1859,
         "forks": 163,
         "language": "未指定",
         "pushed_at": "2021-03-10T18:56:24Z",
@@ -22002,7 +22002,7 @@
         "description": "A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android.",
         "url": "https://github.com/google/angle",
         "stars": 3795,
-        "forks": 677,
+        "forks": 678,
         "language": "C++",
         "pushed_at": "2025-09-05T09:06:52Z",
         "created_at": "2014-08-26T14:59:07Z"
@@ -22474,7 +22474,7 @@
         "stars": 21,
         "forks": 12,
         "language": "C++",
-        "pushed_at": "2025-09-04T12:34:49Z",
+        "pushed_at": "2025-09-05T09:56:12Z",
         "created_at": "2023-09-18T13:03:53Z"
       },
       {
@@ -23631,7 +23631,7 @@
         "name": "breakpad",
         "description": "Mirror of Google Breakpad project",
         "url": "https://github.com/google/breakpad",
-        "stars": 2800,
+        "stars": 2801,
         "forks": 766,
         "language": "C++",
         "pushed_at": "2025-09-04T18:03:30Z",
@@ -25711,8 +25711,8 @@
         "name": "comprehensive-rust",
         "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
         "url": "https://github.com/google/comprehensive-rust",
-        "stars": 31620,
-        "forks": 1873,
+        "stars": 31625,
+        "forks": 1874,
         "language": "Rust",
         "pushed_at": "2025-09-04T23:32:34Z",
         "created_at": "2022-12-21T15:17:24Z"
@@ -26582,7 +26582,7 @@
         "description": "（无简介）",
         "url": "https://github.com/google/csv-to-firestore",
         "stars": 25,
-        "forks": 8,
+        "forks": 9,
         "language": "Python",
         "pushed_at": "2025-08-01T08:56:34Z",
         "created_at": "2022-05-31T11:01:22Z"
@@ -27424,7 +27424,7 @@
         "stars": 53,
         "forks": 20,
         "language": "Java",
-        "pushed_at": "2025-09-05T09:42:31Z",
+        "pushed_at": "2025-09-05T10:01:28Z",
         "created_at": "2022-04-15T03:00:41Z"
       },
       {
@@ -28284,7 +28284,7 @@
         "stars": 115,
         "forks": 84,
         "language": "Jsonnet",
-        "pushed_at": "2025-09-04T23:28:14Z",
+        "pushed_at": "2025-09-05T09:50:08Z",
         "created_at": "2022-06-06T17:21:40Z"
       },
       {
@@ -32211,7 +32211,7 @@
         "name": "google-java-format",
         "description": "Reformats Java source code to comply with Google Java Style.",
         "url": "https://github.com/google/google-java-format",
-        "stars": 5911,
+        "stars": 5912,
         "forks": 890,
         "language": "Java",
         "pushed_at": "2025-07-18T19:06:31Z",
@@ -32411,7 +32411,7 @@
         "name": "googletest",
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "url": "https://github.com/google/googletest",
-        "stars": 37004,
+        "stars": 37006,
         "forks": 10505,
         "language": "C++",
         "pushed_at": "2025-09-02T14:15:52Z",
@@ -32851,7 +32851,7 @@
         "name": "gson",
         "description": "A Java serialization/deserialization library to convert Java Objects into JSON and back",
         "url": "https://github.com/google/gson",
-        "stars": 24012,
+        "stars": 24013,
         "forks": 4353,
         "language": "Java",
         "pushed_at": "2025-09-04T16:45:15Z",
@@ -35571,7 +35571,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 14560,
+        "stars": 14561,
         "forks": 973,
         "language": "Python",
         "pushed_at": "2025-09-04T23:29:52Z",
@@ -39194,7 +39194,7 @@
         "stars": 11286,
         "forks": 2474,
         "language": "Shell",
-        "pushed_at": "2025-09-05T09:22:25Z",
+        "pushed_at": "2025-09-05T09:48:52Z",
         "created_at": "2016-07-20T19:39:50Z"
       },
       {
@@ -39834,7 +39834,7 @@
         "stars": 4549,
         "forks": 574,
         "language": "C++",
-        "pushed_at": "2025-09-05T09:25:49Z",
+        "pushed_at": "2025-09-05T10:02:24Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -42954,7 +42954,7 @@
         "stars": 134,
         "forks": 14,
         "language": "TypeScript",
-        "pushed_at": "2025-09-05T09:12:48Z",
+        "pushed_at": "2025-09-05T09:58:46Z",
         "created_at": "2021-01-21T16:52:34Z"
       },
       {
@@ -43294,7 +43294,7 @@
         "stars": 65,
         "forks": 15,
         "language": "Svelte",
-        "pushed_at": "2025-09-05T08:55:10Z",
+        "pushed_at": "2025-09-05T09:51:56Z",
         "created_at": "2025-04-05T08:42:35Z"
       },
       {
@@ -43361,7 +43361,7 @@
         "name": "security-research",
         "description": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
         "url": "https://github.com/google/security-research",
-        "stars": 4166,
+        "stars": 4167,
         "forks": 488,
         "language": "C",
         "pushed_at": "2025-09-03T00:01:32Z",
@@ -47344,7 +47344,7 @@
         "stars": 14,
         "forks": 14,
         "language": "JavaScript",
-        "pushed_at": "2025-09-04T19:37:33Z",
+        "pushed_at": "2025-09-05T10:07:02Z",
         "created_at": "2025-03-11T15:53:53Z"
       },
       {
@@ -48424,7 +48424,7 @@
         "stars": 2102,
         "forks": 441,
         "language": "C",
-        "pushed_at": "2025-09-05T09:21:19Z",
+        "pushed_at": "2025-09-05T10:03:05Z",
         "created_at": "2019-09-13T23:48:37Z"
       },
       {
