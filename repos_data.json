@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-05T11:44:41Z",
+        "pushed_at": "2025-09-05T12:32:48Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3147,7 +3147,7 @@
         "description": "HAL module for NXP SoCs",
         "url": "https://github.com/zephyrproject-rtos/hal_nxp",
         "stars": 37,
-        "forks": 157,
+        "forks": 158,
         "language": "C",
         "pushed_at": "2025-09-03T15:19:21Z",
         "created_at": "2019-04-06T22:26:02Z"
@@ -3707,7 +3707,7 @@
         "description": "Pull Request Dashboard",
         "url": "https://github.com/zephyrproject-rtos/pr-dashboard",
         "stars": 4,
-        "forks": 3,
+        "forks": 4,
         "language": "HTML",
         "pushed_at": "2025-09-04T21:01:46Z",
         "created_at": "2024-12-20T13:03:01Z"
@@ -4109,7 +4109,7 @@
         "stars": 16,
         "forks": 25,
         "language": "C",
-        "pushed_at": "2025-09-02T13:43:35Z",
+        "pushed_at": "2025-09-05T12:59:45Z",
         "created_at": "2017-04-26T03:08:46Z"
       },
       {
@@ -5734,7 +5734,7 @@
         "stars": 3,
         "forks": 0,
         "language": "Rust",
-        "pushed_at": "2025-09-05T12:32:07Z",
+        "pushed_at": "2025-09-05T12:37:45Z",
         "created_at": "2025-08-12T09:05:10Z"
       },
       {
@@ -5754,7 +5754,7 @@
         "stars": 1,
         "forks": 0,
         "language": "Rust",
-        "pushed_at": "2025-08-27T13:15:55Z",
+        "pushed_at": "2025-09-05T12:56:37Z",
         "created_at": "2025-08-12T09:05:44Z"
       },
       {
@@ -6201,7 +6201,7 @@
         "name": "lsm6dsv320x-rs",
         "description": "lsm6dsv320x platform independent driver based on Rust programming language",
         "url": "https://github.com/STMicroelectronics/lsm6dsv320x-rs",
-        "stars": 2,
+        "stars": 3,
         "forks": 0,
         "language": "Rust",
         "pushed_at": "2025-08-21T07:08:13Z",
@@ -8811,7 +8811,7 @@
         "name": "STM32CubeH7RS",
         "description": "STM32Cube MCU Full Package for the STM32H7RS series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST)",
         "url": "https://github.com/STMicroelectronics/STM32CubeH7RS",
-        "stars": 32,
+        "stars": 33,
         "forks": 7,
         "language": "C",
         "pushed_at": "2025-07-29T09:56:34Z",
@@ -9054,7 +9054,7 @@
         "stars": 89,
         "forks": 35,
         "language": "C",
-        "pushed_at": "2025-06-05T11:50:16Z",
+        "pushed_at": "2025-09-05T13:04:12Z",
         "created_at": "2020-01-29T11:15:16Z"
       },
       {
@@ -11569,7 +11569,7 @@
         "stars": 321,
         "forks": 164,
         "language": "C",
-        "pushed_at": "2025-09-05T09:00:46Z",
+        "pushed_at": "2025-09-05T12:57:12Z",
         "created_at": "2021-09-14T09:33:04Z"
       },
       {
@@ -11666,7 +11666,7 @@
         "name": "esp-dl",
         "description": "Espressif deep-learning library for AIoT applications",
         "url": "https://github.com/espressif/esp-dl",
-        "stars": 789,
+        "stars": 790,
         "forks": 155,
         "language": "Assembly",
         "pushed_at": "2025-09-01T02:50:41Z",
@@ -12589,7 +12589,7 @@
         "stars": 53,
         "forks": 32,
         "language": "C",
-        "pushed_at": "2025-09-05T11:27:52Z",
+        "pushed_at": "2025-09-05T12:42:00Z",
         "created_at": "2024-01-18T07:20:01Z"
       },
       {
@@ -13309,7 +13309,7 @@
         "stars": 19,
         "forks": 2,
         "language": "Rust",
-        "pushed_at": "2025-09-05T11:33:40Z",
+        "pushed_at": "2025-09-05T12:57:51Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
@@ -16396,7 +16396,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 4885,
+        "stars": 4887,
         "forks": 351,
         "language": "TypeScript",
         "pushed_at": "2025-09-02T16:22:00Z",
@@ -16597,7 +16597,7 @@
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
         "stars": 30561,
-        "forks": 3730,
+        "forks": 3731,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
         "created_at": "2020-12-16T11:24:42Z"
@@ -16626,8 +16626,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 38742,
-        "forks": 4471,
+        "stars": 38749,
+        "forks": 4472,
         "language": "Rust",
         "pushed_at": "2025-09-05T05:25:40Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -17046,7 +17046,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 18183,
+        "stars": 18184,
         "forks": 1691,
         "language": "Python",
         "pushed_at": "2025-09-03T22:37:51Z",
@@ -17546,7 +17546,7 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 1240,
+        "stars": 1242,
         "forks": 286,
         "language": "TypeScript",
         "pushed_at": "2025-09-03T22:54:04Z",
@@ -17556,7 +17556,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 14316,
+        "stars": 14317,
         "forks": 2332,
         "language": "Python",
         "pushed_at": "2025-09-05T11:14:05Z",
@@ -17686,7 +17686,7 @@
         "name": "openai-node",
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
-        "stars": 10070,
+        "stars": 10071,
         "forks": 1231,
         "language": "TypeScript",
         "pushed_at": "2025-09-03T15:48:36Z",
@@ -17706,7 +17706,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 28577,
+        "stars": 28578,
         "forks": 4244,
         "language": "Python",
         "pushed_at": "2025-09-04T18:16:54Z",
@@ -18326,7 +18326,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 20355,
+        "stars": 20356,
         "forks": 2171,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
@@ -18366,7 +18366,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 15801,
+        "stars": 15802,
         "forks": 1208,
         "language": "Python",
         "pushed_at": "2025-09-01T00:05:21Z",
@@ -18496,7 +18496,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 87751,
+        "stars": 87752,
         "forks": 10876,
         "language": "Python",
         "pushed_at": "2025-08-18T15:03:07Z",
@@ -19444,7 +19444,7 @@
         "stars": 74,
         "forks": 9,
         "language": "C",
-        "pushed_at": "2025-09-05T10:16:15Z",
+        "pushed_at": "2025-09-05T12:34:40Z",
         "created_at": "2025-01-23T14:23:07Z"
       },
       {
@@ -20184,7 +20184,7 @@
         "stars": 273,
         "forks": 145,
         "language": "Python",
-        "pushed_at": "2025-09-05T12:23:59Z",
+        "pushed_at": "2025-09-05T12:34:34Z",
         "created_at": "2018-10-31T08:39:51Z"
       },
       {
@@ -20719,7 +20719,7 @@
         "stars": 1143,
         "forks": 1373,
         "language": "C",
-        "pushed_at": "2025-09-05T12:16:10Z",
+        "pushed_at": "2025-09-05T12:32:49Z",
         "created_at": "2018-02-14T13:50:55Z"
       },
       {
@@ -21224,14 +21224,14 @@
         "stars": 628,
         "forks": 125,
         "language": "Java",
-        "pushed_at": "2025-09-05T00:40:16Z",
+        "pushed_at": "2025-09-05T13:03:48Z",
         "created_at": "2025-05-05T17:16:25Z"
       },
       {
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 12743,
+        "stars": 12744,
         "forks": 1824,
         "language": "Python",
         "pushed_at": "2025-09-04T22:58:22Z",
@@ -22474,7 +22474,7 @@
         "stars": 21,
         "forks": 12,
         "language": "C++",
-        "pushed_at": "2025-09-05T09:56:12Z",
+        "pushed_at": "2025-09-05T12:53:27Z",
         "created_at": "2023-09-18T13:03:53Z"
       },
       {
@@ -24001,7 +24001,7 @@
         "name": "cadvisor",
         "description": "Analyzes resource usage and performance characteristics of running containers.",
         "url": "https://github.com/google/cadvisor",
-        "stars": 18333,
+        "stars": 18334,
         "forks": 2392,
         "language": "Go",
         "pushed_at": "2025-06-16T15:46:19Z",
@@ -25711,7 +25711,7 @@
         "name": "comprehensive-rust",
         "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
         "url": "https://github.com/google/comprehensive-rust",
-        "stars": 31631,
+        "stars": 31633,
         "forks": 1875,
         "language": "Rust",
         "pushed_at": "2025-09-04T23:32:34Z",
@@ -27424,7 +27424,7 @@
         "stars": 53,
         "forks": 20,
         "language": "Java",
-        "pushed_at": "2025-09-05T12:02:10Z",
+        "pushed_at": "2025-09-05T12:39:35Z",
         "created_at": "2022-04-15T03:00:41Z"
       },
       {
@@ -27821,7 +27821,7 @@
         "name": "docsy",
         "description": "Hugo theme for open source documentation",
         "url": "https://github.com/google/docsy",
-        "stars": 2807,
+        "stars": 2808,
         "forks": 944,
         "language": "HTML",
         "pushed_at": "2025-08-05T13:25:15Z",
@@ -29891,10 +29891,10 @@
         "name": "fonts",
         "description": "Font files available from Google Fonts, and a public issue tracker for all things Google Fonts",
         "url": "https://github.com/google/fonts",
-        "stars": 19191,
+        "stars": 19192,
         "forks": 2765,
         "language": "HTML",
-        "pushed_at": "2025-09-05T12:16:38Z",
+        "pushed_at": "2025-09-05T12:48:32Z",
         "created_at": "2015-02-11T23:34:54Z"
       },
       {
@@ -30574,7 +30574,7 @@
         "stars": 6556,
         "forks": 567,
         "language": "C++",
-        "pushed_at": "2025-09-05T12:24:09Z",
+        "pushed_at": "2025-09-05T12:50:23Z",
         "created_at": "2024-02-13T04:36:03Z"
       },
       {
@@ -32424,7 +32424,7 @@
         "stars": 379,
         "forks": 25,
         "language": "Rust",
-        "pushed_at": "2025-09-05T12:07:05Z",
+        "pushed_at": "2025-09-05T13:03:48Z",
         "created_at": "2022-10-21T14:20:24Z"
       },
       {
@@ -35571,7 +35571,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 14568,
+        "stars": 14570,
         "forks": 975,
         "language": "Python",
         "pushed_at": "2025-09-04T23:29:52Z",
@@ -36761,7 +36761,7 @@
         "name": "mangle",
         "description": "（无简介）",
         "url": "https://github.com/google/mangle",
-        "stars": 2210,
+        "stars": 2216,
         "forks": 104,
         "language": "Go",
         "pushed_at": "2025-09-03T20:04:53Z",
@@ -39034,7 +39034,7 @@
         "stars": 12441,
         "forks": 2270,
         "language": "C++",
-        "pushed_at": "2025-09-05T12:10:43Z",
+        "pushed_at": "2025-09-05T12:36:47Z",
         "created_at": "2015-02-21T01:25:35Z"
       },
       {
@@ -39261,7 +39261,7 @@
         "name": "osv-scanner",
         "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
         "url": "https://github.com/google/osv-scanner",
-        "stars": 7694,
+        "stars": 7695,
         "forks": 453,
         "language": "Go",
         "pushed_at": "2025-09-05T05:09:18Z",
@@ -39364,7 +39364,7 @@
         "stars": 1,
         "forks": 2,
         "language": "C++",
-        "pushed_at": "2025-09-05T11:43:09Z",
+        "pushed_at": "2025-09-05T12:47:46Z",
         "created_at": "2025-04-30T21:39:49Z"
       },
       {
@@ -39834,7 +39834,7 @@
         "stars": 4549,
         "forks": 574,
         "language": "C++",
-        "pushed_at": "2025-09-05T10:30:21Z",
+        "pushed_at": "2025-09-05T13:04:14Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -41401,7 +41401,7 @@
         "name": "python-fire",
         "description": "Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
         "url": "https://github.com/google/python-fire",
-        "stars": 27860,
+        "stars": 27861,
         "forks": 1452,
         "language": "Python",
         "pushed_at": "2025-09-01T17:41:27Z",
@@ -42394,7 +42394,7 @@
         "stars": 451,
         "forks": 59,
         "language": "C++",
-        "pushed_at": "2025-09-03T16:38:53Z",
+        "pushed_at": "2025-09-05T12:55:52Z",
         "created_at": "2018-01-03T15:05:56Z"
       },
       {
