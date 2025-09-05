@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-05T10:17:16Z",
+        "pushed_at": "2025-09-05T10:37:40Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -2529,7 +2529,7 @@
         "stars": 17,
         "forks": 24,
         "language": "未指定",
-        "pushed_at": "2025-09-03T16:09:54Z",
+        "pushed_at": "2025-09-05T10:40:10Z",
         "created_at": "2024-01-11T15:25:03Z"
       },
       {
@@ -16396,7 +16396,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 4880,
+        "stars": 4881,
         "forks": 351,
         "language": "TypeScript",
         "pushed_at": "2025-09-02T16:22:00Z",
@@ -16627,7 +16627,7 @@
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
         "stars": 38716,
-        "forks": 4470,
+        "forks": 4471,
         "language": "Rust",
         "pushed_at": "2025-09-05T05:25:40Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16836,7 +16836,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 16893,
+        "stars": 16894,
         "forks": 2783,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -25282,7 +25282,7 @@
         "description": "Clspv is a compiler for OpenCL C to Vulkan compute shaders",
         "url": "https://github.com/google/clspv",
         "stars": 686,
-        "forks": 96,
+        "forks": 95,
         "language": "LLVM",
         "pushed_at": "2025-09-04T11:39:17Z",
         "created_at": "2017-07-12T14:54:18Z"
@@ -27424,7 +27424,7 @@
         "stars": 53,
         "forks": 20,
         "language": "Java",
-        "pushed_at": "2025-09-05T10:01:28Z",
+        "pushed_at": "2025-09-05T10:44:22Z",
         "created_at": "2022-04-15T03:00:41Z"
       },
       {
@@ -35571,7 +35571,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 14561,
+        "stars": 14562,
         "forks": 973,
         "language": "Python",
         "pushed_at": "2025-09-04T23:29:52Z",
@@ -36371,7 +36371,7 @@
         "name": "longfellow-zk",
         "description": "Implementation of the Google Zero-Knowledge library for Identity Protocols.",
         "url": "https://github.com/google/longfellow-zk",
-        "stars": 891,
+        "stars": 892,
         "forks": 62,
         "language": "C++",
         "pushed_at": "2025-08-25T15:23:30Z",
@@ -37691,7 +37691,7 @@
         "name": "mozc",
         "description": "Mozc - a Japanese Input Method Editor designed for multi-platform",
         "url": "https://github.com/google/mozc",
-        "stars": 2699,
+        "stars": 2700,
         "forks": 427,
         "language": "C++",
         "pushed_at": "2025-09-05T02:02:15Z",
@@ -39054,7 +39054,7 @@
         "stars": 422,
         "forks": 66,
         "language": "Python",
-        "pushed_at": "2025-09-05T08:09:21Z",
+        "pushed_at": "2025-09-05T10:42:53Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39254,7 +39254,7 @@
         "stars": 488,
         "forks": 76,
         "language": "Go",
-        "pushed_at": "2025-09-05T10:33:03Z",
+        "pushed_at": "2025-09-05T10:44:28Z",
         "created_at": "2024-04-10T09:09:11Z"
       },
       {
@@ -41876,6 +41876,1006 @@
         "language": "D",
         "pushed_at": "2023-08-06T04:40:51Z",
         "created_at": "2021-08-17T01:35:14Z"
+      },
+      {
+        "name": "re2j",
+        "description": "linear time regular expression matching in Java",
+        "url": "https://github.com/google/re2j",
+        "stars": 1222,
+        "forks": 164,
+        "language": "Java",
+        "pushed_at": "2025-01-09T03:49:51Z",
+        "created_at": "2015-02-18T00:20:25Z"
+      },
+      {
+        "name": "react-schemaorg",
+        "description": "Type-checked Schema.org JSON-LD for React",
+        "url": "https://github.com/google/react-schemaorg",
+        "stars": 505,
+        "forks": 19,
+        "language": "TypeScript",
+        "pushed_at": "2024-06-18T11:42:59Z",
+        "created_at": "2019-02-05T20:50:35Z"
+      },
+      {
+        "name": "readahead",
+        "description": "readahead is a package that provides readers that enable concurrent reads from seekable or compressed files",
+        "url": "https://github.com/google/readahead",
+        "stars": 136,
+        "forks": 13,
+        "language": "Go",
+        "pushed_at": "2016-12-22T18:32:09Z",
+        "created_at": "2016-12-22T18:23:26Z"
+      },
+      {
+        "name": "reagera",
+        "description": "Minimal implementation of predictable state in Java, inspired by Elm and Redux.",
+        "url": "https://github.com/google/reagera",
+        "stars": 13,
+        "forks": 8,
+        "language": "Java",
+        "pushed_at": "2016-05-06T07:49:07Z",
+        "created_at": "2016-05-06T07:47:25Z"
+      },
+      {
+        "name": "real-time-intelligence-workshop",
+        "description": "Solution Accelerators for Real Time Intelligence on GCP",
+        "url": "https://github.com/google/real-time-intelligence-workshop",
+        "stars": 27,
+        "forks": 2,
+        "language": "Jupyter Notebook",
+        "pushed_at": "2024-08-13T18:17:27Z",
+        "created_at": "2023-03-22T15:52:07Z"
+      },
+      {
+        "name": "realestate10k",
+        "description": "Code for the RealEstate10K Dataset webpage.",
+        "url": "https://github.com/google/realestate10k",
+        "stars": 6,
+        "forks": 6,
+        "language": "HTML",
+        "pushed_at": "2018-10-26T15:33:19Z",
+        "created_at": "2018-10-25T03:05:40Z"
+      },
+      {
+        "name": "realtime-help",
+        "description": "（无简介）",
+        "url": "https://github.com/google/realtime-help",
+        "stars": 20,
+        "forks": 17,
+        "language": "Python",
+        "pushed_at": "2016-08-26T04:18:03Z",
+        "created_at": "2014-04-09T17:17:08Z"
+      },
+      {
+        "name": "REAPER",
+        "description": "（无简介）",
+        "url": "https://github.com/google/REAPER",
+        "stars": 406,
+        "forks": 95,
+        "language": "C++",
+        "pushed_at": "2021-11-30T16:24:47Z",
+        "created_at": "2014-12-22T23:30:40Z"
+      },
+      {
+        "name": "reboot-somalia",
+        "description": "（无简介）",
+        "url": "https://github.com/google/reboot-somalia",
+        "stars": 3,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2015-02-21T03:53:38Z",
+        "created_at": "2015-02-21T03:53:38Z"
+      },
+      {
+        "name": "recaptcha",
+        "description": "PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.",
+        "url": "https://github.com/google/recaptcha",
+        "stars": 3531,
+        "forks": 780,
+        "language": "PHP",
+        "pushed_at": "2025-06-26T22:23:27Z",
+        "created_at": "2014-09-30T18:30:39Z"
+      },
+      {
+        "name": "receipts-to-riches-part1",
+        "description": "（无简介）",
+        "url": "https://github.com/google/receipts-to-riches-part1",
+        "stars": 5,
+        "forks": 3,
+        "language": "C#",
+        "pushed_at": "2023-05-05T16:13:49Z",
+        "created_at": "2023-04-13T23:45:06Z"
+      },
+      {
+        "name": "receipts-to-riches-part2",
+        "description": "（无简介）",
+        "url": "https://github.com/google/receipts-to-riches-part2",
+        "stars": 1,
+        "forks": 1,
+        "language": "C#",
+        "pushed_at": "2023-06-05T17:41:42Z",
+        "created_at": "2023-05-17T00:26:03Z"
+      },
+      {
+        "name": "recki-ct",
+        "description": "（无简介）",
+        "url": "https://github.com/google/recki-ct",
+        "stars": 551,
+        "forks": 37,
+        "language": "PHP",
+        "pushed_at": "2018-12-05T16:47:34Z",
+        "created_at": "2014-08-29T18:46:29Z"
+      },
+      {
+        "name": "recog",
+        "description": "（无简介）",
+        "url": "https://github.com/google/recog",
+        "stars": 5,
+        "forks": 4,
+        "language": "JavaScript",
+        "pushed_at": "2021-05-23T01:45:56Z",
+        "created_at": "2021-04-07T18:19:30Z"
+      },
+      {
+        "name": "recursive-version-control-system",
+        "description": "（无简介）",
+        "url": "https://github.com/google/recursive-version-control-system",
+        "stars": 32,
+        "forks": 6,
+        "language": "Go",
+        "pushed_at": "2024-12-18T18:24:19Z",
+        "created_at": "2022-03-08T00:02:16Z"
+      },
+      {
+        "name": "RED",
+        "description": "RED - Regularization by Denoising",
+        "url": "https://github.com/google/RED",
+        "stars": 115,
+        "forks": 41,
+        "language": "MATLAB",
+        "pushed_at": "2021-10-04T19:36:04Z",
+        "created_at": "2017-07-24T21:18:21Z"
+      },
+      {
+        "name": "redgrep",
+        "description": "♥ Janusz Brzozowski",
+        "url": "https://github.com/google/redgrep",
+        "stars": 163,
+        "forks": 21,
+        "language": "C++",
+        "pushed_at": "2024-03-01T15:39:25Z",
+        "created_at": "2014-08-25T16:22:07Z"
+      },
+      {
+        "name": "Refaster",
+        "description": "（无简介）",
+        "url": "https://github.com/google/Refaster",
+        "stars": 54,
+        "forks": 18,
+        "language": "Java",
+        "pushed_at": "2015-12-02T18:04:28Z",
+        "created_at": "2014-02-21T20:14:01Z"
+      },
+      {
+        "name": "referring-manipulation",
+        "description": "（无简介）",
+        "url": "https://github.com/google/referring-manipulation",
+        "stars": 9,
+        "forks": 2,
+        "language": "Python",
+        "pushed_at": "2022-10-23T13:38:16Z",
+        "created_at": "2022-04-21T22:15:33Z"
+      },
+      {
+        "name": "reflectable.dart",
+        "description": "Reflectable is a Dart library that allows programmers to eliminate certain usages of dynamic reflection by specialization of reflective code to an equivalent implementation using only static techniques. The use of dynamic reflection is constrained in order to ensure that the specialized code can be generated and will have a reasonable size.",
+        "url": "https://github.com/google/reflectable.dart",
+        "stars": 382,
+        "forks": 60,
+        "language": "Dart",
+        "pushed_at": "2025-09-04T16:15:18Z",
+        "created_at": "2015-01-16T13:09:05Z"
+      },
+      {
+        "name": "reflow-list",
+        "description": "（无简介）",
+        "url": "https://github.com/google/reflow-list",
+        "stars": 8,
+        "forks": 5,
+        "language": "TypeScript",
+        "pushed_at": "2025-08-06T18:44:54Z",
+        "created_at": "2021-03-29T14:00:46Z"
+      },
+      {
+        "name": "refr",
+        "description": "A framework for building reranking models.",
+        "url": "https://github.com/google/refr",
+        "stars": 28,
+        "forks": 9,
+        "language": "C++",
+        "pushed_at": "2015-04-22T00:37:22Z",
+        "created_at": "2014-08-25T19:12:09Z"
+      },
+      {
+        "name": "reftable",
+        "description": "https://github.com/eclipse/jgit/blob/master/Documentation/technical/reftable.md",
+        "url": "https://github.com/google/reftable",
+        "stars": 37,
+        "forks": 10,
+        "language": "C",
+        "pushed_at": "2020-12-02T19:41:00Z",
+        "created_at": "2019-10-23T08:43:07Z"
+      },
+      {
+        "name": "refvnli",
+        "description": "（无简介）",
+        "url": "https://github.com/google/refvnli",
+        "stars": 0,
+        "forks": 0,
+        "language": "JavaScript",
+        "pushed_at": "2025-07-10T08:09:10Z",
+        "created_at": "2025-06-05T08:10:21Z"
+      },
+      {
+        "name": "regexpand",
+        "description": "regexpand is a Golang library that provides information about the strings a regular expression matches.",
+        "url": "https://github.com/google/regexpand",
+        "stars": 7,
+        "forks": 2,
+        "language": "Go",
+        "pushed_at": "2025-05-02T19:15:02Z",
+        "created_at": "2024-11-19T16:28:47Z"
+      },
+      {
+        "name": "region-flags",
+        "description": "Collection of flags for BCP 47 region codes in SVG / PNG",
+        "url": "https://github.com/google/region-flags",
+        "stars": 208,
+        "forks": 58,
+        "language": "HTML",
+        "pushed_at": "2020-10-01T14:13:17Z",
+        "created_at": "2014-08-11T23:48:55Z"
+      },
+      {
+        "name": "rejoiner",
+        "description": "Generates a unified GraphQL schema from gRPC microservices and other Protobuf sources",
+        "url": "https://github.com/google/rejoiner",
+        "stars": 3670,
+        "forks": 137,
+        "language": "Java",
+        "pushed_at": "2023-06-13T22:58:03Z",
+        "created_at": "2017-12-06T19:09:53Z"
+      },
+      {
+        "name": "rekall",
+        "description": "Rekall Memory Forensic Framework",
+        "url": "https://github.com/google/rekall",
+        "stars": 1972,
+        "forks": 400,
+        "language": "Python",
+        "pushed_at": "2020-10-18T04:33:58Z",
+        "created_at": "2014-05-16T17:22:51Z"
+      },
+      {
+        "name": "rekall-profiles",
+        "description": "Public Profile Repository for Rekall Memory Forensic.",
+        "url": "https://github.com/google/rekall-profiles",
+        "stars": 100,
+        "forks": 48,
+        "language": "HTML",
+        "pushed_at": "2020-10-20T07:01:53Z",
+        "created_at": "2014-05-20T11:57:48Z"
+      },
+      {
+        "name": "renameio",
+        "description": "Package renameio provides a way to atomically create or replace a file or symbolic link.",
+        "url": "https://github.com/google/renameio",
+        "stars": 656,
+        "forks": 28,
+        "language": "Go",
+        "pushed_at": "2024-02-02T10:42:34Z",
+        "created_at": "2018-10-30T14:23:09Z"
+      },
+      {
+        "name": "render-timing-for-unity",
+        "description": "GPU time metric for Unity apps (currently limited to Android/GLES)",
+        "url": "https://github.com/google/render-timing-for-unity",
+        "stars": 165,
+        "forks": 39,
+        "language": "C++",
+        "pushed_at": "2020-10-10T06:32:09Z",
+        "created_at": "2017-08-23T16:46:05Z"
+      },
+      {
+        "name": "report2bq",
+        "description": "（无简介）",
+        "url": "https://github.com/google/report2bq",
+        "stars": 12,
+        "forks": 3,
+        "language": "Python",
+        "pushed_at": "2024-05-06T18:09:26Z",
+        "created_at": "2020-04-09T22:47:22Z"
+      },
+      {
+        "name": "reportlatency",
+        "description": "Automatically exported from code.google.com/p/reportlatency",
+        "url": "https://github.com/google/reportlatency",
+        "stars": 6,
+        "forks": 8,
+        "language": "Perl",
+        "pushed_at": "2015-03-13T05:57:41Z",
+        "created_at": "2015-03-13T01:19:09Z"
+      },
+      {
+        "name": "repose",
+        "description": "（无简介）",
+        "url": "https://github.com/google/repose",
+        "stars": 5,
+        "forks": 4,
+        "language": "Python",
+        "pushed_at": "2020-07-20T14:26:57Z",
+        "created_at": "2020-06-08T08:44:31Z"
+      },
+      {
+        "name": "repository-lifecycle",
+        "description": "（无简介）",
+        "url": "https://github.com/google/repository-lifecycle",
+        "stars": 10,
+        "forks": 3,
+        "language": "Dart",
+        "pushed_at": "2022-10-21T17:27:22Z",
+        "created_at": "2022-10-19T18:03:57Z"
+      },
+      {
+        "name": "request-test",
+        "description": "（无简介）",
+        "url": "https://github.com/google/request-test",
+        "stars": 6,
+        "forks": 5,
+        "language": "Python",
+        "pushed_at": "2017-03-05T21:44:12Z",
+        "created_at": "2016-10-24T21:22:25Z"
+      },
+      {
+        "name": "rerast",
+        "description": "A tool for transforming Rust code using rules",
+        "url": "https://github.com/google/rerast",
+        "stars": 715,
+        "forks": 33,
+        "language": "Rust",
+        "pushed_at": "2023-06-04T20:35:28Z",
+        "created_at": "2017-10-31T07:14:09Z"
+      },
+      {
+        "name": "rescue-tools-reiserfs",
+        "description": "（无简介）",
+        "url": "https://github.com/google/rescue-tools-reiserfs",
+        "stars": 5,
+        "forks": 4,
+        "language": "Python",
+        "pushed_at": "2021-05-20T03:30:16Z",
+        "created_at": "2020-08-18T14:25:12Z"
+      },
+      {
+        "name": "resolver-library",
+        "description": "Automatically exported from code.google.com/p/resolver-library",
+        "url": "https://github.com/google/resolver-library",
+        "stars": 7,
+        "forks": 10,
+        "language": "Python",
+        "pushed_at": "2016-02-18T02:39:02Z",
+        "created_at": "2016-02-18T02:35:44Z"
+      },
+      {
+        "name": "responsible-innovation",
+        "description": "（无简介）",
+        "url": "https://github.com/google/responsible-innovation",
+        "stars": 9,
+        "forks": 1,
+        "language": "Jupyter Notebook",
+        "pushed_at": "2022-03-29T12:56:00Z",
+        "created_at": "2022-03-17T20:22:44Z"
+      },
+      {
+        "name": "responsive-search-ads-builder",
+        "description": "（无简介）",
+        "url": "https://github.com/google/responsive-search-ads-builder",
+        "stars": 8,
+        "forks": 5,
+        "language": "JavaScript",
+        "pushed_at": "2020-06-08T10:18:17Z",
+        "created_at": "2020-06-08T08:38:58Z"
+      },
+      {
+        "name": "restor",
+        "description": "Restor is a user-friendly application to (mass) image macOS computers from a single source",
+        "url": "https://github.com/google/restor",
+        "stars": 226,
+        "forks": 27,
+        "language": "Objective-C",
+        "pushed_at": "2020-01-31T19:12:03Z",
+        "created_at": "2017-09-27T19:12:52Z"
+      },
+      {
+        "name": "resultstoreui",
+        "description": "（无简介）",
+        "url": "https://github.com/google/resultstoreui",
+        "stars": 12,
+        "forks": 12,
+        "language": "Python",
+        "pushed_at": "2024-07-30T10:42:02Z",
+        "created_at": "2020-05-13T18:22:18Z"
+      },
+      {
+        "name": "resumable-assert",
+        "description": "Assert replacement to continue execution in debugger",
+        "url": "https://github.com/google/resumable-assert",
+        "stars": 177,
+        "forks": 11,
+        "language": "C",
+        "pushed_at": "2021-06-10T17:29:25Z",
+        "created_at": "2018-02-23T01:54:45Z"
+      },
+      {
+        "name": "retiming",
+        "description": "Code for \"Layered Neural Rendering for Retiming People in Video.\"",
+        "url": "https://github.com/google/retiming",
+        "stars": 176,
+        "forks": 22,
+        "language": "Python",
+        "pushed_at": "2021-01-07T16:47:42Z",
+        "created_at": "2021-01-06T21:33:47Z"
+      },
+      {
+        "name": "retrieval-qa-eval",
+        "description": "（无简介）",
+        "url": "https://github.com/google/retrieval-qa-eval",
+        "stars": 42,
+        "forks": 11,
+        "language": "Python",
+        "pushed_at": "2019-09-25T21:22:27Z",
+        "created_at": "2019-06-28T02:23:54Z"
+      },
+      {
+        "name": "retriever_parsing",
+        "description": "（无简介）",
+        "url": "https://github.com/google/retriever_parsing",
+        "stars": 9,
+        "forks": 5,
+        "language": "Python",
+        "pushed_at": "2021-04-14T20:45:41Z",
+        "created_at": "2021-04-14T17:52:07Z"
+      },
+      {
+        "name": "retrofit",
+        "description": "Type-safe REST client for Android and Java by Square, Inc.",
+        "url": "https://github.com/google/retrofit",
+        "stars": 43,
+        "forks": 18,
+        "language": "Java",
+        "pushed_at": "2015-03-27T16:58:27Z",
+        "created_at": "2014-09-05T16:45:45Z"
+      },
+      {
+        "name": "revisiting-self-supervised",
+        "description": "（无简介）",
+        "url": "https://github.com/google/revisiting-self-supervised",
+        "stars": 352,
+        "forks": 40,
+        "language": "Python",
+        "pushed_at": "2020-02-13T11:26:24Z",
+        "created_at": "2019-01-25T09:06:03Z"
+      },
+      {
+        "name": "rfmt",
+        "description": "R source code formatter",
+        "url": "https://github.com/google/rfmt",
+        "stars": 86,
+        "forks": 14,
+        "language": "Python",
+        "pushed_at": "2022-03-21T08:33:27Z",
+        "created_at": "2015-08-05T21:58:13Z"
+      },
+      {
+        "name": "rich-test-results",
+        "description": "Understand a test failure",
+        "url": "https://github.com/google/rich-test-results",
+        "stars": 55,
+        "forks": 21,
+        "language": "Java",
+        "pushed_at": "2021-06-29T14:28:01Z",
+        "created_at": "2014-10-23T14:15:18Z"
+      },
+      {
+        "name": "riegeli",
+        "description": "Riegeli/records is a file format for storing a sequence of string records, typically serialized protocol buffers.",
+        "url": "https://github.com/google/riegeli",
+        "stars": 451,
+        "forks": 59,
+        "language": "C++",
+        "pushed_at": "2025-09-03T16:38:53Z",
+        "created_at": "2018-01-03T15:05:56Z"
+      },
+      {
+        "name": "ringdroid",
+        "description": "（无简介）",
+        "url": "https://github.com/google/ringdroid",
+        "stars": 848,
+        "forks": 264,
+        "language": "Java",
+        "pushed_at": "2020-06-20T22:01:11Z",
+        "created_at": "2015-02-24T23:19:57Z"
+      },
+      {
+        "name": "ringli",
+        "description": "（无简介）",
+        "url": "https://github.com/google/ringli",
+        "stars": 11,
+        "forks": 5,
+        "language": "C++",
+        "pushed_at": "2024-04-23T10:58:20Z",
+        "created_at": "2024-02-19T14:39:03Z"
+      },
+      {
+        "name": "ripunzip",
+        "description": "（无简介）",
+        "url": "https://github.com/google/ripunzip",
+        "stars": 242,
+        "forks": 25,
+        "language": "Rust",
+        "pushed_at": "2025-09-04T15:58:54Z",
+        "created_at": "2022-11-22T09:22:11Z"
+      },
+      {
+        "name": "river",
+        "description": "（无简介）",
+        "url": "https://github.com/google/river",
+        "stars": 4,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2017-08-25T16:37:18Z",
+        "created_at": "2017-08-25T16:37:17Z"
+      },
+      {
+        "name": "robotstxt",
+        "description": "The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).",
+        "url": "https://github.com/google/robotstxt",
+        "stars": 3416,
+        "forks": 242,
+        "language": "C++",
+        "pushed_at": "2024-08-02T04:59:33Z",
+        "created_at": "2019-06-11T17:30:19Z"
+      },
+      {
+        "name": "robotstxt-java",
+        "description": "（无简介）",
+        "url": "https://github.com/google/robotstxt-java",
+        "stars": 47,
+        "forks": 22,
+        "language": "Java",
+        "pushed_at": "2024-09-19T16:20:07Z",
+        "created_at": "2020-07-21T16:15:18Z"
+      },
+      {
+        "name": "robotstxt-spec-test",
+        "description": "（无简介）",
+        "url": "https://github.com/google/robotstxt-spec-test",
+        "stars": 23,
+        "forks": 8,
+        "language": "Java",
+        "pushed_at": "2024-09-19T16:25:21Z",
+        "created_at": "2020-07-18T17:56:47Z"
+      },
+      {
+        "name": "roman-word-bubbling",
+        "description": "（无简介）",
+        "url": "https://github.com/google/roman-word-bubbling",
+        "stars": 6,
+        "forks": 7,
+        "language": "CSS",
+        "pushed_at": "2020-10-27T20:16:07Z",
+        "created_at": "2019-02-13T17:32:34Z"
+      },
+      {
+        "name": "rootcanal",
+        "description": "（无简介）",
+        "url": "https://github.com/google/rootcanal",
+        "stars": 30,
+        "forks": 9,
+        "language": "C++",
+        "pushed_at": "2025-06-25T20:13:23Z",
+        "created_at": "2023-02-15T18:15:01Z"
+      },
+      {
+        "name": "roughtime",
+        "description": "Implemenation of the Roughtime protocol described in https://datatracker.ietf.org/doc/html/draft-ietf-ntp-roughtime",
+        "url": "https://github.com/google/roughtime",
+        "stars": 11,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2022-09-27T19:35:53Z",
+        "created_at": "2022-09-22T18:49:43Z"
+      },
+      {
+        "name": "rowhammer-test",
+        "description": "Test DRAM for bit flips caused by the rowhammer problem",
+        "url": "https://github.com/google/rowhammer-test",
+        "stars": 982,
+        "forks": 199,
+        "language": "C++",
+        "pushed_at": "2015-09-02T08:12:30Z",
+        "created_at": "2015-01-06T22:43:39Z"
+      },
+      {
+        "name": "rpki-mgmt",
+        "description": "（无简介）",
+        "url": "https://github.com/google/rpki-mgmt",
+        "stars": 6,
+        "forks": 12,
+        "language": "Puppet",
+        "pushed_at": "2016-08-05T19:22:29Z",
+        "created_at": "2015-10-19T15:25:57Z"
+      },
+      {
+        "name": "rpmpack",
+        "description": "rpmpack (tar2rpm) - package rpms in pure golang or cli",
+        "url": "https://github.com/google/rpmpack",
+        "stars": 126,
+        "forks": 32,
+        "language": "Go",
+        "pushed_at": "2025-08-28T19:44:18Z",
+        "created_at": "2019-02-06T02:11:12Z"
+      },
+      {
+        "name": "rrg",
+        "description": "A Rust rewrite of the GRR agent.",
+        "url": "https://github.com/google/rrg",
+        "stars": 54,
+        "forks": 27,
+        "language": "Rust",
+        "pushed_at": "2025-09-05T08:21:26Z",
+        "created_at": "2020-04-11T15:49:46Z"
+      },
+      {
+        "name": "rtb_creative_filtering_report",
+        "description": "（无简介）",
+        "url": "https://github.com/google/rtb_creative_filtering_report",
+        "stars": 4,
+        "forks": 0,
+        "language": "TypeScript",
+        "pushed_at": "2023-04-10T00:05:14Z",
+        "created_at": "2022-08-15T15:38:43Z"
+      },
+      {
+        "name": "rtb_troubleshooting_connector",
+        "description": "（无简介）",
+        "url": "https://github.com/google/rtb_troubleshooting_connector",
+        "stars": 2,
+        "forks": 2,
+        "language": "JavaScript",
+        "pushed_at": "2021-07-20T16:06:40Z",
+        "created_at": "2021-07-19T14:38:23Z"
+      },
+      {
+        "name": "rtc-video-quality",
+        "description": "Compare (Real-Time) Video Codec Performance",
+        "url": "https://github.com/google/rtc-video-quality",
+        "stars": 116,
+        "forks": 37,
+        "language": "Python",
+        "pushed_at": "2020-07-02T20:37:34Z",
+        "created_at": "2016-11-03T16:44:00Z"
+      },
+      {
+        "name": "rttcp",
+        "description": "（无简介）",
+        "url": "https://github.com/google/rttcp",
+        "stars": 33,
+        "forks": 16,
+        "language": "Python",
+        "pushed_at": "2017-06-09T20:46:12Z",
+        "created_at": "2017-06-09T20:43:10Z"
+      },
+      {
+        "name": "rubik",
+        "description": "Improve Merchant Center at Scale",
+        "url": "https://github.com/google/rubik",
+        "stars": 29,
+        "forks": 3,
+        "language": "Python",
+        "pushed_at": "2025-07-29T10:52:03Z",
+        "created_at": "2022-06-24T21:42:16Z"
+      },
+      {
+        "name": "ruby-openid-apps-discovery",
+        "description": "（无简介）",
+        "url": "https://github.com/google/ruby-openid-apps-discovery",
+        "stars": 38,
+        "forks": 23,
+        "language": "Ruby",
+        "pushed_at": "2020-09-30T19:14:27Z",
+        "created_at": "2012-01-23T17:09:03Z"
+      },
+      {
+        "name": "rune",
+        "description": "Rune is a programming language developed to test ideas for improving security and efficiency.",
+        "url": "https://github.com/google/rune",
+        "stars": 1926,
+        "forks": 46,
+        "language": "C",
+        "pushed_at": "2025-07-02T21:50:56Z",
+        "created_at": "2021-11-02T07:36:32Z"
+      },
+      {
+        "name": "rust-async-coap",
+        "description": "A flexible, asynchronous library for using and serving CoAP resources in Rust.",
+        "url": "https://github.com/google/rust-async-coap",
+        "stars": 50,
+        "forks": 12,
+        "language": "Rust",
+        "pushed_at": "2022-01-16T09:03:46Z",
+        "created_at": "2019-08-21T20:23:02Z"
+      },
+      {
+        "name": "rust-crate-audits",
+        "description": "（无简介）",
+        "url": "https://github.com/google/rust-crate-audits",
+        "stars": 253,
+        "forks": 12,
+        "language": "未指定",
+        "pushed_at": "2025-03-22T01:33:11Z",
+        "created_at": "2023-03-23T19:20:57Z"
+      },
+      {
+        "name": "rust-deadlock-avoidance",
+        "description": "（无简介）",
+        "url": "https://github.com/google/rust-deadlock-avoidance",
+        "stars": 43,
+        "forks": 3,
+        "language": "Rust",
+        "pushed_at": "2023-04-18T11:38:13Z",
+        "created_at": "2023-02-17T16:20:53Z"
+      },
+      {
+        "name": "rust-derive-fuzztest",
+        "description": "Proc macros that generates both a fuzz target for use with cargo fuzz, and a property test",
+        "url": "https://github.com/google/rust-derive-fuzztest",
+        "stars": 13,
+        "forks": 2,
+        "language": "Rust",
+        "pushed_at": "2024-08-15T16:17:38Z",
+        "created_at": "2024-04-05T21:41:36Z"
+      },
+      {
+        "name": "rust-design-faq",
+        "description": "（无简介）",
+        "url": "https://github.com/google/rust-design-faq",
+        "stars": 18,
+        "forks": 5,
+        "language": "未指定",
+        "pushed_at": "2023-03-30T20:27:48Z",
+        "created_at": "2021-07-13T16:33:55Z"
+      },
+      {
+        "name": "rust-multihash",
+        "description": "（无简介）",
+        "url": "https://github.com/google/rust-multihash",
+        "stars": 62,
+        "forks": 10,
+        "language": "Rust",
+        "pushed_at": "2015-09-16T00:11:33Z",
+        "created_at": "2015-04-22T19:43:54Z"
+      },
+      {
+        "name": "rust-p9",
+        "description": "（无简介）",
+        "url": "https://github.com/google/rust-p9",
+        "stars": 39,
+        "forks": 8,
+        "language": "Rust",
+        "pushed_at": "2025-01-13T17:55:11Z",
+        "created_at": "2023-07-27T19:57:09Z"
+      },
+      {
+        "name": "rust-scudo",
+        "description": "（无简介）",
+        "url": "https://github.com/google/rust-scudo",
+        "stars": 58,
+        "forks": 9,
+        "language": "Rust",
+        "pushed_at": "2025-09-04T07:56:06Z",
+        "created_at": "2021-11-09T19:02:07Z"
+      },
+      {
+        "name": "rust-shell",
+        "description": "Helper library for std::process::Command to write shell script like tasks in rust",
+        "url": "https://github.com/google/rust-shell",
+        "stars": 224,
+        "forks": 19,
+        "language": "Rust",
+        "pushed_at": "2019-06-04T01:07:22Z",
+        "created_at": "2018-02-28T03:10:59Z"
+      },
+      {
+        "name": "rustcxx",
+        "description": "rustcxx: Using C++ from Rust made easy",
+        "url": "https://github.com/google/rustcxx",
+        "stars": 509,
+        "forks": 22,
+        "language": "Rust",
+        "pushed_at": "2016-09-30T03:33:12Z",
+        "created_at": "2016-09-16T22:20:38Z"
+      },
+      {
+        "name": "rust_icu",
+        "description": "rust_icu: rust bindings for ICU (International Components for Unicode) library",
+        "url": "https://github.com/google/rust_icu",
+        "stars": 125,
+        "forks": 29,
+        "language": "Rust",
+        "pushed_at": "2025-07-13T12:11:08Z",
+        "created_at": "2019-11-14T04:28:41Z"
+      },
+      {
+        "name": "ruy",
+        "description": "（无简介）",
+        "url": "https://github.com/google/ruy",
+        "stars": 313,
+        "forks": 89,
+        "language": "C++",
+        "pushed_at": "2025-07-19T06:46:48Z",
+        "created_at": "2020-01-27T17:50:05Z"
+      },
+      {
+        "name": "rxcppuniq",
+        "description": "（无简介）",
+        "url": "https://github.com/google/rxcppuniq",
+        "stars": 13,
+        "forks": 6,
+        "language": "C++",
+        "pushed_at": "2019-09-11T19:57:32Z",
+        "created_at": "2019-08-30T15:45:51Z"
+      },
+      {
+        "name": "rysim",
+        "description": "RySim is a set of implementations of a simple SEIR simulation system",
+        "url": "https://github.com/google/rysim",
+        "stars": 7,
+        "forks": 14,
+        "language": "Erlang",
+        "pushed_at": "2015-02-06T22:28:34Z",
+        "created_at": "2014-12-17T16:13:09Z"
+      },
+      {
+        "name": "s2-geometry-library-java",
+        "description": "Automatically exported from code.google.com/p/s2-geometry-library-java",
+        "url": "https://github.com/google/s2-geometry-library-java",
+        "stars": 575,
+        "forks": 235,
+        "language": "Java",
+        "pushed_at": "2025-08-15T02:37:29Z",
+        "created_at": "2015-09-25T18:53:24Z"
+      },
+      {
+        "name": "s2a-go",
+        "description": "（无简介）",
+        "url": "https://github.com/google/s2a-go",
+        "stars": 23,
+        "forks": 9,
+        "language": "Go",
+        "pushed_at": "2025-04-09T20:35:04Z",
+        "created_at": "2021-09-07T22:49:23Z"
+      },
+      {
+        "name": "s2a-proto",
+        "description": "（无简介）",
+        "url": "https://github.com/google/s2a-proto",
+        "stars": 0,
+        "forks": 5,
+        "language": "未指定",
+        "pushed_at": "2025-09-02T20:33:55Z",
+        "created_at": "2025-01-13T23:56:57Z"
+      },
+      {
+        "name": "s2geometry",
+        "description": "Computational geometry and spatial indexing on the sphere",
+        "url": "https://github.com/google/s2geometry",
+        "stars": 2521,
+        "forks": 333,
+        "language": "C++",
+        "pushed_at": "2025-09-04T13:02:18Z",
+        "created_at": "2015-11-16T17:41:03Z"
+      },
+      {
+        "name": "sa360-bidbyweather",
+        "description": "（无简介）",
+        "url": "https://github.com/google/sa360-bidbyweather",
+        "stars": 5,
+        "forks": 5,
+        "language": "JavaScript",
+        "pushed_at": "2019-10-23T15:05:34Z",
+        "created_at": "2019-10-23T07:55:14Z"
+      },
+      {
+        "name": "sa360-bigquery-bootstrapper",
+        "description": "（无简介）",
+        "url": "https://github.com/google/sa360-bigquery-bootstrapper",
+        "stars": 6,
+        "forks": 4,
+        "language": "Python",
+        "pushed_at": "2025-05-11T22:52:40Z",
+        "created_at": "2019-11-08T18:17:22Z"
+      },
+      {
+        "name": "sa360-bulk-editor",
+        "description": "（无简介）",
+        "url": "https://github.com/google/sa360-bulk-editor",
+        "stars": 5,
+        "forks": 5,
+        "language": "JavaScript",
+        "pushed_at": "2018-11-06T10:36:47Z",
+        "created_at": "2018-11-06T10:36:29Z"
+      },
+      {
+        "name": "sa360-flightsfeed",
+        "description": "Generate SA360 compatible feeds for airlines on BigQuery  :rocket:",
+        "url": "https://github.com/google/sa360-flightsfeed",
+        "stars": 13,
+        "forks": 7,
+        "language": "JavaScript",
+        "pushed_at": "2018-10-12T16:41:56Z",
+        "created_at": "2018-08-27T17:51:55Z"
+      },
+      {
+        "name": "sa360-webquery-bigquery",
+        "description": "Tool to import Search Ads 360 Webquery report into BigQuery",
+        "url": "https://github.com/google/sa360-webquery-bigquery",
+        "stars": 16,
+        "forks": 12,
+        "language": "Java",
+        "pushed_at": "2023-01-25T12:55:12Z",
+        "created_at": "2019-12-05T02:33:50Z"
+      },
+      {
+        "name": "safe-active-record",
+        "description": "Security middleware to defend against SQL injection in Active Record.",
+        "url": "https://github.com/google/safe-active-record",
+        "stars": 17,
+        "forks": 3,
+        "language": "Ruby",
+        "pushed_at": "2025-08-04T16:18:08Z",
+        "created_at": "2022-04-04T18:17:32Z"
+      },
+      {
+        "name": "safe-html-types",
+        "description": "Security contract types",
+        "url": "https://github.com/google/safe-html-types",
+        "stars": 60,
+        "forks": 11,
+        "language": "Java",
+        "pushed_at": "2022-10-04T23:31:53Z",
+        "created_at": "2016-01-25T14:21:36Z"
+      },
+      {
+        "name": "safe-mmio",
+        "description": "A Rust library crate with types for safe MMIO device access",
+        "url": "https://github.com/google/safe-mmio",
+        "stars": 10,
+        "forks": 4,
+        "language": "Rust",
+        "pushed_at": "2025-08-18T12:03:29Z",
+        "created_at": "2025-02-14T14:43:03Z"
+      },
+      {
+        "name": "safearchive",
+        "description": "（无简介）",
+        "url": "https://github.com/google/safearchive",
+        "stars": 64,
+        "forks": 2,
+        "language": "Go",
+        "pushed_at": "2024-10-25T13:11:04Z",
+        "created_at": "2023-07-24T12:38:36Z"
       }
     ]
   }
