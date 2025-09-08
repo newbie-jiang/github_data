@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-08T08:52:40Z",
+        "pushed_at": "2025-09-08T09:19:56Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4086,10 +4086,10 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 13056,
+        "stars": 13057,
         "forks": 7880,
         "language": "C",
-        "pushed_at": "2025-09-08T08:59:59Z",
+        "pushed_at": "2025-09-08T09:28:48Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -6214,7 +6214,7 @@
         "stars": 2,
         "forks": 0,
         "language": "Rust",
-        "pushed_at": "2025-09-05T16:28:48Z",
+        "pushed_at": "2025-09-08T09:27:37Z",
         "created_at": "2025-08-11T14:34:43Z"
       },
       {
@@ -6244,7 +6244,7 @@
         "stars": 2,
         "forks": 0,
         "language": "Rust",
-        "pushed_at": "2025-09-05T16:25:20Z",
+        "pushed_at": "2025-09-08T09:28:26Z",
         "created_at": "2025-08-12T09:04:42Z"
       },
       {
@@ -8811,7 +8811,7 @@
         "name": "STM32CubeH7",
         "description": "STM32Cube MCU Full Package for the STM32H7 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
         "url": "https://github.com/STMicroelectronics/STM32CubeH7",
-        "stars": 644,
+        "stars": 645,
         "forks": 341,
         "language": "C",
         "pushed_at": "2025-07-24T16:32:22Z",
@@ -12186,7 +12186,7 @@
         "name": "esp-modbus",
         "description": "ESP-Modbus - the officially suppported library for Modbus protocol (serial RS485 + TCP over WiFi or Ethernet).",
         "url": "https://github.com/espressif/esp-modbus",
-        "stars": 157,
+        "stars": 158,
         "forks": 67,
         "language": "C",
         "pushed_at": "2025-09-04T07:25:30Z",
@@ -12846,7 +12846,7 @@
         "name": "esp32-camera",
         "description": "（无简介）",
         "url": "https://github.com/espressif/esp32-camera",
-        "stars": 2357,
+        "stars": 2358,
         "forks": 720,
         "language": "C",
         "pushed_at": "2025-08-22T08:49:53Z",
@@ -13489,7 +13489,7 @@
         "stars": 252,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-09-08T09:01:38Z",
+        "pushed_at": "2025-09-08T09:33:41Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -14324,7 +14324,7 @@
         "stars": 0,
         "forks": 0,
         "language": "C",
-        "pushed_at": "2025-08-14T12:09:43Z",
+        "pushed_at": "2025-09-08T09:20:43Z",
         "created_at": "2025-03-04T09:28:58Z"
       }
     ]
@@ -16406,7 +16406,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 5111,
+        "stars": 5113,
         "forks": 365,
         "language": "TypeScript",
         "pushed_at": "2025-09-02T16:22:00Z",
@@ -16636,7 +16636,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 39394,
+        "stars": 39400,
         "forks": 4563,
         "language": "Rust",
         "pushed_at": "2025-09-08T04:58:09Z",
@@ -17166,7 +17166,7 @@
         "name": "harmony",
         "description": "Renderer for the harmony response format to be used with gpt-oss",
         "url": "https://github.com/openai/harmony",
-        "stars": 3752,
+        "stars": 3753,
         "forks": 193,
         "language": "Rust",
         "pushed_at": "2025-08-15T23:28:11Z",
@@ -17556,7 +17556,7 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 1272,
+        "stars": 1273,
         "forks": 297,
         "language": "TypeScript",
         "pushed_at": "2025-09-08T08:37:16Z",
@@ -17676,7 +17676,7 @@
         "name": "openai-go",
         "description": "The official Go library for the OpenAI API",
         "url": "https://github.com/openai/openai-go",
-        "stars": 2451,
+        "stars": 2452,
         "forks": 201,
         "language": "Go",
         "pushed_at": "2025-09-05T18:26:52Z",
@@ -17847,7 +17847,7 @@
         "description": "Sample apps to help developers get started with Structured Outputs",
         "url": "https://github.com/openai/openai-structured-outputs-samples",
         "stars": 650,
-        "forks": 64,
+        "forks": 65,
         "language": "TypeScript",
         "pushed_at": "2025-01-10T16:37:50Z",
         "created_at": "2024-12-16T03:25:29Z"
@@ -19111,7 +19111,7 @@
         "name": "CMSIS_5",
         "description": "CMSIS Version 5 Development Repository",
         "url": "https://github.com/ARM-software/CMSIS_5",
-        "stars": 1504,
+        "stars": 1505,
         "forks": 1099,
         "language": "C",
         "pushed_at": "2024-09-03T14:33:59Z",
@@ -20729,7 +20729,7 @@
         "stars": 69,
         "forks": 238,
         "language": "C",
-        "pushed_at": "2025-09-04T07:03:46Z",
+        "pushed_at": "2025-09-08T09:34:19Z",
         "created_at": "2018-02-05T14:45:56Z"
       },
       {
@@ -21264,7 +21264,7 @@
         "stars": 12813,
         "forks": 1837,
         "language": "Python",
-        "pushed_at": "2025-09-08T01:37:45Z",
+        "pushed_at": "2025-09-08T09:23:15Z",
         "created_at": "2025-04-01T20:44:40Z"
       },
       {
@@ -25741,8 +25741,8 @@
         "name": "comprehensive-rust",
         "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
         "url": "https://github.com/google/comprehensive-rust",
-        "stars": 31795,
-        "forks": 1883,
+        "stars": 31797,
+        "forks": 1882,
         "language": "Rust",
         "pushed_at": "2025-09-07T19:35:08Z",
         "created_at": "2022-12-21T15:17:24Z"
@@ -27454,7 +27454,7 @@
         "stars": 53,
         "forks": 20,
         "language": "Java",
-        "pushed_at": "2025-09-08T08:47:28Z",
+        "pushed_at": "2025-09-08T09:28:35Z",
         "created_at": "2022-04-15T03:00:41Z"
       },
       {
@@ -28771,7 +28771,7 @@
         "name": "enjarify",
         "description": "（无简介）",
         "url": "https://github.com/google/enjarify",
-        "stars": 2738,
+        "stars": 2739,
         "forks": 542,
         "language": "Python",
         "pushed_at": "2019-11-06T18:45:36Z",
@@ -29671,7 +29671,7 @@
         "name": "flexbox-layout",
         "description": "Flexbox for Android ",
         "url": "https://github.com/google/flexbox-layout",
-        "stars": 18345,
+        "stars": 18346,
         "forks": 1807,
         "language": "Kotlin",
         "pushed_at": "2024-04-22T19:22:36Z",
@@ -30604,7 +30604,7 @@
         "stars": 6560,
         "forks": 567,
         "language": "C++",
-        "pushed_at": "2025-09-08T09:09:21Z",
+        "pushed_at": "2025-09-08T09:24:03Z",
         "created_at": "2024-02-13T04:36:03Z"
       },
       {
@@ -31102,7 +31102,7 @@
         "description": "（无简介）",
         "url": "https://github.com/google/github-sandbox",
         "stars": 16,
-        "forks": 180,
+        "forks": 181,
         "language": "未指定",
         "pushed_at": "2025-09-05T17:24:12Z",
         "created_at": "2021-05-21T17:09:17Z"
@@ -32661,7 +32661,7 @@
         "name": "graph-mining",
         "description": "（无简介）",
         "url": "https://github.com/google/graph-mining",
-        "stars": 697,
+        "stars": 698,
         "forks": 39,
         "language": "C++",
         "pushed_at": "2025-08-15T17:17:48Z",
@@ -35601,7 +35601,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 14700,
+        "stars": 14701,
         "forks": 990,
         "language": "Python",
         "pushed_at": "2025-09-04T23:29:52Z",
@@ -36791,7 +36791,7 @@
         "name": "mangle",
         "description": "（无简介）",
         "url": "https://github.com/google/mangle",
-        "stars": 2470,
+        "stars": 2472,
         "forks": 117,
         "language": "Go",
         "pushed_at": "2025-09-03T20:04:53Z",
@@ -39864,7 +39864,7 @@
         "stars": 4567,
         "forks": 574,
         "language": "C++",
-        "pushed_at": "2025-09-07T11:44:10Z",
+        "pushed_at": "2025-09-08T09:35:42Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -41024,7 +41024,7 @@
         "stars": 550,
         "forks": 195,
         "language": "Dart",
-        "pushed_at": "2025-09-05T08:41:44Z",
+        "pushed_at": "2025-09-08T09:20:07Z",
         "created_at": "2013-07-10T16:36:09Z"
       },
       {
@@ -42424,7 +42424,7 @@
         "stars": 451,
         "forks": 59,
         "language": "C++",
-        "pushed_at": "2025-09-08T08:17:45Z",
+        "pushed_at": "2025-09-08T09:32:29Z",
         "created_at": "2018-01-03T15:05:56Z"
       },
       {
@@ -45861,7 +45861,7 @@
         "name": "testrun",
         "description": "A tool to automate verification of network-based device behavior",
         "url": "https://github.com/google/testrun",
-        "stars": 39,
+        "stars": 40,
         "forks": 18,
         "language": "Python",
         "pushed_at": "2025-08-29T20:14:04Z",
