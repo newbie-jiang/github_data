@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-09T07:45:06Z",
+        "pushed_at": "2025-09-09T08:23:16Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4089,7 +4089,7 @@
         "stars": 13064,
         "forks": 7888,
         "language": "C",
-        "pushed_at": "2025-09-09T07:10:45Z",
+        "pushed_at": "2025-09-09T08:32:50Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -7674,7 +7674,7 @@
         "stars": 5,
         "forks": 1,
         "language": "C",
-        "pushed_at": "2025-05-21T15:01:15Z",
+        "pushed_at": "2025-09-09T08:27:08Z",
         "created_at": "2025-02-03T13:33:33Z"
       },
       {
@@ -11567,7 +11567,7 @@
         "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
         "url": "https://github.com/espressif/esp-brookesia",
         "stars": 408,
-        "forks": 86,
+        "forks": 87,
         "language": "C",
         "pushed_at": "2025-09-02T06:54:29Z",
         "created_at": "2024-07-16T03:41:15Z"
@@ -13489,7 +13489,7 @@
         "stars": 252,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-09-09T08:03:36Z",
+        "pushed_at": "2025-09-09T08:35:39Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16244,7 +16244,7 @@
         "stars": 11397,
         "forks": 5259,
         "language": "C",
-        "pushed_at": "2025-09-09T05:08:30Z",
+        "pushed_at": "2025-09-09T08:42:16Z",
         "created_at": "2013-01-02T14:49:21Z"
       },
       {
@@ -16406,7 +16406,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 5182,
+        "stars": 5184,
         "forks": 375,
         "language": "TypeScript",
         "pushed_at": "2025-09-02T16:22:00Z",
@@ -16636,7 +16636,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 39648,
+        "stars": 39656,
         "forks": 4602,
         "language": "Rust",
         "pushed_at": "2025-09-09T07:53:55Z",
@@ -17067,7 +17067,7 @@
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
         "stars": 18286,
-        "forks": 1710,
+        "forks": 1711,
         "language": "Python",
         "pushed_at": "2025-09-09T07:50:26Z",
         "created_at": "2025-06-23T16:43:33Z"
@@ -17436,7 +17436,7 @@
         "name": "mle-bench",
         "description": "MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering",
         "url": "https://github.com/openai/mle-bench",
-        "stars": 942,
+        "stars": 943,
         "forks": 131,
         "language": "Python",
         "pushed_at": "2025-09-08T10:44:44Z",
@@ -17569,17 +17569,17 @@
         "stars": 1279,
         "forks": 301,
         "language": "TypeScript",
-        "pushed_at": "2025-09-09T08:04:48Z",
+        "pushed_at": "2025-09-09T08:42:35Z",
         "created_at": "2025-05-31T00:08:49Z"
       },
       {
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 14457,
+        "stars": 14460,
         "forks": 2363,
         "language": "Python",
-        "pushed_at": "2025-09-09T07:02:37Z",
+        "pushed_at": "2025-09-09T08:42:04Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -17616,7 +17616,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 67792,
+        "stars": 67793,
         "forks": 11273,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-09-08T17:09:02Z",
@@ -17706,7 +17706,7 @@
         "name": "openai-node",
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
-        "stars": 10082,
+        "stars": 10083,
         "forks": 1236,
         "language": "TypeScript",
         "pushed_at": "2025-09-08T19:30:50Z",
@@ -17756,7 +17756,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 6355,
+        "stars": 6356,
         "forks": 924,
         "language": "TypeScript",
         "pushed_at": "2025-09-03T16:52:46Z",
@@ -18396,7 +18396,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 15842,
+        "stars": 15844,
         "forks": 1212,
         "language": "Python",
         "pushed_at": "2025-09-01T00:05:21Z",
@@ -18526,7 +18526,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 87915,
+        "stars": 87916,
         "forks": 10906,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
@@ -18614,7 +18614,7 @@
         "stars": 357,
         "forks": 83,
         "language": "C",
-        "pushed_at": "2025-09-08T20:29:31Z",
+        "pushed_at": "2025-09-09T08:50:41Z",
         "created_at": "2022-06-13T09:08:33Z"
       },
       {
@@ -19142,7 +19142,7 @@
         "description": "The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.",
         "url": "https://github.com/ARM-software/ComputeLibrary",
         "stars": 3035,
-        "forks": 799,
+        "forks": 798,
         "language": "C++",
         "pushed_at": "2025-09-04T07:03:52Z",
         "created_at": "2017-03-10T14:51:43Z"
@@ -19294,7 +19294,7 @@
         "stars": 16,
         "forks": 8,
         "language": "C++",
-        "pushed_at": "2025-09-09T08:08:23Z",
+        "pushed_at": "2025-09-09T08:50:37Z",
         "created_at": "2021-09-14T14:54:28Z"
       },
       {
@@ -20212,7 +20212,7 @@
         "description": "Tutorials & examples for Arm software development tools.",
         "url": "https://github.com/ARM-software/Tool-Solutions",
         "stars": 273,
-        "forks": 146,
+        "forks": 147,
         "language": "Python",
         "pushed_at": "2025-09-05T16:35:28Z",
         "created_at": "2018-10-31T08:39:51Z"
@@ -20759,7 +20759,7 @@
         "stars": 1145,
         "forks": 1373,
         "language": "C",
-        "pushed_at": "2025-09-09T08:11:43Z",
+        "pushed_at": "2025-09-09T08:30:06Z",
         "created_at": "2018-02-14T13:50:55Z"
       },
       {
@@ -21061,7 +21061,7 @@
         "name": "accompanist",
         "description": "A collection of extension libraries for Jetpack Compose",
         "url": "https://github.com/google/accompanist",
-        "stars": 7722,
+        "stars": 7723,
         "forks": 639,
         "language": "Kotlin",
         "pushed_at": "2025-08-18T20:49:30Z",
@@ -21271,7 +21271,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 12841,
+        "stars": 12842,
         "forks": 1839,
         "language": "Python",
         "pushed_at": "2025-09-09T05:20:21Z",
@@ -22044,7 +22044,7 @@
         "stars": 3797,
         "forks": 678,
         "language": "C++",
-        "pushed_at": "2025-09-09T04:59:52Z",
+        "pushed_at": "2025-09-09T08:47:53Z",
         "created_at": "2014-08-26T14:59:07Z"
       },
       {
@@ -23291,7 +23291,7 @@
         "name": "bindiff",
         "description": "Quickly find differences and similarities in disassembled code",
         "url": "https://github.com/google/bindiff",
-        "stars": 2701,
+        "stars": 2702,
         "forks": 187,
         "language": "Java",
         "pushed_at": "2025-09-04T14:31:43Z",
@@ -27074,7 +27074,7 @@
         "stars": 700,
         "forks": 120,
         "language": "C++",
-        "pushed_at": "2025-09-09T05:19:04Z",
+        "pushed_at": "2025-09-09T08:50:32Z",
         "created_at": "2023-10-04T16:54:23Z"
       },
       {
@@ -29604,7 +29604,7 @@
         "stars": 6793,
         "forks": 734,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-09-08T22:46:56Z",
+        "pushed_at": "2025-09-09T08:38:55Z",
         "created_at": "2020-01-10T09:48:37Z"
       },
       {
@@ -35054,7 +35054,7 @@
         "stars": 72,
         "forks": 16,
         "language": "Java",
-        "pushed_at": "2025-09-04T17:25:47Z",
+        "pushed_at": "2025-09-09T08:25:06Z",
         "created_at": "2017-11-10T19:19:52Z"
       },
       {
@@ -35464,7 +35464,7 @@
         "stars": 28,
         "forks": 14,
         "language": "C++",
-        "pushed_at": "2025-09-08T17:09:29Z",
+        "pushed_at": "2025-09-09T08:26:31Z",
         "created_at": "2024-05-07T11:31:53Z"
       },
       {
@@ -35611,8 +35611,8 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 14752,
-        "forks": 996,
+        "stars": 14754,
+        "forks": 997,
         "language": "Python",
         "pushed_at": "2025-09-04T23:29:52Z",
         "created_at": "2025-07-08T20:46:06Z"
@@ -36651,7 +36651,7 @@
         "name": "magika",
         "description": "Detect file content types with deep learning",
         "url": "https://github.com/google/magika",
-        "stars": 8808,
+        "stars": 8807,
         "forks": 450,
         "language": "Python",
         "pushed_at": "2025-09-08T05:09:30Z",
@@ -36892,7 +36892,7 @@
         "description": "Material Design icons by Google (Material Symbols)",
         "url": "https://github.com/google/material-design-icons",
         "stars": 52053,
-        "forks": 9666,
+        "forks": 9667,
         "language": "未指定",
         "pushed_at": "2025-09-05T02:37:59Z",
         "created_at": "2014-10-08T18:01:28Z"
@@ -39094,7 +39094,7 @@
         "stars": 423,
         "forks": 66,
         "language": "Python",
-        "pushed_at": "2025-09-09T08:22:35Z",
+        "pushed_at": "2025-09-09T08:24:30Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39294,7 +39294,7 @@
         "stars": 490,
         "forks": 78,
         "language": "Go",
-        "pushed_at": "2025-09-08T12:45:08Z",
+        "pushed_at": "2025-09-09T08:51:38Z",
         "created_at": "2024-04-10T09:09:11Z"
       },
       {
@@ -39874,7 +39874,7 @@
         "stars": 4573,
         "forks": 576,
         "language": "C++",
-        "pushed_at": "2025-09-09T07:53:24Z",
+        "pushed_at": "2025-09-09T08:31:20Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -40732,7 +40732,7 @@
         "description": "（无简介）",
         "url": "https://github.com/google/private-retrieval",
         "stars": 38,
-        "forks": 6,
+        "forks": 7,
         "language": "Java",
         "pushed_at": "2021-10-19T20:17:41Z",
         "created_at": "2021-10-19T19:21:58Z"
@@ -43191,7 +43191,7 @@
         "name": "scaaml",
         "description": "SCAAML: Side Channel Attacks Assisted with Machine Learning",
         "url": "https://github.com/google/scaaml",
-        "stars": 160,
+        "stars": 161,
         "forks": 52,
         "language": "Python",
         "pushed_at": "2025-09-08T15:48:06Z",
