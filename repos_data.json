@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-10T04:36:51Z",
+        "pushed_at": "2025-09-10T04:46:37Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -12176,7 +12176,7 @@
         "name": "esp-mesh-lite",
         "description": "A lite version Wi-Fi Mesh, each node can access the network over the IP layer.",
         "url": "https://github.com/espressif/esp-mesh-lite",
-        "stars": 178,
+        "stars": 179,
         "forks": 37,
         "language": "C",
         "pushed_at": "2025-08-12T02:26:43Z",
@@ -13489,7 +13489,7 @@
         "stars": 252,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-09-10T04:30:38Z",
+        "pushed_at": "2025-09-10T05:02:36Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16406,7 +16406,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 5303,
+        "stars": 5306,
         "forks": 383,
         "language": "TypeScript",
         "pushed_at": "2025-09-09T23:55:19Z",
@@ -16636,7 +16636,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 39832,
+        "stars": 39834,
         "forks": 4624,
         "language": "Rust",
         "pushed_at": "2025-09-10T02:58:40Z",
@@ -16666,7 +16666,7 @@
         "name": "completions-responses-migration-pack",
         "description": "Developer toolkit to migrate applications from the legacy OpenAI Completions/Chat Completions APIs to the unified Responses API, guided by Codex CLI",
         "url": "https://github.com/openai/completions-responses-migration-pack",
-        "stars": 42,
+        "stars": 44,
         "forks": 3,
         "language": "Shell",
         "pushed_at": "2025-09-08T22:07:21Z",
@@ -17066,8 +17066,8 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 18309,
-        "forks": 1713,
+        "stars": 18308,
+        "forks": 1714,
         "language": "Python",
         "pushed_at": "2025-09-10T04:35:51Z",
         "created_at": "2025-06-23T16:43:33Z"
@@ -17786,7 +17786,7 @@
         "name": "openai-realtime-embedded",
         "description": "Instructions on how to use the Realtime API on Microcontrollers and Embedded Platforms",
         "url": "https://github.com/openai/openai-realtime-embedded",
-        "stars": 1571,
+        "stars": 1570,
         "forks": 189,
         "language": "未指定",
         "pushed_at": "2025-03-25T15:17:01Z",
@@ -18356,7 +18356,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 20366,
+        "stars": 20365,
         "forks": 2175,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
@@ -21271,7 +21271,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 12859,
+        "stars": 12860,
         "forks": 1848,
         "language": "Python",
         "pushed_at": "2025-09-09T23:07:31Z",
@@ -21292,7 +21292,7 @@
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
         "stars": 4865,
-        "forks": 1408,
+        "forks": 1410,
         "language": "Python",
         "pushed_at": "2025-09-10T01:39:37Z",
         "created_at": "2025-04-01T20:44:42Z"
@@ -21351,7 +21351,7 @@
         "name": "ads-privacy",
         "description": "（无简介）",
         "url": "https://github.com/google/ads-privacy",
-        "stars": 409,
+        "stars": 410,
         "forks": 132,
         "language": "未指定",
         "pushed_at": "2025-03-31T22:03:59Z",
@@ -22514,7 +22514,7 @@
         "stars": 21,
         "forks": 12,
         "language": "C++",
-        "pushed_at": "2025-09-09T11:06:03Z",
+        "pushed_at": "2025-09-10T04:50:50Z",
         "created_at": "2023-09-18T13:03:53Z"
       },
       {
@@ -24592,7 +24592,7 @@
         "description": "Auditing for TLS certificates (Go code)",
         "url": "https://github.com/google/certificate-transparency-go",
         "stars": 1028,
-        "forks": 273,
+        "forks": 274,
         "language": "Go",
         "pushed_at": "2025-09-02T15:41:12Z",
         "created_at": "2017-05-08T14:22:46Z"
@@ -26794,7 +26794,7 @@
         "stars": 17634,
         "forks": 2043,
         "language": "Java",
-        "pushed_at": "2025-09-10T03:33:15Z",
+        "pushed_at": "2025-09-10T05:09:36Z",
         "created_at": "2013-02-01T23:14:14Z"
       },
       {
@@ -27464,7 +27464,7 @@
         "stars": 53,
         "forks": 20,
         "language": "Java",
-        "pushed_at": "2025-09-09T18:23:00Z",
+        "pushed_at": "2025-09-10T05:03:00Z",
         "created_at": "2022-04-15T03:00:41Z"
       },
       {
@@ -30614,7 +30614,7 @@
         "stars": 6561,
         "forks": 568,
         "language": "C++",
-        "pushed_at": "2025-09-09T17:35:42Z",
+        "pushed_at": "2025-09-10T05:09:51Z",
         "created_at": "2024-02-13T04:36:03Z"
       },
       {
@@ -33011,7 +33011,7 @@
         "name": "gts",
         "description": "☂️ TypeScript style guide, formatter, and linter.  ",
         "url": "https://github.com/google/gts",
-        "stars": 5198,
+        "stars": 5199,
         "forks": 210,
         "language": "TypeScript",
         "pushed_at": "2024-10-25T01:05:36Z",
@@ -35611,7 +35611,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 14803,
+        "stars": 14805,
         "forks": 1000,
         "language": "Python",
         "pushed_at": "2025-09-04T23:29:52Z",
@@ -39304,7 +39304,7 @@
         "stars": 7714,
         "forks": 453,
         "language": "Go",
-        "pushed_at": "2025-09-09T18:55:03Z",
+        "pushed_at": "2025-09-10T05:03:41Z",
         "created_at": "2022-11-14T01:05:20Z"
       },
       {
@@ -39334,7 +39334,7 @@
         "stars": 1979,
         "forks": 224,
         "language": "Python",
-        "pushed_at": "2025-09-10T04:40:56Z",
+        "pushed_at": "2025-09-10T04:56:16Z",
         "created_at": "2021-01-08T02:14:10Z"
       },
       {
@@ -41361,7 +41361,7 @@
         "name": "pyringe",
         "description": "Debugger capable of attaching to and injecting code into python processes.",
         "url": "https://github.com/google/pyringe",
-        "stars": 1629,
+        "stars": 1628,
         "forks": 77,
         "language": "Python",
         "pushed_at": "2019-12-10T09:55:55Z",
