@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-11T09:17:20Z",
+        "pushed_at": "2025-09-11T09:32:57Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4086,7 +4086,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 13073,
+        "stars": 13074,
         "forks": 7894,
         "language": "C",
         "pushed_at": "2025-09-11T08:00:18Z",
@@ -8811,7 +8811,7 @@
         "name": "STM32CubeH7",
         "description": "STM32Cube MCU Full Package for the STM32H7 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
         "url": "https://github.com/STMicroelectronics/STM32CubeH7",
-        "stars": 646,
+        "stars": 647,
         "forks": 343,
         "language": "C",
         "pushed_at": "2025-07-24T16:32:22Z",
@@ -11119,7 +11119,7 @@
         "stars": 15365,
         "forks": 7700,
         "language": "C++",
-        "pushed_at": "2025-09-11T08:31:56Z",
+        "pushed_at": "2025-09-11T09:37:32Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -12599,7 +12599,7 @@
         "stars": 53,
         "forks": 32,
         "language": "C",
-        "pushed_at": "2025-09-11T08:09:20Z",
+        "pushed_at": "2025-09-11T09:39:29Z",
         "created_at": "2024-01-18T07:20:01Z"
       },
       {
@@ -16606,7 +16606,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 30631,
+        "stars": 30629,
         "forks": 3740,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16636,7 +16636,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 40108,
+        "stars": 40110,
         "forks": 4656,
         "language": "Rust",
         "pushed_at": "2025-09-11T07:44:02Z",
@@ -17566,7 +17566,7 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 1309,
+        "stars": 1310,
         "forks": 307,
         "language": "TypeScript",
         "pushed_at": "2025-09-11T09:20:00Z",
@@ -18526,7 +18526,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 88008,
+        "stars": 88007,
         "forks": 10930,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
@@ -18614,7 +18614,7 @@
         "stars": 357,
         "forks": 83,
         "language": "C",
-        "pushed_at": "2025-09-10T12:56:53Z",
+        "pushed_at": "2025-09-11T09:40:11Z",
         "created_at": "2022-06-13T09:08:33Z"
       },
       {
@@ -19294,7 +19294,7 @@
         "stars": 16,
         "forks": 8,
         "language": "C++",
-        "pushed_at": "2025-09-10T09:07:36Z",
+        "pushed_at": "2025-09-11T09:42:23Z",
         "created_at": "2021-09-14T14:54:28Z"
       },
       {
@@ -20879,7 +20879,7 @@
         "stars": 337,
         "forks": 701,
         "language": "C",
-        "pushed_at": "2025-09-11T09:10:48Z",
+        "pushed_at": "2025-09-11T09:39:52Z",
         "created_at": "2018-02-05T14:45:23Z"
       },
       {
@@ -21271,7 +21271,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 12885,
+        "stars": 12886,
         "forks": 1857,
         "language": "Python",
         "pushed_at": "2025-09-11T01:00:18Z",
@@ -25611,7 +25611,7 @@
         "name": "coding-competitions-archive",
         "description": "Google Coding Competitions problem archive",
         "url": "https://github.com/google/coding-competitions-archive",
-        "stars": 1212,
+        "stars": 1213,
         "forks": 321,
         "language": "HTML",
         "pushed_at": "2023-07-12T20:25:01Z",
@@ -25751,10 +25751,10 @@
         "name": "comprehensive-rust",
         "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
         "url": "https://github.com/google/comprehensive-rust",
-        "stars": 31907,
+        "stars": 31908,
         "forks": 1895,
         "language": "Rust",
-        "pushed_at": "2025-09-10T11:41:10Z",
+        "pushed_at": "2025-09-11T09:36:47Z",
         "created_at": "2022-12-21T15:17:24Z"
       },
       {
@@ -29601,7 +29601,7 @@
         "name": "flax",
         "description": "Flax is a neural network library for JAX that is designed for flexibility.",
         "url": "https://github.com/google/flax",
-        "stars": 6794,
+        "stars": 6793,
         "forks": 734,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-09-10T20:59:56Z",
@@ -32422,7 +32422,7 @@
         "description": "Enables iOS and macOS apps to sign in with Google.",
         "url": "https://github.com/google/GoogleSignIn-iOS",
         "stars": 639,
-        "forks": 237,
+        "forks": 236,
         "language": "Objective-C",
         "pushed_at": "2025-09-11T00:25:05Z",
         "created_at": "2021-03-24T17:01:02Z"
@@ -35274,7 +35274,7 @@
         "stars": 21,
         "forks": 5,
         "language": "C++",
-        "pushed_at": "2025-09-11T05:29:28Z",
+        "pushed_at": "2025-09-11T09:33:02Z",
         "created_at": "2024-10-14T08:07:47Z"
       },
       {
@@ -40701,7 +40701,7 @@
         "name": "private-compute-services",
         "description": "（无简介）",
         "url": "https://github.com/google/private-compute-services",
-        "stars": 477,
+        "stars": 478,
         "forks": 84,
         "language": "Java",
         "pushed_at": "2025-07-01T17:30:05Z",
@@ -43904,7 +43904,7 @@
         "stars": 1323,
         "forks": 318,
         "language": "JavaScript",
-        "pushed_at": "2025-09-11T09:30:14Z",
+        "pushed_at": "2025-09-11T09:38:36Z",
         "created_at": "2019-06-11T14:20:21Z"
       },
       {
@@ -44331,7 +44331,7 @@
         "name": "snappy",
         "description": "A fast compressor/decompressor",
         "url": "https://github.com/google/snappy",
-        "stars": 6432,
+        "stars": 6433,
         "forks": 1008,
         "language": "C++",
         "pushed_at": "2025-07-29T08:45:06Z",
@@ -45071,7 +45071,7 @@
         "name": "styleguide",
         "description": "Style guides for Google-originated open-source projects",
         "url": "https://github.com/google/styleguide",
-        "stars": 38506,
+        "stars": 38505,
         "forks": 13006,
         "language": "HTML",
         "pushed_at": "2025-09-03T16:29:35Z",
@@ -46644,7 +46644,7 @@
         "stars": 141,
         "forks": 26,
         "language": "Python",
-        "pushed_at": "2025-09-11T09:21:40Z",
+        "pushed_at": "2025-09-11T09:42:37Z",
         "created_at": "2025-04-02T22:19:15Z"
       },
       {
@@ -48471,7 +48471,7 @@
         "name": "XNNPACK",
         "description": "High-efficiency floating-point neural network inference operators for mobile, server, and Web",
         "url": "https://github.com/google/XNNPACK",
-        "stars": 2109,
+        "stars": 2110,
         "forks": 440,
         "language": "C",
         "pushed_at": "2025-09-10T07:37:03Z",
