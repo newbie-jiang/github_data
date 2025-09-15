@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-15T16:42:32Z",
+        "pushed_at": "2025-09-15T17:14:34Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -11026,7 +11026,7 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15377,
+        "stars": 15378,
         "forks": 7701,
         "language": "C++",
         "pushed_at": "2025-09-15T00:54:01Z",
@@ -11797,7 +11797,7 @@
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
         "stars": 16235,
-        "forks": 7857,
+        "forks": 7858,
         "language": "C",
         "pushed_at": "2025-09-09T21:17:33Z",
         "created_at": "2016-08-17T10:40:35Z"
@@ -13399,7 +13399,7 @@
         "stars": 254,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-09-15T16:42:38Z",
+        "pushed_at": "2025-09-15T17:14:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16316,7 +16316,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 5759,
+        "stars": 5760,
         "forks": 422,
         "language": "TypeScript",
         "pushed_at": "2025-09-09T23:55:19Z",
@@ -16546,10 +16546,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 40925,
+        "stars": 40929,
         "forks": 4776,
         "language": "Rust",
-        "pushed_at": "2025-09-15T17:13:37Z",
+        "pushed_at": "2025-09-15T17:22:04Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -17526,8 +17526,8 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 67893,
-        "forks": 11293,
+        "stars": 67895,
+        "forks": 11294,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-09-14T23:00:54Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -18216,7 +18216,7 @@
         "name": "spinningup",
         "description": "An educational resource to help anyone learn deep reinforcement learning.",
         "url": "https://github.com/openai/spinningup",
-        "stars": 11215,
+        "stars": 11216,
         "forks": 2392,
         "language": "Python",
         "pushed_at": "2024-08-05T03:30:30Z",
@@ -18266,7 +18266,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 20397,
+        "stars": 20398,
         "forks": 2181,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
@@ -18306,7 +18306,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 15913,
+        "stars": 15914,
         "forks": 1218,
         "language": "Python",
         "pushed_at": "2025-09-01T00:05:21Z",
@@ -25114,7 +25114,7 @@
         "stars": 666,
         "forks": 192,
         "language": "Java",
-        "pushed_at": "2025-09-15T17:07:14Z",
+        "pushed_at": "2025-09-15T17:30:14Z",
         "created_at": "2014-04-16T15:31:58Z"
       },
       {
@@ -27572,7 +27572,7 @@
         "description": "Google's differential privacy libraries.",
         "url": "https://github.com/google/differential-privacy",
         "stars": 3214,
-        "forks": 393,
+        "forks": 394,
         "language": "Go",
         "pushed_at": "2025-09-15T17:02:23Z",
         "created_at": "2019-09-04T13:04:15Z"
@@ -29394,7 +29394,7 @@
         "stars": 353,
         "forks": 20,
         "language": "Python",
-        "pushed_at": "2025-09-15T15:44:36Z",
+        "pushed_at": "2025-09-15T17:18:48Z",
         "created_at": "2022-03-25T22:03:57Z"
       },
       {
@@ -30554,7 +30554,7 @@
         "stars": 6566,
         "forks": 569,
         "language": "C++",
-        "pushed_at": "2025-09-14T23:27:31Z",
+        "pushed_at": "2025-09-15T17:26:42Z",
         "created_at": "2024-02-13T04:36:03Z"
       },
       {
@@ -32364,7 +32364,7 @@
         "stars": 642,
         "forks": 237,
         "language": "Objective-C",
-        "pushed_at": "2025-09-15T16:11:33Z",
+        "pushed_at": "2025-09-15T17:26:40Z",
         "created_at": "2021-03-24T17:01:02Z"
       },
       {
@@ -32981,8 +32981,8 @@
         "name": "guava",
         "description": "Google core libraries for Java",
         "url": "https://github.com/google/guava",
-        "stars": 51106,
-        "forks": 11070,
+        "stars": 51107,
+        "forks": 11071,
         "language": "Java",
         "pushed_at": "2025-09-15T13:10:31Z",
         "created_at": "2014-05-29T16:23:17Z"
@@ -33394,7 +33394,7 @@
         "stars": 518,
         "forks": 92,
         "language": "C++",
-        "pushed_at": "2025-09-15T16:59:07Z",
+        "pushed_at": "2025-09-15T17:20:10Z",
         "created_at": "2023-04-17T21:14:13Z"
       },
       {
@@ -34294,7 +34294,7 @@
         "stars": 40,
         "forks": 12,
         "language": "C++",
-        "pushed_at": "2025-09-15T15:06:08Z",
+        "pushed_at": "2025-09-15T17:21:26Z",
         "created_at": "2019-01-02T16:04:39Z"
       },
       {
@@ -34974,7 +34974,7 @@
         "stars": 45,
         "forks": 17,
         "language": "JavaScript",
-        "pushed_at": "2025-09-15T12:29:17Z",
+        "pushed_at": "2025-09-15T17:18:19Z",
         "created_at": "2015-03-04T11:33:08Z"
       },
       {
@@ -35561,8 +35561,8 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 15057,
-        "forks": 1029,
+        "stars": 15058,
+        "forks": 1030,
         "language": "Python",
         "pushed_at": "2025-09-13T22:44:37Z",
         "created_at": "2025-07-08T20:46:06Z"
@@ -36751,7 +36751,7 @@
         "name": "mangle",
         "description": "（无简介）",
         "url": "https://github.com/google/mangle",
-        "stars": 2693,
+        "stars": 2694,
         "forks": 129,
         "language": "Go",
         "pushed_at": "2025-09-12T09:53:26Z",
@@ -36841,8 +36841,8 @@
         "name": "material-design-icons",
         "description": "Material Design icons by Google (Material Symbols)",
         "url": "https://github.com/google/material-design-icons",
-        "stars": 52221,
-        "forks": 9671,
+        "stars": 52222,
+        "forks": 9672,
         "language": "未指定",
         "pushed_at": "2025-09-12T02:35:41Z",
         "created_at": "2014-10-08T18:01:28Z"
@@ -36852,7 +36852,7 @@
         "description": "Material Design Components in HTML/CSS/JS",
         "url": "https://github.com/google/material-design-lite",
         "stars": 32253,
-        "forks": 4973,
+        "forks": 4974,
         "language": "HTML",
         "pushed_at": "2025-03-11T00:13:36Z",
         "created_at": "2015-01-14T22:01:33Z"
@@ -37074,7 +37074,7 @@
         "stars": 1112,
         "forks": 188,
         "language": "Python",
-        "pushed_at": "2025-09-15T16:31:24Z",
+        "pushed_at": "2025-09-15T17:24:33Z",
         "created_at": "2024-01-31T18:15:38Z"
       },
       {
@@ -39044,7 +39044,7 @@
         "stars": 425,
         "forks": 67,
         "language": "Python",
-        "pushed_at": "2025-09-15T17:06:21Z",
+        "pushed_at": "2025-09-15T17:27:27Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39354,7 +39354,7 @@
         "stars": 1,
         "forks": 2,
         "language": "C++",
-        "pushed_at": "2025-09-15T16:56:41Z",
+        "pushed_at": "2025-09-15T17:20:55Z",
         "created_at": "2025-04-30T21:39:49Z"
       },
       {
