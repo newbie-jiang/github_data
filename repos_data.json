@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-15T21:44:28Z",
+        "pushed_at": "2025-09-15T22:14:59Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -7791,7 +7791,7 @@
         "name": "stm32-mw-openbl",
         "description": "Provides the Open Bootloader library, part of the STM32Cube MCU Component \"middleware\", for all STM32xx series.",
         "url": "https://github.com/STMicroelectronics/stm32-mw-openbl",
-        "stars": 236,
+        "stars": 237,
         "forks": 52,
         "language": "C",
         "pushed_at": "2025-06-05T15:18:50Z",
@@ -8892,7 +8892,7 @@
         "description": "Full Firmware Package for the STM32U5 series: HAL+LL drivers, CMSIS, BSP, MW, plus a set of Projects (examples and demos) running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits).",
         "url": "https://github.com/STMicroelectronics/STM32CubeU5",
         "stars": 150,
-        "forks": 80,
+        "forks": 81,
         "language": "C",
         "pushed_at": "2025-09-12T14:26:02Z",
         "created_at": "2021-07-08T11:59:02Z"
@@ -12996,7 +12996,7 @@
         "name": "esptool",
         "description": "Serial utility for flashing, provisioning, and interacting with Espressif SoCs",
         "url": "https://github.com/espressif/esptool",
-        "stars": 6048,
+        "stars": 6049,
         "forks": 1447,
         "language": "Python",
         "pushed_at": "2025-09-15T17:44:25Z",
@@ -13756,7 +13756,7 @@
         "name": "vscode-esp-idf-extension",
         "description": "Visual Studio Code extension for ESP-IDF projects",
         "url": "https://github.com/espressif/vscode-esp-idf-extension",
-        "stars": 1295,
+        "stars": 1296,
         "forks": 336,
         "language": "TypeScript",
         "pushed_at": "2025-09-15T10:33:28Z",
@@ -16316,7 +16316,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 5777,
+        "stars": 5778,
         "forks": 423,
         "language": "TypeScript",
         "pushed_at": "2025-09-09T23:55:19Z",
@@ -16546,10 +16546,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 40980,
+        "stars": 40983,
         "forks": 4782,
         "language": "Rust",
-        "pushed_at": "2025-09-15T21:52:39Z",
+        "pushed_at": "2025-09-15T22:27:17Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16976,8 +16976,8 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 18402,
-        "forks": 1742,
+        "stars": 18403,
+        "forks": 1743,
         "language": "Python",
         "pushed_at": "2025-09-15T19:30:44Z",
         "created_at": "2025-06-23T16:43:33Z"
@@ -23334,7 +23334,7 @@
         "stars": 13105,
         "forks": 3801,
         "language": "TypeScript",
-        "pushed_at": "2025-09-15T19:24:02Z",
+        "pushed_at": "2025-09-15T22:17:40Z",
         "created_at": "2013-10-25T21:13:33Z"
       },
       {
@@ -24444,7 +24444,7 @@
         "stars": 221,
         "forks": 29,
         "language": "Java",
-        "pushed_at": "2025-09-15T12:21:15Z",
+        "pushed_at": "2025-09-15T22:31:24Z",
         "created_at": "2023-01-09T22:47:41Z"
       },
       {
@@ -24911,8 +24911,8 @@
         "name": "cityhash",
         "description": "Automatically exported from code.google.com/p/cityhash",
         "url": "https://github.com/google/cityhash",
-        "stars": 1192,
-        "forks": 192,
+        "stars": 1193,
+        "forks": 193,
         "language": "Shell",
         "pushed_at": "2024-04-22T10:17:49Z",
         "created_at": "2015-08-14T21:08:16Z"
@@ -26464,7 +26464,7 @@
         "stars": 880,
         "forks": 54,
         "language": "Rust",
-        "pushed_at": "2025-09-15T18:39:42Z",
+        "pushed_at": "2025-09-15T22:21:27Z",
         "created_at": "2022-03-02T09:13:13Z"
       },
       {
@@ -32612,7 +32612,7 @@
         "description": "（无简介）",
         "url": "https://github.com/google/graph-mining",
         "stars": 701,
-        "forks": 39,
+        "forks": 40,
         "language": "C++",
         "pushed_at": "2025-08-15T17:17:48Z",
         "created_at": "2021-07-26T01:37:31Z"
@@ -33084,7 +33084,7 @@
         "stars": 10,
         "forks": 2,
         "language": "C++",
-        "pushed_at": "2025-09-15T14:12:19Z",
+        "pushed_at": "2025-09-15T22:16:55Z",
         "created_at": "2024-08-29T16:03:26Z"
       },
       {
@@ -33094,7 +33094,7 @@
         "stars": 16968,
         "forks": 1430,
         "language": "Go",
-        "pushed_at": "2025-09-15T21:55:03Z",
+        "pushed_at": "2025-09-15T22:15:14Z",
         "created_at": "2018-04-26T21:28:49Z"
       },
       {
@@ -34644,7 +34644,7 @@
         "stars": 1326,
         "forks": 152,
         "language": "Java",
-        "pushed_at": "2025-09-15T21:09:14Z",
+        "pushed_at": "2025-09-15T22:28:03Z",
         "created_at": "2017-06-20T09:53:52Z"
       },
       {
@@ -35561,7 +35561,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 15062,
+        "stars": 15063,
         "forks": 1030,
         "language": "Python",
         "pushed_at": "2025-09-13T22:44:37Z",
@@ -36841,7 +36841,7 @@
         "name": "material-design-icons",
         "description": "Material Design icons by Google (Material Symbols)",
         "url": "https://github.com/google/material-design-icons",
-        "stars": 52227,
+        "stars": 52228,
         "forks": 9674,
         "language": "未指定",
         "pushed_at": "2025-09-12T02:35:41Z",
@@ -37074,7 +37074,7 @@
         "stars": 1112,
         "forks": 188,
         "language": "Python",
-        "pushed_at": "2025-09-15T21:46:11Z",
+        "pushed_at": "2025-09-15T22:24:53Z",
         "created_at": "2024-01-31T18:15:38Z"
       },
       {
@@ -38911,7 +38911,7 @@
         "name": "openhtf",
         "description": "The open-source hardware testing framework.",
         "url": "https://github.com/google/openhtf",
-        "stars": 598,
+        "stars": 599,
         "forks": 221,
         "language": "Python",
         "pushed_at": "2025-09-09T02:26:53Z",
@@ -39182,7 +39182,7 @@
         "description": "OSS-Fuzz - continuous fuzzing for open source software.",
         "url": "https://github.com/google/oss-fuzz",
         "stars": 11315,
-        "forks": 2477,
+        "forks": 2478,
         "language": "Shell",
         "pushed_at": "2025-09-15T17:33:40Z",
         "created_at": "2016-07-20T19:39:50Z"
@@ -39824,7 +39824,7 @@
         "stars": 4596,
         "forks": 581,
         "language": "C++",
-        "pushed_at": "2025-09-15T22:01:34Z",
+        "pushed_at": "2025-09-15T22:18:31Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -40064,7 +40064,7 @@
         "stars": 433,
         "forks": 99,
         "language": "C++",
-        "pushed_at": "2025-09-15T22:09:59Z",
+        "pushed_at": "2025-09-15T22:30:11Z",
         "created_at": "2021-03-09T22:07:25Z"
       },
       {
@@ -45022,7 +45022,7 @@
         "description": "Style guides for Google-originated open-source projects",
         "url": "https://github.com/google/styleguide",
         "stars": 38513,
-        "forks": 13005,
+        "forks": 13006,
         "language": "HTML",
         "pushed_at": "2025-09-03T16:29:35Z",
         "created_at": "2015-05-20T19:18:59Z"
@@ -46604,7 +46604,7 @@
         "stars": 143,
         "forks": 26,
         "language": "Python",
-        "pushed_at": "2025-09-15T21:56:20Z",
+        "pushed_at": "2025-09-15T22:21:04Z",
         "created_at": "2025-04-02T22:19:15Z"
       },
       {
@@ -48414,7 +48414,7 @@
         "stars": 1348,
         "forks": 212,
         "language": "C++",
-        "pushed_at": "2025-09-15T21:05:43Z",
+        "pushed_at": "2025-09-15T22:29:20Z",
         "created_at": "2020-05-07T21:38:30Z"
       },
       {
