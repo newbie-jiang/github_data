@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-15T04:47:44Z",
+        "pushed_at": "2025-09-15T05:16:50Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -11337,7 +11337,7 @@
         "description": "Espressif Advanced Development Framework for Multimedia Applications",
         "url": "https://github.com/espressif/esp-adf",
         "stars": 2037,
-        "forks": 799,
+        "forks": 798,
         "language": "C",
         "pushed_at": "2025-09-09T03:25:30Z",
         "created_at": "2018-04-02T07:03:49Z"
@@ -11426,7 +11426,7 @@
         "name": "esp-aws-iot",
         "description": "AWS IoT SDK for ESP32 based chipsets",
         "url": "https://github.com/espressif/esp-aws-iot",
-        "stars": 305,
+        "stars": 306,
         "forks": 183,
         "language": "C",
         "pushed_at": "2025-08-04T18:30:05Z",
@@ -16446,7 +16446,7 @@
         "name": "baselines",
         "description": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
         "url": "https://github.com/openai/baselines",
-        "stars": 16433,
+        "stars": 16432,
         "forks": 4933,
         "language": "Python",
         "pushed_at": "2024-08-01T21:31:33Z",
@@ -16586,10 +16586,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 40794,
-        "forks": 4754,
+        "stars": 40799,
+        "forks": 4755,
         "language": "Rust",
-        "pushed_at": "2025-09-15T05:15:52Z",
+        "pushed_at": "2025-09-15T05:25:12Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16676,7 +16676,7 @@
         "name": "DALL-E",
         "description": "PyTorch package for the discrete VAE used for DALL·E.",
         "url": "https://github.com/openai/DALL-E",
-        "stars": 10877,
+        "stars": 10876,
         "forks": 1910,
         "language": "Python",
         "pushed_at": "2024-01-31T15:42:28Z",
@@ -17016,7 +17016,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 18386,
+        "stars": 18385,
         "forks": 1739,
         "language": "Python",
         "pushed_at": "2025-09-11T23:02:53Z",
@@ -17516,7 +17516,7 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 1339,
+        "stars": 1340,
         "forks": 316,
         "language": "TypeScript",
         "pushed_at": "2025-09-12T22:58:27Z",
@@ -17526,7 +17526,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 14633,
+        "stars": 14634,
         "forks": 2410,
         "language": "Python",
         "pushed_at": "2025-09-14T11:18:56Z",
@@ -17566,7 +17566,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 67881,
+        "stars": 67882,
         "forks": 11290,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-09-14T23:00:54Z",
@@ -17576,7 +17576,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5782,
+        "stars": 5783,
         "forks": 874,
         "language": "TypeScript",
         "pushed_at": "2025-08-25T08:30:57Z",
@@ -18476,8 +18476,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 88162,
-        "forks": 10955,
+        "stars": 88163,
+        "forks": 10957,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -21801,7 +21801,7 @@
         "name": "android-cuttlefish",
         "description": "Cuttlefish host support debian package.",
         "url": "https://github.com/google/android-cuttlefish",
-        "stars": 540,
+        "stars": 541,
         "forks": 168,
         "language": "C++",
         "pushed_at": "2025-09-15T03:52:35Z",
@@ -27414,7 +27414,7 @@
         "stars": 54,
         "forks": 21,
         "language": "Java",
-        "pushed_at": "2025-09-15T04:31:00Z",
+        "pushed_at": "2025-09-15T05:21:10Z",
         "created_at": "2022-04-15T03:00:41Z"
       },
       {
@@ -28184,7 +28184,7 @@
         "stars": 52,
         "forks": 60,
         "language": "Java",
-        "pushed_at": "2025-09-12T16:12:20Z",
+        "pushed_at": "2025-09-15T05:25:02Z",
         "created_at": "2022-03-18T19:18:39Z"
       },
       {
@@ -36611,10 +36611,10 @@
         "name": "magika",
         "description": "Fast and accurate AI powered file content types detection ",
         "url": "https://github.com/google/magika",
-        "stars": 8813,
+        "stars": 8814,
         "forks": 452,
         "language": "Python",
-        "pushed_at": "2025-09-12T13:38:52Z",
+        "pushed_at": "2025-09-15T05:25:02Z",
         "created_at": "2023-08-22T09:36:55Z"
       },
       {
@@ -39254,7 +39254,7 @@
         "stars": 491,
         "forks": 80,
         "language": "Go",
-        "pushed_at": "2025-09-15T04:12:58Z",
+        "pushed_at": "2025-09-15T05:29:57Z",
         "created_at": "2024-04-10T09:09:11Z"
       },
       {
@@ -40074,7 +40074,7 @@
         "stars": 433,
         "forks": 99,
         "language": "C++",
-        "pushed_at": "2025-09-14T12:56:04Z",
+        "pushed_at": "2025-09-15T05:31:55Z",
         "created_at": "2021-03-09T22:07:25Z"
       },
       {
