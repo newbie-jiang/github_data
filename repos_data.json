@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-16T15:34:50Z",
+        "pushed_at": "2025-09-16T15:46:40Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -2867,7 +2867,7 @@
         "description": "This is part of a proposal, so it is a draft and not final in the current form.",
         "url": "https://github.com/zephyrproject-rtos/external-modules",
         "stars": 0,
-        "forks": 0,
+        "forks": 1,
         "language": "C++",
         "pushed_at": "2025-06-18T10:24:32Z",
         "created_at": "2025-06-04T10:08:08Z"
@@ -4037,7 +4037,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 13106,
-        "forks": 7917,
+        "forks": 7916,
         "language": "C",
         "pushed_at": "2025-09-16T14:06:48Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -11026,10 +11026,10 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15383,
+        "stars": 15385,
         "forks": 7700,
         "language": "C++",
-        "pushed_at": "2025-09-16T15:01:14Z",
+        "pushed_at": "2025-09-16T15:50:26Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -11199,7 +11199,7 @@
         "stars": 39,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-09-16T15:37:07Z",
+        "pushed_at": "2025-09-16T16:08:11Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -12169,7 +12169,7 @@
         "stars": 4,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-09-16T02:26:58Z",
+        "pushed_at": "2025-09-16T16:04:08Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -13399,7 +13399,7 @@
         "stars": 254,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-09-16T15:19:38Z",
+        "pushed_at": "2025-09-16T15:51:42Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16316,8 +16316,8 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 5866,
-        "forks": 430,
+        "stars": 5869,
+        "forks": 431,
         "language": "TypeScript",
         "pushed_at": "2025-09-09T23:55:19Z",
         "created_at": "2025-08-19T17:22:54Z"
@@ -16546,8 +16546,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 41408,
-        "forks": 4813,
+        "stars": 41418,
+        "forks": 4814,
         "language": "Rust",
         "pushed_at": "2025-09-16T15:43:31Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16977,7 +16977,7 @@
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
         "stars": 18419,
-        "forks": 1745,
+        "forks": 1746,
         "language": "Python",
         "pushed_at": "2025-09-15T19:30:44Z",
         "created_at": "2025-06-23T16:43:33Z"
@@ -17527,7 +17527,7 @@
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
         "stars": 67918,
-        "forks": 11301,
+        "forks": 11302,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-09-14T23:00:54Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -17637,7 +17637,7 @@
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
         "stars": 28691,
-        "forks": 4270,
+        "forks": 4271,
         "language": "Python",
         "pushed_at": "2025-09-15T20:08:59Z",
         "created_at": "2020-10-25T23:23:54Z"
@@ -17666,7 +17666,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 6389,
+        "stars": 6390,
         "forks": 940,
         "language": "TypeScript",
         "pushed_at": "2025-09-03T16:52:46Z",
@@ -17856,7 +17856,7 @@
         "name": "pixel-cnn",
         "description": "Code for the paper \"PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications\"",
         "url": "https://github.com/openai/pixel-cnn",
-        "stars": 1947,
+        "stars": 1948,
         "forks": 438,
         "language": "Python",
         "pushed_at": "2020-02-03T06:39:20Z",
@@ -18306,7 +18306,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 15919,
+        "stars": 15920,
         "forks": 1219,
         "language": "Python",
         "pushed_at": "2025-09-01T00:05:21Z",
@@ -18436,8 +18436,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 88234,
-        "forks": 10969,
+        "stars": 88235,
+        "forks": 10970,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -22411,7 +22411,7 @@
         "name": "argh",
         "description": "Rust derive-based argument parsing optimized for code size",
         "url": "https://github.com/google/argh",
-        "stars": 1845,
+        "stars": 1846,
         "forks": 93,
         "language": "Rust",
         "pushed_at": "2025-07-23T22:01:35Z",
@@ -23211,7 +23211,7 @@
         "name": "BIG-bench",
         "description": "Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models",
         "url": "https://github.com/google/BIG-bench",
-        "stars": 3116,
+        "stars": 3117,
         "forks": 616,
         "language": "Python",
         "pushed_at": "2024-07-19T11:57:37Z",
@@ -23344,7 +23344,7 @@
         "stars": 13106,
         "forks": 3802,
         "language": "TypeScript",
-        "pushed_at": "2025-09-15T22:17:40Z",
+        "pushed_at": "2025-09-16T16:01:52Z",
         "created_at": "2013-10-25T21:13:33Z"
       },
       {
@@ -24434,7 +24434,7 @@
         "stars": 199,
         "forks": 61,
         "language": "C++",
-        "pushed_at": "2025-09-15T11:18:56Z",
+        "pushed_at": "2025-09-16T16:20:03Z",
         "created_at": "2018-02-15T22:25:24Z"
       },
       {
@@ -25124,7 +25124,7 @@
         "stars": 666,
         "forks": 192,
         "language": "Java",
-        "pushed_at": "2025-09-15T20:07:45Z",
+        "pushed_at": "2025-09-16T16:13:50Z",
         "created_at": "2014-04-16T15:31:58Z"
       },
       {
@@ -27414,7 +27414,7 @@
         "stars": 54,
         "forks": 21,
         "language": "Java",
-        "pushed_at": "2025-09-16T14:30:57Z",
+        "pushed_at": "2025-09-16T16:02:52Z",
         "created_at": "2022-04-15T03:00:41Z"
       },
       {
@@ -27724,7 +27724,7 @@
         "stars": 15,
         "forks": 10,
         "language": "C++",
-        "pushed_at": "2025-09-15T20:02:28Z",
+        "pushed_at": "2025-09-16T16:13:37Z",
         "created_at": "2023-08-16T13:43:51Z"
       },
       {
@@ -29424,7 +29424,7 @@
         "stars": 18839,
         "forks": 2029,
         "language": "C++",
-        "pushed_at": "2025-09-16T08:04:22Z",
+        "pushed_at": "2025-09-16T15:57:02Z",
         "created_at": "2018-08-03T17:26:00Z"
       },
       {
@@ -29884,7 +29884,7 @@
         "stars": 19228,
         "forks": 2769,
         "language": "HTML",
-        "pushed_at": "2025-09-16T14:31:56Z",
+        "pushed_at": "2025-09-16T16:16:31Z",
         "created_at": "2015-02-11T23:34:54Z"
       },
       {
@@ -30824,7 +30824,7 @@
         "stars": 6,
         "forks": 6,
         "language": "C++",
-        "pushed_at": "2025-09-11T09:32:02Z",
+        "pushed_at": "2025-09-16T16:07:08Z",
         "created_at": "2025-05-07T22:21:39Z"
       },
       {
@@ -32051,7 +32051,7 @@
         "name": "google-api-objectivec-client-for-rest",
         "description": "Google APIs Client Library for Objective-C for REST",
         "url": "https://github.com/google/google-api-objectivec-client-for-rest",
-        "stars": 821,
+        "stars": 822,
         "forks": 331,
         "language": "Objective-C",
         "pushed_at": "2025-09-15T15:23:52Z",
@@ -34274,7 +34274,7 @@
         "stars": 79,
         "forks": 9,
         "language": "Python",
-        "pushed_at": "2025-09-16T02:17:01Z",
+        "pushed_at": "2025-09-16T16:02:31Z",
         "created_at": "2021-05-14T19:55:29Z"
       },
       {
@@ -34304,7 +34304,7 @@
         "stars": 40,
         "forks": 12,
         "language": "C++",
-        "pushed_at": "2025-09-16T12:22:16Z",
+        "pushed_at": "2025-09-16T16:20:21Z",
         "created_at": "2019-01-02T16:04:39Z"
       },
       {
@@ -35481,7 +35481,7 @@
         "name": "ksp",
         "description": "Kotlin Symbol Processing API",
         "url": "https://github.com/google/ksp",
-        "stars": 3217,
+        "stars": 3218,
         "forks": 339,
         "language": "Kotlin",
         "pushed_at": "2025-09-12T20:10:48Z",
@@ -35571,7 +35571,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 15111,
+        "stars": 15112,
         "forks": 1035,
         "language": "Python",
         "pushed_at": "2025-09-16T04:20:10Z",
@@ -36002,7 +36002,7 @@
         "description": "Ultra HDR is a true HDR image format, and is backcompatible.  libultrahdr is the reference codec for the Ultra HDR format.  The codecs that support the format can render the HDR intent of the image on HDR displays;  other codecs can still decode and display the SDR intent of the image.",
         "url": "https://github.com/google/libultrahdr",
         "stars": 244,
-        "forks": 47,
+        "forks": 46,
         "language": "C++",
         "pushed_at": "2025-09-10T20:16:41Z",
         "created_at": "2023-07-20T21:57:14Z"
@@ -36611,7 +36611,7 @@
         "name": "magika",
         "description": "Fast and accurate AI powered file content types detection ",
         "url": "https://github.com/google/magika",
-        "stars": 8816,
+        "stars": 8815,
         "forks": 452,
         "language": "Python",
         "pushed_at": "2025-09-15T05:25:02Z",
@@ -36851,7 +36851,7 @@
         "name": "material-design-icons",
         "description": "Material Design icons by Google (Material Symbols)",
         "url": "https://github.com/google/material-design-icons",
-        "stars": 52240,
+        "stars": 52239,
         "forks": 9676,
         "language": "未指定",
         "pushed_at": "2025-09-12T02:35:41Z",
@@ -38094,7 +38094,7 @@
         "stars": 859,
         "forks": 177,
         "language": "C++",
-        "pushed_at": "2025-09-16T15:46:06Z",
+        "pushed_at": "2025-09-16T16:05:23Z",
         "created_at": "2020-04-23T20:41:37Z"
       },
       {
@@ -39034,7 +39034,7 @@
         "stars": 12481,
         "forks": 2274,
         "language": "C++",
-        "pushed_at": "2025-09-16T15:13:55Z",
+        "pushed_at": "2025-09-16T16:04:16Z",
         "created_at": "2015-02-21T01:25:35Z"
       },
       {
@@ -39054,7 +39054,7 @@
         "stars": 425,
         "forks": 67,
         "language": "Python",
-        "pushed_at": "2025-09-16T14:55:17Z",
+        "pushed_at": "2025-09-16T16:07:42Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39164,7 +39164,7 @@
         "stars": 117,
         "forks": 17,
         "language": "Shell",
-        "pushed_at": "2025-09-15T21:29:27Z",
+        "pushed_at": "2025-09-16T16:04:17Z",
         "created_at": "2023-03-06T22:29:05Z"
       },
       {
@@ -39194,7 +39194,7 @@
         "stars": 11316,
         "forks": 2479,
         "language": "Shell",
-        "pushed_at": "2025-09-16T15:09:55Z",
+        "pushed_at": "2025-09-16T16:19:10Z",
         "created_at": "2016-07-20T19:39:50Z"
       },
       {
@@ -39261,7 +39261,7 @@
         "name": "osv-scanner",
         "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
         "url": "https://github.com/google/osv-scanner",
-        "stars": 7743,
+        "stars": 7744,
         "forks": 454,
         "language": "Go",
         "pushed_at": "2025-09-16T01:38:21Z",
@@ -39291,7 +39291,7 @@
         "name": "osv.dev",
         "description": "Open source vulnerability DB and triage service.",
         "url": "https://github.com/google/osv.dev",
-        "stars": 1980,
+        "stars": 1981,
         "forks": 225,
         "language": "Python",
         "pushed_at": "2025-09-16T05:49:13Z",
@@ -39681,7 +39681,7 @@
         "name": "paxml",
         "description": "Pax is a Jax-based machine learning framework for training large scale models. Pax allows for advanced and fully configurable experimentation and parallelization, and has demonstrated industry leading model flop utilization rates.",
         "url": "https://github.com/google/paxml",
-        "stars": 535,
+        "stars": 536,
         "forks": 68,
         "language": "Python",
         "pushed_at": "2025-09-03T06:53:52Z",
@@ -39834,7 +39834,7 @@
         "stars": 4607,
         "forks": 582,
         "language": "C++",
-        "pushed_at": "2025-09-16T15:43:06Z",
+        "pushed_at": "2025-09-16T16:05:16Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -40074,7 +40074,7 @@
         "stars": 433,
         "forks": 99,
         "language": "C++",
-        "pushed_at": "2025-09-16T06:38:57Z",
+        "pushed_at": "2025-09-16T16:00:25Z",
         "created_at": "2021-03-09T22:07:25Z"
       },
       {
@@ -40541,7 +40541,7 @@
         "name": "pprof-nodejs",
         "description": "pprof support for Node.js",
         "url": "https://github.com/google/pprof-nodejs",
-        "stars": 281,
+        "stars": 282,
         "forks": 31,
         "language": "JavaScript",
         "pushed_at": "2025-02-18T09:29:36Z",
@@ -41684,7 +41684,7 @@
         "stars": 37,
         "forks": 3,
         "language": "Python",
-        "pushed_at": "2025-09-16T06:31:41Z",
+        "pushed_at": "2025-09-16T16:09:49Z",
         "created_at": "2025-03-19T23:45:26Z"
       },
       {
@@ -43864,7 +43864,7 @@
         "stars": 1324,
         "forks": 318,
         "language": "JavaScript",
-        "pushed_at": "2025-09-16T14:50:02Z",
+        "pushed_at": "2025-09-16T16:07:10Z",
         "created_at": "2019-06-11T14:20:21Z"
       },
       {
@@ -43884,7 +43884,7 @@
         "stars": 10089,
         "forks": 1616,
         "language": "C++",
-        "pushed_at": "2025-09-16T15:25:32Z",
+        "pushed_at": "2025-09-16T16:16:32Z",
         "created_at": "2014-01-09T17:09:57Z"
       },
       {
@@ -45291,7 +45291,7 @@
         "name": "swiftshader",
         "description": "SwiftShader is a high-performance CPU-based implementation of the Vulkan graphics API. Its goal is to provide hardware independence for advanced 3D graphics.",
         "url": "https://github.com/google/swiftshader",
-        "stars": 2377,
+        "stars": 2378,
         "forks": 313,
         "language": "C++",
         "pushed_at": "2025-09-08T15:39:11Z",
@@ -46301,7 +46301,7 @@
         "name": "trax",
         "description": "Trax — Deep Learning with Clear Code and Speed",
         "url": "https://github.com/google/trax",
-        "stars": 8279,
+        "stars": 8280,
         "forks": 824,
         "language": "Python",
         "pushed_at": "2025-08-27T22:45:35Z",
