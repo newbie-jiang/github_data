@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-17T05:15:44Z",
+        "pushed_at": "2025-09-17T05:33:20Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -13399,7 +13399,7 @@
         "stars": 254,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-09-17T04:30:37Z",
+        "pushed_at": "2025-09-17T05:33:40Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -14044,7 +14044,7 @@
         "stars": 10,
         "forks": 8,
         "language": "C",
-        "pushed_at": "2025-09-05T08:43:32Z",
+        "pushed_at": "2025-09-17T05:33:21Z",
         "created_at": "2024-07-15T03:58:42Z"
       },
       {
@@ -16516,7 +16516,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 30707,
+        "stars": 30708,
         "forks": 3743,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16546,10 +16546,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 41647,
+        "stars": 41650,
         "forks": 4861,
         "language": "Rust",
-        "pushed_at": "2025-09-17T05:26:52Z",
+        "pushed_at": "2025-09-17T05:38:14Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -17479,7 +17479,7 @@
         "stars": 1357,
         "forks": 320,
         "language": "TypeScript",
-        "pushed_at": "2025-09-16T05:19:04Z",
+        "pushed_at": "2025-09-17T05:37:26Z",
         "created_at": "2025-05-31T00:08:49Z"
       },
       {
@@ -18307,7 +18307,7 @@
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
         "stars": 15931,
-        "forks": 1220,
+        "forks": 1221,
         "language": "Python",
         "pushed_at": "2025-09-01T00:05:21Z",
         "created_at": "2022-12-01T23:22:11Z"
@@ -18436,7 +18436,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 88254,
+        "stars": 88256,
         "forks": 10976,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
@@ -19854,7 +19854,7 @@
         "stars": 0,
         "forks": 2,
         "language": "C",
-        "pushed_at": "2025-09-17T05:32:56Z",
+        "pushed_at": "2025-09-17T05:44:36Z",
         "created_at": "2025-02-20T15:01:08Z"
       },
       {
@@ -20699,7 +20699,7 @@
         "stars": 1148,
         "forks": 1381,
         "language": "C",
-        "pushed_at": "2025-09-16T21:07:30Z",
+        "pushed_at": "2025-09-17T05:39:55Z",
         "created_at": "2018-02-14T13:50:55Z"
       },
       {
@@ -35571,8 +35571,8 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 15155,
-        "forks": 1039,
+        "stars": 15156,
+        "forks": 1040,
         "language": "Python",
         "pushed_at": "2025-09-16T04:20:10Z",
         "created_at": "2025-07-08T20:46:06Z"
