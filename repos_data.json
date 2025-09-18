@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-18T13:07:13Z",
+        "pushed_at": "2025-09-18T13:39:14Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3649,7 +3649,7 @@
         "stars": 4,
         "forks": 6,
         "language": "HTML",
-        "pushed_at": "2025-09-16T15:44:47Z",
+        "pushed_at": "2025-09-18T13:40:49Z",
         "created_at": "2024-12-20T13:03:01Z"
       },
       {
@@ -16181,7 +16181,7 @@
         "name": "rt-thread",
         "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/",
         "url": "https://github.com/RT-Thread/rt-thread",
-        "stars": 11414,
+        "stars": 11413,
         "forks": 5264,
         "language": "C",
         "pushed_at": "2025-09-18T05:09:28Z",
@@ -16346,7 +16346,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 6024,
+        "stars": 6026,
         "forks": 450,
         "language": "TypeScript",
         "pushed_at": "2025-09-09T23:55:19Z",
@@ -16576,8 +16576,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 42404,
-        "forks": 4927,
+        "stars": 42409,
+        "forks": 4928,
         "language": "Rust",
         "pushed_at": "2025-09-18T13:28:28Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -17056,7 +17056,7 @@
         "name": "gym",
         "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
         "url": "https://github.com/openai/gym",
-        "stars": 36536,
+        "stars": 36537,
         "forks": 8692,
         "language": "Python",
         "pushed_at": "2024-10-11T20:07:05Z",
@@ -17556,7 +17556,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 67953,
+        "stars": 67955,
         "forks": 11310,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-09-18T07:21:05Z",
@@ -18466,7 +18466,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 88337,
+        "stars": 88339,
         "forks": 10991,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
@@ -19492,7 +19492,7 @@
         "description": "A utility for building Vulkan API layer drivers, and a some off-the-shelf layers for the Arm Immortalis and Arm Mali GPUs.",
         "url": "https://github.com/ARM-software/libGPULayers",
         "stars": 28,
-        "forks": 3,
+        "forks": 4,
         "language": "C++",
         "pushed_at": "2025-08-18T20:53:46Z",
         "created_at": "2024-09-06T08:59:35Z"
@@ -20729,7 +20729,7 @@
         "stars": 1148,
         "forks": 1383,
         "language": "C",
-        "pushed_at": "2025-09-18T13:31:30Z",
+        "pushed_at": "2025-09-18T13:47:56Z",
         "created_at": "2018-02-14T13:50:55Z"
       },
       {
@@ -21261,7 +21261,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 4981,
+        "stars": 4982,
         "forks": 1448,
         "language": "Python",
         "pushed_at": "2025-09-18T02:22:14Z",
@@ -22014,7 +22014,7 @@
         "stars": 3805,
         "forks": 680,
         "language": "C++",
-        "pushed_at": "2025-09-18T09:48:55Z",
+        "pushed_at": "2025-09-18T13:38:55Z",
         "created_at": "2014-08-26T14:59:07Z"
       },
       {
@@ -24121,7 +24121,7 @@
         "name": "cameratrapai",
         "description": "AI models trained by Google to classify species in images from motion-triggered wildlife cameras.",
         "url": "https://github.com/google/cameratrapai",
-        "stars": 353,
+        "stars": 354,
         "forks": 40,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-09-17T14:49:24Z",
@@ -27444,7 +27444,7 @@
         "stars": 54,
         "forks": 21,
         "language": "Java",
-        "pushed_at": "2025-09-18T12:33:42Z",
+        "pushed_at": "2025-09-18T13:48:47Z",
         "created_at": "2022-04-15T03:00:41Z"
       },
       {
@@ -27614,7 +27614,7 @@
         "stars": 3217,
         "forks": 394,
         "language": "Go",
-        "pushed_at": "2025-09-18T13:30:40Z",
+        "pushed_at": "2025-09-18T13:46:00Z",
         "created_at": "2019-09-04T13:04:15Z"
       },
       {
@@ -28851,7 +28851,7 @@
         "name": "esh",
         "description": "UART based embedded shell for embedded systems. Intended to be used for learning, experimenting and diagnostics.",
         "url": "https://github.com/google/esh",
-        "stars": 316,
+        "stars": 317,
         "forks": 65,
         "language": "C",
         "pushed_at": "2024-04-11T11:52:00Z",
@@ -28894,7 +28894,7 @@
         "stars": 238,
         "forks": 25,
         "language": "Python",
-        "pushed_at": "2025-09-15T12:37:32Z",
+        "pushed_at": "2025-09-18T13:45:18Z",
         "created_at": "2021-10-05T15:23:22Z"
       },
       {
@@ -29361,7 +29361,7 @@
         "name": "fhir-data-pipes",
         "description": "A collection of tools for extracting FHIR resources and analytics services on top of that data.",
         "url": "https://github.com/google/fhir-data-pipes",
-        "stars": 192,
+        "stars": 193,
         "forks": 114,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-09-18T12:16:24Z",
@@ -29452,7 +29452,7 @@
         "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
         "url": "https://github.com/google/filament",
         "stars": 18845,
-        "forks": 2031,
+        "forks": 2032,
         "language": "C++",
         "pushed_at": "2025-09-18T05:00:39Z",
         "created_at": "2018-08-03T17:26:00Z"
@@ -31541,7 +31541,7 @@
         "name": "go-containerregistry",
         "description": "Go library and CLIs for working with container registries",
         "url": "https://github.com/google/go-containerregistry",
-        "stars": 3512,
+        "stars": 3513,
         "forks": 586,
         "language": "Go",
         "pushed_at": "2025-09-16T06:11:27Z",
@@ -32431,7 +32431,7 @@
         "name": "googletest",
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "url": "https://github.com/google/googletest",
-        "stars": 37149,
+        "stars": 37148,
         "forks": 10532,
         "language": "C++",
         "pushed_at": "2025-09-16T17:40:05Z",
@@ -33431,7 +33431,7 @@
         "name": "heir",
         "description": "A compiler for homomorphic encryption",
         "url": "https://github.com/google/heir",
-        "stars": 520,
+        "stars": 521,
         "forks": 92,
         "language": "C++",
         "pushed_at": "2025-09-17T23:02:27Z",
@@ -39064,7 +39064,7 @@
         "stars": 12496,
         "forks": 2274,
         "language": "C++",
-        "pushed_at": "2025-09-18T13:37:14Z",
+        "pushed_at": "2025-09-18T13:46:13Z",
         "created_at": "2015-02-21T01:25:35Z"
       },
       {
@@ -39864,7 +39864,7 @@
         "stars": 4621,
         "forks": 584,
         "language": "C++",
-        "pushed_at": "2025-09-18T13:33:55Z",
+        "pushed_at": "2025-09-18T13:48:26Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
