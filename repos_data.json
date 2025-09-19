@@ -319,7 +319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-19T08:50:47Z",
+        "pushed_at": "2025-09-19T09:18:11Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -2331,7 +2331,7 @@
         "name": "w25qxx",
         "description": "W25QXX(W25Q80, W25Q16, W25Q32, W25Q64, W25Q128, W25Q256, W25Q512, W25Q01, W25Q02) full-featured driver library for general-purpose MCU and Linux.",
         "url": "https://github.com/libdriver/w25qxx",
-        "stars": 599,
+        "stars": 600,
         "forks": 67,
         "language": "C",
         "pushed_at": "2025-05-18T09:36:02Z",
@@ -4026,8 +4026,8 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 13125,
-        "forks": 7930,
+        "stars": 13126,
+        "forks": 7931,
         "language": "C",
         "pushed_at": "2025-09-19T06:06:42Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -11679,7 +11679,7 @@
         "stars": 3,
         "forks": 0,
         "language": "C++",
-        "pushed_at": "2025-09-19T09:15:32Z",
+        "pushed_at": "2025-09-19T09:30:31Z",
         "created_at": "2025-03-05T06:33:28Z"
       },
       {
@@ -11796,7 +11796,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 16255,
+        "stars": 16256,
         "forks": 7867,
         "language": "C",
         "pushed_at": "2025-09-18T00:14:37Z",
@@ -11876,7 +11876,7 @@
         "name": "esp-idf-provisioning-android",
         "description": "Android Provisioning application for ESP-IDF Unified provisioning",
         "url": "https://github.com/espressif/esp-idf-provisioning-android",
-        "stars": 240,
+        "stars": 241,
         "forks": 156,
         "language": "Java",
         "pushed_at": "2025-09-04T07:04:29Z",
@@ -11886,7 +11886,7 @@
         "name": "esp-idf-provisioning-ios",
         "description": "（无简介）",
         "url": "https://github.com/espressif/esp-idf-provisioning-ios",
-        "stars": 154,
+        "stars": 155,
         "forks": 71,
         "language": "Swift",
         "pushed_at": "2025-05-23T12:34:41Z",
@@ -12129,7 +12129,7 @@
         "stars": 92,
         "forks": 64,
         "language": "C",
-        "pushed_at": "2025-09-17T08:06:24Z",
+        "pushed_at": "2025-09-19T09:31:10Z",
         "created_at": "2019-03-14T06:09:28Z"
       },
       {
@@ -13159,7 +13159,7 @@
         "stars": 345,
         "forks": 131,
         "language": "Java",
-        "pushed_at": "2025-09-19T07:35:56Z",
+        "pushed_at": "2025-09-19T09:26:31Z",
         "created_at": "2019-09-16T02:21:43Z"
       },
       {
@@ -13399,7 +13399,7 @@
         "stars": 253,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-09-19T08:49:45Z",
+        "pushed_at": "2025-09-19T09:21:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13659,7 +13659,7 @@
         "stars": 4,
         "forks": 5,
         "language": "Python",
-        "pushed_at": "2025-09-18T12:52:48Z",
+        "pushed_at": "2025-09-19T09:23:42Z",
         "created_at": "2024-02-07T08:11:22Z"
       },
       {
@@ -16356,7 +16356,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 6091,
+        "stars": 6092,
         "forks": 453,
         "language": "TypeScript",
         "pushed_at": "2025-09-09T23:55:19Z",
@@ -16586,7 +16586,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 42817,
+        "stars": 42824,
         "forks": 4962,
         "language": "Rust",
         "pushed_at": "2025-09-19T04:18:36Z",
@@ -17066,7 +17066,7 @@
         "name": "gym",
         "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
         "url": "https://github.com/openai/gym",
-        "stars": 36543,
+        "stars": 36544,
         "forks": 8693,
         "language": "Python",
         "pushed_at": "2024-10-11T20:07:05Z",
@@ -17526,7 +17526,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 14803,
+        "stars": 14807,
         "forks": 2449,
         "language": "Python",
         "pushed_at": "2025-09-18T17:22:32Z",
@@ -17666,8 +17666,8 @@
         "name": "openai-node",
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
-        "stars": 10112,
-        "forks": 1247,
+        "stars": 10113,
+        "forks": 1248,
         "language": "TypeScript",
         "pushed_at": "2025-09-19T05:07:38Z",
         "created_at": "2021-12-14T22:32:58Z"
@@ -18486,7 +18486,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 88371,
+        "stars": 88372,
         "forks": 10997,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
@@ -21261,7 +21261,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 13096,
+        "stars": 13097,
         "forks": 1903,
         "language": "Python",
         "pushed_at": "2025-09-19T08:28:18Z",
@@ -23951,7 +23951,7 @@
         "name": "bundletool",
         "description": "Bundletool is a command-line tool to manipulate Android App Bundles",
         "url": "https://github.com/google/bundletool",
-        "stars": 3832,
+        "stars": 3833,
         "forks": 409,
         "language": "Java",
         "pushed_at": "2025-03-06T12:00:45Z",
@@ -29364,7 +29364,7 @@
         "stars": 895,
         "forks": 200,
         "language": "C++",
-        "pushed_at": "2025-09-19T07:19:10Z",
+        "pushed_at": "2025-09-19T09:20:34Z",
         "created_at": "2018-01-10T04:54:52Z"
       },
       {
@@ -31561,7 +31561,7 @@
         "name": "go-containerregistry",
         "description": "Go library and CLIs for working with container registries",
         "url": "https://github.com/google/go-containerregistry",
-        "stars": 3516,
+        "stars": 3517,
         "forks": 586,
         "language": "Go",
         "pushed_at": "2025-09-16T06:11:27Z",
@@ -34682,7 +34682,7 @@
         "description": "Google IT Automation with Python Professional Certificate - Practice files",
         "url": "https://github.com/google/it-cert-automation-practice",
         "stars": 968,
-        "forks": 45746,
+        "forks": 45747,
         "language": "Python",
         "pushed_at": "2024-08-21T14:58:21Z",
         "created_at": "2019-12-17T19:04:12Z"
@@ -35621,7 +35621,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 15328,
+        "stars": 15329,
         "forks": 1057,
         "language": "Python",
         "pushed_at": "2025-09-18T20:27:09Z",
@@ -39084,7 +39084,7 @@
         "stars": 12499,
         "forks": 2276,
         "language": "C++",
-        "pushed_at": "2025-09-19T09:17:02Z",
+        "pushed_at": "2025-09-19T09:29:36Z",
         "created_at": "2015-02-21T01:25:35Z"
       },
       {
@@ -39311,7 +39311,7 @@
         "name": "osv-scanner",
         "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
         "url": "https://github.com/google/osv-scanner",
-        "stars": 7755,
+        "stars": 7756,
         "forks": 454,
         "language": "Go",
         "pushed_at": "2025-09-18T23:41:20Z",
@@ -39884,7 +39884,7 @@
         "stars": 4627,
         "forks": 585,
         "language": "C++",
-        "pushed_at": "2025-09-19T09:16:17Z",
+        "pushed_at": "2025-09-19T09:23:30Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -43354,7 +43354,7 @@
         "stars": 39,
         "forks": 25,
         "language": "Python",
-        "pushed_at": "2025-09-19T08:56:32Z",
+        "pushed_at": "2025-09-19T09:32:59Z",
         "created_at": "2025-02-09T15:46:21Z"
       },
       {
