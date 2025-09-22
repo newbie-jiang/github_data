@@ -329,7 +329,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-22T10:19:21Z",
+        "pushed_at": "2025-09-22T10:41:17Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3299,7 +3299,7 @@
         "stars": 1,
         "forks": 6,
         "language": "HCL",
-        "pushed_at": "2025-09-16T10:39:55Z",
+        "pushed_at": "2025-09-22T10:55:29Z",
         "created_at": "2022-03-25T11:59:06Z"
       },
       {
@@ -4069,7 +4069,7 @@
         "stars": 16,
         "forks": 25,
         "language": "C",
-        "pushed_at": "2025-09-22T10:26:44Z",
+        "pushed_at": "2025-09-22T10:49:46Z",
         "created_at": "2017-04-26T03:08:46Z"
       },
       {
@@ -11807,7 +11807,7 @@
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
         "stars": 16270,
-        "forks": 7873,
+        "forks": 7872,
         "language": "C",
         "pushed_at": "2025-09-20T07:22:32Z",
         "created_at": "2016-08-17T10:40:35Z"
@@ -13009,7 +13009,7 @@
         "stars": 6055,
         "forks": 1447,
         "language": "Python",
-        "pushed_at": "2025-09-18T07:19:02Z",
+        "pushed_at": "2025-09-22T10:51:16Z",
         "created_at": "2014-09-06T14:50:29Z"
       },
       {
@@ -13396,7 +13396,7 @@
         "name": "kicad-libraries",
         "description": "KiCad libraries for Espressif SoCs, modules, and DevKits.",
         "url": "https://github.com/espressif/kicad-libraries",
-        "stars": 991,
+        "stars": 992,
         "forks": 134,
         "language": "Python",
         "pushed_at": "2025-02-04T16:47:29Z",
@@ -13419,7 +13419,7 @@
         "stars": 253,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-09-22T10:36:38Z",
+        "pushed_at": "2025-09-22T11:08:38Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16211,7 +16211,7 @@
         "name": "rt-thread",
         "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/",
         "url": "https://github.com/RT-Thread/rt-thread",
-        "stars": 11418,
+        "stars": 11419,
         "forks": 5262,
         "language": "C",
         "pushed_at": "2025-09-22T09:41:06Z",
@@ -16376,7 +16376,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 6258,
+        "stars": 6260,
         "forks": 467,
         "language": "TypeScript",
         "pushed_at": "2025-09-09T23:55:19Z",
@@ -16536,7 +16536,7 @@
         "name": "chatgpt-retrieval-plugin",
         "description": "The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.",
         "url": "https://github.com/openai/chatgpt-retrieval-plugin",
-        "stars": 21222,
+        "stars": 21223,
         "forks": 3680,
         "language": "Python",
         "pushed_at": "2024-07-04T22:00:16Z",
@@ -16606,8 +16606,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 43572,
-        "forks": 5094,
+        "stars": 43578,
+        "forks": 5095,
         "language": "Rust",
         "pushed_at": "2025-09-22T10:23:58Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -17036,8 +17036,8 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 18507,
-        "forks": 1774,
+        "stars": 18508,
+        "forks": 1776,
         "language": "Python",
         "pushed_at": "2025-09-21T17:45:16Z",
         "created_at": "2025-06-23T16:43:33Z"
@@ -17546,7 +17546,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 14881,
+        "stars": 14882,
         "forks": 2473,
         "language": "Python",
         "pushed_at": "2025-09-22T08:54:27Z",
@@ -17586,7 +17586,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 68001,
+        "stars": 68002,
         "forks": 11325,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-09-18T07:21:05Z",
@@ -17706,7 +17706,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 28732,
+        "stars": 28733,
         "forks": 4288,
         "language": "Python",
         "pushed_at": "2025-09-22T05:04:07Z",
@@ -18507,7 +18507,7 @@
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
         "stars": 88491,
-        "forks": 11001,
+        "forks": 11002,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -18971,7 +18971,7 @@
         "name": "CMSIS-DSP",
         "description": "CMSIS-DSP embedded compute library for Cortex-M and Cortex-A",
         "url": "https://github.com/ARM-software/CMSIS-DSP",
-        "stars": 807,
+        "stars": 808,
         "forks": 193,
         "language": "C",
         "pushed_at": "2025-09-15T12:02:32Z",
@@ -19474,7 +19474,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-22T09:32:28Z",
+        "pushed_at": "2025-09-22T11:08:28Z",
         "created_at": "2024-09-26T09:22:19Z"
       },
       {
@@ -20889,7 +20889,7 @@
         "stars": 338,
         "forks": 704,
         "language": "C",
-        "pushed_at": "2025-09-19T06:54:23Z",
+        "pushed_at": "2025-09-22T11:02:22Z",
         "created_at": "2018-02-05T14:45:23Z"
       },
       {
@@ -21281,7 +21281,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 13154,
+        "stars": 13155,
         "forks": 1921,
         "language": "Python",
         "pushed_at": "2025-09-20T01:59:02Z",
@@ -21301,8 +21301,8 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 5160,
-        "forks": 1498,
+        "stars": 5161,
+        "forks": 1499,
         "language": "Python",
         "pushed_at": "2025-09-19T21:23:26Z",
         "created_at": "2025-04-01T20:44:42Z"
@@ -23411,7 +23411,7 @@
         "name": "blockly",
         "description": "The web-based visual programming editor.",
         "url": "https://github.com/google/blockly",
-        "stars": 13111,
+        "stars": 13112,
         "forks": 3803,
         "language": "TypeScript",
         "pushed_at": "2025-09-22T09:16:15Z",
@@ -23572,7 +23572,7 @@
         "description": "Mirror of BoringSSL",
         "url": "https://github.com/google/boringssl",
         "stars": 2017,
-        "forks": 837,
+        "forks": 838,
         "language": "C++",
         "pushed_at": "2025-09-21T20:11:12Z",
         "created_at": "2016-03-05T00:45:11Z"
@@ -23721,7 +23721,7 @@
         "name": "brotli",
         "description": "Brotli compression format",
         "url": "https://github.com/google/brotli",
-        "stars": 14305,
+        "stars": 14306,
         "forks": 1283,
         "language": "TypeScript",
         "pushed_at": "2025-09-19T13:36:28Z",
@@ -25771,7 +25771,7 @@
         "name": "comprehensive-rust",
         "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
         "url": "https://github.com/google/comprehensive-rust",
-        "stars": 32035,
+        "stars": 32036,
         "forks": 1903,
         "language": "Rust",
         "pushed_at": "2025-09-22T09:44:52Z",
@@ -25994,7 +25994,7 @@
         "stars": 2453,
         "forks": 287,
         "language": "Java",
-        "pushed_at": "2025-09-15T11:09:09Z",
+        "pushed_at": "2025-09-22T11:09:06Z",
         "created_at": "2016-09-08T16:44:40Z"
       },
       {
@@ -26811,10 +26811,10 @@
         "name": "dagger",
         "description": "A fast dependency injector for Android and Java.",
         "url": "https://github.com/google/dagger",
-        "stars": 17630,
+        "stars": 17631,
         "forks": 2041,
         "language": "Java",
-        "pushed_at": "2025-09-22T10:19:52Z",
+        "pushed_at": "2025-09-22T10:47:55Z",
         "created_at": "2013-02-01T23:14:14Z"
       },
       {
@@ -27484,7 +27484,7 @@
         "stars": 54,
         "forks": 21,
         "language": "Java",
-        "pushed_at": "2025-09-22T09:59:31Z",
+        "pushed_at": "2025-09-22T10:52:21Z",
         "created_at": "2022-04-15T03:00:41Z"
       },
       {
@@ -27631,7 +27631,7 @@
         "name": "diff-match-patch",
         "description": "Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.",
         "url": "https://github.com/google/diff-match-patch",
-        "stars": 7912,
+        "stars": 7913,
         "forks": 1168,
         "language": "Python",
         "pushed_at": "2024-05-22T22:13:22Z",
@@ -27654,7 +27654,7 @@
         "stars": 3219,
         "forks": 395,
         "language": "Go",
-        "pushed_at": "2025-09-22T10:26:00Z",
+        "pushed_at": "2025-09-22T11:07:26Z",
         "created_at": "2019-09-04T13:04:15Z"
       },
       {
@@ -29491,7 +29491,7 @@
         "name": "filament",
         "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
         "url": "https://github.com/google/filament",
-        "stars": 18858,
+        "stars": 18859,
         "forks": 2031,
         "language": "C++",
         "pushed_at": "2025-09-22T05:38:07Z",
@@ -29601,7 +29601,7 @@
         "name": "flatbuffers",
         "description": "FlatBuffers: Memory Efficient Serialization Library",
         "url": "https://github.com/google/flatbuffers",
-        "stars": 24774,
+        "stars": 24775,
         "forks": 3399,
         "language": "C++",
         "pushed_at": "2025-09-22T04:54:17Z",
@@ -29624,7 +29624,7 @@
         "stars": 6812,
         "forks": 740,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-09-21T20:59:56Z",
+        "pushed_at": "2025-09-22T11:00:05Z",
         "created_at": "2020-01-10T09:48:37Z"
       },
       {
@@ -35494,7 +35494,7 @@
         "stars": 28,
         "forks": 14,
         "language": "C++",
-        "pushed_at": "2025-09-22T09:45:03Z",
+        "pushed_at": "2025-09-22T11:06:27Z",
         "created_at": "2024-05-07T11:31:53Z"
       },
       {
@@ -35641,7 +35641,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 15607,
+        "stars": 15609,
         "forks": 1073,
         "language": "Python",
         "pushed_at": "2025-09-22T09:05:18Z",
@@ -36831,7 +36831,7 @@
         "name": "mangle",
         "description": "（无简介）",
         "url": "https://github.com/google/mangle",
-        "stars": 2746,
+        "stars": 2747,
         "forks": 134,
         "language": "Go",
         "pushed_at": "2025-09-22T08:16:05Z",
@@ -39104,7 +39104,7 @@
         "stars": 12507,
         "forks": 2277,
         "language": "C++",
-        "pushed_at": "2025-09-22T08:36:33Z",
+        "pushed_at": "2025-09-22T11:05:47Z",
         "created_at": "2015-02-21T01:25:35Z"
       },
       {
@@ -39324,7 +39324,7 @@
         "stars": 501,
         "forks": 83,
         "language": "Go",
-        "pushed_at": "2025-09-22T10:33:38Z",
+        "pushed_at": "2025-09-22T11:04:38Z",
         "created_at": "2024-04-10T09:09:11Z"
       },
       {
@@ -39901,10 +39901,10 @@
         "name": "perfetto",
         "description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.",
         "url": "https://github.com/google/perfetto",
-        "stars": 4638,
+        "stars": 4639,
         "forks": 586,
         "language": "C++",
-        "pushed_at": "2025-09-22T09:45:49Z",
+        "pushed_at": "2025-09-22T10:55:20Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -43341,7 +43341,7 @@
         "name": "season-of-docs",
         "description": "Supporting materials for Google's Season of Docs program",
         "url": "https://github.com/google/season-of-docs",
-        "stars": 577,
+        "stars": 578,
         "forks": 1041,
         "language": "未指定",
         "pushed_at": "2024-11-14T23:18:34Z",
@@ -43964,7 +43964,7 @@
         "stars": 156,
         "forks": 79,
         "language": "Go",
-        "pushed_at": "2025-09-22T10:38:31Z",
+        "pushed_at": "2025-09-22T11:03:31Z",
         "created_at": "2014-01-09T17:10:17Z"
       },
       {
@@ -44361,7 +44361,7 @@
         "name": "snappy",
         "description": "A fast compressor/decompressor",
         "url": "https://github.com/google/snappy",
-        "stars": 6438,
+        "stars": 6439,
         "forks": 1009,
         "language": "C++",
         "pushed_at": "2025-07-29T08:45:06Z",
