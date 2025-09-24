@@ -329,7 +329,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-24T17:32:59Z",
+        "pushed_at": "2025-09-24T17:45:35Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4036,8 +4036,8 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 13160,
-        "forks": 7947,
+        "stars": 13161,
+        "forks": 7948,
         "language": "C",
         "pushed_at": "2025-09-24T14:51:43Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -8721,7 +8721,7 @@
         "name": "STM32CubeF4",
         "description": "STM32Cube MCU Full Package for the STM32F4 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
         "url": "https://github.com/STMicroelectronics/STM32CubeF4",
-        "stars": 1093,
+        "stars": 1094,
         "forks": 461,
         "language": "C",
         "pushed_at": "2025-08-27T14:36:16Z",
@@ -9121,7 +9121,7 @@
         "name": "stm32f4xx-hal-driver",
         "description": "Provides the STM32Cube MCU Component \"hal_driver\" of the STM32F4 series.",
         "url": "https://github.com/STMicroelectronics/stm32f4xx-hal-driver",
-        "stars": 158,
+        "stars": 159,
         "forks": 63,
         "language": "C",
         "pushed_at": "2025-08-21T12:57:17Z",
@@ -11036,7 +11036,7 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15435,
+        "stars": 15436,
         "forks": 7704,
         "language": "C++",
         "pushed_at": "2025-09-24T14:05:32Z",
@@ -12096,7 +12096,7 @@
         "name": "esp-mesh-lite",
         "description": "A lite version Wi-Fi Mesh, each node can access the network over the IP layer.",
         "url": "https://github.com/espressif/esp-mesh-lite",
-        "stars": 180,
+        "stars": 181,
         "forks": 37,
         "language": "C",
         "pushed_at": "2025-08-12T02:26:43Z",
@@ -12179,7 +12179,7 @@
         "stars": 4,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-09-24T16:03:18Z",
+        "pushed_at": "2025-09-24T18:03:13Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12796,7 +12796,7 @@
         "name": "esp32-nesemu",
         "description": "Proof-of-concept NES emulator for the ESP32",
         "url": "https://github.com/espressif/esp32-nesemu",
-        "stars": 587,
+        "stars": 588,
         "forks": 180,
         "language": "C",
         "pushed_at": "2023-06-06T09:03:00Z",
@@ -13429,7 +13429,7 @@
         "stars": 253,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-09-24T17:26:42Z",
+        "pushed_at": "2025-09-24T17:57:41Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16396,7 +16396,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 6398,
+        "stars": 6400,
         "forks": 480,
         "language": "TypeScript",
         "pushed_at": "2025-09-09T23:55:19Z",
@@ -16626,10 +16626,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 44200,
-        "forks": 5166,
+        "stars": 44204,
+        "forks": 5167,
         "language": "Rust",
-        "pushed_at": "2025-09-24T17:27:36Z",
+        "pushed_at": "2025-09-24T18:13:30Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -17116,7 +17116,7 @@
         "name": "gym",
         "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
         "url": "https://github.com/openai/gym",
-        "stars": 36578,
+        "stars": 36579,
         "forks": 8698,
         "language": "Python",
         "pushed_at": "2024-10-11T20:07:05Z",
@@ -17566,7 +17566,7 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 1412,
+        "stars": 1413,
         "forks": 342,
         "language": "TypeScript",
         "pushed_at": "2025-09-22T23:06:27Z",
@@ -17576,8 +17576,8 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 14962,
-        "forks": 2488,
+        "stars": 14964,
+        "forks": 2489,
         "language": "Python",
         "pushed_at": "2025-09-24T16:27:50Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -17616,7 +17616,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 68047,
+        "stars": 68048,
         "forks": 11335,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-09-24T16:51:19Z",
@@ -17737,7 +17737,7 @@
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
         "stars": 28760,
-        "forks": 4290,
+        "forks": 4291,
         "language": "Python",
         "pushed_at": "2025-09-24T13:00:25Z",
         "created_at": "2020-10-25T23:23:54Z"
@@ -18346,7 +18346,7 @@
         "name": "supervised-reptile",
         "description": "Code for the paper \"On First-Order Meta-Learning Algorithms\"",
         "url": "https://github.com/openai/supervised-reptile",
-        "stars": 1021,
+        "stars": 1020,
         "forks": 214,
         "language": "JavaScript",
         "pushed_at": "2023-05-20T19:59:33Z",
@@ -21321,7 +21321,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 5265,
+        "stars": 5266,
         "forks": 1527,
         "language": "Python",
         "pushed_at": "2025-09-19T21:23:26Z",
@@ -24461,7 +24461,7 @@
         "name": "cctz",
         "description": "CCTZ is a C++ library for translating between absolute and civil times using the rules of a time zone.",
         "url": "https://github.com/google/cctz",
-        "stars": 625,
+        "stars": 626,
         "forks": 173,
         "language": "C++",
         "pushed_at": "2025-08-06T16:42:10Z",
@@ -25144,7 +25144,7 @@
         "stars": 7573,
         "forks": 1167,
         "language": "Java",
-        "pushed_at": "2025-09-24T17:12:48Z",
+        "pushed_at": "2025-09-24T18:08:55Z",
         "created_at": "2014-04-16T15:30:36Z"
       },
       {
@@ -26564,7 +26564,7 @@
         "stars": 882,
         "forks": 54,
         "language": "Rust",
-        "pushed_at": "2025-09-24T14:31:43Z",
+        "pushed_at": "2025-09-24T18:03:51Z",
         "created_at": "2022-03-02T09:13:13Z"
       },
       {
@@ -27241,7 +27241,7 @@
         "name": "deepdream",
         "description": "（无简介）",
         "url": "https://github.com/google/deepdream",
-        "stars": 13247,
+        "stars": 13246,
         "forks": 3188,
         "language": "未指定",
         "pushed_at": "2022-10-19T06:43:24Z",
@@ -27814,7 +27814,7 @@
         "stars": 14,
         "forks": 10,
         "language": "C++",
-        "pushed_at": "2025-09-24T16:27:09Z",
+        "pushed_at": "2025-09-24T17:59:42Z",
         "created_at": "2023-08-16T13:43:51Z"
       },
       {
@@ -27951,7 +27951,7 @@
         "name": "dopamine",
         "description": "Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. ",
         "url": "https://github.com/google/dopamine",
-        "stars": 10807,
+        "stars": 10806,
         "forks": 1392,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-11-04T14:34:30Z",
@@ -28474,7 +28474,7 @@
         "stars": 15,
         "forks": 4,
         "language": "C++",
-        "pushed_at": "2025-09-24T17:16:43Z",
+        "pushed_at": "2025-09-24T17:58:55Z",
         "created_at": "2020-12-29T19:35:41Z"
       },
       {
@@ -28791,7 +28791,7 @@
         "name": "eng-edu",
         "description": "（无简介）",
         "url": "https://github.com/google/eng-edu",
-        "stars": 730,
+        "stars": 729,
         "forks": 425,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-09-09T18:28:26Z",
@@ -29514,7 +29514,7 @@
         "stars": 18865,
         "forks": 2034,
         "language": "C++",
-        "pushed_at": "2025-09-24T17:41:49Z",
+        "pushed_at": "2025-09-24T17:58:10Z",
         "created_at": "2018-08-03T17:26:00Z"
       },
       {
@@ -29621,7 +29621,7 @@
         "name": "flatbuffers",
         "description": "FlatBuffers: Memory Efficient Serialization Library",
         "url": "https://github.com/google/flatbuffers",
-        "stars": 24787,
+        "stars": 24788,
         "forks": 3400,
         "language": "C++",
         "pushed_at": "2025-09-24T05:24:37Z",
@@ -29971,7 +29971,7 @@
         "name": "fonts",
         "description": "Font files available from Google Fonts, and a public issue tracker for all things Google Fonts",
         "url": "https://github.com/google/fonts",
-        "stars": 19247,
+        "stars": 19246,
         "forks": 2776,
         "language": "HTML",
         "pushed_at": "2025-09-24T14:36:14Z",
@@ -32694,7 +32694,7 @@
         "stars": 540,
         "forks": 54,
         "language": "Python",
-        "pushed_at": "2025-09-24T17:29:17Z",
+        "pushed_at": "2025-09-24T17:50:11Z",
         "created_at": "2022-08-05T08:29:51Z"
       },
       {
@@ -33084,7 +33084,7 @@
         "stars": 51141,
         "forks": 11073,
         "language": "Java",
-        "pushed_at": "2025-09-23T22:30:11Z",
+        "pushed_at": "2025-09-24T18:06:49Z",
         "created_at": "2014-05-29T16:23:17Z"
       },
       {
@@ -33194,7 +33194,7 @@
         "stars": 16988,
         "forks": 1436,
         "language": "Go",
-        "pushed_at": "2025-09-24T17:25:13Z",
+        "pushed_at": "2025-09-24T18:08:24Z",
         "created_at": "2018-04-26T21:28:49Z"
       },
       {
@@ -33491,10 +33491,10 @@
         "name": "heir",
         "description": "A compiler for homomorphic encryption",
         "url": "https://github.com/google/heir",
-        "stars": 523,
+        "stars": 524,
         "forks": 93,
         "language": "C++",
-        "pushed_at": "2025-09-24T16:25:25Z",
+        "pushed_at": "2025-09-24T17:49:41Z",
         "created_at": "2023-04-17T21:14:13Z"
       },
       {
@@ -34364,7 +34364,7 @@
         "stars": 79,
         "forks": 9,
         "language": "Python",
-        "pushed_at": "2025-09-23T18:05:49Z",
+        "pushed_at": "2025-09-24T18:17:34Z",
         "created_at": "2021-05-14T19:55:29Z"
       },
       {
@@ -35571,8 +35571,8 @@
         "name": "ksp",
         "description": "Kotlin Symbol Processing API",
         "url": "https://github.com/google/ksp",
-        "stars": 3227,
-        "forks": 341,
+        "stars": 3228,
+        "forks": 343,
         "language": "Kotlin",
         "pushed_at": "2025-09-23T15:31:24Z",
         "created_at": "2020-09-22T18:59:42Z"
@@ -35661,7 +35661,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 15762,
+        "stars": 15763,
         "forks": 1086,
         "language": "Python",
         "pushed_at": "2025-09-22T09:05:18Z",
@@ -36941,7 +36941,7 @@
         "name": "material-design-icons",
         "description": "Material Design icons by Google (Material Symbols)",
         "url": "https://github.com/google/material-design-icons",
-        "stars": 52300,
+        "stars": 52299,
         "forks": 9674,
         "language": "未指定",
         "pushed_at": "2025-09-19T02:38:15Z",
@@ -38184,7 +38184,7 @@
         "stars": 863,
         "forks": 177,
         "language": "C++",
-        "pushed_at": "2025-09-24T17:39:21Z",
+        "pushed_at": "2025-09-24T17:53:18Z",
         "created_at": "2020-04-23T20:41:37Z"
       },
       {
@@ -39011,7 +39011,7 @@
         "name": "openhtf",
         "description": "The open-source hardware testing framework.",
         "url": "https://github.com/google/openhtf",
-        "stars": 601,
+        "stars": 602,
         "forks": 222,
         "language": "Python",
         "pushed_at": "2025-09-09T02:26:53Z",
@@ -39121,7 +39121,7 @@
         "name": "or-tools",
         "description": "Google's Operations Research tools:",
         "url": "https://github.com/google/or-tools",
-        "stars": 12524,
+        "stars": 12525,
         "forks": 2278,
         "language": "C++",
         "pushed_at": "2025-09-24T16:20:20Z",
@@ -39144,7 +39144,7 @@
         "stars": 427,
         "forks": 68,
         "language": "Python",
-        "pushed_at": "2025-09-24T17:42:01Z",
+        "pushed_at": "2025-09-24T18:07:54Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39284,7 +39284,7 @@
         "stars": 11346,
         "forks": 2479,
         "language": "Shell",
-        "pushed_at": "2025-09-24T17:06:03Z",
+        "pushed_at": "2025-09-24T17:56:44Z",
         "created_at": "2016-07-20T19:39:50Z"
       },
       {
@@ -39324,7 +39324,7 @@
         "stars": 647,
         "forks": 34,
         "language": "Go",
-        "pushed_at": "2025-09-24T01:06:25Z",
+        "pushed_at": "2025-09-24T17:55:59Z",
         "created_at": "2024-05-22T15:44:36Z"
       },
       {
@@ -39924,7 +39924,7 @@
         "stars": 4646,
         "forks": 591,
         "language": "C++",
-        "pushed_at": "2025-09-24T17:25:27Z",
+        "pushed_at": "2025-09-24T18:07:44Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -40164,7 +40164,7 @@
         "stars": 436,
         "forks": 99,
         "language": "C++",
-        "pushed_at": "2025-09-24T14:41:55Z",
+        "pushed_at": "2025-09-24T18:22:18Z",
         "created_at": "2021-03-09T22:07:25Z"
       },
       {
@@ -41084,7 +41084,7 @@
         "stars": 549,
         "forks": 195,
         "language": "Dart",
-        "pushed_at": "2025-09-24T08:54:58Z",
+        "pushed_at": "2025-09-24T17:54:19Z",
         "created_at": "2013-07-10T16:36:09Z"
       },
       {
@@ -41724,7 +41724,7 @@
         "stars": 780,
         "forks": 152,
         "language": "C++",
-        "pushed_at": "2025-09-24T17:06:57Z",
+        "pushed_at": "2025-09-24T17:56:47Z",
         "created_at": "2021-07-27T18:19:46Z"
       },
       {
@@ -43581,7 +43581,7 @@
         "name": "sentencepiece",
         "description": "Unsupervised text tokenizer for Neural Network-based text generation.",
         "url": "https://github.com/google/sentencepiece",
-        "stars": 11295,
+        "stars": 11296,
         "forks": 1289,
         "language": "C++",
         "pushed_at": "2025-09-23T06:31:19Z",
@@ -43954,7 +43954,7 @@
         "stars": 1325,
         "forks": 318,
         "language": "JavaScript",
-        "pushed_at": "2025-09-24T17:29:36Z",
+        "pushed_at": "2025-09-24T18:20:40Z",
         "created_at": "2019-06-11T14:20:21Z"
       },
       {
@@ -43974,7 +43974,7 @@
         "stars": 10107,
         "forks": 1619,
         "language": "C++",
-        "pushed_at": "2025-09-24T17:27:32Z",
+        "pushed_at": "2025-09-24T18:18:32Z",
         "created_at": "2014-01-09T17:09:57Z"
       },
       {
@@ -46314,7 +46314,7 @@
         "stars": 802,
         "forks": 201,
         "language": "未指定",
-        "pushed_at": "2025-09-16T22:16:55Z",
+        "pushed_at": "2025-09-24T17:54:28Z",
         "created_at": "2015-07-15T18:03:46Z"
       },
       {
@@ -47222,7 +47222,7 @@
         "description": "A vector math package for 2D and 3D applications",
         "url": "https://github.com/google/vector_math.dart",
         "stars": 331,
-        "forks": 86,
+        "forks": 87,
         "language": "Dart",
         "pushed_at": "2025-08-04T19:19:33Z",
         "created_at": "2013-04-12T19:46:07Z"
