@@ -329,7 +329,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-26T19:26:15Z",
+        "pushed_at": "2025-09-26T19:44:55Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4039,7 +4039,7 @@
         "stars": 13171,
         "forks": 7957,
         "language": "C",
-        "pushed_at": "2025-09-26T13:38:11Z",
+        "pushed_at": "2025-09-26T20:02:43Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -11209,7 +11209,7 @@
         "stars": 40,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-09-26T18:27:51Z",
+        "pushed_at": "2025-09-26T20:01:37Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11807,7 +11807,7 @@
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
         "stars": 16291,
-        "forks": 7879,
+        "forks": 7880,
         "language": "C",
         "pushed_at": "2025-09-26T08:33:07Z",
         "created_at": "2016-08-17T10:40:35Z"
@@ -12179,7 +12179,7 @@
         "stars": 4,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-09-26T18:03:12Z",
+        "pushed_at": "2025-09-26T20:03:15Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -13256,7 +13256,7 @@
         "name": "idf-im-ui",
         "description": "EIM GUI: Cross-Platform ESP-IDF Installation Manager",
         "url": "https://github.com/espressif/idf-im-ui",
-        "stars": 22,
+        "stars": 23,
         "forks": 2,
         "language": "Rust",
         "pushed_at": "2025-09-26T15:31:47Z",
@@ -13429,7 +13429,7 @@
         "stars": 254,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-09-26T19:27:37Z",
+        "pushed_at": "2025-09-26T19:58:36Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16396,7 +16396,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 6479,
+        "stars": 6480,
         "forks": 488,
         "language": "TypeScript",
         "pushed_at": "2025-09-09T23:55:19Z",
@@ -16626,10 +16626,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 44667,
+        "stars": 44669,
         "forks": 5231,
         "language": "Rust",
-        "pushed_at": "2025-09-26T19:43:09Z",
+        "pushed_at": "2025-09-26T20:16:51Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -17046,7 +17046,7 @@
         "name": "gpt-5-coding-examples",
         "description": "GPT-5 coding examples",
         "url": "https://github.com/openai/gpt-5-coding-examples",
-        "stars": 1653,
+        "stars": 1654,
         "forks": 220,
         "language": "HTML",
         "pushed_at": "2025-08-08T04:36:36Z",
@@ -17576,7 +17576,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 15040,
+        "stars": 15041,
         "forks": 2516,
         "language": "Python",
         "pushed_at": "2025-09-26T19:40:50Z",
@@ -17726,7 +17726,7 @@
         "name": "openai-openapi",
         "description": "OpenAPI specification for the OpenAI API",
         "url": "https://github.com/openai/openai-openapi",
-        "stars": 2192,
+        "stars": 2193,
         "forks": 471,
         "language": "未指定",
         "pushed_at": "2025-06-17T14:47:31Z",
@@ -17736,8 +17736,8 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 28781,
-        "forks": 4291,
+        "stars": 28782,
+        "forks": 4290,
         "language": "Python",
         "pushed_at": "2025-09-24T13:00:25Z",
         "created_at": "2020-10-25T23:23:54Z"
@@ -18526,8 +18526,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 88704,
-        "forks": 11040,
+        "stars": 88706,
+        "forks": 11041,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -20219,12 +20219,12 @@
       },
       {
         "name": "Tool-Solutions",
-        "description": "Tutorials & examples for Arm software development tools.",
+        "description": "Scripts to build a wheel and a Docker image containing a complete ML framework stack, including dependencies, for AArch64 CPUs, as well as a selection of examples and benchmarks.",
         "url": "https://github.com/ARM-software/Tool-Solutions",
         "stars": 274,
         "forks": 148,
         "language": "Python",
-        "pushed_at": "2025-09-26T14:04:35Z",
+        "pushed_at": "2025-09-26T20:06:04Z",
         "created_at": "2018-10-31T08:39:51Z"
       },
       {
@@ -21281,17 +21281,17 @@
         "name": "adk-docs",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-docs",
-        "stars": 491,
+        "stars": 492,
         "forks": 329,
         "language": "HTML",
-        "pushed_at": "2025-09-26T17:38:47Z",
+        "pushed_at": "2025-09-26T20:15:38Z",
         "created_at": "2025-04-01T20:44:41Z"
       },
       {
         "name": "adk-java",
         "description": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-java",
-        "stars": 694,
+        "stars": 695,
         "forks": 140,
         "language": "Java",
         "pushed_at": "2025-09-26T18:54:50Z",
@@ -21321,7 +21321,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 5335,
+        "stars": 5336,
         "forks": 1543,
         "language": "Python",
         "pushed_at": "2025-09-25T02:04:07Z",
@@ -21331,7 +21331,7 @@
         "name": "adk-web",
         "description": "Agent Development Kit Web (adk web) is the built-in developer UI that is integrated with Agent Development Kit for easier agent development and debugging. ",
         "url": "https://github.com/google/adk-web",
-        "stars": 316,
+        "stars": 317,
         "forks": 100,
         "language": "TypeScript",
         "pushed_at": "2025-09-26T15:00:20Z",
@@ -24751,7 +24751,7 @@
         "name": "charts",
         "description": "（无简介）",
         "url": "https://github.com/google/charts",
-        "stars": 2794,
+        "stars": 2795,
         "forks": 1268,
         "language": "Dart",
         "pushed_at": "2022-11-09T16:35:35Z",
@@ -25414,7 +25414,7 @@
         "stars": 5476,
         "forks": 586,
         "language": "Python",
-        "pushed_at": "2025-09-26T19:33:28Z",
+        "pushed_at": "2025-09-26T19:46:53Z",
         "created_at": "2019-01-29T00:19:40Z"
       },
       {
@@ -27114,7 +27114,7 @@
         "stars": 717,
         "forks": 123,
         "language": "C++",
-        "pushed_at": "2025-09-26T19:06:10Z",
+        "pushed_at": "2025-09-26T20:15:17Z",
         "created_at": "2023-10-04T16:54:23Z"
       },
       {
@@ -28354,7 +28354,7 @@
         "stars": 3053,
         "forks": 1040,
         "language": "JavaScript",
-        "pushed_at": "2025-09-26T17:09:05Z",
+        "pushed_at": "2025-09-26T20:15:45Z",
         "created_at": "2015-04-22T00:36:55Z"
       },
       {
@@ -28874,7 +28874,7 @@
         "stars": 7048,
         "forks": 765,
         "language": "Java",
-        "pushed_at": "2025-09-26T19:24:55Z",
+        "pushed_at": "2025-09-26T20:09:14Z",
         "created_at": "2014-08-21T23:26:50Z"
       },
       {
@@ -29394,7 +29394,7 @@
         "stars": 337,
         "forks": 102,
         "language": "Python",
-        "pushed_at": "2025-09-16T19:21:41Z",
+        "pushed_at": "2025-09-26T20:17:05Z",
         "created_at": "2017-11-10T19:13:38Z"
       },
       {
@@ -29644,7 +29644,7 @@
         "stars": 6818,
         "forks": 742,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-09-26T19:26:33Z",
+        "pushed_at": "2025-09-26T20:05:55Z",
         "created_at": "2020-01-10T09:48:37Z"
       },
       {
@@ -31681,7 +31681,7 @@
         "name": "go-jsonnet",
         "description": "（无简介）",
         "url": "https://github.com/google/go-jsonnet",
-        "stars": 1744,
+        "stars": 1745,
         "forks": 249,
         "language": "Go",
         "pushed_at": "2025-06-19T14:50:37Z",
@@ -32531,7 +32531,7 @@
         "name": "gopacket",
         "description": "Provides packet processing capabilities for Go",
         "url": "https://github.com/google/gopacket",
-        "stars": 6639,
+        "stars": 6640,
         "forks": 1151,
         "language": "Go",
         "pushed_at": "2025-03-19T23:47:36Z",
@@ -33194,7 +33194,7 @@
         "stars": 17000,
         "forks": 1438,
         "language": "Go",
-        "pushed_at": "2025-09-26T18:42:50Z",
+        "pushed_at": "2025-09-26T19:49:27Z",
         "created_at": "2018-04-26T21:28:49Z"
       },
       {
@@ -37894,7 +37894,7 @@
         "stars": 414,
         "forks": 69,
         "language": "Java",
-        "pushed_at": "2025-09-26T19:12:32Z",
+        "pushed_at": "2025-09-26T19:56:23Z",
         "created_at": "2017-02-14T17:01:43Z"
       },
       {
@@ -38194,7 +38194,7 @@
         "stars": 864,
         "forks": 177,
         "language": "C++",
-        "pushed_at": "2025-09-26T19:21:27Z",
+        "pushed_at": "2025-09-26T20:10:54Z",
         "created_at": "2020-04-23T20:41:37Z"
       },
       {
@@ -39154,7 +39154,7 @@
         "stars": 427,
         "forks": 68,
         "language": "Python",
-        "pushed_at": "2025-09-26T19:34:10Z",
+        "pushed_at": "2025-09-26T19:58:58Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39294,7 +39294,7 @@
         "stars": 11353,
         "forks": 2483,
         "language": "Shell",
-        "pushed_at": "2025-09-26T18:15:52Z",
+        "pushed_at": "2025-09-26T19:59:56Z",
         "created_at": "2016-07-20T19:39:50Z"
       },
       {
@@ -39334,7 +39334,7 @@
         "stars": 648,
         "forks": 34,
         "language": "Go",
-        "pushed_at": "2025-09-25T19:47:05Z",
+        "pushed_at": "2025-09-26T20:13:39Z",
         "created_at": "2024-05-22T15:44:36Z"
       },
       {
@@ -39934,7 +39934,7 @@
         "stars": 4661,
         "forks": 593,
         "language": "C++",
-        "pushed_at": "2025-09-26T19:31:22Z",
+        "pushed_at": "2025-09-26T20:11:05Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -41784,7 +41784,7 @@
         "stars": 40,
         "forks": 3,
         "language": "Python",
-        "pushed_at": "2025-09-26T17:19:07Z",
+        "pushed_at": "2025-09-26T20:04:00Z",
         "created_at": "2025-03-19T23:45:26Z"
       },
       {
@@ -44852,7 +44852,7 @@
         "description": "Starlark in Go: the Starlark configuration language, implemented in Go",
         "url": "https://github.com/google/starlark-go",
         "stars": 2536,
-        "forks": 228,
+        "forks": 227,
         "language": "Go",
         "pushed_at": "2025-09-06T16:02:40Z",
         "created_at": "2018-10-23T14:35:50Z"
