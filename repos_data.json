@@ -329,7 +329,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-26T09:45:24Z",
+        "pushed_at": "2025-09-26T10:17:23Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3589,7 +3589,7 @@
         "stars": 35,
         "forks": 56,
         "language": "C",
-        "pushed_at": "2025-05-18T16:12:37Z",
+        "pushed_at": "2025-09-26T10:27:15Z",
         "created_at": "2017-08-06T13:58:10Z"
       },
       {
@@ -3769,7 +3769,7 @@
         "stars": 227,
         "forks": 165,
         "language": "C",
-        "pushed_at": "2025-09-25T18:14:31Z",
+        "pushed_at": "2025-09-26T10:26:45Z",
         "created_at": "2017-05-30T03:13:29Z"
       },
       {
@@ -4037,7 +4037,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 13171,
-        "forks": 7954,
+        "forks": 7955,
         "language": "C",
         "pushed_at": "2025-09-26T09:08:09Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -11499,7 +11499,7 @@
         "stars": 334,
         "forks": 168,
         "language": "C",
-        "pushed_at": "2025-09-24T15:00:55Z",
+        "pushed_at": "2025-09-26T10:23:38Z",
         "created_at": "2021-09-14T09:33:04Z"
       },
       {
@@ -11649,7 +11649,7 @@
         "stars": 47,
         "forks": 19,
         "language": "C",
-        "pushed_at": "2025-09-24T17:15:41Z",
+        "pushed_at": "2025-09-26T10:27:05Z",
         "created_at": "2022-04-13T13:49:57Z"
       },
       {
@@ -13429,7 +13429,7 @@
         "stars": 254,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-09-26T09:58:38Z",
+        "pushed_at": "2025-09-26T10:29:44Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16396,7 +16396,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 6459,
+        "stars": 6460,
         "forks": 488,
         "language": "TypeScript",
         "pushed_at": "2025-09-09T23:55:19Z",
@@ -16626,10 +16626,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 44590,
-        "forks": 5214,
+        "stars": 44594,
+        "forks": 5216,
         "language": "Rust",
-        "pushed_at": "2025-09-26T09:33:02Z",
+        "pushed_at": "2025-09-26T10:17:20Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16816,7 +16816,7 @@
         "name": "emoclassifiers",
         "description": "Classifiers for \"Investigating Affective Use and Emotional Well-being in ChatGPT\"",
         "url": "https://github.com/openai/emoclassifiers",
-        "stars": 40,
+        "stars": 41,
         "forks": 9,
         "language": "Python",
         "pushed_at": "2025-07-03T17:59:45Z",
@@ -17107,7 +17107,7 @@
         "description": "（无简介）",
         "url": "https://github.com/openai/guided-diffusion",
         "stars": 7062,
-        "forks": 882,
+        "forks": 881,
         "language": "Python",
         "pushed_at": "2024-07-02T11:26:50Z",
         "created_at": "2021-04-27T20:27:52Z"
@@ -17576,7 +17576,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 15022,
+        "stars": 15023,
         "forks": 2511,
         "language": "Python",
         "pushed_at": "2025-09-26T07:19:32Z",
@@ -17616,7 +17616,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 68084,
+        "stars": 68082,
         "forks": 11339,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-09-25T10:53:11Z",
@@ -17636,7 +17636,7 @@
         "name": "openai-cua-sample-app",
         "description": "Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.",
         "url": "https://github.com/openai/openai-cua-sample-app",
-        "stars": 1136,
+        "stars": 1137,
         "forks": 336,
         "language": "Python",
         "pushed_at": "2025-04-24T17:36:50Z",
@@ -17826,7 +17826,7 @@
         "name": "openai-reflect",
         "description": "Physical AI Assistant that illuminates your life",
         "url": "https://github.com/openai/openai-reflect",
-        "stars": 166,
+        "stars": 167,
         "forks": 11,
         "language": "C++",
         "pushed_at": "2025-08-19T02:28:37Z",
@@ -17846,7 +17846,7 @@
         "name": "openai-ruby",
         "description": "Official Ruby SDK for the OpenAI API",
         "url": "https://github.com/openai/openai-ruby",
-        "stars": 342,
+        "stars": 343,
         "forks": 28,
         "language": "Ruby",
         "pushed_at": "2025-09-25T21:44:11Z",
@@ -18286,7 +18286,7 @@
         "name": "sparse_attention",
         "description": "Examples of using sparse attention, as in \"Generating Long Sequences with Sparse Transformers\"",
         "url": "https://github.com/openai/sparse_attention",
-        "stars": 1589,
+        "stars": 1588,
         "forks": 191,
         "language": "Python",
         "pushed_at": "2020-08-12T16:54:02Z",
@@ -19144,7 +19144,7 @@
         "stars": 3050,
         "forks": 804,
         "language": "C++",
-        "pushed_at": "2025-09-25T09:01:02Z",
+        "pushed_at": "2025-09-26T10:20:59Z",
         "created_at": "2017-03-10T14:51:43Z"
       },
       {
@@ -19294,7 +19294,7 @@
         "stars": 16,
         "forks": 8,
         "language": "C++",
-        "pushed_at": "2025-09-23T09:27:36Z",
+        "pushed_at": "2025-09-26T10:37:36Z",
         "created_at": "2021-09-14T14:54:28Z"
       },
       {
@@ -20589,7 +20589,7 @@
         "stars": 13,
         "forks": 14,
         "language": "C",
-        "pushed_at": "2025-09-26T10:12:05Z",
+        "pushed_at": "2025-09-26T10:27:23Z",
         "created_at": "2024-11-22T12:00:48Z"
       },
       {
@@ -21321,7 +21321,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 5324,
+        "stars": 5325,
         "forks": 1540,
         "language": "Python",
         "pushed_at": "2025-09-25T02:04:07Z",
@@ -21481,7 +21481,7 @@
         "name": "agi",
         "description": "Android GPU Inspector",
         "url": "https://github.com/google/agi",
-        "stars": 1022,
+        "stars": 1020,
         "forks": 155,
         "language": "Go",
         "pushed_at": "2025-05-19T20:22:00Z",
@@ -27671,7 +27671,7 @@
         "name": "differential-privacy",
         "description": "Google's differential privacy libraries.",
         "url": "https://github.com/google/differential-privacy",
-        "stars": 3225,
+        "stars": 3224,
         "forks": 395,
         "language": "Go",
         "pushed_at": "2025-09-25T16:17:39Z",
@@ -30651,7 +30651,7 @@
         "name": "gemma.cpp",
         "description": "lightweight, standalone C++ inference engine for Google's Gemma models.",
         "url": "https://github.com/google/gemma.cpp",
-        "stars": 6575,
+        "stars": 6576,
         "forks": 569,
         "language": "C++",
         "pushed_at": "2025-09-25T18:50:49Z",
@@ -31681,7 +31681,7 @@
         "name": "go-jsonnet",
         "description": "（无简介）",
         "url": "https://github.com/google/go-jsonnet",
-        "stars": 1743,
+        "stars": 1744,
         "forks": 248,
         "language": "Go",
         "pushed_at": "2025-06-19T14:50:37Z",
@@ -32804,7 +32804,7 @@
         "stars": 267,
         "forks": 132,
         "language": "Kotlin",
-        "pushed_at": "2025-09-26T09:43:39Z",
+        "pushed_at": "2025-09-26T10:31:14Z",
         "created_at": "2018-04-02T15:51:24Z"
       },
       {
@@ -35161,7 +35161,7 @@
         "name": "jsonnet",
         "description": "Jsonnet - The data templating language",
         "url": "https://github.com/google/jsonnet",
-        "stars": 7358,
+        "stars": 7357,
         "forks": 466,
         "language": "Jsonnet",
         "pushed_at": "2025-07-23T09:16:57Z",
@@ -35171,7 +35171,7 @@
         "name": "jsonschema-go",
         "description": "The Go library for JSON Schema. An official Google project providing a comprehensive toolkit for validation, reflection, and schema construction.",
         "url": "https://github.com/google/jsonschema-go",
-        "stars": 58,
+        "stars": 59,
         "forks": 11,
         "language": "Go",
         "pushed_at": "2025-09-24T19:46:12Z",
@@ -35514,7 +35514,7 @@
         "stars": 28,
         "forks": 14,
         "language": "C++",
-        "pushed_at": "2025-09-26T10:16:57Z",
+        "pushed_at": "2025-09-26T10:19:48Z",
         "created_at": "2024-05-07T11:31:53Z"
       },
       {
@@ -35661,7 +35661,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 15848,
+        "stars": 15849,
         "forks": 1093,
         "language": "Python",
         "pushed_at": "2025-09-22T09:05:18Z",
@@ -36962,7 +36962,7 @@
         "description": "Material Design Components in HTML/CSS/JS",
         "url": "https://github.com/google/material-design-lite",
         "stars": 32248,
-        "forks": 4976,
+        "forks": 4977,
         "language": "HTML",
         "pushed_at": "2025-03-11T00:13:36Z",
         "created_at": "2015-01-14T22:01:33Z"
@@ -39294,7 +39294,7 @@
         "stars": 11352,
         "forks": 2481,
         "language": "Shell",
-        "pushed_at": "2025-09-26T09:15:07Z",
+        "pushed_at": "2025-09-26T10:32:22Z",
         "created_at": "2016-07-20T19:39:50Z"
       },
       {
@@ -39934,7 +39934,7 @@
         "stars": 4661,
         "forks": 593,
         "language": "C++",
-        "pushed_at": "2025-09-26T09:48:32Z",
+        "pushed_at": "2025-09-26T10:22:15Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -40631,7 +40631,7 @@
         "name": "pprof",
         "description": "pprof is a tool for visualization and analysis of profiling data",
         "url": "https://github.com/google/pprof",
-        "stars": 8771,
+        "stars": 8772,
         "forks": 635,
         "language": "Go",
         "pushed_at": "2025-09-23T00:45:57Z",
@@ -41951,7 +41951,7 @@
         "name": "re2",
         "description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
         "url": "https://github.com/google/re2",
-        "stars": 9431,
+        "stars": 9432,
         "forks": 1178,
         "language": "C++",
         "pushed_at": "2025-09-04T15:46:10Z",
@@ -43391,7 +43391,7 @@
         "name": "sec-gemini",
         "description": "Sec-Gemini v1 is a cutting-edge AI model designed to enhance cybersecurity capabilities and empower defenders in the ongoing battle against cyber threats.",
         "url": "https://github.com/google/sec-gemini",
-        "stars": 78,
+        "stars": 79,
         "forks": 15,
         "language": "Svelte",
         "pushed_at": "2025-09-26T00:05:13Z",
@@ -43464,7 +43464,7 @@
         "stars": 4206,
         "forks": 491,
         "language": "C",
-        "pushed_at": "2025-09-26T09:35:27Z",
+        "pushed_at": "2025-09-26T10:33:11Z",
         "created_at": "2020-06-15T09:19:51Z"
       },
       {
