@@ -329,7 +329,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-26T20:33:40Z",
+        "pushed_at": "2025-09-26T20:45:21Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -13429,7 +13429,7 @@
         "stars": 254,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-09-26T20:30:38Z",
+        "pushed_at": "2025-09-26T21:02:38Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16396,7 +16396,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 6481,
+        "stars": 6482,
         "forks": 488,
         "language": "TypeScript",
         "pushed_at": "2025-09-09T23:55:19Z",
@@ -16626,10 +16626,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 44673,
+        "stars": 44674,
         "forks": 5232,
         "language": "Rust",
-        "pushed_at": "2025-09-26T20:44:48Z",
+        "pushed_at": "2025-09-26T21:08:30Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16846,7 +16846,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 17007,
+        "stars": 17008,
         "forks": 2801,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -17006,8 +17006,8 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 24217,
-        "forks": 5789,
+        "stars": 24218,
+        "forks": 5788,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
         "created_at": "2019-02-11T04:21:59Z"
@@ -17616,7 +17616,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 68087,
+        "stars": 68088,
         "forks": 11340,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-09-25T10:53:11Z",
@@ -17766,7 +17766,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 6452,
+        "stars": 6454,
         "forks": 967,
         "language": "TypeScript",
         "pushed_at": "2025-09-03T16:52:46Z",
@@ -20787,7 +20787,7 @@
         "description": "nRF Connect SDK main repository",
         "url": "https://github.com/nrfconnect/sdk-nrf",
         "stars": 1153,
-        "forks": 1391,
+        "forks": 1392,
         "language": "C",
         "pushed_at": "2025-09-26T12:51:28Z",
         "created_at": "2018-02-14T13:50:55Z"
@@ -21284,7 +21284,7 @@
         "stars": 492,
         "forks": 329,
         "language": "HTML",
-        "pushed_at": "2025-09-26T20:15:38Z",
+        "pushed_at": "2025-09-26T20:56:30Z",
         "created_at": "2025-04-01T20:44:41Z"
       },
       {
@@ -28364,7 +28364,7 @@
         "stars": 116,
         "forks": 84,
         "language": "Jsonnet",
-        "pushed_at": "2025-09-26T17:47:21Z",
+        "pushed_at": "2025-09-26T20:56:34Z",
         "created_at": "2022-06-06T17:21:40Z"
       },
       {
@@ -29394,7 +29394,7 @@
         "stars": 337,
         "forks": 102,
         "language": "Python",
-        "pushed_at": "2025-09-26T20:44:26Z",
+        "pushed_at": "2025-09-26T20:54:05Z",
         "created_at": "2017-11-10T19:13:38Z"
       },
       {
@@ -29514,7 +29514,7 @@
         "stars": 18870,
         "forks": 2034,
         "language": "C++",
-        "pushed_at": "2025-09-26T15:07:58Z",
+        "pushed_at": "2025-09-26T21:07:00Z",
         "created_at": "2018-08-03T17:26:00Z"
       },
       {
@@ -33192,9 +33192,9 @@
         "description": "Application Kernel for Containers",
         "url": "https://github.com/google/gvisor",
         "stars": 17000,
-        "forks": 1438,
+        "forks": 1439,
         "language": "Go",
-        "pushed_at": "2025-09-26T20:28:58Z",
+        "pushed_at": "2025-09-26T21:11:32Z",
         "created_at": "2018-04-26T21:28:49Z"
       },
       {
@@ -33494,7 +33494,7 @@
         "stars": 546,
         "forks": 94,
         "language": "C++",
-        "pushed_at": "2025-09-26T15:34:40Z",
+        "pushed_at": "2025-09-26T21:10:58Z",
         "created_at": "2023-04-17T21:14:13Z"
       },
       {
@@ -33571,7 +33571,7 @@
         "name": "highway",
         "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
         "url": "https://github.com/google/highway",
-        "stars": 5037,
+        "stars": 5038,
         "forks": 381,
         "language": "C++",
         "pushed_at": "2025-09-26T17:40:01Z",
@@ -34764,7 +34764,7 @@
         "stars": 6030,
         "forks": 989,
         "language": "Java",
-        "pushed_at": "2025-09-26T16:47:11Z",
+        "pushed_at": "2025-09-26T20:58:13Z",
         "created_at": "2014-01-30T20:19:56Z"
       },
       {
@@ -35661,7 +35661,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 15866,
+        "stars": 15867,
         "forks": 1093,
         "language": "Python",
         "pushed_at": "2025-09-22T09:05:18Z",
@@ -35981,7 +35981,7 @@
         "name": "libphonenumber",
         "description": "Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.",
         "url": "https://github.com/google/libphonenumber",
-        "stars": 17540,
+        "stars": 17541,
         "forks": 2117,
         "language": "C++",
         "pushed_at": "2025-09-25T08:34:53Z",
@@ -37824,7 +37824,7 @@
         "stars": 23,
         "forks": 5,
         "language": "C++",
-        "pushed_at": "2025-09-26T15:13:46Z",
+        "pushed_at": "2025-09-26T20:48:33Z",
         "created_at": "2023-03-31T17:09:28Z"
       },
       {
@@ -37894,7 +37894,7 @@
         "stars": 414,
         "forks": 69,
         "language": "Java",
-        "pushed_at": "2025-09-26T19:56:23Z",
+        "pushed_at": "2025-09-26T21:12:32Z",
         "created_at": "2017-02-14T17:01:43Z"
       },
       {
@@ -39154,7 +39154,7 @@
         "stars": 427,
         "forks": 68,
         "language": "Python",
-        "pushed_at": "2025-09-26T20:44:42Z",
+        "pushed_at": "2025-09-26T20:50:34Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39292,9 +39292,9 @@
         "description": "OSS-Fuzz - continuous fuzzing for open source software.",
         "url": "https://github.com/google/oss-fuzz",
         "stars": 11353,
-        "forks": 2483,
+        "forks": 2484,
         "language": "Shell",
-        "pushed_at": "2025-09-26T20:28:53Z",
+        "pushed_at": "2025-09-26T21:01:04Z",
         "created_at": "2016-07-20T19:39:50Z"
       },
       {
@@ -39871,7 +39871,7 @@
         "name": "pebble",
         "description": "This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will not compile as-is. This is for information only.",
         "url": "https://github.com/google/pebble",
-        "stars": 4856,
+        "stars": 4857,
         "forks": 367,
         "language": "C",
         "pushed_at": "2025-02-25T19:05:35Z",
@@ -41384,7 +41384,7 @@
         "stars": 692,
         "forks": 30,
         "language": "Python",
-        "pushed_at": "2025-09-26T19:39:45Z",
+        "pushed_at": "2025-09-26T21:01:16Z",
         "created_at": "2022-05-12T23:46:21Z"
       },
       {
@@ -41752,7 +41752,7 @@
         "description": "A set of utility libraries for Dart",
         "url": "https://github.com/google/quiver-dart",
         "stars": 1059,
-        "forks": 131,
+        "forks": 132,
         "language": "Dart",
         "pushed_at": "2025-09-02T21:55:28Z",
         "created_at": "2013-08-14T19:13:01Z"
@@ -45864,7 +45864,7 @@
         "stars": 1442,
         "forks": 130,
         "language": "C++",
-        "pushed_at": "2025-09-25T21:40:58Z",
+        "pushed_at": "2025-09-26T21:10:10Z",
         "created_at": "2020-03-30T13:24:59Z"
       },
       {
@@ -46311,7 +46311,7 @@
         "name": "trajax",
         "description": "（无简介）",
         "url": "https://github.com/google/trajax",
-        "stars": 223,
+        "stars": 224,
         "forks": 24,
         "language": "Python",
         "pushed_at": "2023-09-03T14:40:02Z",
@@ -48934,7 +48934,7 @@
         "stars": 44650,
         "forks": 1169,
         "language": "JavaScript",
-        "pushed_at": "2025-09-26T14:50:47Z",
+        "pushed_at": "2025-09-26T20:56:26Z",
         "created_at": "2021-05-05T05:50:01Z"
       }
     ]
