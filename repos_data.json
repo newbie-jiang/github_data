@@ -329,7 +329,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-29T14:39:29Z",
+        "pushed_at": "2025-09-29T14:49:10Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -6031,7 +6031,7 @@
         "name": "lsm6dsm-pid",
         "description": "lsm6dsm platform independent driver based on Standard C language and compliant with MISRA standard",
         "url": "https://github.com/STMicroelectronics/lsm6dsm-pid",
-        "stars": 5,
+        "stars": 6,
         "forks": 2,
         "language": "C",
         "pushed_at": "2025-07-22T10:09:24Z",
@@ -7551,7 +7551,7 @@
         "name": "stm32-lsm6dso",
         "description": "Provides the  LSM6DSO driver, part of the STM32Cube BSP Component for all STM32xx series",
         "url": "https://github.com/STMicroelectronics/stm32-lsm6dso",
-        "stars": 11,
+        "stars": 12,
         "forks": 0,
         "language": "C",
         "pushed_at": "2024-04-08T10:30:19Z",
@@ -8781,7 +8781,7 @@
         "name": "STM32CubeH7",
         "description": "STM32Cube MCU Full Package for the STM32H7 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
         "url": "https://github.com/STMicroelectronics/STM32CubeH7",
-        "stars": 653,
+        "stars": 652,
         "forks": 343,
         "language": "C",
         "pushed_at": "2025-09-26T14:21:08Z",
@@ -11046,7 +11046,7 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15468,
+        "stars": 15471,
         "forks": 7713,
         "language": "C++",
         "pushed_at": "2025-09-29T11:29:26Z",
@@ -11219,7 +11219,7 @@
         "stars": 40,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-09-29T13:41:07Z",
+        "pushed_at": "2025-09-29T15:14:10Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11496,7 +11496,7 @@
         "name": "esp-brookesia",
         "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
         "url": "https://github.com/espressif/esp-brookesia",
-        "stars": 436,
+        "stars": 437,
         "forks": 98,
         "language": "C",
         "pushed_at": "2025-09-26T11:16:19Z",
@@ -11606,7 +11606,7 @@
         "name": "esp-dl",
         "description": "Espressif deep-learning library for AIoT applications",
         "url": "https://github.com/espressif/esp-dl",
-        "stars": 797,
+        "stars": 798,
         "forks": 157,
         "language": "Assembly",
         "pushed_at": "2025-09-25T06:03:31Z",
@@ -11786,7 +11786,7 @@
         "name": "esp-homekit-sdk",
         "description": "（无简介）",
         "url": "https://github.com/espressif/esp-homekit-sdk",
-        "stars": 629,
+        "stars": 628,
         "forks": 117,
         "language": "C",
         "pushed_at": "2025-06-06T15:42:24Z",
@@ -12166,7 +12166,7 @@
         "name": "esp-now",
         "description": "A connectionless Wi-Fi communication protocol",
         "url": "https://github.com/espressif/esp-now",
-        "stars": 672,
+        "stars": 671,
         "forks": 113,
         "language": "C",
         "pushed_at": "2025-04-21T12:47:06Z",
@@ -12286,7 +12286,7 @@
         "name": "esp-rainmaker",
         "description": "ESP RainMaker Agent for firmware development",
         "url": "https://github.com/espressif/esp-rainmaker",
-        "stars": 556,
+        "stars": 555,
         "forks": 190,
         "language": "C",
         "pushed_at": "2025-09-24T15:26:56Z",
@@ -12529,7 +12529,7 @@
         "stars": 53,
         "forks": 33,
         "language": "C",
-        "pushed_at": "2025-09-29T14:43:11Z",
+        "pushed_at": "2025-09-29T14:50:55Z",
         "created_at": "2024-01-18T07:20:01Z"
       },
       {
@@ -13439,7 +13439,7 @@
         "stars": 254,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-09-29T14:20:40Z",
+        "pushed_at": "2025-09-29T14:52:40Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16406,7 +16406,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 6609,
+        "stars": 6611,
         "forks": 491,
         "language": "TypeScript",
         "pushed_at": "2025-09-09T23:55:19Z",
@@ -16606,7 +16606,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 30869,
+        "stars": 30870,
         "forks": 3770,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16636,8 +16636,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 45161,
-        "forks": 5313,
+        "stars": 45164,
+        "forks": 5314,
         "language": "Rust",
         "pushed_at": "2025-09-29T14:28:23Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16726,7 +16726,7 @@
         "name": "DALL-E",
         "description": "PyTorch package for the discrete VAE used for DALL·E.",
         "url": "https://github.com/openai/DALL-E",
-        "stars": 10876,
+        "stars": 10875,
         "forks": 1909,
         "language": "Python",
         "pushed_at": "2024-01-31T15:42:28Z",
@@ -16926,7 +16926,7 @@
         "name": "frontier-evals",
         "description": "OpenAI Frontier Evals",
         "url": "https://github.com/openai/frontier-evals",
-        "stars": 885,
+        "stars": 886,
         "forks": 101,
         "language": "Python",
         "pushed_at": "2025-09-24T01:11:32Z",
@@ -17626,7 +17626,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 68132,
+        "stars": 68133,
         "forks": 11358,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-09-25T10:53:11Z",
@@ -17716,7 +17716,7 @@
         "name": "openai-java",
         "description": "The official Java library for the OpenAI API",
         "url": "https://github.com/openai/openai-java",
-        "stars": 1122,
+        "stars": 1123,
         "forks": 156,
         "language": "Kotlin",
         "pushed_at": "2025-09-27T01:31:42Z",
@@ -18406,7 +18406,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 16063,
+        "stars": 16064,
         "forks": 1233,
         "language": "Python",
         "pushed_at": "2025-09-01T00:05:21Z",
@@ -19424,7 +19424,7 @@
         "stars": 0,
         "forks": 1,
         "language": "C++",
-        "pushed_at": "2025-09-29T11:31:22Z",
+        "pushed_at": "2025-09-29T15:02:25Z",
         "created_at": "2025-06-13T09:33:39Z"
       },
       {
@@ -19631,7 +19631,7 @@
         "name": "m-profile-user-guide-examples",
         "description": "Example software projects to accompany the Armv8-M architecture User Guides",
         "url": "https://github.com/ARM-software/m-profile-user-guide-examples",
-        "stars": 36,
+        "stars": 34,
         "forks": 8,
         "language": "C",
         "pushed_at": "2025-01-27T06:47:39Z",
@@ -20599,7 +20599,7 @@
         "stars": 13,
         "forks": 15,
         "language": "C",
-        "pushed_at": "2025-09-29T12:25:02Z",
+        "pushed_at": "2025-09-29T15:04:20Z",
         "created_at": "2024-11-22T12:00:48Z"
       },
       {
@@ -20609,7 +20609,7 @@
         "stars": 1,
         "forks": 7,
         "language": "Python",
-        "pushed_at": "2025-08-22T08:00:19Z",
+        "pushed_at": "2025-09-29T15:14:16Z",
         "created_at": "2021-11-02T14:11:47Z"
       },
       {
@@ -20919,7 +20919,7 @@
         "stars": 341,
         "forks": 710,
         "language": "C",
-        "pushed_at": "2025-09-29T14:21:58Z",
+        "pushed_at": "2025-09-29T15:05:49Z",
         "created_at": "2018-02-05T14:45:23Z"
       },
       {
@@ -21301,7 +21301,7 @@
         "name": "adk-java",
         "description": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-java",
-        "stars": 706,
+        "stars": 707,
         "forks": 142,
         "language": "Java",
         "pushed_at": "2025-09-29T13:54:51Z",
@@ -21312,7 +21312,7 @@
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
         "stars": 13340,
-        "forks": 1958,
+        "forks": 1959,
         "language": "Python",
         "pushed_at": "2025-09-29T13:48:09Z",
         "created_at": "2025-04-01T20:44:40Z"
@@ -21331,7 +21331,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 5382,
+        "stars": 5383,
         "forks": 1554,
         "language": "Python",
         "pushed_at": "2025-09-29T12:51:24Z",
@@ -25424,7 +25424,7 @@
         "stars": 5479,
         "forks": 586,
         "language": "Python",
-        "pushed_at": "2025-09-29T14:44:59Z",
+        "pushed_at": "2025-09-29T15:08:20Z",
         "created_at": "2019-01-29T00:19:40Z"
       },
       {
@@ -25794,7 +25794,7 @@
         "stars": 718,
         "forks": 124,
         "language": "Java",
-        "pushed_at": "2025-09-29T14:08:07Z",
+        "pushed_at": "2025-09-29T14:56:26Z",
         "created_at": "2013-08-26T21:30:13Z"
       },
       {
@@ -26571,7 +26571,7 @@
         "name": "crubit",
         "description": "（无简介）",
         "url": "https://github.com/google/crubit",
-        "stars": 890,
+        "stars": 891,
         "forks": 54,
         "language": "Rust",
         "pushed_at": "2025-09-29T12:40:57Z",
@@ -27514,7 +27514,7 @@
         "stars": 54,
         "forks": 21,
         "language": "Java",
-        "pushed_at": "2025-09-29T14:01:55Z",
+        "pushed_at": "2025-09-29T15:12:25Z",
         "created_at": "2022-04-15T03:00:41Z"
       },
       {
@@ -27682,9 +27682,9 @@
         "description": "Google's differential privacy libraries.",
         "url": "https://github.com/google/differential-privacy",
         "stars": 3225,
-        "forks": 397,
+        "forks": 398,
         "language": "Go",
-        "pushed_at": "2025-09-29T14:02:29Z",
+        "pushed_at": "2025-09-29T15:16:16Z",
         "created_at": "2019-09-04T13:04:15Z"
       },
       {
@@ -28374,7 +28374,7 @@
         "stars": 117,
         "forks": 84,
         "language": "Jsonnet",
-        "pushed_at": "2025-09-29T14:47:54Z",
+        "pushed_at": "2025-09-29T15:13:11Z",
         "created_at": "2022-06-06T17:21:40Z"
       },
       {
@@ -28881,7 +28881,7 @@
         "name": "error-prone",
         "description": "Catch common Java mistakes as compile-time errors",
         "url": "https://github.com/google/error-prone",
-        "stars": 7051,
+        "stars": 7052,
         "forks": 766,
         "language": "Java",
         "pushed_at": "2025-09-26T20:09:14Z",
@@ -29981,7 +29981,7 @@
         "name": "fonts",
         "description": "Font files available from Google Fonts, and a public issue tracker for all things Google Fonts",
         "url": "https://github.com/google/fonts",
-        "stars": 19252,
+        "stars": 19253,
         "forks": 2776,
         "language": "HTML",
         "pushed_at": "2025-09-26T09:23:13Z",
@@ -33504,7 +33504,7 @@
         "stars": 563,
         "forks": 94,
         "language": "C++",
-        "pushed_at": "2025-09-29T00:47:37Z",
+        "pushed_at": "2025-09-29T14:56:00Z",
         "created_at": "2023-04-17T21:14:13Z"
       },
       {
@@ -35361,7 +35361,7 @@
         "name": "keystone",
         "description": "A software architectural modeling tool for programmers.",
         "url": "https://github.com/google/keystone",
-        "stars": 32,
+        "stars": 31,
         "forks": 8,
         "language": "Elm",
         "pushed_at": "2017-01-10T20:20:29Z",
@@ -35671,8 +35671,8 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 15984,
-        "forks": 1102,
+        "stars": 15985,
+        "forks": 1103,
         "language": "Python",
         "pushed_at": "2025-09-22T09:05:18Z",
         "created_at": "2025-07-08T20:46:06Z"
@@ -36251,7 +36251,7 @@
         "name": "lisp-koans",
         "description": "Common Lisp Koans is a language learning exercise in the same vein as the ruby koans, python koans and others.   It is a port of the prior koans with some modifications to highlight lisp-specific features.  Structured as ordered groups of broken unit tests, the project guides the learner progressively through many Common Lisp language features. ",
         "url": "https://github.com/google/lisp-koans",
-        "stars": 3172,
+        "stars": 3171,
         "forks": 571,
         "language": "Common Lisp",
         "pushed_at": "2023-04-14T13:37:55Z",
@@ -36374,7 +36374,7 @@
         "stars": 452,
         "forks": 44,
         "language": "C++",
-        "pushed_at": "2025-09-29T13:44:54Z",
+        "pushed_at": "2025-09-29T15:13:23Z",
         "created_at": "2019-09-09T17:16:49Z"
       },
       {
@@ -37811,7 +37811,7 @@
         "name": "mozc-devices",
         "description": "Circuit diagrams and firmware source code for Gboard DIY keyboards",
         "url": "https://github.com/google/mozc-devices",
-        "stars": 2253,
+        "stars": 2254,
         "forks": 149,
         "language": "Python",
         "pushed_at": "2025-08-08T22:00:32Z",
@@ -39144,7 +39144,7 @@
         "stars": 12539,
         "forks": 2284,
         "language": "C++",
-        "pushed_at": "2025-09-29T14:28:04Z",
+        "pushed_at": "2025-09-29T15:12:34Z",
         "created_at": "2015-02-21T01:25:35Z"
       },
       {
@@ -39254,7 +39254,7 @@
         "stars": 6,
         "forks": 1,
         "language": "Rust",
-        "pushed_at": "2025-09-29T12:00:51Z",
+        "pushed_at": "2025-09-29T15:17:03Z",
         "created_at": "2024-11-18T15:29:37Z"
       },
       {
@@ -39371,7 +39371,7 @@
         "name": "osv-scanner",
         "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
         "url": "https://github.com/google/osv-scanner",
-        "stars": 7804,
+        "stars": 7806,
         "forks": 454,
         "language": "Go",
         "pushed_at": "2025-09-29T06:11:57Z",
@@ -39944,7 +39944,7 @@
         "stars": 4672,
         "forks": 595,
         "language": "C++",
-        "pushed_at": "2025-09-29T13:49:21Z",
+        "pushed_at": "2025-09-29T15:17:17Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -40184,7 +40184,7 @@
         "stars": 437,
         "forks": 97,
         "language": "C++",
-        "pushed_at": "2025-09-29T14:26:04Z",
+        "pushed_at": "2025-09-29T15:15:13Z",
         "created_at": "2021-03-09T22:07:25Z"
       },
       {
@@ -48534,7 +48534,7 @@
         "stars": 1353,
         "forks": 214,
         "language": "C++",
-        "pushed_at": "2025-09-29T13:44:33Z",
+        "pushed_at": "2025-09-29T15:08:13Z",
         "created_at": "2020-05-07T21:38:30Z"
       },
       {
