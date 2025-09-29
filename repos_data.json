@@ -329,7 +329,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-29T09:48:49Z",
+        "pushed_at": "2025-09-29T10:19:26Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -11046,7 +11046,7 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15466,
+        "stars": 15467,
         "forks": 7713,
         "language": "C++",
         "pushed_at": "2025-09-29T09:48:12Z",
@@ -11556,7 +11556,7 @@
         "name": "esp-csi",
         "description": "Applications based on Wi-Fi CSI (Channel state information), such as indoor positioning, human detection",
         "url": "https://github.com/espressif/esp-csi",
-        "stars": 915,
+        "stars": 916,
         "forks": 128,
         "language": "C",
         "pushed_at": "2025-07-21T07:00:10Z",
@@ -12487,7 +12487,7 @@
         "description": "Espressif Thread Border Router SDK",
         "url": "https://github.com/espressif/esp-thread-br",
         "stars": 160,
-        "forks": 39,
+        "forks": 40,
         "language": "C",
         "pushed_at": "2025-09-28T03:57:02Z",
         "created_at": "2022-06-15T12:06:21Z"
@@ -13149,7 +13149,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Ruby",
-        "pushed_at": "2025-09-26T09:24:12Z",
+        "pushed_at": "2025-09-29T10:34:05Z",
         "created_at": "2025-09-19T12:28:05Z"
       },
       {
@@ -13439,7 +13439,7 @@
         "stars": 254,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-09-29T10:08:41Z",
+        "pushed_at": "2025-09-29T10:39:36Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16606,7 +16606,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 30866,
+        "stars": 30867,
         "forks": 3768,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -17116,8 +17116,8 @@
         "name": "guided-diffusion",
         "description": "（无简介）",
         "url": "https://github.com/openai/guided-diffusion",
-        "stars": 7068,
-        "forks": 880,
+        "stars": 7067,
+        "forks": 881,
         "language": "Python",
         "pushed_at": "2024-07-02T11:26:50Z",
         "created_at": "2021-04-27T20:27:52Z"
@@ -17577,7 +17577,7 @@
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
         "stars": 1471,
-        "forks": 364,
+        "forks": 363,
         "language": "TypeScript",
         "pushed_at": "2025-09-27T06:52:39Z",
         "created_at": "2025-05-31T00:08:49Z"
@@ -17586,7 +17586,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 15108,
+        "stars": 15109,
         "forks": 2526,
         "language": "Python",
         "pushed_at": "2025-09-28T22:06:50Z",
@@ -17746,7 +17746,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 28795,
+        "stars": 28794,
         "forks": 4288,
         "language": "Python",
         "pushed_at": "2025-09-24T13:00:25Z",
@@ -17777,7 +17777,7 @@
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
         "stars": 6464,
-        "forks": 971,
+        "forks": 970,
         "language": "TypeScript",
         "pushed_at": "2025-09-03T16:52:46Z",
         "created_at": "2025-01-16T01:29:28Z"
@@ -20599,7 +20599,7 @@
         "stars": 13,
         "forks": 15,
         "language": "C",
-        "pushed_at": "2025-09-29T07:44:08Z",
+        "pushed_at": "2025-09-29T10:31:46Z",
         "created_at": "2024-11-22T12:00:48Z"
       },
       {
@@ -20799,7 +20799,7 @@
         "stars": 1155,
         "forks": 1392,
         "language": "C",
-        "pushed_at": "2025-09-29T09:46:00Z",
+        "pushed_at": "2025-09-29T10:39:47Z",
         "created_at": "2018-02-14T13:50:55Z"
       },
       {
@@ -21004,7 +21004,7 @@
         "stars": 35,
         "forks": 10,
         "language": "Rust",
-        "pushed_at": "2025-09-08T10:28:13Z",
+        "pushed_at": "2025-09-29T10:20:17Z",
         "created_at": "2022-05-02T20:52:40Z"
       },
       {
@@ -22831,7 +22831,7 @@
         "name": "auto",
         "description": "A collection of source code generators for Java.",
         "url": "https://github.com/google/auto",
-        "stars": 10525,
+        "stars": 10526,
         "forks": 1209,
         "language": "Java",
         "pushed_at": "2025-09-24T22:53:13Z",
@@ -27514,7 +27514,7 @@
         "stars": 54,
         "forks": 21,
         "language": "Java",
-        "pushed_at": "2025-09-29T09:34:11Z",
+        "pushed_at": "2025-09-29T10:28:52Z",
         "created_at": "2022-04-15T03:00:41Z"
       },
       {
@@ -28064,7 +28064,7 @@
         "stars": 111,
         "forks": 20,
         "language": "Go",
-        "pushed_at": "2025-09-29T10:09:40Z",
+        "pushed_at": "2025-09-29T10:20:07Z",
         "created_at": "2024-11-15T13:18:31Z"
       },
       {
@@ -28371,7 +28371,7 @@
         "name": "earthengine-catalog",
         "description": "Earth Engine Public Data Catalog in STAC form",
         "url": "https://github.com/google/earthengine-catalog",
-        "stars": 116,
+        "stars": 117,
         "forks": 84,
         "language": "Jsonnet",
         "pushed_at": "2025-09-29T09:55:47Z",
@@ -29922,7 +29922,7 @@
         "description": "（无简介）",
         "url": "https://github.com/google/flutter.widgets",
         "stars": 1430,
-        "forks": 526,
+        "forks": 525,
         "language": "Dart",
         "pushed_at": "2024-08-08T16:13:39Z",
         "created_at": "2018-02-26T05:19:26Z"
@@ -33584,7 +33584,7 @@
         "stars": 5046,
         "forks": 382,
         "language": "C++",
-        "pushed_at": "2025-09-29T08:33:02Z",
+        "pushed_at": "2025-09-29T10:39:56Z",
         "created_at": "2019-09-06T12:41:23Z"
       },
       {
@@ -35524,7 +35524,7 @@
         "stars": 28,
         "forks": 14,
         "language": "C++",
-        "pushed_at": "2025-09-29T10:11:29Z",
+        "pushed_at": "2025-09-29T10:28:21Z",
         "created_at": "2024-05-07T11:31:53Z"
       },
       {
@@ -35671,7 +35671,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 15974,
+        "stars": 15976,
         "forks": 1100,
         "language": "Python",
         "pushed_at": "2025-09-22T09:05:18Z",
@@ -35771,7 +35771,7 @@
         "name": "latexify_py",
         "description": "A library to generate LaTeX expression from Python code.",
         "url": "https://github.com/google/latexify_py",
-        "stars": 7565,
+        "stars": 7566,
         "forks": 396,
         "language": "Python",
         "pushed_at": "2025-02-13T01:27:01Z",
@@ -39304,7 +39304,7 @@
         "stars": 11357,
         "forks": 2485,
         "language": "Shell",
-        "pushed_at": "2025-09-29T10:05:19Z",
+        "pushed_at": "2025-09-29T10:26:12Z",
         "created_at": "2016-07-20T19:39:50Z"
       },
       {
@@ -39944,7 +39944,7 @@
         "stars": 4671,
         "forks": 594,
         "language": "C++",
-        "pushed_at": "2025-09-29T03:25:19Z",
+        "pushed_at": "2025-09-29T10:21:14Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -42184,7 +42184,7 @@
         "stars": 383,
         "forks": 62,
         "language": "Dart",
-        "pushed_at": "2025-09-29T10:14:21Z",
+        "pushed_at": "2025-09-29T10:24:33Z",
         "created_at": "2015-01-16T13:09:05Z"
       },
       {
@@ -43414,7 +43414,7 @@
         "stars": 41,
         "forks": 25,
         "language": "Python",
-        "pushed_at": "2025-09-29T09:58:15Z",
+        "pushed_at": "2025-09-29T10:39:14Z",
         "created_at": "2025-02-09T15:46:21Z"
       },
       {
@@ -43974,7 +43974,7 @@
         "stars": 1325,
         "forks": 318,
         "language": "JavaScript",
-        "pushed_at": "2025-09-29T09:28:09Z",
+        "pushed_at": "2025-09-29T10:26:48Z",
         "created_at": "2019-06-11T14:20:21Z"
       },
       {
@@ -48351,7 +48351,7 @@
         "name": "wire",
         "description": "Compile-time Dependency Injection for Go",
         "url": "https://github.com/google/wire",
-        "stars": 14238,
+        "stars": 14239,
         "forks": 693,
         "language": "Go",
         "pushed_at": "2025-08-22T13:56:56Z",
@@ -48941,7 +48941,7 @@
         "name": "zx",
         "description": "A tool for writing better scripts",
         "url": "https://github.com/google/zx",
-        "stars": 44658,
+        "stars": 44659,
         "forks": 1168,
         "language": "JavaScript",
         "pushed_at": "2025-09-26T20:56:26Z",
