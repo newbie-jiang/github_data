@@ -329,7 +329,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-29T17:15:13Z",
+        "pushed_at": "2025-09-29T17:31:19Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -13199,7 +13199,7 @@
         "stars": 346,
         "forks": 130,
         "language": "Java",
-        "pushed_at": "2025-09-29T15:26:52Z",
+        "pushed_at": "2025-09-29T17:36:06Z",
         "created_at": "2019-09-16T02:21:43Z"
       },
       {
@@ -16406,7 +16406,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 6613,
+        "stars": 6614,
         "forks": 492,
         "language": "TypeScript",
         "pushed_at": "2025-09-09T23:55:19Z",
@@ -16636,10 +16636,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 45185,
+        "stars": 45187,
         "forks": 5325,
         "language": "Rust",
-        "pushed_at": "2025-09-29T17:03:21Z",
+        "pushed_at": "2025-09-29T17:31:54Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16856,7 +16856,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 17018,
+        "stars": 17019,
         "forks": 2804,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -19151,7 +19151,7 @@
         "name": "ComputeLibrary",
         "description": "The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.",
         "url": "https://github.com/ARM-software/ComputeLibrary",
-        "stars": 3050,
+        "stars": 3051,
         "forks": 804,
         "language": "C++",
         "pushed_at": "2025-09-26T10:20:59Z",
@@ -21331,7 +21331,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 5387,
+        "stars": 5388,
         "forks": 1556,
         "language": "Python",
         "pushed_at": "2025-09-29T12:51:24Z",
@@ -21962,7 +21962,7 @@
         "description": "DSL reference for the Android plugin for Gradle.",
         "url": "https://github.com/google/android-gradle-dsl",
         "stars": 788,
-        "forks": 107,
+        "forks": 108,
         "language": "HTML",
         "pushed_at": "2022-03-28T16:36:54Z",
         "created_at": "2015-08-07T09:05:13Z"
@@ -23751,7 +23751,7 @@
         "name": "brotli",
         "description": "Brotli compression format",
         "url": "https://github.com/google/brotli",
-        "stars": 14317,
+        "stars": 14318,
         "forks": 1284,
         "language": "TypeScript",
         "pushed_at": "2025-09-29T14:27:24Z",
@@ -24191,7 +24191,7 @@
         "name": "cameratrapai",
         "description": "AI models trained by Google to classify species in images from motion-triggered wildlife cameras.",
         "url": "https://github.com/google/cameratrapai",
-        "stars": 361,
+        "stars": 362,
         "forks": 41,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-09-19T17:39:34Z",
@@ -24534,7 +24534,7 @@
         "stars": 200,
         "forks": 62,
         "language": "C++",
-        "pushed_at": "2025-09-29T12:11:00Z",
+        "pushed_at": "2025-09-29T17:38:50Z",
         "created_at": "2018-02-15T22:25:24Z"
       },
       {
@@ -28031,7 +28031,7 @@
         "name": "draco",
         "description": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
         "url": "https://github.com/google/draco",
-        "stars": 6965,
+        "stars": 6966,
         "forks": 1019,
         "language": "C++",
         "pushed_at": "2025-09-18T02:22:42Z",
@@ -28364,7 +28364,7 @@
         "stars": 3056,
         "forks": 1040,
         "language": "JavaScript",
-        "pushed_at": "2025-09-29T17:30:19Z",
+        "pushed_at": "2025-09-29T17:41:57Z",
         "created_at": "2015-04-22T00:36:55Z"
       },
       {
@@ -29524,7 +29524,7 @@
         "stars": 18874,
         "forks": 2035,
         "language": "C++",
-        "pushed_at": "2025-09-29T16:09:26Z",
+        "pushed_at": "2025-09-29T17:44:14Z",
         "created_at": "2018-08-03T17:26:00Z"
       },
       {
@@ -29654,7 +29654,7 @@
         "stars": 6823,
         "forks": 743,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-09-27T01:28:06Z",
+        "pushed_at": "2025-09-29T17:32:32Z",
         "created_at": "2020-01-10T09:48:37Z"
       },
       {
@@ -29981,7 +29981,7 @@
         "name": "fonts",
         "description": "Font files available from Google Fonts, and a public issue tracker for all things Google Fonts",
         "url": "https://github.com/google/fonts",
-        "stars": 19254,
+        "stars": 19255,
         "forks": 2776,
         "language": "HTML",
         "pushed_at": "2025-09-26T09:23:13Z",
@@ -30321,7 +30321,7 @@
         "name": "fuzzing",
         "description": "Tutorials, examples, discussions, research proposals, and other resources related to fuzzing",
         "url": "https://github.com/google/fuzzing",
-        "stars": 3708,
+        "stars": 3709,
         "forks": 447,
         "language": "C++",
         "pushed_at": "2024-10-24T14:45:24Z",
@@ -33094,7 +33094,7 @@
         "stars": 51157,
         "forks": 11075,
         "language": "Java",
-        "pushed_at": "2025-09-29T17:12:30Z",
+        "pushed_at": "2025-09-29T17:33:16Z",
         "created_at": "2014-05-29T16:23:17Z"
       },
       {
@@ -33204,7 +33204,7 @@
         "stars": 17015,
         "forks": 1438,
         "language": "Go",
-        "pushed_at": "2025-09-29T17:29:38Z",
+        "pushed_at": "2025-09-29T17:37:57Z",
         "created_at": "2018-04-26T21:28:49Z"
       },
       {
@@ -35684,7 +35684,7 @@
         "stars": 855,
         "forks": 64,
         "language": "Python",
-        "pushed_at": "2025-09-29T17:18:58Z",
+        "pushed_at": "2025-09-29T17:42:36Z",
         "created_at": "2023-08-29T17:58:47Z"
       },
       {
@@ -38372,7 +38372,7 @@
         "description": "WebGL-based viewer for volumetric data",
         "url": "https://github.com/google/neuroglancer",
         "stars": 1207,
-        "forks": 327,
+        "forks": 328,
         "language": "TypeScript",
         "pushed_at": "2025-09-24T22:46:31Z",
         "created_at": "2016-05-27T02:37:25Z"
@@ -39364,7 +39364,7 @@
         "stars": 511,
         "forks": 85,
         "language": "Go",
-        "pushed_at": "2025-09-29T04:15:00Z",
+        "pushed_at": "2025-09-29T17:40:04Z",
         "created_at": "2024-04-10T09:09:11Z"
       },
       {
@@ -41962,7 +41962,7 @@
         "description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
         "url": "https://github.com/google/re2",
         "stars": 9432,
-        "forks": 1180,
+        "forks": 1181,
         "language": "C++",
         "pushed_at": "2025-09-29T16:01:48Z",
         "created_at": "2014-08-18T21:21:26Z"
@@ -45874,7 +45874,7 @@
         "stars": 1446,
         "forks": 130,
         "language": "C++",
-        "pushed_at": "2025-09-29T17:26:06Z",
+        "pushed_at": "2025-09-29T17:39:47Z",
         "created_at": "2020-03-30T13:24:59Z"
       },
       {
@@ -46724,7 +46724,7 @@
         "stars": 162,
         "forks": 35,
         "language": "Python",
-        "pushed_at": "2025-09-29T17:14:39Z",
+        "pushed_at": "2025-09-29T17:44:17Z",
         "created_at": "2025-04-02T22:19:15Z"
       },
       {
@@ -48474,7 +48474,7 @@
         "stars": 149,
         "forks": 10,
         "language": "Python",
-        "pushed_at": "2025-09-29T17:27:55Z",
+        "pushed_at": "2025-09-29T17:39:28Z",
         "created_at": "2021-05-11T20:48:07Z"
       },
       {
@@ -48534,7 +48534,7 @@
         "stars": 1354,
         "forks": 214,
         "language": "C++",
-        "pushed_at": "2025-09-29T17:26:41Z",
+        "pushed_at": "2025-09-29T17:34:41Z",
         "created_at": "2020-05-07T21:38:30Z"
       },
       {
