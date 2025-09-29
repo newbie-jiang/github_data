@@ -329,7 +329,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-29T17:31:19Z",
+        "pushed_at": "2025-09-29T17:44:52Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4049,7 +4049,7 @@
         "stars": 13189,
         "forks": 7977,
         "language": "C",
-        "pushed_at": "2025-09-29T16:47:57Z",
+        "pushed_at": "2025-09-29T18:09:18Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -11219,7 +11219,7 @@
         "stars": 40,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-09-29T16:47:09Z",
+        "pushed_at": "2025-09-29T18:20:11Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11496,7 +11496,7 @@
         "name": "esp-brookesia",
         "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
         "url": "https://github.com/espressif/esp-brookesia",
-        "stars": 437,
+        "stars": 438,
         "forks": 98,
         "language": "C",
         "pushed_at": "2025-09-26T11:16:19Z",
@@ -12189,7 +12189,7 @@
         "stars": 4,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-09-29T16:03:27Z",
+        "pushed_at": "2025-09-29T18:03:27Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12256,7 +12256,7 @@
         "name": "esp-protocols",
         "description": "Collection of ESP-IDF components related to networking protocols",
         "url": "https://github.com/espressif/esp-protocols",
-        "stars": 258,
+        "stars": 259,
         "forks": 171,
         "language": "C",
         "pushed_at": "2025-09-25T19:13:26Z",
@@ -13439,7 +13439,7 @@
         "stars": 254,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-09-29T17:29:37Z",
+        "pushed_at": "2025-09-29T18:01:38Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16407,7 +16407,7 @@
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
         "stars": 6614,
-        "forks": 492,
+        "forks": 493,
         "language": "TypeScript",
         "pushed_at": "2025-09-09T23:55:19Z",
         "created_at": "2025-08-19T17:22:54Z"
@@ -16606,8 +16606,8 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 30872,
-        "forks": 3771,
+        "stars": 30873,
+        "forks": 3772,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
         "created_at": "2020-12-16T11:24:42Z"
@@ -16639,7 +16639,7 @@
         "stars": 45187,
         "forks": 5325,
         "language": "Rust",
-        "pushed_at": "2025-09-29T17:31:54Z",
+        "pushed_at": "2025-09-29T18:04:53Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16856,7 +16856,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 17019,
+        "stars": 17020,
         "forks": 2804,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -17067,7 +17067,7 @@
         "description": "Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.",
         "url": "https://github.com/openai/gpt-discord-bot",
         "stars": 1837,
-        "forks": 667,
+        "forks": 666,
         "language": "Python",
         "pushed_at": "2024-06-07T10:53:58Z",
         "created_at": "2022-12-21T21:53:06Z"
@@ -17076,7 +17076,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 18611,
+        "stars": 18612,
         "forks": 1800,
         "language": "Python",
         "pushed_at": "2025-09-29T02:58:19Z",
@@ -17576,7 +17576,7 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 1475,
+        "stars": 1477,
         "forks": 363,
         "language": "TypeScript",
         "pushed_at": "2025-09-27T06:52:39Z",
@@ -17586,7 +17586,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 15118,
+        "stars": 15120,
         "forks": 2526,
         "language": "Python",
         "pushed_at": "2025-09-28T22:06:50Z",
@@ -17626,7 +17626,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 68139,
+        "stars": 68141,
         "forks": 11356,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-09-29T16:35:05Z",
@@ -17669,7 +17669,7 @@
         "stars": 2328,
         "forks": 327,
         "language": "C#",
-        "pushed_at": "2025-09-29T09:07:40Z",
+        "pushed_at": "2025-09-29T17:45:20Z",
         "created_at": "2024-04-25T23:27:40Z"
       },
       {
@@ -17696,7 +17696,7 @@
         "name": "openai-go",
         "description": "The official Go library for the OpenAI API",
         "url": "https://github.com/openai/openai-go",
-        "stars": 2544,
+        "stars": 2545,
         "forks": 212,
         "language": "Go",
         "pushed_at": "2025-09-29T05:07:08Z",
@@ -17839,7 +17839,7 @@
         "stars": 169,
         "forks": 12,
         "language": "C++",
-        "pushed_at": "2025-09-29T16:57:32Z",
+        "pushed_at": "2025-09-29T18:23:51Z",
         "created_at": "2025-07-29T14:18:13Z"
       },
       {
@@ -18279,7 +18279,7 @@
         "stars": 23,
         "forks": 4,
         "language": "Swift",
-        "pushed_at": "2025-09-19T17:15:41Z",
+        "pushed_at": "2025-09-29T18:23:01Z",
         "created_at": "2025-08-25T23:43:23Z"
       },
       {
@@ -18536,7 +18536,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 88803,
+        "stars": 88804,
         "forks": 11058,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
@@ -18664,7 +18664,7 @@
         "stars": 71,
         "forks": 70,
         "language": "Python",
-        "pushed_at": "2025-09-29T16:34:39Z",
+        "pushed_at": "2025-09-29T18:08:02Z",
         "created_at": "2020-09-30T14:08:10Z"
       },
       {
@@ -21294,7 +21294,7 @@
         "stars": 495,
         "forks": 333,
         "language": "HTML",
-        "pushed_at": "2025-09-29T16:04:37Z",
+        "pushed_at": "2025-09-29T17:49:59Z",
         "created_at": "2025-04-01T20:44:41Z"
       },
       {
@@ -21311,7 +21311,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 13341,
+        "stars": 13343,
         "forks": 1959,
         "language": "Python",
         "pushed_at": "2025-09-29T13:48:09Z",
@@ -21331,7 +21331,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 5388,
+        "stars": 5390,
         "forks": 1556,
         "language": "Python",
         "pushed_at": "2025-09-29T12:51:24Z",
@@ -22084,7 +22084,7 @@
         "stars": 3818,
         "forks": 681,
         "language": "C++",
-        "pushed_at": "2025-09-29T15:51:53Z",
+        "pushed_at": "2025-09-29T17:58:56Z",
         "created_at": "2014-08-26T14:59:07Z"
       },
       {
@@ -23441,7 +23441,7 @@
         "name": "blockly",
         "description": "The web-based visual programming editor.",
         "url": "https://github.com/google/blockly",
-        "stars": 13127,
+        "stars": 13128,
         "forks": 3804,
         "language": "TypeScript",
         "pushed_at": "2025-09-29T16:47:42Z",
@@ -24091,7 +24091,7 @@
         "name": "cadvisor",
         "description": "Analyzes resource usage and performance characteristics of running containers.",
         "url": "https://github.com/google/cadvisor",
-        "stars": 18417,
+        "stars": 18419,
         "forks": 2401,
         "language": "Go",
         "pushed_at": "2025-06-16T15:46:19Z",
@@ -24191,7 +24191,7 @@
         "name": "cameratrapai",
         "description": "AI models trained by Google to classify species in images from motion-triggered wildlife cameras.",
         "url": "https://github.com/google/cameratrapai",
-        "stars": 362,
+        "stars": 363,
         "forks": 41,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-09-19T17:39:34Z",
@@ -25424,7 +25424,7 @@
         "stars": 5479,
         "forks": 586,
         "language": "Python",
-        "pushed_at": "2025-09-29T16:12:54Z",
+        "pushed_at": "2025-09-29T17:52:18Z",
         "created_at": "2019-01-29T00:19:40Z"
       },
       {
@@ -25801,8 +25801,8 @@
         "name": "comprehensive-rust",
         "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
         "url": "https://github.com/google/comprehensive-rust",
-        "stars": 32084,
-        "forks": 1903,
+        "stars": 32083,
+        "forks": 1904,
         "language": "Rust",
         "pushed_at": "2025-09-29T11:39:46Z",
         "created_at": "2022-12-21T15:17:24Z"
@@ -26042,7 +26042,7 @@
         "description": "A Cordova plugin that provides an interface to in-app browser tabs that exist on some mobile platforms, such as SFSafariViewController on iOS and CustomTabs on Android.",
         "url": "https://github.com/google/cordova-plugin-browsertab",
         "stars": 117,
-        "forks": 146,
+        "forks": 147,
         "language": "Java",
         "pushed_at": "2024-02-14T03:06:43Z",
         "created_at": "2016-06-07T03:17:05Z"
@@ -26564,7 +26564,7 @@
         "stars": 1037,
         "forks": 127,
         "language": "Rust",
-        "pushed_at": "2025-09-29T06:47:43Z",
+        "pushed_at": "2025-09-29T18:05:04Z",
         "created_at": "2021-09-13T06:47:51Z"
       },
       {
@@ -28384,7 +28384,7 @@
         "stars": 729,
         "forks": 848,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-09-10T03:14:36Z",
+        "pushed_at": "2025-09-29T18:22:53Z",
         "created_at": "2019-08-05T21:42:11Z"
       },
       {
@@ -28401,7 +28401,7 @@
         "name": "earthenterprise",
         "description": "Google Earth Enterprise - Open Source",
         "url": "https://github.com/google/earthenterprise",
-        "stars": 2711,
+        "stars": 2712,
         "forks": 895,
         "language": "C++",
         "pushed_at": "2023-01-04T20:30:53Z",
@@ -29594,7 +29594,7 @@
         "stars": 7,
         "forks": 1,
         "language": "Python",
-        "pushed_at": "2025-09-29T16:42:25Z",
+        "pushed_at": "2025-09-29T17:55:44Z",
         "created_at": "2024-10-30T10:40:19Z"
       },
       {
@@ -29654,7 +29654,7 @@
         "stars": 6823,
         "forks": 743,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-09-29T17:32:32Z",
+        "pushed_at": "2025-09-29T18:17:18Z",
         "created_at": "2020-01-10T09:48:37Z"
       },
       {
@@ -31544,7 +31544,7 @@
         "stars": 398,
         "forks": 98,
         "language": "Go",
-        "pushed_at": "2025-09-22T16:53:43Z",
+        "pushed_at": "2025-09-29T18:06:23Z",
         "created_at": "2019-03-28T19:42:16Z"
       },
       {
@@ -32514,7 +32514,7 @@
         "stars": 384,
         "forks": 25,
         "language": "Rust",
-        "pushed_at": "2025-09-29T16:42:03Z",
+        "pushed_at": "2025-09-29T17:55:06Z",
         "created_at": "2022-10-21T14:20:24Z"
       },
       {
@@ -32704,7 +32704,7 @@
         "stars": 547,
         "forks": 54,
         "language": "Python",
-        "pushed_at": "2025-09-29T03:52:46Z",
+        "pushed_at": "2025-09-29T18:08:50Z",
         "created_at": "2022-08-05T08:29:51Z"
       },
       {
@@ -33051,7 +33051,7 @@
         "name": "GTMAppAuth",
         "description": "Apple platforms SDK for using AppAuth with Google libraries.",
         "url": "https://github.com/google/GTMAppAuth",
-        "stars": 413,
+        "stars": 414,
         "forks": 218,
         "language": "Swift",
         "pushed_at": "2025-09-26T21:16:30Z",
@@ -33091,10 +33091,10 @@
         "name": "guava",
         "description": "Google core libraries for Java",
         "url": "https://github.com/google/guava",
-        "stars": 51157,
+        "stars": 51158,
         "forks": 11075,
         "language": "Java",
-        "pushed_at": "2025-09-29T17:33:16Z",
+        "pushed_at": "2025-09-29T18:12:27Z",
         "created_at": "2014-05-29T16:23:17Z"
       },
       {
@@ -33204,7 +33204,7 @@
         "stars": 17015,
         "forks": 1438,
         "language": "Go",
-        "pushed_at": "2025-09-29T17:37:57Z",
+        "pushed_at": "2025-09-29T18:08:46Z",
         "created_at": "2018-04-26T21:28:49Z"
       },
       {
@@ -35524,7 +35524,7 @@
         "stars": 28,
         "forks": 14,
         "language": "C++",
-        "pushed_at": "2025-09-29T15:32:45Z",
+        "pushed_at": "2025-09-29T17:57:49Z",
         "created_at": "2024-05-07T11:31:53Z"
       },
       {
@@ -35532,7 +35532,7 @@
         "description": "The Kotlin Programming Language",
         "url": "https://github.com/google/kotlin",
         "stars": 152,
-        "forks": 45,
+        "forks": 46,
         "language": "Kotlin",
         "pushed_at": "2025-09-29T06:38:11Z",
         "created_at": "2019-11-06T03:19:19Z"
@@ -35684,7 +35684,7 @@
         "stars": 855,
         "forks": 64,
         "language": "Python",
-        "pushed_at": "2025-09-29T17:42:36Z",
+        "pushed_at": "2025-09-29T17:50:14Z",
         "created_at": "2023-08-29T17:58:47Z"
       },
       {
@@ -37194,7 +37194,7 @@
         "stars": 1128,
         "forks": 192,
         "language": "Python",
-        "pushed_at": "2025-09-29T17:30:06Z",
+        "pushed_at": "2025-09-29T18:16:43Z",
         "created_at": "2024-01-31T18:15:38Z"
       },
       {
@@ -37324,7 +37324,7 @@
         "stars": 331,
         "forks": 32,
         "language": "C",
-        "pushed_at": "2025-09-24T20:02:32Z",
+        "pushed_at": "2025-09-29T17:54:33Z",
         "created_at": "2019-06-18T19:54:52Z"
       },
       {
@@ -38204,7 +38204,7 @@
         "stars": 866,
         "forks": 178,
         "language": "C++",
-        "pushed_at": "2025-09-29T12:14:55Z",
+        "pushed_at": "2025-09-29T18:23:17Z",
         "created_at": "2020-04-23T20:41:37Z"
       },
       {
@@ -39164,7 +39164,7 @@
         "stars": 427,
         "forks": 67,
         "language": "Python",
-        "pushed_at": "2025-09-29T16:04:38Z",
+        "pushed_at": "2025-09-29T18:10:10Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -40184,7 +40184,7 @@
         "stars": 437,
         "forks": 97,
         "language": "C++",
-        "pushed_at": "2025-09-29T15:15:13Z",
+        "pushed_at": "2025-09-29T18:19:20Z",
         "created_at": "2021-03-09T22:07:25Z"
       },
       {
@@ -41964,7 +41964,7 @@
         "stars": 9432,
         "forks": 1181,
         "language": "C++",
-        "pushed_at": "2025-09-29T16:01:48Z",
+        "pushed_at": "2025-09-29T17:46:53Z",
         "created_at": "2014-08-18T21:21:26Z"
       },
       {
@@ -44374,7 +44374,7 @@
         "stars": 6,
         "forks": 3,
         "language": "Rust",
-        "pushed_at": "2025-08-26T10:55:40Z",
+        "pushed_at": "2025-09-29T18:22:58Z",
         "created_at": "2022-04-01T21:23:03Z"
       },
       {
@@ -46594,7 +46594,7 @@
         "stars": 2776,
         "forks": 268,
         "language": "Java",
-        "pushed_at": "2025-09-29T08:43:05Z",
+        "pushed_at": "2025-09-29T17:56:25Z",
         "created_at": "2011-06-22T18:55:12Z"
       },
       {
@@ -46721,10 +46721,10 @@
         "name": "tunix",
         "description": "A JAX-native LLM Post-Training Library",
         "url": "https://github.com/google/tunix",
-        "stars": 162,
+        "stars": 163,
         "forks": 35,
         "language": "Python",
-        "pushed_at": "2025-09-29T17:44:17Z",
+        "pushed_at": "2025-09-29T18:23:13Z",
         "created_at": "2025-04-02T22:19:15Z"
       },
       {
@@ -48474,7 +48474,7 @@
         "stars": 149,
         "forks": 10,
         "language": "Python",
-        "pushed_at": "2025-09-29T17:39:28Z",
+        "pushed_at": "2025-09-29T18:19:45Z",
         "created_at": "2021-05-11T20:48:07Z"
       },
       {
@@ -48534,7 +48534,7 @@
         "stars": 1354,
         "forks": 214,
         "language": "C++",
-        "pushed_at": "2025-09-29T17:34:41Z",
+        "pushed_at": "2025-09-29T17:46:05Z",
         "created_at": "2020-05-07T21:38:30Z"
       },
       {
