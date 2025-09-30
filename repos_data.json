@@ -329,7 +329,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-09-30T07:31:58Z",
+        "pushed_at": "2025-09-30T07:45:33Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3107,7 +3107,7 @@
         "description": "HAL module for NXP SoCs",
         "url": "https://github.com/zephyrproject-rtos/hal_nxp",
         "stars": 37,
-        "forks": 160,
+        "forks": 159,
         "language": "C",
         "pushed_at": "2025-09-25T03:59:57Z",
         "created_at": "2019-04-06T22:26:02Z"
@@ -4049,7 +4049,7 @@
         "stars": 13191,
         "forks": 7977,
         "language": "C",
-        "pushed_at": "2025-09-29T19:58:51Z",
+        "pushed_at": "2025-09-30T07:49:37Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -5094,7 +5094,7 @@
         "stars": 19,
         "forks": 7,
         "language": "C",
-        "pushed_at": "2025-07-30T07:51:03Z",
+        "pushed_at": "2025-09-30T08:13:04Z",
         "created_at": "2023-01-24T16:01:29Z"
       },
       {
@@ -11389,7 +11389,7 @@
         "stars": 1088,
         "forks": 1068,
         "language": "C",
-        "pushed_at": "2025-09-28T10:16:27Z",
+        "pushed_at": "2025-09-30T07:57:13Z",
         "created_at": "2017-01-11T15:36:52Z"
       },
       {
@@ -11496,7 +11496,7 @@
         "name": "esp-brookesia",
         "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
         "url": "https://github.com/espressif/esp-brookesia",
-        "stars": 440,
+        "stars": 442,
         "forks": 99,
         "language": "C",
         "pushed_at": "2025-09-26T11:16:19Z",
@@ -12446,7 +12446,7 @@
         "name": "esp-sr",
         "description": "Speech recognition",
         "url": "https://github.com/espressif/esp-sr",
-        "stars": 1122,
+        "stars": 1123,
         "forks": 164,
         "language": "C",
         "pushed_at": "2025-09-16T09:29:34Z",
@@ -12529,7 +12529,7 @@
         "stars": 53,
         "forks": 33,
         "language": "C",
-        "pushed_at": "2025-09-29T15:49:15Z",
+        "pushed_at": "2025-09-30T08:15:40Z",
         "created_at": "2024-01-18T07:20:01Z"
       },
       {
@@ -13269,7 +13269,7 @@
         "stars": 23,
         "forks": 2,
         "language": "Rust",
-        "pushed_at": "2025-09-30T07:33:12Z",
+        "pushed_at": "2025-09-30T08:09:08Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
@@ -14124,7 +14124,7 @@
         "stars": 1,
         "forks": 1,
         "language": "Python",
-        "pushed_at": "2025-09-30T06:53:09Z",
+        "pushed_at": "2025-09-30T08:20:53Z",
         "created_at": "2024-08-02T10:41:52Z"
       },
       {
@@ -14244,7 +14244,7 @@
         "stars": 0,
         "forks": 1,
         "language": "未指定",
-        "pushed_at": "2025-09-30T03:58:53Z",
+        "pushed_at": "2025-09-30T08:05:47Z",
         "created_at": "2025-01-22T08:28:54Z"
       },
       {
@@ -14916,7 +14916,7 @@
         "name": "STM32H7-LwIP-Examples",
         "description": "Ethernet examples using LwIP + FreeRTOS for STM32H7 Discovery and Nucleo boards",
         "url": "https://github.com/stm32-hotspot/STM32H7-LwIP-Examples",
-        "stars": 120,
+        "stars": 121,
         "forks": 33,
         "language": "C",
         "pushed_at": "2022-09-27T14:30:22Z",
@@ -16406,7 +16406,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 6656,
+        "stars": 6659,
         "forks": 499,
         "language": "TypeScript",
         "pushed_at": "2025-09-09T23:55:19Z",
@@ -16606,7 +16606,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 30880,
+        "stars": 30882,
         "forks": 3773,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16636,8 +16636,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 45283,
-        "forks": 5339,
+        "stars": 45295,
+        "forks": 5340,
         "language": "Rust",
         "pushed_at": "2025-09-30T07:29:58Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -16856,7 +16856,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 17022,
+        "stars": 17023,
         "forks": 2804,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -16926,7 +16926,7 @@
         "name": "frontier-evals",
         "description": "OpenAI Frontier Evals",
         "url": "https://github.com/openai/frontier-evals",
-        "stars": 889,
+        "stars": 890,
         "forks": 103,
         "language": "Python",
         "pushed_at": "2025-09-24T01:11:32Z",
@@ -17016,8 +17016,8 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 24236,
-        "forks": 5790,
+        "stars": 24237,
+        "forks": 5791,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
         "created_at": "2019-02-11T04:21:59Z"
@@ -17057,7 +17057,7 @@
         "description": "GPT-5 coding examples",
         "url": "https://github.com/openai/gpt-5-coding-examples",
         "stars": 1664,
-        "forks": 220,
+        "forks": 219,
         "language": "HTML",
         "pushed_at": "2025-08-08T04:36:36Z",
         "created_at": "2025-08-07T01:06:40Z"
@@ -17077,7 +17077,7 @@
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
         "stars": 18620,
-        "forks": 1803,
+        "forks": 1804,
         "language": "Python",
         "pushed_at": "2025-09-30T07:25:32Z",
         "created_at": "2025-06-23T16:43:33Z"
@@ -17126,7 +17126,7 @@
         "name": "gym",
         "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
         "url": "https://github.com/openai/gym",
-        "stars": 36599,
+        "stars": 36600,
         "forks": 8700,
         "language": "Python",
         "pushed_at": "2024-10-11T20:07:05Z",
@@ -17586,7 +17586,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 15134,
+        "stars": 15135,
         "forks": 2529,
         "language": "Python",
         "pushed_at": "2025-09-28T22:06:50Z",
@@ -17627,7 +17627,7 @@
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
         "stars": 68160,
-        "forks": 11359,
+        "forks": 11360,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-09-29T19:07:57Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -17776,7 +17776,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 6468,
+        "stars": 6469,
         "forks": 975,
         "language": "TypeScript",
         "pushed_at": "2025-09-03T16:52:46Z",
@@ -18196,7 +18196,7 @@
         "name": "safety-gym",
         "description": "Tools for accelerating safe exploration research.",
         "url": "https://github.com/openai/safety-gym",
-        "stars": 557,
+        "stars": 556,
         "forks": 145,
         "language": "Python",
         "pushed_at": "2023-04-02T11:31:24Z",
@@ -18366,7 +18366,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 20467,
+        "stars": 20469,
         "forks": 2196,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
@@ -18536,7 +18536,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 88830,
+        "stars": 88832,
         "forks": 11059,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
@@ -19424,7 +19424,7 @@
         "stars": 0,
         "forks": 1,
         "language": "C++",
-        "pushed_at": "2025-09-29T15:02:25Z",
+        "pushed_at": "2025-09-30T07:52:03Z",
         "created_at": "2025-06-13T09:33:39Z"
       },
       {
@@ -20799,7 +20799,7 @@
         "stars": 1155,
         "forks": 1393,
         "language": "C",
-        "pushed_at": "2025-09-30T07:25:36Z",
+        "pushed_at": "2025-09-30T08:06:50Z",
         "created_at": "2018-02-14T13:50:55Z"
       },
       {
@@ -21341,7 +21341,7 @@
         "name": "adk-web",
         "description": "Agent Development Kit Web (adk web) is the built-in developer UI that is integrated with Agent Development Kit for easier agent development and debugging. ",
         "url": "https://github.com/google/adk-web",
-        "stars": 321,
+        "stars": 322,
         "forks": 101,
         "language": "TypeScript",
         "pushed_at": "2025-09-30T05:11:44Z",
@@ -22554,7 +22554,7 @@
         "stars": 21,
         "forks": 13,
         "language": "C++",
-        "pushed_at": "2025-09-29T15:31:31Z",
+        "pushed_at": "2025-09-30T07:58:49Z",
         "created_at": "2023-09-18T13:03:53Z"
       },
       {
@@ -25081,7 +25081,7 @@
         "name": "cld3",
         "description": "（无简介）",
         "url": "https://github.com/google/cld3",
-        "stars": 851,
+        "stars": 852,
         "forks": 122,
         "language": "C++",
         "pushed_at": "2023-05-24T16:13:46Z",
@@ -25421,7 +25421,7 @@
         "name": "clusterfuzz",
         "description": "Scalable fuzzing infrastructure.",
         "url": "https://github.com/google/clusterfuzz",
-        "stars": 5479,
+        "stars": 5477,
         "forks": 586,
         "language": "Python",
         "pushed_at": "2025-09-29T17:52:18Z",
@@ -27124,7 +27124,7 @@
         "stars": 718,
         "forks": 122,
         "language": "C++",
-        "pushed_at": "2025-09-30T05:56:11Z",
+        "pushed_at": "2025-09-30T08:04:13Z",
         "created_at": "2023-10-04T16:54:23Z"
       },
       {
@@ -27514,7 +27514,7 @@
         "stars": 54,
         "forks": 21,
         "language": "Java",
-        "pushed_at": "2025-09-30T07:38:41Z",
+        "pushed_at": "2025-09-30T07:53:47Z",
         "created_at": "2022-04-15T03:00:41Z"
       },
       {
@@ -27921,8 +27921,8 @@
         "name": "docsy-example",
         "description": "An example documentation site using the Docsy Hugo theme",
         "url": "https://github.com/google/docsy-example",
-        "stars": 526,
-        "forks": 728,
+        "stars": 527,
+        "forks": 729,
         "language": "HTML",
         "pushed_at": "2025-09-29T22:03:07Z",
         "created_at": "2018-10-15T20:44:11Z"
@@ -28401,8 +28401,8 @@
         "name": "earthenterprise",
         "description": "Google Earth Enterprise - Open Source",
         "url": "https://github.com/google/earthenterprise",
-        "stars": 2711,
-        "forks": 895,
+        "stars": 2712,
+        "forks": 896,
         "language": "C++",
         "pushed_at": "2023-01-04T20:30:53Z",
         "created_at": "2017-03-20T21:40:53Z"
@@ -29521,8 +29521,8 @@
         "name": "filament",
         "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
         "url": "https://github.com/google/filament",
-        "stars": 18874,
-        "forks": 2035,
+        "stars": 18876,
+        "forks": 2036,
         "language": "C++",
         "pushed_at": "2025-09-30T07:27:32Z",
         "created_at": "2018-08-03T17:26:00Z"
@@ -30664,7 +30664,7 @@
         "stars": 6579,
         "forks": 569,
         "language": "C++",
-        "pushed_at": "2025-09-29T11:44:58Z",
+        "pushed_at": "2025-09-30T08:21:30Z",
         "created_at": "2024-02-13T04:36:03Z"
       },
       {
@@ -31431,7 +31431,7 @@
         "name": "glog",
         "description": "C++ implementation of the Google logging module",
         "url": "https://github.com/google/glog",
-        "stars": 7338,
+        "stars": 7339,
         "forks": 2101,
         "language": "C++",
         "pushed_at": "2025-05-17T11:51:44Z",
@@ -32501,7 +32501,7 @@
         "name": "googletest",
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "url": "https://github.com/google/googletest",
-        "stars": 37230,
+        "stars": 37233,
         "forks": 10540,
         "language": "C++",
         "pushed_at": "2025-09-30T03:06:38Z",
@@ -33131,7 +33131,7 @@
         "name": "guice",
         "description": "Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 11 and above, brought to you by Google.",
         "url": "https://github.com/google/guice",
-        "stars": 12682,
+        "stars": 12681,
         "forks": 1683,
         "language": "Java",
         "pushed_at": "2025-08-14T09:35:51Z",
@@ -33584,7 +33584,7 @@
         "stars": 5049,
         "forks": 383,
         "language": "C++",
-        "pushed_at": "2025-09-29T11:58:14Z",
+        "pushed_at": "2025-09-30T07:59:12Z",
         "created_at": "2019-09-06T12:41:23Z"
       },
       {
