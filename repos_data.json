@@ -329,7 +329,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-01T13:43:04Z",
+        "pushed_at": "2025-10-01T14:17:08Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4046,10 +4046,10 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 13213,
+        "stars": 13214,
         "forks": 7985,
         "language": "C",
-        "pushed_at": "2025-10-01T11:39:36Z",
+        "pushed_at": "2025-10-01T14:21:48Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -6734,7 +6734,7 @@
         "stars": 4,
         "forks": 1,
         "language": "C",
-        "pushed_at": "2025-07-22T10:20:17Z",
+        "pushed_at": "2025-10-01T14:30:43Z",
         "created_at": "2024-09-23T14:36:01Z"
       },
       {
@@ -7841,7 +7841,7 @@
         "name": "stm32-mw-usb-device",
         "description": "Provides the USB Device library part of the STM32Cube MCU Component \"middleware\" for all STM32xx series.",
         "url": "https://github.com/STMicroelectronics/stm32-mw-usb-device",
-        "stars": 140,
+        "stars": 141,
         "forks": 28,
         "language": "C",
         "pushed_at": "2025-04-15T14:00:31Z",
@@ -11679,7 +11679,7 @@
         "stars": 48,
         "forks": 19,
         "language": "C",
-        "pushed_at": "2025-09-26T13:13:04Z",
+        "pushed_at": "2025-10-01T14:31:11Z",
         "created_at": "2022-04-13T13:49:57Z"
       },
       {
@@ -13459,7 +13459,7 @@
         "stars": 254,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-10-01T14:00:40Z",
+        "pushed_at": "2025-10-01T14:31:39Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16657,16 +16657,16 @@
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
         "stars": 45491,
-        "forks": 5376,
+        "forks": 5377,
         "language": "Rust",
-        "pushed_at": "2025-10-01T13:48:08Z",
+        "pushed_at": "2025-10-01T14:33:50Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
         "name": "codex-universal",
         "description": "Base docker image used in Codex environments",
         "url": "https://github.com/openai/codex-universal",
-        "stars": 618,
+        "stars": 619,
         "forks": 176,
         "language": "Dockerfile",
         "pushed_at": "2025-08-28T21:48:17Z",
@@ -17606,7 +17606,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 15158,
+        "stars": 15159,
         "forks": 2541,
         "language": "Python",
         "pushed_at": "2025-10-01T12:57:53Z",
@@ -17647,7 +17647,7 @@
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
         "stars": 68189,
-        "forks": 11379,
+        "forks": 11380,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-09-30T22:06:05Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -17667,7 +17667,7 @@
         "description": "Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.",
         "url": "https://github.com/openai/openai-cua-sample-app",
         "stars": 1146,
-        "forks": 339,
+        "forks": 340,
         "language": "Python",
         "pushed_at": "2025-04-24T17:36:50Z",
         "created_at": "2025-03-11T14:57:29Z"
@@ -17746,7 +17746,7 @@
         "name": "openai-node",
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
-        "stars": 10146,
+        "stars": 10145,
         "forks": 1253,
         "language": "TypeScript",
         "pushed_at": "2025-10-01T01:25:18Z",
@@ -18426,7 +18426,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 16070,
+        "stars": 16069,
         "forks": 1234,
         "language": "Python",
         "pushed_at": "2025-09-30T06:53:50Z",
@@ -20819,7 +20819,7 @@
         "stars": 1156,
         "forks": 1393,
         "language": "C",
-        "pushed_at": "2025-10-01T14:12:08Z",
+        "pushed_at": "2025-10-01T14:32:27Z",
         "created_at": "2018-02-14T13:50:55Z"
       },
       {
@@ -21311,7 +21311,7 @@
         "name": "adk-docs",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-docs",
-        "stars": 496,
+        "stars": 497,
         "forks": 336,
         "language": "HTML",
         "pushed_at": "2025-09-30T23:54:48Z",
@@ -21331,8 +21331,8 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 13387,
-        "forks": 1972,
+        "stars": 13388,
+        "forks": 1973,
         "language": "Python",
         "pushed_at": "2025-10-01T00:29:36Z",
         "created_at": "2025-04-01T20:44:40Z"
@@ -21351,7 +21351,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 5423,
+        "stars": 5426,
         "forks": 1566,
         "language": "Python",
         "pushed_at": "2025-10-01T11:21:39Z",
@@ -21914,7 +21914,7 @@
         "stars": 549,
         "forks": 168,
         "language": "C++",
-        "pushed_at": "2025-10-01T01:19:47Z",
+        "pushed_at": "2025-10-01T14:18:46Z",
         "created_at": "2017-12-13T19:42:51Z"
       },
       {
@@ -23774,7 +23774,7 @@
         "stars": 14322,
         "forks": 1285,
         "language": "TypeScript",
-        "pushed_at": "2025-10-01T10:29:30Z",
+        "pushed_at": "2025-10-01T14:25:50Z",
         "created_at": "2014-10-09T14:35:14Z"
       },
       {
@@ -24501,7 +24501,7 @@
         "name": "cdc-file-transfer",
         "description": "Tools for synching and streaming files from Windows to Linux",
         "url": "https://github.com/google/cdc-file-transfer",
-        "stars": 3196,
+        "stars": 3204,
         "forks": 105,
         "language": "C++",
         "pushed_at": "2024-09-03T22:17:30Z",
@@ -25661,7 +25661,7 @@
         "name": "codeworld",
         "description": "Educational computer programming environment using Haskell",
         "url": "https://github.com/google/codeworld",
-        "stars": 1261,
+        "stars": 1262,
         "forks": 198,
         "language": "Haskell",
         "pushed_at": "2025-04-07T18:30:03Z",
@@ -28961,7 +28961,7 @@
         "name": "eslint-config-google",
         "description": "ESLint shareable config for the Google JavaScript style guide",
         "url": "https://github.com/google/eslint-config-google",
-        "stars": 1766,
+        "stars": 1767,
         "forks": 139,
         "language": "JavaScript",
         "pushed_at": "2025-03-27T23:20:31Z",
@@ -29101,7 +29101,7 @@
         "name": "ExoPlayer",
         "description": "This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media",
         "url": "https://github.com/google/ExoPlayer",
-        "stars": 21879,
+        "stars": 21878,
         "forks": 6047,
         "language": "Java",
         "pushed_at": "2024-08-07T18:54:48Z",
@@ -29651,7 +29651,7 @@
         "name": "flatbuffers",
         "description": "FlatBuffers: Memory Efficient Serialization Library",
         "url": "https://github.com/google/flatbuffers",
-        "stars": 24808,
+        "stars": 24809,
         "forks": 3401,
         "language": "C++",
         "pushed_at": "2025-09-25T16:02:47Z",
@@ -32211,7 +32211,7 @@
         "name": "google-authenticator-android",
         "description": "Open source fork of the Google Authenticator Android app",
         "url": "https://github.com/google/google-authenticator-android",
-        "stars": 1649,
+        "stars": 1648,
         "forks": 483,
         "language": "Java",
         "pushed_at": "2020-06-09T13:34:39Z",
@@ -32324,7 +32324,7 @@
         "stars": 5936,
         "forks": 896,
         "language": "Java",
-        "pushed_at": "2025-10-01T06:06:09Z",
+        "pushed_at": "2025-10-01T14:37:12Z",
         "created_at": "2015-05-11T20:38:28Z"
       },
       {
@@ -32534,7 +32534,7 @@
         "stars": 384,
         "forks": 25,
         "language": "Rust",
-        "pushed_at": "2025-10-01T12:09:54Z",
+        "pushed_at": "2025-10-01T14:28:12Z",
         "created_at": "2022-10-21T14:20:24Z"
       },
       {
@@ -32971,7 +32971,7 @@
         "name": "gson",
         "description": "A Java serialization/deserialization library to convert Java Objects into JSON and back",
         "url": "https://github.com/google/gson",
-        "stars": 24113,
+        "stars": 24112,
         "forks": 4353,
         "language": "Java",
         "pushed_at": "2025-10-01T03:04:16Z",
@@ -33114,7 +33114,7 @@
         "stars": 51159,
         "forks": 11075,
         "language": "Java",
-        "pushed_at": "2025-10-01T13:14:57Z",
+        "pushed_at": "2025-10-01T14:17:57Z",
         "created_at": "2014-05-29T16:23:17Z"
       },
       {
@@ -34752,7 +34752,7 @@
         "description": "Google IT Automation with Python Professional Certificate - Practice files",
         "url": "https://github.com/google/it-cert-automation-practice",
         "stars": 971,
-        "forks": 45786,
+        "forks": 45787,
         "language": "Python",
         "pushed_at": "2024-08-21T14:58:21Z",
         "created_at": "2019-12-17T19:04:12Z"
@@ -36011,7 +36011,7 @@
         "name": "libphonenumber",
         "description": "Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.",
         "url": "https://github.com/google/libphonenumber",
-        "stars": 17549,
+        "stars": 17550,
         "forks": 2119,
         "language": "C++",
         "pushed_at": "2025-09-25T08:34:53Z",
@@ -37114,7 +37114,7 @@
         "stars": 438,
         "forks": 20,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-10-01T10:08:31Z",
+        "pushed_at": "2025-10-01T14:26:52Z",
         "created_at": "2021-03-11T22:27:57Z"
       },
       {
@@ -38644,7 +38644,7 @@
         "stars": 1761,
         "forks": 287,
         "language": "Java",
-        "pushed_at": "2025-10-01T13:26:06Z",
+        "pushed_at": "2025-10-01T14:20:49Z",
         "created_at": "2016-02-29T20:16:48Z"
       },
       {
@@ -39184,7 +39184,7 @@
         "stars": 428,
         "forks": 67,
         "language": "Python",
-        "pushed_at": "2025-10-01T08:24:44Z",
+        "pushed_at": "2025-10-01T14:23:54Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39324,7 +39324,7 @@
         "stars": 11357,
         "forks": 2486,
         "language": "Shell",
-        "pushed_at": "2025-10-01T13:42:23Z",
+        "pushed_at": "2025-10-01T14:18:21Z",
         "created_at": "2016-07-20T19:39:50Z"
       },
       {
@@ -39344,7 +39344,7 @@
         "stars": 162,
         "forks": 42,
         "language": "Python",
-        "pushed_at": "2025-09-30T14:29:40Z",
+        "pushed_at": "2025-10-01T14:20:27Z",
         "created_at": "2021-03-23T06:04:38Z"
       },
       {
@@ -39391,7 +39391,7 @@
         "name": "osv-scanner",
         "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
         "url": "https://github.com/google/osv-scanner",
-        "stars": 7811,
+        "stars": 7810,
         "forks": 455,
         "language": "Go",
         "pushed_at": "2025-10-01T05:00:40Z",
@@ -39762,7 +39762,7 @@
         "description": "Patent analysis using the Google Patents Public Datasets on BigQuery",
         "url": "https://github.com/google/patents-public-data",
         "stars": 616,
-        "forks": 176,
+        "forks": 177,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-06-17T21:48:06Z",
         "created_at": "2017-06-05T14:35:27Z"
@@ -39964,7 +39964,7 @@
         "stars": 4675,
         "forks": 598,
         "language": "C++",
-        "pushed_at": "2025-10-01T14:10:27Z",
+        "pushed_at": "2025-10-01T14:19:21Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -44004,7 +44004,7 @@
         "stars": 10118,
         "forks": 1621,
         "language": "C++",
-        "pushed_at": "2025-10-01T07:38:31Z",
+        "pushed_at": "2025-10-01T14:24:31Z",
         "created_at": "2014-01-09T17:09:57Z"
       },
       {
@@ -46731,7 +46731,7 @@
         "name": "tunix",
         "description": "A JAX-native LLM Post-Training Library",
         "url": "https://github.com/google/tunix",
-        "stars": 303,
+        "stars": 307,
         "forks": 44,
         "language": "Python",
         "pushed_at": "2025-10-01T10:04:25Z",
@@ -48544,7 +48544,7 @@
         "stars": 1355,
         "forks": 214,
         "language": "C++",
-        "pushed_at": "2025-10-01T13:54:04Z",
+        "pushed_at": "2025-10-01T14:22:39Z",
         "created_at": "2020-05-07T21:38:30Z"
       },
       {
