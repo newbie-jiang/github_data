@@ -329,7 +329,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-02T17:13:22Z",
+        "pushed_at": "2025-10-02T17:30:35Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -11067,7 +11067,7 @@
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
         "stars": 15494,
-        "forks": 7719,
+        "forks": 7718,
         "language": "C++",
         "pushed_at": "2025-10-02T11:54:37Z",
         "created_at": "2016-10-06T06:04:20Z"
@@ -11239,7 +11239,7 @@
         "stars": 40,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-10-02T17:01:09Z",
+        "pushed_at": "2025-10-02T17:32:08Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11506,7 +11506,7 @@
         "name": "esp-box",
         "description": "The ESP-BOX is a new generation AIoT development platform released by Espressif Systems.",
         "url": "https://github.com/espressif/esp-box",
-        "stars": 1110,
+        "stars": 1111,
         "forks": 247,
         "language": "HTML",
         "pushed_at": "2025-08-08T10:29:35Z",
@@ -13459,7 +13459,7 @@
         "stars": 254,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-10-02T17:09:36Z",
+        "pushed_at": "2025-10-02T17:40:44Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -17106,7 +17106,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 18651,
+        "stars": 18652,
         "forks": 1815,
         "language": "Python",
         "pushed_at": "2025-10-02T03:47:15Z",
@@ -17156,7 +17156,7 @@
         "name": "gym",
         "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
         "url": "https://github.com/openai/gym",
-        "stars": 36615,
+        "stars": 36616,
         "forks": 8702,
         "language": "Python",
         "pushed_at": "2024-10-11T20:07:05Z",
@@ -27154,7 +27154,7 @@
         "stars": 721,
         "forks": 122,
         "language": "C++",
-        "pushed_at": "2025-10-02T17:28:26Z",
+        "pushed_at": "2025-10-02T17:37:14Z",
         "created_at": "2023-10-04T16:54:23Z"
       },
       {
@@ -27944,7 +27944,7 @@
         "stars": 2826,
         "forks": 952,
         "language": "HTML",
-        "pushed_at": "2025-09-30T15:25:52Z",
+        "pushed_at": "2025-10-02T17:36:30Z",
         "created_at": "2018-10-15T20:59:47Z"
       },
       {
@@ -29661,7 +29661,7 @@
         "name": "flatbuffers",
         "description": "FlatBuffers: Memory Efficient Serialization Library",
         "url": "https://github.com/google/flatbuffers",
-        "stars": 24810,
+        "stars": 24811,
         "forks": 3400,
         "language": "C++",
         "pushed_at": "2025-09-25T16:02:47Z",
@@ -39794,7 +39794,7 @@
         "stars": 13,
         "forks": 5,
         "language": "Go",
-        "pushed_at": "2025-10-02T16:21:54Z",
+        "pushed_at": "2025-10-02T17:40:11Z",
         "created_at": "2024-07-19T00:26:26Z"
       },
       {
@@ -39974,7 +39974,7 @@
         "stars": 4681,
         "forks": 600,
         "language": "C++",
-        "pushed_at": "2025-10-02T17:18:36Z",
+        "pushed_at": "2025-10-02T17:30:31Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -41414,7 +41414,7 @@
         "stars": 692,
         "forks": 31,
         "language": "Python",
-        "pushed_at": "2025-10-02T17:30:04Z",
+        "pushed_at": "2025-10-02T17:39:28Z",
         "created_at": "2022-05-12T23:46:21Z"
       },
       {
@@ -41764,7 +41764,7 @@
         "stars": 782,
         "forks": 153,
         "language": "C++",
-        "pushed_at": "2025-10-02T01:30:51Z",
+        "pushed_at": "2025-10-02T17:41:32Z",
         "created_at": "2021-07-27T18:19:46Z"
       },
       {
@@ -41814,7 +41814,7 @@
         "stars": 43,
         "forks": 3,
         "language": "Python",
-        "pushed_at": "2025-10-02T17:27:06Z",
+        "pushed_at": "2025-10-02T17:37:53Z",
         "created_at": "2025-03-19T23:45:26Z"
       },
       {
@@ -45894,7 +45894,7 @@
         "stars": 1448,
         "forks": 130,
         "language": "C++",
-        "pushed_at": "2025-10-02T17:23:15Z",
+        "pushed_at": "2025-10-02T17:34:42Z",
         "created_at": "2020-03-30T13:24:59Z"
       },
       {
@@ -46741,8 +46741,8 @@
         "name": "tunix",
         "description": "A JAX-native LLM Post-Training Library",
         "url": "https://github.com/google/tunix",
-        "stars": 690,
-        "forks": 66,
+        "stars": 701,
+        "forks": 67,
         "language": "Python",
         "pushed_at": "2025-10-02T09:02:47Z",
         "created_at": "2025-04-02T22:19:15Z"
@@ -48574,7 +48574,7 @@
         "stars": 2123,
         "forks": 441,
         "language": "C",
-        "pushed_at": "2025-10-02T17:30:31Z",
+        "pushed_at": "2025-10-02T17:30:42Z",
         "created_at": "2019-09-13T23:48:37Z"
       },
       {
