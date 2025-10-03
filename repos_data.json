@@ -329,7 +329,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-03T04:37:57Z",
+        "pushed_at": "2025-10-03T04:47:24Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -11067,7 +11067,7 @@
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
         "stars": 15498,
-        "forks": 7718,
+        "forks": 7717,
         "language": "C++",
         "pushed_at": "2025-10-03T00:52:06Z",
         "created_at": "2016-10-06T06:04:20Z"
@@ -11837,7 +11837,7 @@
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
         "stars": 16317,
-        "forks": 7889,
+        "forks": 7888,
         "language": "C",
         "pushed_at": "2025-10-01T20:57:58Z",
         "created_at": "2016-08-17T10:40:35Z"
@@ -13459,7 +13459,7 @@
         "stars": 254,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-10-03T04:42:36Z",
+        "pushed_at": "2025-10-03T05:13:38Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13817,7 +13817,7 @@
         "description": "Visual Studio Code extension for ESP-IDF projects",
         "url": "https://github.com/espressif/vscode-esp-idf-extension",
         "stars": 1305,
-        "forks": 335,
+        "forks": 334,
         "language": "TypeScript",
         "pushed_at": "2025-09-29T08:45:51Z",
         "created_at": "2018-11-21T03:27:08Z"
@@ -16656,10 +16656,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 45724,
+        "stars": 45726,
         "forks": 5418,
         "language": "Rust",
-        "pushed_at": "2025-10-03T04:46:35Z",
+        "pushed_at": "2025-10-03T05:04:27Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16676,7 +16676,7 @@
         "name": "codex-universal",
         "description": "Base docker image used in Codex environments",
         "url": "https://github.com/openai/codex-universal",
-        "stars": 619,
+        "stars": 620,
         "forks": 176,
         "language": "Dockerfile",
         "pushed_at": "2025-08-28T21:48:17Z",
@@ -17657,7 +17657,7 @@
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
         "stars": 68218,
-        "forks": 11380,
+        "forks": 11379,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-10-02T19:08:29Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -17667,7 +17667,7 @@
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
         "stars": 5805,
-        "forks": 881,
+        "forks": 880,
         "language": "TypeScript",
         "pushed_at": "2025-08-25T08:30:57Z",
         "created_at": "2025-06-14T03:07:09Z"
@@ -17776,8 +17776,8 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 28822,
-        "forks": 4299,
+        "stars": 28823,
+        "forks": 4298,
         "language": "Python",
         "pushed_at": "2025-10-02T20:42:54Z",
         "created_at": "2020-10-25T23:23:54Z"
@@ -17807,7 +17807,7 @@
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
         "stars": 6479,
-        "forks": 980,
+        "forks": 979,
         "language": "TypeScript",
         "pushed_at": "2025-09-03T16:52:46Z",
         "created_at": "2025-01-16T01:29:28Z"
@@ -18567,7 +18567,7 @@
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
         "stars": 88942,
-        "forks": 11075,
+        "forks": 11076,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -19424,7 +19424,7 @@
         "stars": 9,
         "forks": 13,
         "language": "C",
-        "pushed_at": "2025-09-25T08:02:14Z",
+        "pushed_at": "2025-10-03T04:51:49Z",
         "created_at": "2021-03-01T12:41:02Z"
       },
       {
@@ -21322,7 +21322,7 @@
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-docs",
         "stars": 498,
-        "forks": 338,
+        "forks": 337,
         "language": "HTML",
         "pushed_at": "2025-10-01T21:37:13Z",
         "created_at": "2025-04-01T20:44:41Z"
@@ -21342,7 +21342,7 @@
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
         "stars": 13416,
-        "forks": 1978,
+        "forks": 1977,
         "language": "Python",
         "pushed_at": "2025-10-03T02:56:58Z",
         "created_at": "2025-04-01T20:44:40Z"
@@ -21362,7 +21362,7 @@
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
         "stars": 5443,
-        "forks": 1576,
+        "forks": 1575,
         "language": "Python",
         "pushed_at": "2025-10-02T15:58:35Z",
         "created_at": "2025-04-01T20:44:42Z"
@@ -21981,7 +21981,7 @@
         "name": "android-fhir",
         "description": "The Android FHIR SDK is a set of Kotlin libraries for building offline-capable, mobile-first healthcare applications using the HL7® FHIR® standard on Android.",
         "url": "https://github.com/google/android-fhir",
-        "stars": 558,
+        "stars": 559,
         "forks": 314,
         "language": "Kotlin",
         "pushed_at": "2025-09-23T09:47:18Z",
@@ -23271,7 +23271,7 @@
         "name": "benchmark",
         "description": "A microbenchmark support library",
         "url": "https://github.com/google/benchmark",
-        "stars": 9750,
+        "stars": 9751,
         "forks": 1706,
         "language": "C++",
         "pushed_at": "2025-10-02T10:10:20Z",
@@ -25191,8 +25191,8 @@
         "name": "closure-compiler",
         "description": "A JavaScript checker and optimizer.",
         "url": "https://github.com/google/closure-compiler",
-        "stars": 7574,
-        "forks": 1167,
+        "stars": 7576,
+        "forks": 1168,
         "language": "JavaScript",
         "pushed_at": "2025-10-02T18:49:31Z",
         "created_at": "2014-04-16T15:30:36Z"
@@ -26162,7 +26162,7 @@
         "description": "Crawler for linguistic corpora",
         "url": "https://github.com/google/corpuscrawler",
         "stars": 208,
-        "forks": 55,
+        "forks": 54,
         "language": "Python",
         "pushed_at": "2025-08-18T22:03:50Z",
         "created_at": "2017-09-08T22:21:03Z"
@@ -26614,7 +26614,7 @@
         "stars": 897,
         "forks": 54,
         "language": "Rust",
-        "pushed_at": "2025-10-02T17:54:37Z",
+        "pushed_at": "2025-10-03T05:07:58Z",
         "created_at": "2022-03-02T09:13:13Z"
       },
       {
@@ -28402,7 +28402,7 @@
         "description": "Python and JavaScript bindings for calling the Earth Engine API.",
         "url": "https://github.com/google/earthengine-api",
         "stars": 3060,
-        "forks": 1040,
+        "forks": 1041,
         "language": "JavaScript",
         "pushed_at": "2025-10-02T20:59:31Z",
         "created_at": "2015-04-22T00:36:55Z"
@@ -29671,7 +29671,7 @@
         "name": "flatbuffers",
         "description": "FlatBuffers: Memory Efficient Serialization Library",
         "url": "https://github.com/google/flatbuffers",
-        "stars": 24813,
+        "stars": 24814,
         "forks": 3400,
         "language": "C++",
         "pushed_at": "2025-09-25T16:02:47Z",
@@ -32171,7 +32171,7 @@
         "name": "google-api-javascript-client",
         "description": "Google APIs Client Library for browser JavaScript, aka gapi.",
         "url": "https://github.com/google/google-api-javascript-client",
-        "stars": 3419,
+        "stars": 3420,
         "forks": 1115,
         "language": "CSS",
         "pushed_at": "2024-08-23T19:41:51Z",
@@ -32762,7 +32762,7 @@
         "description": "（无简介）",
         "url": "https://github.com/google/graph-mining",
         "stars": 708,
-        "forks": 40,
+        "forks": 39,
         "language": "C++",
         "pushed_at": "2025-08-15T17:17:48Z",
         "created_at": "2021-07-26T01:37:31Z"
@@ -34772,7 +34772,7 @@
         "description": "Google IT Automation with Python Professional Certificate - Practice files",
         "url": "https://github.com/google/it-cert-automation-practice",
         "stars": 972,
-        "forks": 45796,
+        "forks": 45797,
         "language": "Python",
         "pushed_at": "2024-08-21T14:58:21Z",
         "created_at": "2019-12-17T19:04:12Z"
@@ -34791,7 +34791,7 @@
         "name": "j2cl",
         "description": "Java to Closure JavaScript transpiler",
         "url": "https://github.com/google/j2cl",
-        "stars": 1337,
+        "stars": 1338,
         "forks": 152,
         "language": "Java",
         "pushed_at": "2025-10-02T22:36:51Z",
@@ -37234,7 +37234,7 @@
         "stars": 1136,
         "forks": 196,
         "language": "Python",
-        "pushed_at": "2025-10-03T02:22:49Z",
+        "pushed_at": "2025-10-03T04:53:16Z",
         "created_at": "2024-01-31T18:15:38Z"
       },
       {
@@ -42861,7 +42861,7 @@
         "name": "ruy",
         "description": "（无简介）",
         "url": "https://github.com/google/ruy",
-        "stars": 314,
+        "stars": 315,
         "forks": 90,
         "language": "C++",
         "pushed_at": "2025-07-19T06:46:48Z",
