@@ -329,7 +329,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-03T10:35:39Z",
+        "pushed_at": "2025-10-03T10:45:01Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -11836,7 +11836,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 16316,
+        "stars": 16318,
         "forks": 7892,
         "language": "C",
         "pushed_at": "2025-10-01T20:57:58Z",
@@ -12496,7 +12496,7 @@
         "name": "esp-tflite-micro",
         "description": "TensorFlow Lite Micro for Espressif Chipsets",
         "url": "https://github.com/espressif/esp-tflite-micro",
-        "stars": 540,
+        "stars": 541,
         "forks": 123,
         "language": "C++",
         "pushed_at": "2025-09-30T08:56:35Z",
@@ -13219,7 +13219,7 @@
         "stars": 347,
         "forks": 130,
         "language": "Java",
-        "pushed_at": "2025-10-02T11:08:50Z",
+        "pushed_at": "2025-10-03T11:07:48Z",
         "created_at": "2019-09-16T02:21:43Z"
       },
       {
@@ -13289,7 +13289,7 @@
         "stars": 23,
         "forks": 2,
         "language": "Rust",
-        "pushed_at": "2025-10-03T08:58:22Z",
+        "pushed_at": "2025-10-03T10:48:36Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
@@ -13299,7 +13299,7 @@
         "stars": 111,
         "forks": 23,
         "language": "Inno Setup",
-        "pushed_at": "2025-10-02T11:24:55Z",
+        "pushed_at": "2025-10-03T11:09:39Z",
         "created_at": "2021-02-25T18:58:11Z"
       },
       {
@@ -13459,7 +13459,7 @@
         "stars": 254,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-10-03T10:28:42Z",
+        "pushed_at": "2025-10-03T11:00:36Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16636,7 +16636,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 30922,
+        "stars": 30921,
         "forks": 3776,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16666,10 +16666,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 45748,
-        "forks": 5423,
+        "stars": 45749,
+        "forks": 5425,
         "language": "Rust",
-        "pushed_at": "2025-10-03T10:17:41Z",
+        "pushed_at": "2025-10-03T11:13:21Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -17116,7 +17116,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 18662,
+        "stars": 18663,
         "forks": 1817,
         "language": "Python",
         "pushed_at": "2025-10-02T22:56:39Z",
@@ -17226,7 +17226,7 @@
         "name": "harmony",
         "description": "Renderer for the harmony response format to be used with gpt-oss",
         "url": "https://github.com/openai/harmony",
-        "stars": 3853,
+        "stars": 3854,
         "forks": 206,
         "language": "Rust",
         "pushed_at": "2025-08-15T23:28:11Z",
@@ -19194,7 +19194,7 @@
         "stars": 3052,
         "forks": 804,
         "language": "C++",
-        "pushed_at": "2025-10-03T08:10:49Z",
+        "pushed_at": "2025-10-03T10:54:39Z",
         "created_at": "2017-03-10T14:51:43Z"
       },
       {
@@ -19384,7 +19384,7 @@
         "stars": 3,
         "forks": 0,
         "language": "Go",
-        "pushed_at": "2025-10-03T10:40:26Z",
+        "pushed_at": "2025-10-03T11:04:04Z",
         "created_at": "2022-12-01T15:22:01Z"
       },
       {
@@ -19434,7 +19434,7 @@
         "stars": 9,
         "forks": 13,
         "language": "C",
-        "pushed_at": "2025-10-03T04:51:49Z",
+        "pushed_at": "2025-10-03T10:56:40Z",
         "created_at": "2021-03-01T12:41:02Z"
       },
       {
@@ -20839,7 +20839,7 @@
         "stars": 1157,
         "forks": 1393,
         "language": "C",
-        "pushed_at": "2025-10-03T10:18:18Z",
+        "pushed_at": "2025-10-03T11:02:59Z",
         "created_at": "2018-02-14T13:50:55Z"
       },
       {
@@ -33001,7 +33001,7 @@
         "name": "gson",
         "description": "A Java serialization/deserialization library to convert Java Objects into JSON and back",
         "url": "https://github.com/google/gson",
-        "stars": 24116,
+        "stars": 24117,
         "forks": 4355,
         "language": "Java",
         "pushed_at": "2025-10-01T03:04:16Z",
@@ -35912,7 +35912,7 @@
         "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
         "url": "https://github.com/google/leveldb",
         "stars": 38202,
-        "forks": 8065,
+        "forks": 8064,
         "language": "C++",
         "pushed_at": "2025-01-30T17:33:01Z",
         "created_at": "2014-08-27T21:17:52Z"
@@ -39191,7 +39191,7 @@
         "name": "or-tools",
         "description": "Google's Operations Research tools:",
         "url": "https://github.com/google/or-tools",
-        "stars": 12552,
+        "stars": 12553,
         "forks": 2286,
         "language": "C++",
         "pushed_at": "2025-10-03T09:43:12Z",
@@ -39991,7 +39991,7 @@
         "name": "perfetto",
         "description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.",
         "url": "https://github.com/google/perfetto",
-        "stars": 4688,
+        "stars": 4689,
         "forks": 600,
         "language": "C++",
         "pushed_at": "2025-10-03T03:49:59Z",
