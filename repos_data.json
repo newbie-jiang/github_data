@@ -329,7 +329,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-06T11:28:46Z",
+        "pushed_at": "2025-10-06T11:45:02Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4056,7 +4056,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 13236,
+        "stars": 13237,
         "forks": 8012,
         "language": "C",
         "pushed_at": "2025-10-06T07:38:02Z",
@@ -11076,10 +11076,10 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15510,
+        "stars": 15511,
         "forks": 7723,
         "language": "C++",
-        "pushed_at": "2025-10-06T11:05:19Z",
+        "pushed_at": "2025-10-06T12:11:24Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -11846,7 +11846,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 16334,
+        "stars": 16336,
         "forks": 7903,
         "language": "C",
         "pushed_at": "2025-10-04T21:24:44Z",
@@ -12219,7 +12219,7 @@
         "stars": 4,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-10-06T10:03:12Z",
+        "pushed_at": "2025-10-06T12:03:18Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -13259,7 +13259,7 @@
         "stars": 209,
         "forks": 113,
         "language": "C",
-        "pushed_at": "2025-10-06T08:00:57Z",
+        "pushed_at": "2025-10-06T12:09:35Z",
         "created_at": "2021-11-16T17:59:26Z"
       },
       {
@@ -13299,7 +13299,7 @@
         "stars": 23,
         "forks": 2,
         "language": "Rust",
-        "pushed_at": "2025-10-06T11:43:21Z",
+        "pushed_at": "2025-10-06T11:57:39Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
@@ -16322,7 +16322,7 @@
         "description": "nano version of RT-Thread",
         "url": "https://github.com/RT-Thread/rtthread-nano",
         "stars": 223,
-        "forks": 104,
+        "forks": 105,
         "language": "C",
         "pushed_at": "2025-09-02T05:26:53Z",
         "created_at": "2018-10-08T05:31:00Z"
@@ -16676,10 +16676,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 46074,
-        "forks": 5487,
+        "stars": 46080,
+        "forks": 5489,
         "language": "Rust",
-        "pushed_at": "2025-10-06T11:01:26Z",
+        "pushed_at": "2025-10-06T12:20:04Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16696,7 +16696,7 @@
         "name": "codex-universal",
         "description": "Base docker image used in Codex environments",
         "url": "https://github.com/openai/codex-universal",
-        "stars": 624,
+        "stars": 625,
         "forks": 177,
         "language": "Dockerfile",
         "pushed_at": "2025-08-28T21:48:17Z",
@@ -17106,7 +17106,7 @@
         "name": "gpt-5-coding-examples",
         "description": "GPT-5 coding examples",
         "url": "https://github.com/openai/gpt-5-coding-examples",
-        "stars": 1679,
+        "stars": 1680,
         "forks": 221,
         "language": "HTML",
         "pushed_at": "2025-08-08T04:36:36Z",
@@ -17126,8 +17126,8 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 18695,
-        "forks": 1820,
+        "stars": 18696,
+        "forks": 1821,
         "language": "Python",
         "pushed_at": "2025-10-06T00:06:55Z",
         "created_at": "2025-06-23T16:43:33Z"
@@ -17516,8 +17516,8 @@
         "name": "model_spec",
         "description": "The OpenAI Model Spec",
         "url": "https://github.com/openai/model_spec",
-        "stars": 636,
-        "forks": 73,
+        "stars": 637,
+        "forks": 74,
         "language": "未指定",
         "pushed_at": "2025-09-12T18:17:10Z",
         "created_at": "2025-02-06T19:22:13Z"
@@ -17636,7 +17636,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 15251,
+        "stars": 15252,
         "forks": 2570,
         "language": "Python",
         "pushed_at": "2025-10-05T16:33:38Z",
@@ -17676,8 +17676,8 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 68280,
-        "forks": 11389,
+        "stars": 68281,
+        "forks": 11390,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-10-04T00:42:33Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -17796,7 +17796,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 28826,
+        "stars": 28827,
         "forks": 4306,
         "language": "Python",
         "pushed_at": "2025-10-02T20:42:54Z",
@@ -18586,8 +18586,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 89026,
-        "forks": 11108,
+        "stars": 89029,
+        "forks": 11109,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -19044,7 +19044,7 @@
         "stars": 21,
         "forks": 19,
         "language": "C",
-        "pushed_at": "2025-10-06T11:22:57Z",
+        "pushed_at": "2025-10-06T12:28:29Z",
         "created_at": "2019-02-15T09:58:57Z"
       },
       {
@@ -19771,7 +19771,7 @@
         "name": "ML-KWS-for-MCU",
         "description": "Keyword spotting on Arm Cortex-M Microcontrollers",
         "url": "https://github.com/ARM-software/ML-KWS-for-MCU",
-        "stars": 1203,
+        "stars": 1204,
         "forks": 425,
         "language": "C",
         "pushed_at": "2019-04-10T15:17:43Z",
@@ -20849,7 +20849,7 @@
         "stars": 1156,
         "forks": 1393,
         "language": "C",
-        "pushed_at": "2025-10-06T11:22:33Z",
+        "pushed_at": "2025-10-06T12:23:53Z",
         "created_at": "2018-02-14T13:50:55Z"
       },
       {
@@ -20969,7 +20969,7 @@
         "stars": 342,
         "forks": 711,
         "language": "C",
-        "pushed_at": "2025-10-06T11:21:11Z",
+        "pushed_at": "2025-10-06T12:15:37Z",
         "created_at": "2018-02-05T14:45:23Z"
       },
       {
@@ -21361,10 +21361,10 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 13462,
-        "forks": 1991,
+        "stars": 13463,
+        "forks": 1992,
         "language": "Python",
-        "pushed_at": "2025-10-06T04:47:56Z",
+        "pushed_at": "2025-10-06T12:14:35Z",
         "created_at": "2025-04-01T20:44:40Z"
       },
       {
@@ -21734,7 +21734,7 @@
         "stars": 285,
         "forks": 19,
         "language": "Rust",
-        "pushed_at": "2025-09-29T16:59:03Z",
+        "pushed_at": "2025-10-06T12:34:46Z",
         "created_at": "2024-04-25T02:06:33Z"
       },
       {
@@ -23804,7 +23804,7 @@
         "stars": 14326,
         "forks": 1285,
         "language": "TypeScript",
-        "pushed_at": "2025-10-06T11:26:40Z",
+        "pushed_at": "2025-10-06T12:16:16Z",
         "created_at": "2014-10-09T14:35:14Z"
       },
       {
@@ -24541,7 +24541,7 @@
         "name": "cdc-file-transfer",
         "description": "Tools for synching and streaming files from Windows to Linux",
         "url": "https://github.com/google/cdc-file-transfer",
-        "stars": 3360,
+        "stars": 3361,
         "forks": 115,
         "language": "C++",
         "pushed_at": "2024-09-03T22:17:30Z",
@@ -25721,7 +25721,7 @@
         "name": "coding-competitions-archive",
         "description": "Google Coding Competitions problem archive",
         "url": "https://github.com/google/coding-competitions-archive",
-        "stars": 1232,
+        "stars": 1233,
         "forks": 325,
         "language": "HTML",
         "pushed_at": "2023-07-12T20:25:01Z",
@@ -29691,7 +29691,7 @@
         "name": "flatbuffers",
         "description": "FlatBuffers: Memory Efficient Serialization Library",
         "url": "https://github.com/google/flatbuffers",
-        "stars": 24819,
+        "stars": 24820,
         "forks": 3401,
         "language": "C++",
         "pushed_at": "2025-09-25T16:02:47Z",
@@ -29711,7 +29711,7 @@
         "name": "flax",
         "description": "Flax is a neural network library for JAX that is designed for flexibility.",
         "url": "https://github.com/google/flax",
-        "stars": 6836,
+        "stars": 6837,
         "forks": 745,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-10-06T08:21:44Z",
@@ -30391,7 +30391,7 @@
         "name": "fuzztest",
         "description": "（无简介）",
         "url": "https://github.com/google/fuzztest",
-        "stars": 904,
+        "stars": 905,
         "forks": 106,
         "language": "C++",
         "pushed_at": "2025-10-06T04:33:30Z",
@@ -31651,7 +31651,7 @@
         "name": "go-cmp",
         "description": "Package for comparing Go values in tests",
         "url": "https://github.com/google/go-cmp",
-        "stars": 4506,
+        "stars": 4507,
         "forks": 217,
         "language": "Go",
         "pushed_at": "2025-02-21T20:41:08Z",
@@ -31724,7 +31724,7 @@
         "stars": 10963,
         "forks": 2166,
         "language": "Go",
-        "pushed_at": "2025-10-06T01:39:53Z",
+        "pushed_at": "2025-10-06T12:09:54Z",
         "created_at": "2013-05-24T16:42:58Z"
       },
       {
@@ -32361,7 +32361,7 @@
         "name": "google-java-format",
         "description": "Reformats Java source code to comply with Google Java Style.",
         "url": "https://github.com/google/google-java-format",
-        "stars": 5939,
+        "stars": 5938,
         "forks": 897,
         "language": "Java",
         "pushed_at": "2025-10-04T13:56:07Z",
@@ -36541,7 +36541,7 @@
         "name": "longfellow-zk",
         "description": "Implementation of the Google Zero-Knowledge library for Identity Protocols.",
         "url": "https://github.com/google/longfellow-zk",
-        "stars": 928,
+        "stars": 929,
         "forks": 67,
         "language": "C++",
         "pushed_at": "2025-10-01T11:48:31Z",
@@ -36784,7 +36784,7 @@
         "stars": 8843,
         "forks": 451,
         "language": "Python",
-        "pushed_at": "2025-10-06T05:15:52Z",
+        "pushed_at": "2025-10-06T12:26:58Z",
         "created_at": "2023-08-22T09:36:55Z"
       },
       {
@@ -37811,7 +37811,7 @@
         "name": "mount-zip",
         "description": "FUSE file system for ZIP archives",
         "url": "https://github.com/google/mount-zip",
-        "stars": 215,
+        "stars": 216,
         "forks": 20,
         "language": "C++",
         "pushed_at": "2025-09-29T08:14:52Z",
@@ -39204,7 +39204,7 @@
         "stars": 12553,
         "forks": 2287,
         "language": "C++",
-        "pushed_at": "2025-10-06T10:38:58Z",
+        "pushed_at": "2025-10-06T12:21:29Z",
         "created_at": "2015-02-21T01:25:35Z"
       },
       {
@@ -39424,7 +39424,7 @@
         "stars": 512,
         "forks": 85,
         "language": "Go",
-        "pushed_at": "2025-10-03T18:07:06Z",
+        "pushed_at": "2025-10-06T12:26:37Z",
         "created_at": "2024-04-10T09:09:11Z"
       },
       {
@@ -39461,7 +39461,7 @@
         "name": "osv.dev",
         "description": "Open source vulnerability DB and triage service.",
         "url": "https://github.com/google/osv.dev",
-        "stars": 2111,
+        "stars": 2118,
         "forks": 232,
         "language": "Python",
         "pushed_at": "2025-10-03T06:42:52Z",
@@ -43651,7 +43651,7 @@
         "name": "sentencepiece",
         "description": "Unsupervised text tokenizer for Neural Network-based text generation.",
         "url": "https://github.com/google/sentencepiece",
-        "stars": 11332,
+        "stars": 11333,
         "forks": 1292,
         "language": "C++",
         "pushed_at": "2025-10-04T02:40:16Z",
@@ -44024,7 +44024,7 @@
         "stars": 1324,
         "forks": 319,
         "language": "JavaScript",
-        "pushed_at": "2025-10-06T10:08:40Z",
+        "pushed_at": "2025-10-06T12:27:34Z",
         "created_at": "2019-06-11T14:20:21Z"
       },
       {
@@ -46664,7 +46664,7 @@
         "stars": 54,
         "forks": 21,
         "language": "Go",
-        "pushed_at": "2025-09-29T14:35:29Z",
+        "pushed_at": "2025-10-06T11:55:02Z",
         "created_at": "2018-08-10T16:06:24Z"
       },
       {
@@ -48102,7 +48102,7 @@
         "description": "Web Starter Kit - a workflow for multi-device websites",
         "url": "https://github.com/google/web-starter-kit",
         "stars": 18381,
-        "forks": 2967,
+        "forks": 2966,
         "language": "HTML",
         "pushed_at": "2024-04-22T23:42:34Z",
         "created_at": "2014-04-07T08:45:18Z"
@@ -48424,7 +48424,7 @@
         "stars": 6269,
         "forks": 114,
         "language": "TypeScript",
-        "pushed_at": "2025-09-22T11:21:23Z",
+        "pushed_at": "2025-10-06T11:58:13Z",
         "created_at": "2021-12-22T15:52:53Z"
       },
       {
