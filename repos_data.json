@@ -329,7 +329,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-06T09:48:15Z",
+        "pushed_at": "2025-10-06T10:18:58Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3657,7 +3657,7 @@
         "description": "Repository containing all open source Percepio projects. TraceRecorder is software for tracing real-time applications. DFM is the target source code for DevAlert.",
         "url": "https://github.com/zephyrproject-rtos/percepio",
         "stars": 0,
-        "forks": 3,
+        "forks": 4,
         "language": "C",
         "pushed_at": "2025-01-24T15:12:08Z",
         "created_at": "2023-09-03T22:25:12Z"
@@ -11079,7 +11079,7 @@
         "stars": 15509,
         "forks": 7721,
         "language": "C++",
-        "pushed_at": "2025-10-06T08:15:11Z",
+        "pushed_at": "2025-10-06T10:28:13Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -11347,7 +11347,7 @@
         "description": "Espressif Advanced Development Framework for Multimedia Applications",
         "url": "https://github.com/espressif/esp-adf",
         "stars": 2054,
-        "forks": 808,
+        "forks": 809,
         "language": "C",
         "pushed_at": "2025-09-29T13:39:34Z",
         "created_at": "2018-04-02T07:03:49Z"
@@ -11416,7 +11416,7 @@
         "name": "esp-at",
         "description": "AT application for ESP32/ESP32-C2/ESP32-C3/ESP32-C6/ESP8266",
         "url": "https://github.com/espressif/esp-at",
-        "stars": 1091,
+        "stars": 1092,
         "forks": 1068,
         "language": "C",
         "pushed_at": "2025-09-30T12:24:53Z",
@@ -11539,7 +11539,7 @@
         "stars": 335,
         "forks": 171,
         "language": "C",
-        "pushed_at": "2025-10-03T13:22:01Z",
+        "pushed_at": "2025-10-06T10:29:04Z",
         "created_at": "2021-09-14T09:33:04Z"
       },
       {
@@ -11689,7 +11689,7 @@
         "stars": 49,
         "forks": 19,
         "language": "C",
-        "pushed_at": "2025-10-06T08:09:09Z",
+        "pushed_at": "2025-10-06T10:27:58Z",
         "created_at": "2022-04-13T13:49:57Z"
       },
       {
@@ -11729,7 +11729,7 @@
         "stars": 3,
         "forks": 0,
         "language": "C",
-        "pushed_at": "2025-10-03T14:41:15Z",
+        "pushed_at": "2025-10-06T10:32:27Z",
         "created_at": "2025-03-05T06:33:28Z"
       },
       {
@@ -13056,8 +13056,8 @@
         "name": "esptool-js",
         "description": "Javascript implementation of flasher tool for Espressif chips, running in web browser using WebSerial.",
         "url": "https://github.com/espressif/esptool-js",
-        "stars": 406,
-        "forks": 138,
+        "stars": 407,
+        "forks": 139,
         "language": "TypeScript",
         "pushed_at": "2025-09-23T10:55:50Z",
         "created_at": "2021-06-16T12:06:46Z"
@@ -13469,7 +13469,7 @@
         "stars": 255,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-10-06T10:03:38Z",
+        "pushed_at": "2025-10-06T10:35:44Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16536,7 +16536,7 @@
         "name": "baselines",
         "description": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
         "url": "https://github.com/openai/baselines",
-        "stars": 16459,
+        "stars": 16458,
         "forks": 4941,
         "language": "Python",
         "pushed_at": "2024-08-01T21:31:33Z",
@@ -16646,7 +16646,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 30926,
+        "stars": 30927,
         "forks": 3780,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16676,10 +16676,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 46070,
-        "forks": 5484,
+        "stars": 46068,
+        "forks": 5485,
         "language": "Rust",
-        "pushed_at": "2025-10-06T07:34:30Z",
+        "pushed_at": "2025-10-06T10:35:39Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -17676,7 +17676,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 68278,
+        "stars": 68280,
         "forks": 11389,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-10-04T00:42:33Z",
@@ -18586,8 +18586,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 89024,
-        "forks": 11107,
+        "stars": 89025,
+        "forks": 11108,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -20849,7 +20849,7 @@
         "stars": 1156,
         "forks": 1393,
         "language": "C",
-        "pushed_at": "2025-10-06T10:14:59Z",
+        "pushed_at": "2025-10-06T10:27:20Z",
         "created_at": "2018-02-14T13:50:55Z"
       },
       {
@@ -23804,7 +23804,7 @@
         "stars": 14326,
         "forks": 1285,
         "language": "TypeScript",
-        "pushed_at": "2025-10-06T09:30:15Z",
+        "pushed_at": "2025-10-06T10:24:45Z",
         "created_at": "2014-10-09T14:35:14Z"
       },
       {
@@ -25854,7 +25854,7 @@
         "stars": 717,
         "forks": 124,
         "language": "Java",
-        "pushed_at": "2025-10-02T19:25:33Z",
+        "pushed_at": "2025-10-06T10:19:18Z",
         "created_at": "2013-08-26T21:30:13Z"
       },
       {
@@ -25864,7 +25864,7 @@
         "stars": 32109,
         "forks": 1906,
         "language": "Rust",
-        "pushed_at": "2025-10-06T10:18:37Z",
+        "pushed_at": "2025-10-06T10:23:10Z",
         "created_at": "2022-12-21T15:17:24Z"
       },
       {
@@ -30772,7 +30772,7 @@
         "description": "Go SDK for Google Generative AI",
         "url": "https://github.com/google/generative-ai-go",
         "stars": 825,
-        "forks": 92,
+        "forks": 91,
         "language": "Go",
         "pushed_at": "2025-08-08T18:25:04Z",
         "created_at": "2023-12-04T16:00:24Z"
@@ -33012,7 +33012,7 @@
         "description": "A Java serialization/deserialization library to convert Java Objects into JSON and back",
         "url": "https://github.com/google/gson",
         "stars": 24128,
-        "forks": 4358,
+        "forks": 4359,
         "language": "Java",
         "pushed_at": "2025-10-06T04:37:47Z",
         "created_at": "2015-03-19T18:21:20Z"
