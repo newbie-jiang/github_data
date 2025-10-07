@@ -339,7 +339,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-07T18:24:46Z",
+        "pushed_at": "2025-10-07T18:52:13Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3217,7 +3217,7 @@
         "description": "STM32Cube packages for Zephyr",
         "url": "https://github.com/zephyrproject-rtos/hal_stm32",
         "stars": 134,
-        "forks": 143,
+        "forks": 144,
         "language": "C",
         "pushed_at": "2025-10-06T13:53:54Z",
         "created_at": "2019-06-07T16:54:35Z"
@@ -4534,7 +4534,7 @@
         "stars": 2,
         "forks": 1,
         "language": "C",
-        "pushed_at": "2025-10-07T08:43:51Z",
+        "pushed_at": "2025-10-07T19:10:02Z",
         "created_at": "2023-10-11T12:42:01Z"
       },
       {
@@ -6731,7 +6731,7 @@
         "name": "st-mems-rust-drivers",
         "description": "Platform-independent drivers for STMicroelectronics MEMS motion and environmental sensors, based on Rust Programming Language",
         "url": "https://github.com/STMicroelectronics/st-mems-rust-drivers",
-        "stars": 78,
+        "stars": 79,
         "forks": 3,
         "language": "Rust",
         "pushed_at": "2025-09-05T13:59:22Z",
@@ -13479,7 +13479,7 @@
         "stars": 255,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-10-07T18:34:45Z",
+        "pushed_at": "2025-10-07T19:05:42Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16457,7 +16457,7 @@
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
         "stars": 6947,
-        "forks": 530,
+        "forks": 531,
         "language": "TypeScript",
         "pushed_at": "2025-09-09T23:55:19Z",
         "created_at": "2025-08-19T17:22:54Z"
@@ -16626,8 +16626,8 @@
         "name": "chatkit-js",
         "description": "（无简介）",
         "url": "https://github.com/openai/chatkit-js",
-        "stars": 826,
-        "forks": 32,
+        "stars": 835,
+        "forks": 34,
         "language": "TypeScript",
         "pushed_at": "2025-10-06T17:40:43Z",
         "created_at": "2025-10-04T21:00:32Z"
@@ -16636,7 +16636,7 @@
         "name": "chatkit-python",
         "description": "（无简介）",
         "url": "https://github.com/openai/chatkit-python",
-        "stars": 147,
+        "stars": 148,
         "forks": 19,
         "language": "Python",
         "pushed_at": "2025-10-07T00:29:09Z",
@@ -16676,7 +16676,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 30943,
+        "stars": 30944,
         "forks": 3780,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16706,18 +16706,18 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 46293,
+        "stars": 46295,
         "forks": 5535,
         "language": "Rust",
-        "pushed_at": "2025-10-07T18:44:57Z",
+        "pushed_at": "2025-10-07T19:07:32Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
         "name": "codex-action",
         "description": "（无简介）",
         "url": "https://github.com/openai/codex-action",
-        "stars": 169,
-        "forks": 8,
+        "stars": 172,
+        "forks": 9,
         "language": "TypeScript",
         "pushed_at": "2025-10-06T23:54:16Z",
         "created_at": "2025-10-01T20:58:28Z"
@@ -16726,7 +16726,7 @@
         "name": "codex-universal",
         "description": "Base docker image used in Codex environments",
         "url": "https://github.com/openai/codex-universal",
-        "stars": 630,
+        "stars": 631,
         "forks": 177,
         "language": "Dockerfile",
         "pushed_at": "2025-08-28T21:48:17Z",
@@ -17657,7 +17657,7 @@
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
         "stars": 1578,
-        "forks": 383,
+        "forks": 384,
         "language": "TypeScript",
         "pushed_at": "2025-10-06T16:57:19Z",
         "created_at": "2025-05-31T00:08:49Z"
@@ -17666,18 +17666,18 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 15501,
+        "stars": 15505,
         "forks": 2601,
         "language": "Python",
-        "pushed_at": "2025-10-06T18:37:06Z",
+        "pushed_at": "2025-10-07T19:01:16Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
         "name": "openai-apps-sdk-examples",
         "description": "Example apps for the Apps SDK",
         "url": "https://github.com/openai/openai-apps-sdk-examples",
-        "stars": 216,
-        "forks": 33,
+        "stars": 218,
+        "forks": 34,
         "language": "JavaScript",
         "pushed_at": "2025-10-06T15:48:32Z",
         "created_at": "2025-10-06T05:28:01Z"
@@ -17716,8 +17716,8 @@
         "name": "openai-chatkit-advanced-samples",
         "description": "Starter app to build with OpenAI ChatKit SDK",
         "url": "https://github.com/openai/openai-chatkit-advanced-samples",
-        "stars": 114,
-        "forks": 26,
+        "stars": 118,
+        "forks": 27,
         "language": "Python",
         "pushed_at": "2025-10-06T17:50:21Z",
         "created_at": "2025-10-06T01:08:49Z"
@@ -17726,8 +17726,8 @@
         "name": "openai-chatkit-starter-app",
         "description": "Starter app to build with OpenAI ChatKit + Agent Builder",
         "url": "https://github.com/openai/openai-chatkit-starter-app",
-        "stars": 212,
-        "forks": 64,
+        "stars": 214,
+        "forks": 65,
         "language": "TypeScript",
         "pushed_at": "2025-10-07T00:16:38Z",
         "created_at": "2025-10-06T01:07:01Z"
@@ -21444,7 +21444,7 @@
         "stars": 13509,
         "forks": 1995,
         "language": "Python",
-        "pushed_at": "2025-10-07T17:59:22Z",
+        "pushed_at": "2025-10-07T19:05:51Z",
         "created_at": "2025-04-01T20:44:40Z"
       },
       {
@@ -23124,7 +23124,7 @@
         "stars": 160,
         "forks": 29,
         "language": "Rust",
-        "pushed_at": "2025-10-07T18:31:00Z",
+        "pushed_at": "2025-10-07T19:02:37Z",
         "created_at": "2023-04-07T15:43:22Z"
       },
       {
@@ -23734,7 +23734,7 @@
         "stars": 2020,
         "forks": 843,
         "language": "C++",
-        "pushed_at": "2025-10-07T16:28:56Z",
+        "pushed_at": "2025-10-07T19:02:54Z",
         "created_at": "2016-03-05T00:45:11Z"
       },
       {
@@ -23821,7 +23821,7 @@
         "name": "brax",
         "description": "Massively parallel rigidbody physics simulation on accelerator hardware.",
         "url": "https://github.com/google/brax",
-        "stars": 2878,
+        "stars": 2879,
         "forks": 312,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-10-07T16:53:21Z",
@@ -24694,7 +24694,7 @@
         "stars": 222,
         "forks": 28,
         "language": "Java",
-        "pushed_at": "2025-10-07T17:30:36Z",
+        "pushed_at": "2025-10-07T19:00:33Z",
         "created_at": "2023-01-09T22:47:41Z"
       },
       {
@@ -26714,7 +26714,7 @@
         "stars": 1045,
         "forks": 127,
         "language": "Rust",
-        "pushed_at": "2025-10-07T08:32:03Z",
+        "pushed_at": "2025-10-07T19:10:54Z",
         "created_at": "2021-09-13T06:47:51Z"
       },
       {
@@ -26724,7 +26724,7 @@
         "stars": 898,
         "forks": 54,
         "language": "Rust",
-        "pushed_at": "2025-10-07T17:06:03Z",
+        "pushed_at": "2025-10-07T18:52:35Z",
         "created_at": "2022-03-02T09:13:13Z"
       },
       {
@@ -27274,7 +27274,7 @@
         "stars": 723,
         "forks": 122,
         "language": "C++",
-        "pushed_at": "2025-10-07T17:47:47Z",
+        "pushed_at": "2025-10-07T19:10:57Z",
         "created_at": "2023-10-04T16:54:23Z"
       },
       {
@@ -29804,7 +29804,7 @@
         "stars": 6847,
         "forks": 746,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-10-07T18:39:58Z",
+        "pushed_at": "2025-10-07T19:03:41Z",
         "created_at": "2020-01-10T09:48:37Z"
       },
       {
@@ -31841,7 +31841,7 @@
         "name": "go-jsonnet",
         "description": "（无简介）",
         "url": "https://github.com/google/go-jsonnet",
-        "stars": 1747,
+        "stars": 1748,
         "forks": 249,
         "language": "Go",
         "pushed_at": "2025-06-19T14:50:37Z",
@@ -32651,7 +32651,7 @@
         "name": "googletest",
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "url": "https://github.com/google/googletest",
-        "stars": 37253,
+        "stars": 37252,
         "forks": 10547,
         "language": "C++",
         "pushed_at": "2025-10-07T13:40:19Z",
@@ -32851,7 +32851,7 @@
         "name": "grain",
         "description": "Library for reading and processing ML training data.",
         "url": "https://github.com/google/grain",
-        "stars": 553,
+        "stars": 554,
         "forks": 55,
         "language": "Python",
         "pushed_at": "2025-10-07T08:48:09Z",
@@ -33244,7 +33244,7 @@
         "stars": 51175,
         "forks": 11076,
         "language": "Java",
-        "pushed_at": "2025-10-07T18:47:46Z",
+        "pushed_at": "2025-10-07T19:11:07Z",
         "created_at": "2014-05-29T16:23:17Z"
       },
       {
@@ -35154,7 +35154,7 @@
         "stars": 262,
         "forks": 47,
         "language": "Kotlin",
-        "pushed_at": "2025-10-07T18:35:16Z",
+        "pushed_at": "2025-10-07T18:53:12Z",
         "created_at": "2023-01-19T23:20:10Z"
       },
       {
@@ -35321,7 +35321,7 @@
         "name": "jsonnet",
         "description": "Jsonnet - The data templating language",
         "url": "https://github.com/google/jsonnet",
-        "stars": 7371,
+        "stars": 7372,
         "forks": 466,
         "language": "Jsonnet",
         "pushed_at": "2025-07-23T09:16:57Z",
@@ -35821,7 +35821,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 16133,
+        "stars": 16134,
         "forks": 1115,
         "language": "Python",
         "pushed_at": "2025-10-04T23:13:19Z",
@@ -37961,7 +37961,7 @@
         "name": "mozc-devices",
         "description": "Circuit diagrams and firmware source code for Gboard DIY keyboards",
         "url": "https://github.com/google/mozc-devices",
-        "stars": 2476,
+        "stars": 2478,
         "forks": 162,
         "language": "C++",
         "pushed_at": "2025-10-06T17:07:55Z",
@@ -39314,7 +39314,7 @@
         "stars": 431,
         "forks": 67,
         "language": "Python",
-        "pushed_at": "2025-10-07T18:36:49Z",
+        "pushed_at": "2025-10-07T19:02:11Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39424,7 +39424,7 @@
         "stars": 120,
         "forks": 17,
         "language": "Shell",
-        "pushed_at": "2025-10-07T17:36:58Z",
+        "pushed_at": "2025-10-07T18:58:47Z",
         "created_at": "2023-03-06T22:29:05Z"
       },
       {
@@ -39521,10 +39521,10 @@
         "name": "osv-scanner",
         "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
         "url": "https://github.com/google/osv-scanner",
-        "stars": 7847,
+        "stars": 7848,
         "forks": 458,
         "language": "Go",
-        "pushed_at": "2025-10-07T03:00:55Z",
+        "pushed_at": "2025-10-07T18:54:06Z",
         "created_at": "2022-11-14T01:05:20Z"
       },
       {
@@ -39554,7 +39554,7 @@
         "stars": 2302,
         "forks": 233,
         "language": "Python",
-        "pushed_at": "2025-10-07T05:48:26Z",
+        "pushed_at": "2025-10-07T18:57:11Z",
         "created_at": "2021-01-08T02:14:10Z"
       },
       {
@@ -41934,7 +41934,7 @@
         "stars": 48,
         "forks": 3,
         "language": "Python",
-        "pushed_at": "2025-10-07T18:43:29Z",
+        "pushed_at": "2025-10-07T18:57:05Z",
         "created_at": "2025-03-19T23:45:26Z"
       },
       {
