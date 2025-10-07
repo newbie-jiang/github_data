@@ -339,7 +339,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-07T19:45:20Z",
+        "pushed_at": "2025-10-07T20:18:19Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -8592,7 +8592,7 @@
         "description": "AI Model Zoo services for STM32 devices",
         "url": "https://github.com/STMicroelectronics/stm32ai-modelzoo-services",
         "stars": 77,
-        "forks": 28,
+        "forks": 29,
         "language": "C",
         "pushed_at": "2025-09-25T07:47:06Z",
         "created_at": "2024-11-12T13:43:27Z"
@@ -11089,7 +11089,7 @@
         "stars": 15518,
         "forks": 7725,
         "language": "C++",
-        "pushed_at": "2025-10-07T19:16:47Z",
+        "pushed_at": "2025-10-07T20:26:46Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -11259,7 +11259,7 @@
         "stars": 40,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-10-07T18:25:12Z",
+        "pushed_at": "2025-10-07T20:30:16Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -14151,7 +14151,7 @@
         "name": "ameba-rtos-pro2",
         "description": "Realtek Official IoT Software Development Kit for Ameba Series SoC: (Ameba Pro2)",
         "url": "https://github.com/Ameba-AIoT/ameba-rtos-pro2",
-        "stars": 17,
+        "stars": 18,
         "forks": 11,
         "language": "C",
         "pushed_at": "2025-10-03T09:13:06Z",
@@ -16626,7 +16626,7 @@
         "name": "chatkit-js",
         "description": "（无简介）",
         "url": "https://github.com/openai/chatkit-js",
-        "stars": 853,
+        "stars": 854,
         "forks": 36,
         "language": "TypeScript",
         "pushed_at": "2025-10-06T17:40:43Z",
@@ -16676,7 +16676,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 30944,
+        "stars": 30945,
         "forks": 3780,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16706,27 +16706,27 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 46299,
+        "stars": 46300,
         "forks": 5538,
         "language": "Rust",
-        "pushed_at": "2025-10-07T20:15:21Z",
+        "pushed_at": "2025-10-07T20:32:10Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
         "name": "codex-action",
         "description": "（无简介）",
         "url": "https://github.com/openai/codex-action",
-        "stars": 187,
+        "stars": 191,
         "forks": 10,
         "language": "TypeScript",
-        "pushed_at": "2025-10-07T19:46:50Z",
+        "pushed_at": "2025-10-07T20:20:22Z",
         "created_at": "2025-10-01T20:58:28Z"
       },
       {
         "name": "codex-universal",
         "description": "Base docker image used in Codex environments",
         "url": "https://github.com/openai/codex-universal",
-        "stars": 631,
+        "stars": 632,
         "forks": 177,
         "language": "Dockerfile",
         "pushed_at": "2025-08-28T21:48:17Z",
@@ -17666,7 +17666,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 15517,
+        "stars": 15521,
         "forks": 2603,
         "language": "Python",
         "pushed_at": "2025-10-07T19:01:16Z",
@@ -17676,8 +17676,8 @@
         "name": "openai-apps-sdk-examples",
         "description": "Example apps for the Apps SDK",
         "url": "https://github.com/openai/openai-apps-sdk-examples",
-        "stars": 223,
-        "forks": 34,
+        "stars": 224,
+        "forks": 35,
         "language": "JavaScript",
         "pushed_at": "2025-10-06T15:48:32Z",
         "created_at": "2025-10-06T05:28:01Z"
@@ -17687,7 +17687,7 @@
         "description": "OpenAI Assistants API quickstart with Next.js.",
         "url": "https://github.com/openai/openai-assistants-quickstart",
         "stars": 1949,
-        "forks": 582,
+        "forks": 581,
         "language": "TypeScript",
         "pushed_at": "2025-03-07T18:50:12Z",
         "created_at": "2024-05-01T19:48:19Z"
@@ -17806,7 +17806,7 @@
         "name": "openai-go",
         "description": "The official Go library for the OpenAI API",
         "url": "https://github.com/openai/openai-go",
-        "stars": 2566,
+        "stars": 2567,
         "forks": 215,
         "language": "Go",
         "pushed_at": "2025-10-06T18:08:32Z",
@@ -18446,7 +18446,7 @@
         "name": "spinningup",
         "description": "An educational resource to help anyone learn deep reinforcement learning.",
         "url": "https://github.com/openai/spinningup",
-        "stars": 11266,
+        "stars": 11267,
         "forks": 2396,
         "language": "Python",
         "pushed_at": "2024-08-05T03:30:30Z",
@@ -21461,8 +21461,8 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 5483,
-        "forks": 1596,
+        "stars": 5484,
+        "forks": 1597,
         "language": "Python",
         "pushed_at": "2025-10-06T10:00:34Z",
         "created_at": "2025-04-01T20:44:42Z"
@@ -25294,7 +25294,7 @@
         "stars": 7574,
         "forks": 1168,
         "language": "JavaScript",
-        "pushed_at": "2025-10-06T16:18:10Z",
+        "pushed_at": "2025-10-07T20:29:51Z",
         "created_at": "2014-04-16T15:30:36Z"
       },
       {
@@ -25321,7 +25321,7 @@
         "name": "closure-library",
         "description": "Google's common JavaScript library",
         "url": "https://github.com/google/closure-library",
-        "stars": 4901,
+        "stars": 4902,
         "forks": 1053,
         "language": "JavaScript",
         "pushed_at": "2024-08-01T20:51:28Z",
@@ -25564,7 +25564,7 @@
         "stars": 5478,
         "forks": 586,
         "language": "Python",
-        "pushed_at": "2025-10-07T20:04:04Z",
+        "pushed_at": "2025-10-07T20:31:37Z",
         "created_at": "2019-01-29T00:19:40Z"
       },
       {
@@ -25961,8 +25961,8 @@
         "name": "computer-use-preview",
         "description": "（无简介）",
         "url": "https://github.com/google/computer-use-preview",
-        "stars": 20,
-        "forks": 3,
+        "stars": 29,
+        "forks": 5,
         "language": "Python",
         "pushed_at": "2025-10-07T18:38:37Z",
         "created_at": "2025-05-06T00:20:31Z"
@@ -27274,7 +27274,7 @@
         "stars": 723,
         "forks": 122,
         "language": "C++",
-        "pushed_at": "2025-10-07T20:12:35Z",
+        "pushed_at": "2025-10-07T20:25:30Z",
         "created_at": "2023-10-04T16:54:23Z"
       },
       {
@@ -27664,7 +27664,7 @@
         "stars": 55,
         "forks": 21,
         "language": "Java",
-        "pushed_at": "2025-10-07T10:52:52Z",
+        "pushed_at": "2025-10-07T20:27:04Z",
         "created_at": "2022-04-15T03:00:41Z"
       },
       {
@@ -30484,7 +30484,7 @@
         "stars": 906,
         "forks": 107,
         "language": "C++",
-        "pushed_at": "2025-10-07T20:05:26Z",
+        "pushed_at": "2025-10-07T20:18:51Z",
         "created_at": "2022-08-10T20:54:25Z"
       },
       {
@@ -34904,7 +34904,7 @@
         "stars": 1340,
         "forks": 152,
         "language": "Java",
-        "pushed_at": "2025-10-07T20:17:45Z",
+        "pushed_at": "2025-10-07T20:24:27Z",
         "created_at": "2017-06-20T09:53:52Z"
       },
       {
@@ -37344,7 +37344,7 @@
         "stars": 1142,
         "forks": 197,
         "language": "Python",
-        "pushed_at": "2025-10-07T19:42:36Z",
+        "pushed_at": "2025-10-07T20:30:52Z",
         "created_at": "2024-01-31T18:15:38Z"
       },
       {
@@ -37961,7 +37961,7 @@
         "name": "mozc-devices",
         "description": "Circuit diagrams and firmware source code for Gboard DIY keyboards",
         "url": "https://github.com/google/mozc-devices",
-        "stars": 2479,
+        "stars": 2480,
         "forks": 162,
         "language": "C++",
         "pushed_at": "2025-10-06T17:07:55Z",
@@ -39551,7 +39551,7 @@
         "name": "osv.dev",
         "description": "Open source vulnerability DB and triage service.",
         "url": "https://github.com/google/osv.dev",
-        "stars": 2303,
+        "stars": 2304,
         "forks": 233,
         "language": "Python",
         "pushed_at": "2025-10-07T18:57:11Z",
@@ -40094,7 +40094,7 @@
         "stars": 4708,
         "forks": 602,
         "language": "C++",
-        "pushed_at": "2025-10-07T19:30:45Z",
+        "pushed_at": "2025-10-07T20:25:10Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -41934,7 +41934,7 @@
         "stars": 48,
         "forks": 3,
         "language": "Python",
-        "pushed_at": "2025-10-07T18:57:05Z",
+        "pushed_at": "2025-10-07T20:23:13Z",
         "created_at": "2025-03-19T23:45:26Z"
       },
       {
@@ -44134,7 +44134,7 @@
         "stars": 10136,
         "forks": 1623,
         "language": "C++",
-        "pushed_at": "2025-10-07T19:43:32Z",
+        "pushed_at": "2025-10-07T20:33:32Z",
         "created_at": "2014-01-09T17:09:57Z"
       },
       {
@@ -45281,7 +45281,7 @@
         "name": "styleguide",
         "description": "Style guides for Google-originated open-source projects",
         "url": "https://github.com/google/styleguide",
-        "stars": 38581,
+        "stars": 38582,
         "forks": 12999,
         "language": "HTML",
         "pushed_at": "2025-09-03T16:29:35Z",
@@ -45594,7 +45594,7 @@
         "stars": 1,
         "forks": 1,
         "language": "Python",
-        "pushed_at": "2025-10-07T17:26:49Z",
+        "pushed_at": "2025-10-07T20:21:09Z",
         "created_at": "2025-03-12T21:53:00Z"
       },
       {
@@ -48674,7 +48674,7 @@
         "stars": 314,
         "forks": 38,
         "language": "Python",
-        "pushed_at": "2025-10-06T17:45:19Z",
+        "pushed_at": "2025-10-07T20:24:36Z",
         "created_at": "2023-08-23T18:09:46Z"
       },
       {
@@ -48704,7 +48704,7 @@
         "stars": 2121,
         "forks": 441,
         "language": "C",
-        "pushed_at": "2025-10-07T20:01:14Z",
+        "pushed_at": "2025-10-07T20:27:59Z",
         "created_at": "2019-09-13T23:48:37Z"
       },
       {
@@ -48971,7 +48971,7 @@
         "name": "zerocopy",
         "description": "Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.",
         "url": "https://github.com/google/zerocopy",
-        "stars": 2039,
+        "stars": 2040,
         "forks": 125,
         "language": "Rust",
         "pushed_at": "2025-09-14T13:50:24Z",
