@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-09T17:45:46Z",
+        "pushed_at": "2025-10-09T18:24:09Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3219,7 +3219,7 @@
         "stars": 10,
         "forks": 81,
         "language": "C",
-        "pushed_at": "2025-10-03T16:10:08Z",
+        "pushed_at": "2025-10-09T18:50:38Z",
         "created_at": "2019-04-06T22:27:02Z"
       },
       {
@@ -13499,7 +13499,7 @@
         "stars": 255,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-10-09T18:19:37Z",
+        "pushed_at": "2025-10-09T18:50:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13619,7 +13619,7 @@
         "stars": 31,
         "forks": 9,
         "language": "C++",
-        "pushed_at": "2025-10-09T16:52:06Z",
+        "pushed_at": "2025-10-09T18:24:06Z",
         "created_at": "2021-03-01T07:44:10Z"
       },
       {
@@ -16476,7 +16476,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 7042,
+        "stars": 7043,
         "forks": 536,
         "language": "TypeScript",
         "pushed_at": "2025-10-09T01:50:00Z",
@@ -16619,7 +16619,7 @@
         "stars": 570,
         "forks": 115,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-08-22T07:46:01Z",
+        "pushed_at": "2025-10-09T18:43:23Z",
         "created_at": "2024-07-29T18:23:42Z"
       },
       {
@@ -16646,10 +16646,10 @@
         "name": "chatkit-js",
         "description": "（无简介）",
         "url": "https://github.com/openai/chatkit-js",
-        "stars": 1154,
+        "stars": 1155,
         "forks": 63,
         "language": "TypeScript",
-        "pushed_at": "2025-10-09T18:22:54Z",
+        "pushed_at": "2025-10-09T18:24:31Z",
         "created_at": "2025-10-04T21:00:32Z"
       },
       {
@@ -16726,7 +16726,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 46673,
+        "stars": 46675,
         "forks": 5604,
         "language": "Rust",
         "pushed_at": "2025-10-09T18:13:08Z",
@@ -17176,7 +17176,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 18748,
+        "stars": 18750,
         "forks": 1833,
         "language": "Python",
         "pushed_at": "2025-10-06T15:18:21Z",
@@ -17676,7 +17676,7 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 1628,
+        "stars": 1629,
         "forks": 391,
         "language": "TypeScript",
         "pushed_at": "2025-10-07T23:58:03Z",
@@ -17686,7 +17686,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 15901,
+        "stars": 15903,
         "forks": 2641,
         "language": "Python",
         "pushed_at": "2025-10-09T16:11:15Z",
@@ -17736,7 +17736,7 @@
         "name": "openai-chatkit-advanced-samples",
         "description": "Starter app to build with OpenAI ChatKit SDK",
         "url": "https://github.com/openai/openai-chatkit-advanced-samples",
-        "stars": 188,
+        "stars": 189,
         "forks": 42,
         "language": "Python",
         "pushed_at": "2025-10-06T17:50:21Z",
@@ -17746,8 +17746,8 @@
         "name": "openai-chatkit-starter-app",
         "description": "Starter app to build with OpenAI ChatKit + Agent Builder",
         "url": "https://github.com/openai/openai-chatkit-starter-app",
-        "stars": 324,
-        "forks": 125,
+        "stars": 326,
+        "forks": 127,
         "language": "TypeScript",
         "pushed_at": "2025-10-09T00:18:31Z",
         "created_at": "2025-10-06T01:07:01Z"
@@ -17756,7 +17756,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 68389,
+        "stars": 68390,
         "forks": 11411,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-10-09T18:19:57Z",
@@ -17846,7 +17846,7 @@
         "name": "openai-guardrails-python",
         "description": "OpenAI Guardrails Python (Preview)",
         "url": "https://github.com/openai/openai-guardrails-python",
-        "stars": 58,
+        "stars": 59,
         "forks": 5,
         "language": "Python",
         "pushed_at": "2025-10-09T18:14:40Z",
@@ -17876,7 +17876,7 @@
         "name": "openai-node",
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
-        "stars": 10189,
+        "stars": 10190,
         "forks": 1261,
         "language": "TypeScript",
         "pushed_at": "2025-10-09T05:07:47Z",
@@ -18686,7 +18686,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 89158,
+        "stars": 89159,
         "forks": 11128,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
@@ -20959,7 +20959,7 @@
         "stars": 1160,
         "forks": 1394,
         "language": "C",
-        "pushed_at": "2025-10-09T14:33:48Z",
+        "pushed_at": "2025-10-09T18:24:49Z",
         "created_at": "2018-02-14T13:50:55Z"
       },
       {
@@ -21471,10 +21471,10 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 13568,
+        "stars": 13569,
         "forks": 2005,
         "language": "Python",
-        "pushed_at": "2025-10-09T16:00:33Z",
+        "pushed_at": "2025-10-09T18:24:51Z",
         "created_at": "2025-04-01T20:44:40Z"
       },
       {
@@ -21491,7 +21491,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 5528,
+        "stars": 5530,
         "forks": 1611,
         "language": "Python",
         "pushed_at": "2025-10-08T18:23:10Z",
@@ -22244,7 +22244,7 @@
         "stars": 3821,
         "forks": 682,
         "language": "C++",
-        "pushed_at": "2025-10-09T15:25:55Z",
+        "pushed_at": "2025-10-09T18:49:55Z",
         "created_at": "2014-08-26T14:59:07Z"
       },
       {
@@ -25971,7 +25971,7 @@
         "name": "comprehensive-rust",
         "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
         "url": "https://github.com/google/comprehensive-rust",
-        "stars": 32130,
+        "stars": 32129,
         "forks": 1909,
         "language": "Rust",
         "pushed_at": "2025-10-06T11:18:38Z",
@@ -25991,8 +25991,8 @@
         "name": "computer-use-preview",
         "description": "（无简介）",
         "url": "https://github.com/google/computer-use-preview",
-        "stars": 577,
-        "forks": 69,
+        "stars": 582,
+        "forks": 70,
         "language": "Python",
         "pushed_at": "2025-10-08T00:45:39Z",
         "created_at": "2025-05-06T00:20:31Z"
@@ -27694,7 +27694,7 @@
         "stars": 55,
         "forks": 21,
         "language": "Java",
-        "pushed_at": "2025-10-09T16:59:22Z",
+        "pushed_at": "2025-10-09T18:34:34Z",
         "created_at": "2022-04-15T03:00:41Z"
       },
       {
@@ -27944,7 +27944,7 @@
         "stars": 54,
         "forks": 17,
         "language": "C++",
-        "pushed_at": "2025-10-03T17:04:09Z",
+        "pushed_at": "2025-10-09T18:41:58Z",
         "created_at": "2021-05-19T17:24:34Z"
       },
       {
@@ -29612,7 +29612,7 @@
         "description": "A collection of tools for extracting FHIR resources and analytics services on top of that data.",
         "url": "https://github.com/google/fhir-data-pipes",
         "stars": 196,
-        "forks": 116,
+        "forks": 115,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-10-06T07:08:03Z",
         "created_at": "2020-08-07T18:07:01Z"
@@ -29704,7 +29704,7 @@
         "stars": 18896,
         "forks": 2040,
         "language": "C++",
-        "pushed_at": "2025-10-09T17:24:00Z",
+        "pushed_at": "2025-10-09T18:29:17Z",
         "created_at": "2018-08-03T17:26:00Z"
       },
       {
@@ -30624,7 +30624,7 @@
         "stars": 5,
         "forks": 2,
         "language": "Python",
-        "pushed_at": "2025-10-09T17:18:35Z",
+        "pushed_at": "2025-10-09T18:47:59Z",
         "created_at": "2024-11-08T13:28:56Z"
       },
       {
@@ -32654,7 +32654,7 @@
         "stars": 651,
         "forks": 241,
         "language": "Objective-C",
-        "pushed_at": "2025-10-09T16:48:20Z",
+        "pushed_at": "2025-10-09T18:46:04Z",
         "created_at": "2021-03-24T17:01:02Z"
       },
       {
@@ -32681,7 +32681,7 @@
         "name": "googletest",
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "url": "https://github.com/google/googletest",
-        "stars": 37262,
+        "stars": 37263,
         "forks": 10547,
         "language": "C++",
         "pushed_at": "2025-10-07T23:04:04Z",
@@ -33106,6 +33106,16 @@
         "language": "Go",
         "pushed_at": "2022-01-18T09:01:43Z",
         "created_at": "2016-12-21T17:49:01Z"
+      },
+      {
+        "name": "GSCXScanner",
+        "description": "iOS Accessibility Scanner",
+        "url": "https://github.com/google/GSCXScanner",
+        "stars": 137,
+        "forks": 19,
+        "language": "Objective-C",
+        "pushed_at": "2023-08-10T17:10:02Z",
+        "created_at": "2019-02-27T22:10:27Z"
       },
       {
         "name": "GSCXScanner",
@@ -34912,7 +34922,7 @@
         "description": "Google IT Automation with Python Professional Certificate - Practice files",
         "url": "https://github.com/google/it-cert-automation-practice",
         "stars": 974,
-        "forks": 45828,
+        "forks": 45829,
         "language": "Python",
         "pushed_at": "2024-08-21T14:58:21Z",
         "created_at": "2019-12-17T19:04:12Z"
@@ -37061,7 +37071,7 @@
         "name": "mangle",
         "description": "（无简介）",
         "url": "https://github.com/google/mangle",
-        "stars": 2807,
+        "stars": 2808,
         "forks": 141,
         "language": "Go",
         "pushed_at": "2025-10-08T16:56:29Z",
@@ -37162,7 +37172,7 @@
         "description": "Material Design Components in HTML/CSS/JS",
         "url": "https://github.com/google/material-design-lite",
         "stars": 32250,
-        "forks": 4976,
+        "forks": 4975,
         "language": "HTML",
         "pushed_at": "2025-03-11T00:13:36Z",
         "created_at": "2015-01-14T22:01:33Z"
@@ -38001,7 +38011,7 @@
         "name": "mozc-devices",
         "description": "Circuit diagrams and firmware source code for Gboard DIY keyboards",
         "url": "https://github.com/google/mozc-devices",
-        "stars": 2522,
+        "stars": 2525,
         "forks": 163,
         "language": "C++",
         "pushed_at": "2025-10-06T17:07:55Z",
@@ -38872,7 +38882,7 @@
         "description": "nsync is a C library that exports various synchronization primitives, such as mutexes",
         "url": "https://github.com/google/nsync",
         "stars": 1218,
-        "forks": 92,
+        "forks": 93,
         "language": "C",
         "pushed_at": "2025-09-08T17:33:20Z",
         "created_at": "2017-03-11T02:51:04Z"
@@ -39494,7 +39504,7 @@
         "stars": 11372,
         "forks": 2487,
         "language": "Shell",
-        "pushed_at": "2025-10-09T18:15:01Z",
+        "pushed_at": "2025-10-09T18:42:05Z",
         "created_at": "2016-07-20T19:39:50Z"
       },
       {
@@ -39534,7 +39544,7 @@
         "stars": 655,
         "forks": 35,
         "language": "Go",
-        "pushed_at": "2025-10-09T18:12:22Z",
+        "pushed_at": "2025-10-09T18:26:50Z",
         "created_at": "2024-05-22T15:44:36Z"
       },
       {
@@ -41974,7 +41984,7 @@
         "stars": 49,
         "forks": 3,
         "language": "Python",
-        "pushed_at": "2025-10-08T06:36:36Z",
+        "pushed_at": "2025-10-09T18:28:01Z",
         "created_at": "2025-03-19T23:45:26Z"
       },
       {
@@ -42731,7 +42741,7 @@
         "name": "robotstxt",
         "description": "The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).",
         "url": "https://github.com/google/robotstxt",
-        "stars": 3422,
+        "stars": 3423,
         "forks": 243,
         "language": "C++",
         "pushed_at": "2024-08-02T04:59:33Z",
@@ -44154,7 +44164,7 @@
         "stars": 1324,
         "forks": 321,
         "language": "JavaScript",
-        "pushed_at": "2025-10-09T18:21:00Z",
+        "pushed_at": "2025-10-09T18:29:40Z",
         "created_at": "2019-06-11T14:20:21Z"
       },
       {
@@ -44174,7 +44184,7 @@
         "stars": 10140,
         "forks": 1625,
         "language": "C++",
-        "pushed_at": "2025-10-09T16:01:32Z",
+        "pushed_at": "2025-10-09T18:36:32Z",
         "created_at": "2014-01-09T17:09:57Z"
       },
       {
@@ -45321,7 +45331,7 @@
         "name": "styleguide",
         "description": "Style guides for Google-originated open-source projects",
         "url": "https://github.com/google/styleguide",
-        "stars": 38586,
+        "stars": 38587,
         "forks": 13000,
         "language": "HTML",
         "pushed_at": "2025-09-03T16:29:35Z",
@@ -46914,7 +46924,7 @@
         "stars": 1596,
         "forks": 137,
         "language": "Python",
-        "pushed_at": "2025-10-09T18:23:10Z",
+        "pushed_at": "2025-10-09T18:26:17Z",
         "created_at": "2025-04-02T22:19:15Z"
       },
       {
@@ -48724,7 +48734,7 @@
         "stars": 1357,
         "forks": 213,
         "language": "C++",
-        "pushed_at": "2025-10-09T18:24:03Z",
+        "pushed_at": "2025-10-09T18:40:08Z",
         "created_at": "2020-05-07T21:38:30Z"
       },
       {
@@ -48794,7 +48804,7 @@
         "stars": 11,
         "forks": 1,
         "language": "TypeScript",
-        "pushed_at": "2025-10-09T18:22:10Z",
+        "pushed_at": "2025-10-09T18:43:55Z",
         "created_at": "2025-09-25T22:57:47Z"
       },
       {
