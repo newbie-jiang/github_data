@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-10T10:39:05Z",
+        "pushed_at": "2025-10-10T10:49:07Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3529,7 +3529,7 @@
         "stars": 29,
         "forks": 85,
         "language": "C",
-        "pushed_at": "2025-10-02T08:37:53Z",
+        "pushed_at": "2025-10-10T10:55:32Z",
         "created_at": "2019-09-11T15:06:53Z"
       },
       {
@@ -11329,7 +11329,7 @@
         "stars": 19,
         "forks": 42,
         "language": "HTML",
-        "pushed_at": "2025-10-10T10:44:53Z",
+        "pushed_at": "2025-10-10T11:08:20Z",
         "created_at": "2024-02-08T09:26:09Z"
       },
       {
@@ -12589,7 +12589,7 @@
         "stars": 53,
         "forks": 33,
         "language": "C",
-        "pushed_at": "2025-10-10T10:28:31Z",
+        "pushed_at": "2025-10-10T11:11:02Z",
         "created_at": "2024-01-18T07:20:01Z"
       },
       {
@@ -13499,7 +13499,7 @@
         "stars": 255,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-10-10T10:38:41Z",
+        "pushed_at": "2025-10-10T11:10:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16726,7 +16726,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 46796,
+        "stars": 46798,
         "forks": 5633,
         "language": "Rust",
         "pushed_at": "2025-10-10T10:09:02Z",
@@ -16736,8 +16736,8 @@
         "name": "codex-action",
         "description": "（无简介）",
         "url": "https://github.com/openai/codex-action",
-        "stars": 453,
-        "forks": 25,
+        "stars": 454,
+        "forks": 26,
         "language": "TypeScript",
         "pushed_at": "2025-10-10T10:17:48Z",
         "created_at": "2025-10-01T20:58:28Z"
@@ -17176,7 +17176,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 18763,
+        "stars": 18764,
         "forks": 1837,
         "language": "Python",
         "pushed_at": "2025-10-06T15:18:21Z",
@@ -17286,7 +17286,7 @@
         "name": "harmony",
         "description": "Renderer for the harmony response format to be used with gpt-oss",
         "url": "https://github.com/openai/harmony",
-        "stars": 3879,
+        "stars": 3880,
         "forks": 208,
         "language": "Rust",
         "pushed_at": "2025-08-15T23:28:11Z",
@@ -17616,7 +17616,7 @@
         "name": "multi-agent-emergence-environments",
         "description": "Environment generation code for the paper \"Emergent Tool Use From Multi-Agent Autocurricula\"",
         "url": "https://github.com/openai/multi-agent-emergence-environments",
-        "stars": 1746,
+        "stars": 1747,
         "forks": 318,
         "language": "Python",
         "pushed_at": "2024-07-30T20:54:31Z",
@@ -17686,8 +17686,8 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 16170,
-        "forks": 2656,
+        "stars": 16172,
+        "forks": 2658,
         "language": "Python",
         "pushed_at": "2025-10-09T16:11:15Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -17696,7 +17696,7 @@
         "name": "openai-apps-sdk-examples",
         "description": "Example apps for the Apps SDK",
         "url": "https://github.com/openai/openai-apps-sdk-examples",
-        "stars": 1208,
+        "stars": 1209,
         "forks": 145,
         "language": "JavaScript",
         "pushed_at": "2025-10-08T18:45:49Z",
@@ -18686,7 +18686,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 89184,
+        "stars": 89185,
         "forks": 11130,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
@@ -20829,7 +20829,7 @@
         "stars": 6,
         "forks": 10,
         "language": "C",
-        "pushed_at": "2025-10-08T09:19:37Z",
+        "pushed_at": "2025-10-10T11:10:55Z",
         "created_at": "2024-09-25T07:27:25Z"
       },
       {
@@ -20956,10 +20956,10 @@
         "name": "sdk-nrf",
         "description": "nRF Connect SDK main repository",
         "url": "https://github.com/nrfconnect/sdk-nrf",
-        "stars": 1160,
+        "stars": 1161,
         "forks": 1395,
         "language": "C",
-        "pushed_at": "2025-10-10T09:42:05Z",
+        "pushed_at": "2025-10-10T11:06:29Z",
         "created_at": "2018-02-14T13:50:55Z"
       },
       {
@@ -21481,7 +21481,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 13582,
+        "stars": 13583,
         "forks": 2007,
         "language": "Python",
         "pushed_at": "2025-10-10T06:05:05Z",
@@ -23091,7 +23091,7 @@
         "name": "autocxx",
         "description": "Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers",
         "url": "https://github.com/google/autocxx",
-        "stars": 2476,
+        "stars": 2477,
         "forks": 163,
         "language": "Rust",
         "pushed_at": "2025-08-29T20:54:10Z",
@@ -26001,8 +26001,8 @@
         "name": "computer-use-preview",
         "description": "（无简介）",
         "url": "https://github.com/google/computer-use-preview",
-        "stars": 811,
-        "forks": 92,
+        "stars": 812,
+        "forks": 93,
         "language": "Python",
         "pushed_at": "2025-10-08T00:45:39Z",
         "created_at": "2025-05-06T00:20:31Z"
@@ -28474,7 +28474,7 @@
         "stars": 51,
         "forks": 62,
         "language": "Java",
-        "pushed_at": "2025-10-10T10:35:26Z",
+        "pushed_at": "2025-10-10T10:58:16Z",
         "created_at": "2022-03-18T19:18:39Z"
       },
       {
@@ -31851,7 +31851,7 @@
         "name": "go-github",
         "description": "Go library for accessing the GitHub v3 API",
         "url": "https://github.com/google/go-github",
-        "stars": 10968,
+        "stars": 10969,
         "forks": 2166,
         "language": "Go",
         "pushed_at": "2025-10-08T17:19:34Z",
@@ -35042,7 +35042,7 @@
         "description": "Java client library for the Google Photos Library API",
         "url": "https://github.com/google/java-photoslibrary",
         "stars": 113,
-        "forks": 60,
+        "forks": 59,
         "language": "Java",
         "pushed_at": "2023-10-17T15:12:36Z",
         "created_at": "2018-08-29T00:57:49Z"
@@ -36921,7 +36921,7 @@
         "name": "magika",
         "description": "Fast and accurate AI powered file content types detection ",
         "url": "https://github.com/google/magika",
-        "stars": 8852,
+        "stars": 8854,
         "forks": 452,
         "language": "Python",
         "pushed_at": "2025-10-10T10:20:22Z",
@@ -38011,7 +38011,7 @@
         "name": "mozc-devices",
         "description": "Circuit diagrams and firmware source code for Gboard DIY keyboards",
         "url": "https://github.com/google/mozc-devices",
-        "stars": 2540,
+        "stars": 2541,
         "forks": 165,
         "language": "C++",
         "pushed_at": "2025-10-06T17:07:55Z",
@@ -41701,7 +41701,7 @@
         "name": "python-fire",
         "description": "Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
         "url": "https://github.com/google/python-fire",
-        "stars": 27922,
+        "stars": 27923,
         "forks": 1455,
         "language": "Python",
         "pushed_at": "2025-10-01T08:32:24Z",
@@ -44164,7 +44164,7 @@
         "stars": 1324,
         "forks": 321,
         "language": "JavaScript",
-        "pushed_at": "2025-10-10T06:11:58Z",
+        "pushed_at": "2025-10-10T11:07:19Z",
         "created_at": "2019-06-11T14:20:21Z"
       },
       {
