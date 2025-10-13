@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-13T07:32:47Z",
+        "pushed_at": "2025-10-13T07:45:33Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3839,7 +3839,7 @@
         "stars": 230,
         "forks": 166,
         "language": "C",
-        "pushed_at": "2025-10-13T07:00:40Z",
+        "pushed_at": "2025-10-13T08:07:49Z",
         "created_at": "2017-05-30T03:13:29Z"
       },
       {
@@ -4106,7 +4106,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 13286,
+        "stars": 13287,
         "forks": 8041,
         "language": "C",
         "pushed_at": "2025-10-13T06:57:15Z",
@@ -8822,7 +8822,7 @@
         "description": "STM32Cube MCU Full Package for the STM32G4 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
         "url": "https://github.com/STMicroelectronics/STM32CubeG4",
         "stars": 241,
-        "forks": 112,
+        "forks": 113,
         "language": "C",
         "pushed_at": "2025-09-12T08:57:16Z",
         "created_at": "2019-04-19T09:25:19Z"
@@ -11127,7 +11127,7 @@
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
         "stars": 15541,
-        "forks": 7730,
+        "forks": 7729,
         "language": "C++",
         "pushed_at": "2025-10-13T01:04:53Z",
         "created_at": "2016-10-06T06:04:20Z"
@@ -11299,7 +11299,7 @@
         "stars": 40,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-10-12T18:16:09Z",
+        "pushed_at": "2025-10-13T08:11:40Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11589,7 +11589,7 @@
         "stars": 339,
         "forks": 173,
         "language": "C",
-        "pushed_at": "2025-10-13T05:39:48Z",
+        "pushed_at": "2025-10-13T08:22:34Z",
         "created_at": "2021-09-14T09:33:04Z"
       },
       {
@@ -11897,7 +11897,7 @@
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
         "stars": 16389,
-        "forks": 7914,
+        "forks": 7915,
         "language": "C",
         "pushed_at": "2025-10-12T21:18:04Z",
         "created_at": "2016-08-17T10:40:35Z"
@@ -12269,7 +12269,7 @@
         "stars": 4,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-10-13T06:03:17Z",
+        "pushed_at": "2025-10-13T08:03:08Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -13496,7 +13496,7 @@
         "name": "kicad-libraries",
         "description": "KiCad libraries for Espressif SoCs, modules, and DevKits.",
         "url": "https://github.com/espressif/kicad-libraries",
-        "stars": 1013,
+        "stars": 1014,
         "forks": 142,
         "language": "Python",
         "pushed_at": "2025-10-07T18:28:29Z",
@@ -13519,7 +13519,7 @@
         "stars": 255,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-10-13T07:30:41Z",
+        "pushed_at": "2025-10-13T08:01:52Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16334,7 +16334,7 @@
         "stars": 11451,
         "forks": 5282,
         "language": "C",
-        "pushed_at": "2025-10-13T03:45:22Z",
+        "pushed_at": "2025-10-13T08:11:46Z",
         "created_at": "2013-01-02T14:49:21Z"
       },
       {
@@ -16496,8 +16496,8 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 7168,
-        "forks": 553,
+        "stars": 7169,
+        "forks": 554,
         "language": "TypeScript",
         "pushed_at": "2025-10-09T01:50:00Z",
         "created_at": "2025-08-19T17:22:54Z"
@@ -16666,7 +16666,7 @@
         "name": "chatkit-js",
         "description": "（无简介）",
         "url": "https://github.com/openai/chatkit-js",
-        "stars": 1382,
+        "stars": 1385,
         "forks": 82,
         "language": "TypeScript",
         "pushed_at": "2025-10-09T22:31:56Z",
@@ -16676,7 +16676,7 @@
         "name": "chatkit-python",
         "description": "（无简介）",
         "url": "https://github.com/openai/chatkit-python",
-        "stars": 232,
+        "stars": 233,
         "forks": 43,
         "language": "Python",
         "pushed_at": "2025-10-10T14:21:15Z",
@@ -16716,7 +16716,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 31030,
+        "stars": 31032,
         "forks": 3786,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16746,7 +16746,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 47166,
+        "stars": 47176,
         "forks": 5680,
         "language": "Rust",
         "pushed_at": "2025-10-13T04:33:06Z",
@@ -16976,7 +16976,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 17111,
+        "stars": 17112,
         "forks": 2817,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -17706,7 +17706,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 16317,
+        "stars": 16321,
         "forks": 2682,
         "language": "Python",
         "pushed_at": "2025-10-12T19:40:20Z",
@@ -17716,7 +17716,7 @@
         "name": "openai-apps-sdk-examples",
         "description": "Example apps for the Apps SDK",
         "url": "https://github.com/openai/openai-apps-sdk-examples",
-        "stars": 1347,
+        "stars": 1351,
         "forks": 189,
         "language": "JavaScript",
         "pushed_at": "2025-10-08T18:45:49Z",
@@ -17756,7 +17756,7 @@
         "name": "openai-chatkit-advanced-samples",
         "description": "Starter app to build with OpenAI ChatKit SDK",
         "url": "https://github.com/openai/openai-chatkit-advanced-samples",
-        "stars": 258,
+        "stars": 259,
         "forks": 73,
         "language": "Python",
         "pushed_at": "2025-10-06T17:50:21Z",
@@ -17767,7 +17767,7 @@
         "description": "Starter app to build with OpenAI ChatKit + Agent Builder",
         "url": "https://github.com/openai/openai-chatkit-starter-app",
         "stars": 427,
-        "forks": 241,
+        "forks": 244,
         "language": "TypeScript",
         "pushed_at": "2025-10-11T01:21:53Z",
         "created_at": "2025-10-06T01:07:01Z"
@@ -17866,7 +17866,7 @@
         "name": "openai-guardrails-python",
         "description": "OpenAI Guardrails Python (Preview)",
         "url": "https://github.com/openai/openai-guardrails-python",
-        "stars": 74,
+        "stars": 75,
         "forks": 7,
         "language": "Python",
         "pushed_at": "2025-10-09T21:07:46Z",
@@ -17946,7 +17946,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 6516,
+        "stars": 6517,
         "forks": 991,
         "language": "TypeScript",
         "pushed_at": "2025-10-08T19:08:25Z",
@@ -18436,7 +18436,7 @@
         "name": "simple-evals",
         "description": "（无简介）",
         "url": "https://github.com/openai/simple-evals",
-        "stars": 4105,
+        "stars": 4106,
         "forks": 437,
         "language": "Python",
         "pushed_at": "2025-07-31T19:49:09Z",
@@ -18706,8 +18706,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 89351,
-        "forks": 11159,
+        "stars": 89354,
+        "forks": 11160,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -19514,7 +19514,7 @@
         "stars": 3,
         "forks": 0,
         "language": "Go",
-        "pushed_at": "2025-10-08T08:05:37Z",
+        "pushed_at": "2025-10-13T08:24:06Z",
         "created_at": "2022-12-01T15:22:01Z"
       },
       {
@@ -19891,7 +19891,7 @@
         "name": "ML-KWS-for-MCU",
         "description": "Keyword spotting on Arm Cortex-M Microcontrollers",
         "url": "https://github.com/ARM-software/ML-KWS-for-MCU",
-        "stars": 1204,
+        "stars": 1205,
         "forks": 425,
         "language": "C",
         "pushed_at": "2019-04-10T15:17:43Z",
@@ -20374,7 +20374,7 @@
         "stars": 11,
         "forks": 17,
         "language": "C",
-        "pushed_at": "2025-10-12T08:12:53Z",
+        "pushed_at": "2025-10-13T07:59:08Z",
         "created_at": "2025-06-03T10:51:15Z"
       },
       {
@@ -20979,7 +20979,7 @@
         "stars": 1161,
         "forks": 1394,
         "language": "C",
-        "pushed_at": "2025-10-13T07:17:46Z",
+        "pushed_at": "2025-10-13T08:22:08Z",
         "created_at": "2018-02-14T13:50:55Z"
       },
       {
@@ -21501,7 +21501,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 13637,
+        "stars": 13639,
         "forks": 2021,
         "language": "Python",
         "pushed_at": "2025-10-13T04:19:22Z",
@@ -21511,7 +21511,7 @@
         "name": "adk-python-community",
         "description": "Community repo for adk-python",
         "url": "https://github.com/google/adk-python-community",
-        "stars": 27,
+        "stars": 28,
         "forks": 5,
         "language": "Python",
         "pushed_at": "2025-09-24T04:01:04Z",
@@ -23944,7 +23944,7 @@
         "stars": 14334,
         "forks": 1285,
         "language": "TypeScript",
-        "pushed_at": "2025-10-07T16:47:17Z",
+        "pushed_at": "2025-10-13T08:22:07Z",
         "created_at": "2014-10-09T14:35:14Z"
       },
       {
@@ -26021,8 +26021,8 @@
         "name": "computer-use-preview",
         "description": "（无简介）",
         "url": "https://github.com/google/computer-use-preview",
-        "stars": 1220,
-        "forks": 146,
+        "stars": 1223,
+        "forks": 147,
         "language": "Python",
         "pushed_at": "2025-10-10T20:55:17Z",
         "created_at": "2025-05-06T00:20:31Z"
@@ -26781,7 +26781,7 @@
         "name": "crubit",
         "description": "（无简介）",
         "url": "https://github.com/google/crubit",
-        "stars": 906,
+        "stars": 907,
         "forks": 54,
         "language": "Rust",
         "pushed_at": "2025-10-11T16:52:15Z",
@@ -27331,10 +27331,10 @@
         "name": "dawn",
         "description": "Native WebGPU implementation. Mirror of https://dawn.googlesource.com/dawn. File bugs here: https://crbug.com/dawn/new",
         "url": "https://github.com/google/dawn",
-        "stars": 730,
+        "stars": 731,
         "forks": 125,
         "language": "C++",
-        "pushed_at": "2025-10-12T05:57:30Z",
+        "pushed_at": "2025-10-13T08:17:06Z",
         "created_at": "2023-10-04T16:54:23Z"
       },
       {
@@ -27724,7 +27724,7 @@
         "stars": 55,
         "forks": 21,
         "language": "Java",
-        "pushed_at": "2025-10-13T07:44:04Z",
+        "pushed_at": "2025-10-13T08:00:00Z",
         "created_at": "2022-04-15T03:00:41Z"
       },
       {
@@ -28494,7 +28494,7 @@
         "stars": 51,
         "forks": 62,
         "language": "Java",
-        "pushed_at": "2025-10-13T05:12:30Z",
+        "pushed_at": "2025-10-13T08:21:53Z",
         "created_at": "2022-03-18T19:18:39Z"
       },
       {
@@ -30654,7 +30654,7 @@
         "stars": 5,
         "forks": 3,
         "language": "Python",
-        "pushed_at": "2025-10-10T18:30:24Z",
+        "pushed_at": "2025-10-13T08:03:50Z",
         "created_at": "2024-11-08T13:28:56Z"
       },
       {
@@ -32711,7 +32711,7 @@
         "name": "googletest",
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "url": "https://github.com/google/googletest",
-        "stars": 37284,
+        "stars": 37285,
         "forks": 10554,
         "language": "C++",
         "pushed_at": "2025-10-07T23:04:04Z",
@@ -35744,7 +35744,7 @@
         "stars": 27,
         "forks": 14,
         "language": "C++",
-        "pushed_at": "2025-10-10T19:58:03Z",
+        "pushed_at": "2025-10-13T08:16:58Z",
         "created_at": "2024-05-07T11:31:53Z"
       },
       {
@@ -35901,7 +35901,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 16344,
+        "stars": 16346,
         "forks": 1131,
         "language": "Python",
         "pushed_at": "2025-10-04T23:13:19Z",
@@ -38032,7 +38032,7 @@
         "description": "Mozc - a Japanese Input Method Editor designed for multi-platform",
         "url": "https://github.com/google/mozc",
         "stars": 2728,
-        "forks": 429,
+        "forks": 428,
         "language": "C++",
         "pushed_at": "2025-10-09T11:12:23Z",
         "created_at": "2015-04-22T07:50:05Z"
@@ -39374,7 +39374,7 @@
         "stars": 12568,
         "forks": 2293,
         "language": "C++",
-        "pushed_at": "2025-10-10T15:51:17Z",
+        "pushed_at": "2025-10-13T08:02:01Z",
         "created_at": "2015-02-21T01:25:35Z"
       },
       {
@@ -40174,7 +40174,7 @@
         "stars": 4733,
         "forks": 604,
         "language": "C++",
-        "pushed_at": "2025-10-13T07:37:03Z",
+        "pushed_at": "2025-10-13T08:19:56Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -43381,7 +43381,7 @@
         "name": "sanitizers",
         "description": "AddressSanitizer, ThreadSanitizer, MemorySanitizer",
         "url": "https://github.com/google/sanitizers",
-        "stars": 12144,
+        "stars": 12145,
         "forks": 1078,
         "language": "C",
         "pushed_at": "2025-10-02T09:06:30Z",
@@ -43634,7 +43634,7 @@
         "stars": 42,
         "forks": 25,
         "language": "Python",
-        "pushed_at": "2025-10-10T09:41:42Z",
+        "pushed_at": "2025-10-13T08:07:11Z",
         "created_at": "2025-02-09T15:46:21Z"
       },
       {
@@ -46571,7 +46571,7 @@
         "name": "transit",
         "description": "（无简介）",
         "url": "https://github.com/google/transit",
-        "stars": 813,
+        "stars": 814,
         "forks": 204,
         "language": "未指定",
         "pushed_at": "2025-10-10T13:44:09Z",
