@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-16T19:12:38Z",
+        "pushed_at": "2025-10-16T19:26:13Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -13529,7 +13529,7 @@
         "stars": 255,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-10-16T18:59:40Z",
+        "pushed_at": "2025-10-16T19:30:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13859,7 +13859,7 @@
         "stars": 47,
         "forks": 38,
         "language": "C",
-        "pushed_at": "2025-10-16T19:18:24Z",
+        "pushed_at": "2025-10-16T19:30:24Z",
         "created_at": "2020-03-06T10:57:38Z"
       },
       {
@@ -16526,7 +16526,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 7326,
+        "stars": 7327,
         "forks": 568,
         "language": "TypeScript",
         "pushed_at": "2025-10-14T19:46:18Z",
@@ -16779,7 +16779,7 @@
         "stars": 47811,
         "forks": 5769,
         "language": "Rust",
-        "pushed_at": "2025-10-16T19:15:47Z",
+        "pushed_at": "2025-10-16T19:41:00Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16846,7 +16846,7 @@
         "name": "consistency_models",
         "description": "Official repo for consistency models.",
         "url": "https://github.com/openai/consistency_models",
-        "stars": 6421,
+        "stars": 6422,
         "forks": 434,
         "language": "Python",
         "pushed_at": "2024-03-22T06:56:31Z",
@@ -17226,7 +17226,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 18841,
+        "stars": 18842,
         "forks": 1847,
         "language": "Python",
         "pushed_at": "2025-10-06T15:18:21Z",
@@ -17806,7 +17806,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 68555,
+        "stars": 68556,
         "forks": 11450,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-10-14T23:10:01Z",
@@ -18576,7 +18576,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 20523,
+        "stars": 20522,
         "forks": 2202,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
@@ -18616,7 +18616,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 16237,
+        "stars": 16238,
         "forks": 1258,
         "language": "Python",
         "pushed_at": "2025-10-06T20:21:57Z",
@@ -21521,8 +21521,8 @@
         "name": "adk-java",
         "description": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-java",
-        "stars": 753,
-        "forks": 155,
+        "stars": 754,
+        "forks": 156,
         "language": "Java",
         "pushed_at": "2025-10-16T19:08:45Z",
         "created_at": "2025-05-05T17:16:25Z"
@@ -21541,7 +21541,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 13753,
+        "stars": 13752,
         "forks": 2047,
         "language": "Python",
         "pushed_at": "2025-10-15T20:46:15Z",
@@ -25176,6 +25176,1006 @@
         "language": "JavaScript",
         "pushed_at": "2018-05-30T11:19:30Z",
         "created_at": "2018-05-30T10:51:46Z"
+      },
+      {
+        "name": "Chrome.Docs",
+        "description": "Temporary documentation for developer features in the Chrome beta, canary, and dev channels.",
+        "url": "https://github.com/google/Chrome.Docs",
+        "stars": 27,
+        "forks": 9,
+        "language": "JavaScript",
+        "pushed_at": "2016-07-27T20:45:15Z",
+        "created_at": "2015-09-03T19:43:29Z"
+      },
+      {
+        "name": "ChromeBrowserEnterprise",
+        "description": "Google Chrome Browser Cloud Management APIs",
+        "url": "https://github.com/google/ChromeBrowserEnterprise",
+        "stars": 54,
+        "forks": 50,
+        "language": "C#",
+        "pushed_at": "2025-08-21T17:15:40Z",
+        "created_at": "2021-10-19T17:12:18Z"
+      },
+      {
+        "name": "chromeos-filesystems",
+        "description": "Additional file system providers for Chrome OS",
+        "url": "https://github.com/google/chromeos-filesystems",
+        "stars": 125,
+        "forks": 25,
+        "language": "JavaScript",
+        "pushed_at": "2015-07-20T22:51:29Z",
+        "created_at": "2014-08-12T20:31:22Z"
+      },
+      {
+        "name": "chromeosnavigationdemo",
+        "description": "（无简介）",
+        "url": "https://github.com/google/chromeosnavigationdemo",
+        "stars": 10,
+        "forks": 5,
+        "language": "Kotlin",
+        "pushed_at": "2019-05-09T16:21:21Z",
+        "created_at": "2019-05-09T16:14:44Z"
+      },
+      {
+        "name": "chrometracing",
+        "description": "libraries for various programming languages that make it easy to generate per-process trace files that can be loaded into chrome://tracing",
+        "url": "https://github.com/google/chrometracing",
+        "stars": 45,
+        "forks": 3,
+        "language": "Go",
+        "pushed_at": "2022-06-29T08:41:50Z",
+        "created_at": "2021-02-04T12:19:18Z"
+      },
+      {
+        "name": "chromium-policy-vulnfeed",
+        "description": "（无简介）",
+        "url": "https://github.com/google/chromium-policy-vulnfeed",
+        "stars": 7,
+        "forks": 5,
+        "language": "Go",
+        "pushed_at": "2025-10-16T00:34:46Z",
+        "created_at": "2024-11-15T15:19:37Z"
+      },
+      {
+        "name": "citest",
+        "description": "Library and tools that facilitate writing integration-tests for cloud services",
+        "url": "https://github.com/google/citest",
+        "stars": 60,
+        "forks": 45,
+        "language": "Python",
+        "pushed_at": "2021-01-22T18:50:31Z",
+        "created_at": "2015-08-10T18:04:21Z"
+      },
+      {
+        "name": "citizen-x",
+        "description": "（无简介）",
+        "url": "https://github.com/google/citizen-x",
+        "stars": 5,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2015-02-21T03:52:46Z",
+        "created_at": "2015-02-21T03:52:45Z"
+      },
+      {
+        "name": "cityhash",
+        "description": "Automatically exported from code.google.com/p/cityhash",
+        "url": "https://github.com/google/cityhash",
+        "stars": 1198,
+        "forks": 193,
+        "language": "Shell",
+        "pushed_at": "2024-04-22T10:17:49Z",
+        "created_at": "2015-08-14T21:08:16Z"
+      },
+      {
+        "name": "civics_cdf_validator",
+        "description": "（无简介）",
+        "url": "https://github.com/google/civics_cdf_validator",
+        "stars": 32,
+        "forks": 22,
+        "language": "Python",
+        "pushed_at": "2025-10-06T19:50:06Z",
+        "created_at": "2016-07-28T15:27:05Z"
+      },
+      {
+        "name": "ci_edit",
+        "description": "A terminal text editor with mouse support and ctrl+Q to quit.",
+        "url": "https://github.com/google/ci_edit",
+        "stars": 228,
+        "forks": 56,
+        "language": "Python",
+        "pushed_at": "2023-04-11T23:30:50Z",
+        "created_at": "2017-05-24T18:00:36Z"
+      },
+      {
+        "name": "clang-lens",
+        "description": "（无简介）",
+        "url": "https://github.com/google/clang-lens",
+        "stars": 20,
+        "forks": 9,
+        "language": "Haskell",
+        "pushed_at": "2015-10-26T14:53:56Z",
+        "created_at": "2015-10-26T13:57:37Z"
+      },
+      {
+        "name": "clasp",
+        "description": "🔗 Command Line Apps Script Projects",
+        "url": "https://github.com/google/clasp",
+        "stars": 5191,
+        "forks": 468,
+        "language": "TypeScript",
+        "pushed_at": "2025-10-15T03:14:01Z",
+        "created_at": "2017-12-05T00:34:56Z"
+      },
+      {
+        "name": "classp",
+        "description": "Classp -- a classier way to parse",
+        "url": "https://github.com/google/classp",
+        "stars": 169,
+        "forks": 14,
+        "language": "Bison",
+        "pushed_at": "2017-04-18T08:13:14Z",
+        "created_at": "2015-03-12T00:19:53Z"
+      },
+      {
+        "name": "cld3",
+        "description": "（无简介）",
+        "url": "https://github.com/google/cld3",
+        "stars": 853,
+        "forks": 122,
+        "language": "C++",
+        "pushed_at": "2023-05-24T16:13:46Z",
+        "created_at": "2016-06-02T20:21:10Z"
+      },
+      {
+        "name": "clerk",
+        "description": "Clerk is an open-source IPFIX generator using https://github.com/google/testimony for packet sniffing",
+        "url": "https://github.com/google/clerk",
+        "stars": 38,
+        "forks": 16,
+        "language": "C++",
+        "pushed_at": "2018-05-03T16:46:20Z",
+        "created_at": "2016-05-25T21:03:48Z"
+      },
+      {
+        "name": "clicktrackers-panel",
+        "description": "（无简介）",
+        "url": "https://github.com/google/clicktrackers-panel",
+        "stars": 7,
+        "forks": 8,
+        "language": "Python",
+        "pushed_at": "2017-11-07T11:10:18Z",
+        "created_at": "2017-11-07T08:17:54Z"
+      },
+      {
+        "name": "clif",
+        "description": "Binding generator to wrap C++ for Python using LLVM.",
+        "url": "https://github.com/google/clif",
+        "stars": 980,
+        "forks": 125,
+        "language": "C++",
+        "pushed_at": "2024-09-06T14:09:13Z",
+        "created_at": "2017-04-17T23:36:06Z"
+      },
+      {
+        "name": "climb-tracker",
+        "description": "Climbing tracker app for Android and Android Wear, using Firebase",
+        "url": "https://github.com/google/climb-tracker",
+        "stars": 33,
+        "forks": 11,
+        "language": "Java",
+        "pushed_at": "2021-11-03T16:25:08Z",
+        "created_at": "2015-10-02T21:58:15Z"
+      },
+      {
+        "name": "clojure-turtle",
+        "description": "A Clojure library that implements the Logo programming language in a Clojure context",
+        "url": "https://github.com/google/clojure-turtle",
+        "stars": 427,
+        "forks": 33,
+        "language": "Clojure",
+        "pushed_at": "2017-09-02T22:36:08Z",
+        "created_at": "2015-06-13T03:32:54Z"
+      },
+      {
+        "name": "closure-builder",
+        "description": "NPM based Closure build system to easily compile Soy template files together with Closure JavaScript files without the need to configure anything. ",
+        "url": "https://github.com/google/closure-builder",
+        "stars": 65,
+        "forks": 16,
+        "language": "JavaScript",
+        "pushed_at": "2021-06-17T21:32:47Z",
+        "created_at": "2015-11-25T19:00:10Z"
+      },
+      {
+        "name": "closure-compiler",
+        "description": "A JavaScript checker and optimizer.",
+        "url": "https://github.com/google/closure-compiler",
+        "stars": 7573,
+        "forks": 1169,
+        "language": "JavaScript",
+        "pushed_at": "2025-10-16T19:13:54Z",
+        "created_at": "2014-04-16T15:30:36Z"
+      },
+      {
+        "name": "closure-compiler-js",
+        "description": "Package for the JS version of closure-compiler for use via NPM",
+        "url": "https://github.com/google/closure-compiler-js",
+        "stars": 1838,
+        "forks": 62,
+        "language": "JavaScript",
+        "pushed_at": "2020-07-27T23:41:18Z",
+        "created_at": "2016-07-15T00:06:21Z"
+      },
+      {
+        "name": "closure-compiler-npm",
+        "description": "Package for managing and documenting closure-compiler for use via npm",
+        "url": "https://github.com/google/closure-compiler-npm",
+        "stars": 339,
+        "forks": 71,
+        "language": "JavaScript",
+        "pushed_at": "2025-09-18T17:03:54Z",
+        "created_at": "2015-11-16T15:33:29Z"
+      },
+      {
+        "name": "closure-library",
+        "description": "Google's common JavaScript library",
+        "url": "https://github.com/google/closure-library",
+        "stars": 4902,
+        "forks": 1054,
+        "language": "JavaScript",
+        "pushed_at": "2024-08-01T20:51:28Z",
+        "created_at": "2013-08-16T21:54:05Z"
+      },
+      {
+        "name": "closure-linter",
+        "description": "Automatically exported from code.google.com/p/closure-linter",
+        "url": "https://github.com/google/closure-linter",
+        "stars": 113,
+        "forks": 28,
+        "language": "Python",
+        "pushed_at": "2018-12-03T15:08:03Z",
+        "created_at": "2015-06-17T06:34:49Z"
+      },
+      {
+        "name": "closure-net",
+        "description": "（无简介）",
+        "url": "https://github.com/google/closure-net",
+        "stars": 2,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-09-05T17:21:58Z",
+        "created_at": "2024-02-02T01:12:13Z"
+      },
+      {
+        "name": "closure-stylesheets",
+        "description": "A CSS+ transpiler that lints, optimizes, and I18n-izes",
+        "url": "https://github.com/google/closure-stylesheets",
+        "stars": 315,
+        "forks": 65,
+        "language": "Java",
+        "pushed_at": "2021-11-01T23:35:05Z",
+        "created_at": "2014-04-28T20:51:38Z"
+      },
+      {
+        "name": "closure-templates",
+        "description": "A client- and server-side templating system that helps you dynamically build reusable HTML and UI elements",
+        "url": "https://github.com/google/closure-templates",
+        "stars": 669,
+        "forks": 194,
+        "language": "Java",
+        "pushed_at": "2025-10-16T19:19:28Z",
+        "created_at": "2014-04-16T15:31:58Z"
+      },
+      {
+        "name": "cloud-analytics-ts",
+        "description": "（无简介）",
+        "url": "https://github.com/google/cloud-analytics-ts",
+        "stars": 6,
+        "forks": 4,
+        "language": "TypeScript",
+        "pushed_at": "2020-03-17T17:54:44Z",
+        "created_at": "2020-03-03T19:30:05Z"
+      },
+      {
+        "name": "cloud-android-orchestration",
+        "description": "（无简介）",
+        "url": "https://github.com/google/cloud-android-orchestration",
+        "stars": 51,
+        "forks": 34,
+        "language": "Go",
+        "pushed_at": "2025-10-14T00:54:09Z",
+        "created_at": "2022-01-25T23:26:56Z"
+      },
+      {
+        "name": "cloud-berg",
+        "description": "Berg - Run GPU-backed experiments on gcloud",
+        "url": "https://github.com/google/cloud-berg",
+        "stars": 26,
+        "forks": 8,
+        "language": "Python",
+        "pushed_at": "2018-11-17T21:24:00Z",
+        "created_at": "2018-08-23T20:19:00Z"
+      },
+      {
+        "name": "cloud-cup",
+        "description": "（无简介）",
+        "url": "https://github.com/google/cloud-cup",
+        "stars": 23,
+        "forks": 8,
+        "language": "JavaScript",
+        "pushed_at": "2018-03-16T17:34:30Z",
+        "created_at": "2015-02-21T03:19:04Z"
+      },
+      {
+        "name": "cloud-cup-android",
+        "description": "Firebase Android client of the a multi device game",
+        "url": "https://github.com/google/cloud-cup-android",
+        "stars": 50,
+        "forks": 34,
+        "language": "Java",
+        "pushed_at": "2018-03-16T17:34:12Z",
+        "created_at": "2015-02-21T03:19:53Z"
+      },
+      {
+        "name": "cloud-forensics-utils",
+        "description": "Python library to carry out DFIR analysis on the Cloud",
+        "url": "https://github.com/google/cloud-forensics-utils",
+        "stars": 487,
+        "forks": 90,
+        "language": "Python",
+        "pushed_at": "2025-10-08T14:35:02Z",
+        "created_at": "2020-02-04T12:54:51Z"
+      },
+      {
+        "name": "cloud-function-edit-drive-permissions",
+        "description": "This sample Cloud Function code is designed to remove permissions from a Drive file where the file is visible across the entire domain. The Function is triggered against a Pub/Sub payload that contains Drive document metadata and sharing events that would prompt the Function to execute.",
+        "url": "https://github.com/google/cloud-function-edit-drive-permissions",
+        "stars": 16,
+        "forks": 9,
+        "language": "Python",
+        "pushed_at": "2019-10-10T18:43:28Z",
+        "created_at": "2018-12-31T23:04:46Z"
+      },
+      {
+        "name": "cloud-network-reachability",
+        "description": "（无简介）",
+        "url": "https://github.com/google/cloud-network-reachability",
+        "stars": 5,
+        "forks": 4,
+        "language": "未指定",
+        "pushed_at": "2020-08-18T05:45:09Z",
+        "created_at": "2020-06-25T07:28:28Z"
+      },
+      {
+        "name": "cloud-network-reachabilty",
+        "description": "（无简介）",
+        "url": "https://github.com/google/cloud-network-reachabilty",
+        "stars": 3,
+        "forks": 4,
+        "language": "未指定",
+        "pushed_at": "2020-06-25T07:34:55Z",
+        "created_at": "2020-06-25T07:10:56Z"
+      },
+      {
+        "name": "cloud-print-connector",
+        "description": "Google Cloud Print Connector",
+        "url": "https://github.com/google/cloud-print-connector",
+        "stars": 766,
+        "forks": 183,
+        "language": "Go",
+        "pushed_at": "2021-08-31T08:14:28Z",
+        "created_at": "2015-03-04T04:41:38Z"
+      },
+      {
+        "name": "cloud-reporting",
+        "description": "（无简介）",
+        "url": "https://github.com/google/cloud-reporting",
+        "stars": 8,
+        "forks": 6,
+        "language": "Java",
+        "pushed_at": "2016-05-18T17:25:52Z",
+        "created_at": "2015-08-24T21:48:41Z"
+      },
+      {
+        "name": "cloud-resource-manager",
+        "description": "Before deleting a Google Workspace account, the super admin must first delete all associated Google Cloud projects, folders, and Access Context Manager policies. ",
+        "url": "https://github.com/google/cloud-resource-manager",
+        "stars": 22,
+        "forks": 5,
+        "language": "Shell",
+        "pushed_at": "2023-02-03T19:38:11Z",
+        "created_at": "2022-07-08T17:30:58Z"
+      },
+      {
+        "name": "cloudprint_logocert",
+        "description": "Google Cloud Print Logo Certification Automation",
+        "url": "https://github.com/google/cloudprint_logocert",
+        "stars": 27,
+        "forks": 32,
+        "language": "Python",
+        "pushed_at": "2020-05-08T01:07:46Z",
+        "created_at": "2015-10-01T00:42:44Z"
+      },
+      {
+        "name": "cloudprober",
+        "description": "[Moved to cloudprober/cloudprober] An active monitoring software to detect failures before your customers do.",
+        "url": "https://github.com/google/cloudprober",
+        "stars": 1400,
+        "forks": 149,
+        "language": "Go",
+        "pushed_at": "2021-10-29T01:03:34Z",
+        "created_at": "2017-06-01T22:53:40Z"
+      },
+      {
+        "name": "clspv",
+        "description": "Clspv is a compiler for OpenCL C to Vulkan compute shaders",
+        "url": "https://github.com/google/clspv",
+        "stars": 690,
+        "forks": 97,
+        "language": "LLVM",
+        "pushed_at": "2025-10-16T12:24:08Z",
+        "created_at": "2017-07-12T14:54:18Z"
+      },
+      {
+        "name": "cluster-data",
+        "description": "Borg cluster traces from Google",
+        "url": "https://github.com/google/cluster-data",
+        "stars": 990,
+        "forks": 204,
+        "language": "TeX",
+        "pushed_at": "2025-08-14T16:57:16Z",
+        "created_at": "2015-07-29T17:52:23Z"
+      },
+      {
+        "name": "cluster-insight",
+        "description": "（无简介）",
+        "url": "https://github.com/google/cluster-insight",
+        "stars": 99,
+        "forks": 24,
+        "language": "Python",
+        "pushed_at": "2015-10-05T18:52:45Z",
+        "created_at": "2015-03-20T16:12:03Z"
+      },
+      {
+        "name": "cluster-scheduler-simulator",
+        "description": "Automatically exported from code.google.com/p/cluster-scheduler-simulator",
+        "url": "https://github.com/google/cluster-scheduler-simulator",
+        "stars": 169,
+        "forks": 52,
+        "language": "Scala",
+        "pushed_at": "2022-06-03T01:05:07Z",
+        "created_at": "2015-03-23T07:19:37Z"
+      },
+      {
+        "name": "cluster-scoped-cicd",
+        "description": "（无简介）",
+        "url": "https://github.com/google/cluster-scoped-cicd",
+        "stars": 10,
+        "forks": 6,
+        "language": "Makefile",
+        "pushed_at": "2020-10-21T13:05:23Z",
+        "created_at": "2020-10-20T20:56:29Z"
+      },
+      {
+        "name": "clusterfuzz",
+        "description": "Scalable fuzzing infrastructure.",
+        "url": "https://github.com/google/clusterfuzz",
+        "stars": 5484,
+        "forks": 587,
+        "language": "Python",
+        "pushed_at": "2025-10-16T19:12:30Z",
+        "created_at": "2019-01-29T00:19:40Z"
+      },
+      {
+        "name": "clusterfuzzlite",
+        "description": "ClusterFuzzLite - Simple continuous fuzzing that runs in CI.",
+        "url": "https://github.com/google/clusterfuzzlite",
+        "stars": 503,
+        "forks": 45,
+        "language": "未指定",
+        "pushed_at": "2024-12-03T03:28:53Z",
+        "created_at": "2021-08-26T05:06:10Z"
+      },
+      {
+        "name": "cm-user-tool",
+        "description": "（无简介）",
+        "url": "https://github.com/google/cm-user-tool",
+        "stars": 5,
+        "forks": 7,
+        "language": "JavaScript",
+        "pushed_at": "2019-07-01T11:10:22Z",
+        "created_at": "2019-07-01T10:17:52Z"
+      },
+      {
+        "name": "cmockery",
+        "description": "A lightweight library to simplify and generalize the process of writing unit tests for C applications.",
+        "url": "https://github.com/google/cmockery",
+        "stars": 1081,
+        "forks": 369,
+        "language": "Shell",
+        "pushed_at": "2020-05-28T15:20:07Z",
+        "created_at": "2015-12-08T17:55:32Z"
+      },
+      {
+        "name": "cmrt",
+        "description": "（无简介）",
+        "url": "https://github.com/google/cmrt",
+        "stars": 1,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2024-04-09T23:46:39Z",
+        "created_at": "2024-04-09T23:46:39Z"
+      },
+      {
+        "name": "cncmicroscope-cad",
+        "description": "CNC MIcroscope CAD files.  This is not an official Google product (experimental or otherwise), it is just code that happens to be owned by Google.”",
+        "url": "https://github.com/google/cncmicroscope-cad",
+        "stars": 15,
+        "forks": 8,
+        "language": "OpenSCAD",
+        "pushed_at": "2016-06-29T16:23:53Z",
+        "created_at": "2015-06-15T22:53:33Z"
+      },
+      {
+        "name": "cncmicroscope-code",
+        "description": "（无简介）",
+        "url": "https://github.com/google/cncmicroscope-code",
+        "stars": 24,
+        "forks": 10,
+        "language": "C++",
+        "pushed_at": "2015-06-15T23:03:41Z",
+        "created_at": "2015-06-15T22:53:21Z"
+      },
+      {
+        "name": "co-op-4-all",
+        "description": "（无简介）",
+        "url": "https://github.com/google/co-op-4-all",
+        "stars": 10,
+        "forks": 5,
+        "language": "TypeScript",
+        "pushed_at": "2025-08-20T14:42:23Z",
+        "created_at": "2021-05-18T18:52:25Z"
+      },
+      {
+        "name": "coapblaster",
+        "description": "A Java Library for implementing CoAP clients and servers.",
+        "url": "https://github.com/google/coapblaster",
+        "stars": 39,
+        "forks": 10,
+        "language": "Java",
+        "pushed_at": "2021-04-23T19:39:06Z",
+        "created_at": "2018-11-17T02:52:15Z"
+      },
+      {
+        "name": "cocoapods-size",
+        "description": "Measure the final binary size for the given set of Cocoapods.",
+        "url": "https://github.com/google/cocoapods-size",
+        "stars": 237,
+        "forks": 29,
+        "language": "Python",
+        "pushed_at": "2022-06-03T23:37:49Z",
+        "created_at": "2018-08-22T14:34:10Z"
+      },
+      {
+        "name": "code-review-bot",
+        "description": "Code review bot and CLA verifier",
+        "url": "https://github.com/google/code-review-bot",
+        "stars": 101,
+        "forks": 23,
+        "language": "Go",
+        "pushed_at": "2025-07-21T18:40:51Z",
+        "created_at": "2017-12-08T02:18:49Z"
+      },
+      {
+        "name": "CodeCity",
+        "description": "Google's Code City is a social programming environment. It offers a comic book inspired virtual world where programmers can write code collaboratively.",
+        "url": "https://github.com/google/CodeCity",
+        "stars": 193,
+        "forks": 36,
+        "language": "JavaScript",
+        "pushed_at": "2024-10-03T13:18:19Z",
+        "created_at": "2016-12-04T06:36:37Z"
+      },
+      {
+        "name": "codemirror-mode-jsonnet",
+        "description": "（无简介）",
+        "url": "https://github.com/google/codemirror-mode-jsonnet",
+        "stars": 19,
+        "forks": 11,
+        "language": "JavaScript",
+        "pushed_at": "2019-03-27T22:41:42Z",
+        "created_at": "2017-12-07T23:56:19Z"
+      },
+      {
+        "name": "codemirror.dart",
+        "description": "A Dart wrapper around the CodeMirror text editor.",
+        "url": "https://github.com/google/codemirror.dart",
+        "stars": 87,
+        "forks": 33,
+        "language": "Dart",
+        "pushed_at": "2025-10-03T17:17:52Z",
+        "created_at": "2014-10-13T21:25:47Z"
+      },
+      {
+        "name": "codename-mvsv",
+        "description": "Automatically exported from code.google.com/p/codename-mvsv",
+        "url": "https://github.com/google/codename-mvsv",
+        "stars": 9,
+        "forks": 10,
+        "language": "JavaScript",
+        "pushed_at": "2015-06-10T08:37:41Z",
+        "created_at": "2015-06-10T08:35:05Z"
+      },
+      {
+        "name": "codesearch",
+        "description": "Fast, indexed regexp search over large file trees",
+        "url": "https://github.com/google/codesearch",
+        "stars": 3862,
+        "forks": 393,
+        "language": "Go",
+        "pushed_at": "2025-05-29T12:00:43Z",
+        "created_at": "2015-03-30T16:43:14Z"
+      },
+      {
+        "name": "codeu-starter-project",
+        "description": "（无简介）",
+        "url": "https://github.com/google/codeu-starter-project",
+        "stars": 12,
+        "forks": 20,
+        "language": "Java",
+        "pushed_at": "2022-09-01T23:02:31Z",
+        "created_at": "2019-02-08T20:35:58Z"
+      },
+      {
+        "name": "codeu_coding_assessment_2017",
+        "description": "This project allows students to demonstrate their coding skills before entering CodeU. Students will complete this JSON-lite object and JSON-lite parser.",
+        "url": "https://github.com/google/codeu_coding_assessment_2017",
+        "stars": 10,
+        "forks": 100,
+        "language": "Java",
+        "pushed_at": "2017-04-27T16:46:44Z",
+        "created_at": "2017-03-31T23:45:15Z"
+      },
+      {
+        "name": "codeu_coding_assessment_b_2017",
+        "description": "This project allows students to demonstrate their coding skills by implementing a component of a larger system.",
+        "url": "https://github.com/google/codeu_coding_assessment_b_2017",
+        "stars": 9,
+        "forks": 60,
+        "language": "Java",
+        "pushed_at": "2017-08-05T06:56:17Z",
+        "created_at": "2017-07-26T19:20:56Z"
+      },
+      {
+        "name": "codeu_project_2017",
+        "description": "CODEU is a program created by Google to develop the skills of future software engineers. This project is a playground for those looking to develop their coding and software engineering skills.",
+        "url": "https://github.com/google/codeu_project_2017",
+        "stars": 98,
+        "forks": 104,
+        "language": "Java",
+        "pushed_at": "2021-06-26T00:44:44Z",
+        "created_at": "2017-02-28T01:42:01Z"
+      },
+      {
+        "name": "codeu_project_2018",
+        "description": "（无简介）",
+        "url": "https://github.com/google/codeu_project_2018",
+        "stars": 12,
+        "forks": 5,
+        "language": "Java",
+        "pushed_at": "2022-09-01T22:53:48Z",
+        "created_at": "2018-02-06T20:30:35Z"
+      },
+      {
+        "name": "codewords",
+        "description": "（无简介）",
+        "url": "https://github.com/google/codewords",
+        "stars": 11,
+        "forks": 8,
+        "language": "TypeScript",
+        "pushed_at": "2024-07-22T20:43:28Z",
+        "created_at": "2019-03-29T21:32:04Z"
+      },
+      {
+        "name": "codeworld",
+        "description": "Educational computer programming environment using Haskell",
+        "url": "https://github.com/google/codeworld",
+        "stars": 1260,
+        "forks": 198,
+        "language": "Haskell",
+        "pushed_at": "2025-04-07T18:30:03Z",
+        "created_at": "2014-06-19T21:56:15Z"
+      },
+      {
+        "name": "codex",
+        "description": "Data compression in JAX",
+        "url": "https://github.com/google/codex",
+        "stars": 67,
+        "forks": 5,
+        "language": "Jupyter Notebook",
+        "pushed_at": "2024-11-23T20:04:03Z",
+        "created_at": "2022-06-23T18:31:38Z"
+      },
+      {
+        "name": "coding-competitions-archive",
+        "description": "Google Coding Competitions problem archive",
+        "url": "https://github.com/google/coding-competitions-archive",
+        "stars": 1240,
+        "forks": 325,
+        "language": "HTML",
+        "pushed_at": "2023-07-12T20:25:01Z",
+        "created_at": "2023-03-09T11:01:52Z"
+      },
+      {
+        "name": "coding-with-chrome",
+        "description": "An Open Source Educational IDE.",
+        "url": "https://github.com/google/coding-with-chrome",
+        "stars": 528,
+        "forks": 169,
+        "language": "JavaScript",
+        "pushed_at": "2025-03-21T13:05:07Z",
+        "created_at": "2015-11-30T12:29:05Z"
+      },
+      {
+        "name": "coding-with-chrome-libraries",
+        "description": "General-purpose library and robotics framwork used by Coding with Chrome.",
+        "url": "https://github.com/google/coding-with-chrome-libraries",
+        "stars": 24,
+        "forks": 7,
+        "language": "JavaScript",
+        "pushed_at": "2024-04-09T15:30:04Z",
+        "created_at": "2018-05-22T20:12:38Z"
+      },
+      {
+        "name": "cog",
+        "description": "Code for the COG dataset and network",
+        "url": "https://github.com/google/cog",
+        "stars": 44,
+        "forks": 11,
+        "language": "Python",
+        "pushed_at": "2018-10-17T12:00:05Z",
+        "created_at": "2018-01-03T19:42:45Z"
+      },
+      {
+        "name": "comid",
+        "description": "CodeMirror in Dart",
+        "url": "https://github.com/google/comid",
+        "stars": 15,
+        "forks": 18,
+        "language": "Dart",
+        "pushed_at": "2015-05-26T23:11:22Z",
+        "created_at": "2015-03-04T04:40:11Z"
+      },
+      {
+        "name": "CoMMA",
+        "description": "（无简介）",
+        "url": "https://github.com/google/CoMMA",
+        "stars": 8,
+        "forks": 5,
+        "language": "Rust",
+        "pushed_at": "2025-07-10T02:12:26Z",
+        "created_at": "2025-06-06T20:10:22Z"
+      },
+      {
+        "name": "command-fds",
+        "description": "A Rust library for passing arbitrary file descriptors when spawning child processes.",
+        "url": "https://github.com/google/command-fds",
+        "stars": 40,
+        "forks": 8,
+        "language": "Rust",
+        "pushed_at": "2025-09-29T11:01:38Z",
+        "created_at": "2021-04-29T16:53:14Z"
+      },
+      {
+        "name": "common-multicloud-runtime",
+        "description": "（无简介）",
+        "url": "https://github.com/google/common-multicloud-runtime",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2024-04-09T23:46:40Z",
+        "created_at": "2024-04-09T23:46:40Z"
+      },
+      {
+        "name": "common-sk",
+        "description": "This is the common set of JS libraries used by Skia Infrastructure.",
+        "url": "https://github.com/google/common-sk",
+        "stars": 10,
+        "forks": 10,
+        "language": "TypeScript",
+        "pushed_at": "2023-04-28T19:41:11Z",
+        "created_at": "2019-07-10T20:14:25Z"
+      },
+      {
+        "name": "CommonLoopUtils",
+        "description": "CLU lets you write beautiful training loops in JAX.",
+        "url": "https://github.com/google/CommonLoopUtils",
+        "stars": 356,
+        "forks": 33,
+        "language": "Jupyter Notebook",
+        "pushed_at": "2025-06-24T21:49:45Z",
+        "created_at": "2020-09-11T09:41:17Z"
+      },
+      {
+        "name": "compact_enc_det",
+        "description": "compact_enc_det - Compact Encoding Detection",
+        "url": "https://github.com/google/compact_enc_det",
+        "stars": 240,
+        "forks": 85,
+        "language": "C",
+        "pushed_at": "2024-02-12T21:23:15Z",
+        "created_at": "2016-06-08T03:55:52Z"
+      },
+      {
+        "name": "compare-codecs",
+        "description": "（无简介）",
+        "url": "https://github.com/google/compare-codecs",
+        "stars": 50,
+        "forks": 16,
+        "language": "Python",
+        "pushed_at": "2021-08-31T21:12:30Z",
+        "created_at": "2014-12-08T16:42:21Z"
+      },
+      {
+        "name": "compare_gan",
+        "description": "Compare GAN code.",
+        "url": "https://github.com/google/compare_gan",
+        "stars": 1819,
+        "forks": 313,
+        "language": "Python",
+        "pushed_at": "2021-01-31T18:25:24Z",
+        "created_at": "2018-02-20T19:55:50Z"
+      },
+      {
+        "name": "compile-testing",
+        "description": "Testing tools for javac and annotation processors",
+        "url": "https://github.com/google/compile-testing",
+        "stars": 716,
+        "forks": 124,
+        "language": "Java",
+        "pushed_at": "2025-10-06T10:19:18Z",
+        "created_at": "2013-08-26T21:30:13Z"
+      },
+      {
+        "name": "comprehensive-rust",
+        "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+        "url": "https://github.com/google/comprehensive-rust",
+        "stars": 32150,
+        "forks": 1911,
+        "language": "Rust",
+        "pushed_at": "2025-10-14T05:58:10Z",
+        "created_at": "2022-12-21T15:17:24Z"
+      },
+      {
+        "name": "compute-virtual-ethernet-dpdk",
+        "description": "（无简介）",
+        "url": "https://github.com/google/compute-virtual-ethernet-dpdk",
+        "stars": 11,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-10-30T00:18:28Z",
+        "created_at": "2023-02-06T19:13:31Z"
+      },
+      {
+        "name": "computer-use-preview",
+        "description": "（无简介）",
+        "url": "https://github.com/google/computer-use-preview",
+        "stars": 1419,
+        "forks": 173,
+        "language": "Python",
+        "pushed_at": "2025-10-10T20:55:17Z",
+        "created_at": "2025-05-06T00:20:31Z"
+      },
+      {
+        "name": "compynator",
+        "description": "A pure Python implementation of parser combinators with asymptotically best performance and support for context-sensitive or ambiguous grammars.",
+        "url": "https://github.com/google/compynator",
+        "stars": 90,
+        "forks": 12,
+        "language": "Python",
+        "pushed_at": "2020-08-03T17:05:38Z",
+        "created_at": "2019-08-20T16:53:58Z"
+      },
+      {
+        "name": "concatenate.js",
+        "description": "（无简介）",
+        "url": "https://github.com/google/concatenate.js",
+        "stars": 92,
+        "forks": 18,
+        "language": "JavaScript",
+        "pushed_at": "2013-06-13T07:36:03Z",
+        "created_at": "2013-05-19T03:15:40Z"
+      },
+      {
+        "name": "concourse-resources",
+        "description": "Resources for Concourse",
+        "url": "https://github.com/google/concourse-resources",
+        "stars": 29,
+        "forks": 19,
+        "language": "Go",
+        "pushed_at": "2021-08-30T20:49:50Z",
+        "created_at": "2017-08-02T15:10:26Z"
+      },
+      {
+        "name": "conferenceDB",
+        "description": "（无简介）",
+        "url": "https://github.com/google/conferenceDB",
+        "stars": 9,
+        "forks": 6,
+        "language": "HTML",
+        "pushed_at": "2016-11-23T15:48:46Z",
+        "created_at": "2016-11-18T19:00:29Z"
+      },
+      {
+        "name": "connectedappssdk",
+        "description": "（无简介）",
+        "url": "https://github.com/google/connectedappssdk",
+        "stars": 9,
+        "forks": 3,
+        "language": "Java",
+        "pushed_at": "2022-08-17T12:04:30Z",
+        "created_at": "2021-04-01T15:07:59Z"
+      },
+      {
+        "name": "conscrypt",
+        "description": "Conscrypt is a Java Security Provider that implements parts of the Java Cryptography Extension and Java Secure Socket Extension.",
+        "url": "https://github.com/google/conscrypt",
+        "stars": 1352,
+        "forks": 305,
+        "language": "Java",
+        "pushed_at": "2025-10-14T09:06:11Z",
+        "created_at": "2016-12-12T17:24:18Z"
+      },
+      {
+        "name": "consent-based-conversion-adjustments",
+        "description": "Code to statistically up-weight conversion values of consenting customers to feed up to 100% of the factual conversion values back into Google Ads.",
+        "url": "https://github.com/google/consent-based-conversion-adjustments",
+        "stars": 24,
+        "forks": 8,
+        "language": "Python",
+        "pushed_at": "2025-05-13T16:40:44Z",
+        "created_at": "2022-03-08T07:01:20Z"
+      },
+      {
+        "name": "container-explorer",
+        "description": "（无简介）",
+        "url": "https://github.com/google/container-explorer",
+        "stars": 90,
+        "forks": 12,
+        "language": "Go",
+        "pushed_at": "2025-05-29T03:43:12Z",
+        "created_at": "2021-11-01T02:33:24Z"
+      },
+      {
+        "name": "container-rfc",
+        "description": "An RFC for a standard container format",
+        "url": "https://github.com/google/container-rfc",
+        "stars": 11,
+        "forks": 11,
+        "language": "未指定",
+        "pushed_at": "2013-11-13T05:16:03Z",
+        "created_at": "2013-11-13T05:13:40Z"
+      },
+      {
+        "name": "containerdbg",
+        "description": "（无简介）",
+        "url": "https://github.com/google/containerdbg",
+        "stars": 74,
+        "forks": 7,
+        "language": "C",
+        "pushed_at": "2025-05-13T10:27:09Z",
+        "created_at": "2022-08-30T05:52:19Z"
+      },
+      {
+        "name": "containerregistry",
+        "description": "A set of Python libraries and tools for interacting with a Docker Registry.",
+        "url": "https://github.com/google/containerregistry",
+        "stars": 211,
+        "forks": 115,
+        "language": "Python",
+        "pushed_at": "2021-02-08T20:17:40Z",
+        "created_at": "2017-03-09T17:22:40Z"
       }
     ]
   }
