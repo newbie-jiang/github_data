@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-16T04:38:57Z",
+        "pushed_at": "2025-10-16T04:49:37Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -11597,7 +11597,7 @@
         "description": "Board support components for Espressif development boards",
         "url": "https://github.com/espressif/esp-bsp",
         "stars": 341,
-        "forks": 174,
+        "forks": 173,
         "language": "C",
         "pushed_at": "2025-10-15T10:56:47Z",
         "created_at": "2021-09-14T09:33:04Z"
@@ -11859,7 +11859,7 @@
         "stars": 22,
         "forks": 23,
         "language": "Shell",
-        "pushed_at": "2025-10-10T05:04:14Z",
+        "pushed_at": "2025-10-16T05:04:50Z",
         "created_at": "2023-03-09T13:39:06Z"
       },
       {
@@ -13289,7 +13289,7 @@
         "stars": 348,
         "forks": 130,
         "language": "Java",
-        "pushed_at": "2025-10-15T12:24:21Z",
+        "pushed_at": "2025-10-16T05:08:56Z",
         "created_at": "2019-09-16T02:21:43Z"
       },
       {
@@ -13529,7 +13529,7 @@
         "stars": 255,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-10-16T04:18:38Z",
+        "pushed_at": "2025-10-16T04:50:43Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13833,6 +13833,16 @@
         "created_at": "2023-07-17T11:34:12Z"
       },
       {
+        "name": "TF-PSA-Crypto",
+        "description": "Reference implementation of the PSA Cryptography API",
+        "url": "https://github.com/espressif/TF-PSA-Crypto",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-10-15T16:37:45Z",
+        "created_at": "2025-10-16T05:15:32Z"
+      },
+      {
         "name": "this-month-in-esps",
         "description": "（无简介）",
         "url": "https://github.com/espressif/this-month-in-esps",
@@ -13889,7 +13899,7 @@
         "stars": 1311,
         "forks": 335,
         "language": "TypeScript",
-        "pushed_at": "2025-10-13T10:19:16Z",
+        "pushed_at": "2025-10-16T04:56:00Z",
         "created_at": "2018-11-21T03:27:08Z"
       },
       {
@@ -16766,10 +16776,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 47707,
+        "stars": 47710,
         "forks": 5756,
         "language": "Rust",
-        "pushed_at": "2025-10-16T04:38:29Z",
+        "pushed_at": "2025-10-16T04:52:19Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -17216,7 +17226,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 18833,
+        "stars": 18834,
         "forks": 1845,
         "language": "Python",
         "pushed_at": "2025-10-06T15:18:21Z",
@@ -17336,7 +17346,7 @@
         "name": "human-eval",
         "description": "Code for the paper \"Evaluating Large Language Models Trained on Code\"",
         "url": "https://github.com/openai/human-eval",
-        "stars": 2971,
+        "stars": 2972,
         "forks": 411,
         "language": "Python",
         "pushed_at": "2025-01-17T18:22:17Z",
@@ -17737,7 +17747,7 @@
         "description": "Example apps for the Apps SDK",
         "url": "https://github.com/openai/openai-apps-sdk-examples",
         "stars": 1426,
-        "forks": 204,
+        "forks": 205,
         "language": "JavaScript",
         "pushed_at": "2025-10-15T12:57:19Z",
         "created_at": "2025-10-06T05:28:01Z"
@@ -17796,7 +17806,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 68543,
+        "stars": 68544,
         "forks": 11450,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-10-14T23:10:01Z",
@@ -17817,7 +17827,7 @@
         "description": "Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.",
         "url": "https://github.com/openai/openai-cua-sample-app",
         "stars": 1170,
-        "forks": 349,
+        "forks": 350,
         "language": "Python",
         "pushed_at": "2025-04-24T17:36:50Z",
         "created_at": "2025-03-11T14:57:29Z"
@@ -17869,7 +17879,7 @@
         "stars": 2589,
         "forks": 220,
         "language": "Go",
-        "pushed_at": "2025-10-15T20:10:30Z",
+        "pushed_at": "2025-10-16T05:06:46Z",
         "created_at": "2024-07-22T19:29:26Z"
       },
       {
@@ -17939,7 +17949,7 @@
         "stars": 28946,
         "forks": 4340,
         "language": "Python",
-        "pushed_at": "2025-10-15T20:10:50Z",
+        "pushed_at": "2025-10-16T05:04:01Z",
         "created_at": "2020-10-25T23:23:54Z"
       },
       {
@@ -17967,7 +17977,7 @@
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
         "stars": 6527,
-        "forks": 997,
+        "forks": 998,
         "language": "TypeScript",
         "pushed_at": "2025-10-08T19:08:25Z",
         "created_at": "2025-01-16T01:29:28Z"
@@ -18736,7 +18746,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 89513,
+        "stars": 89511,
         "forks": 11183,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
@@ -21521,7 +21531,7 @@
         "name": "adk-js",
         "description": "（无简介）",
         "url": "https://github.com/google/adk-js",
-        "stars": 27,
+        "stars": 28,
         "forks": 4,
         "language": "TypeScript",
         "pushed_at": "2025-10-15T20:11:05Z",
@@ -21531,7 +21541,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 13727,
+        "stars": 13728,
         "forks": 2043,
         "language": "Python",
         "pushed_at": "2025-10-15T20:46:15Z",
@@ -24524,7 +24534,7 @@
         "stars": 1048,
         "forks": 38,
         "language": "Go",
-        "pushed_at": "2025-10-14T12:54:15Z",
+        "pushed_at": "2025-10-16T05:14:51Z",
         "created_at": "2023-07-24T23:19:36Z"
       },
       {
@@ -26051,7 +26061,7 @@
         "name": "computer-use-preview",
         "description": "（无简介）",
         "url": "https://github.com/google/computer-use-preview",
-        "stars": 1374,
+        "stars": 1375,
         "forks": 172,
         "language": "Python",
         "pushed_at": "2025-10-10T20:55:17Z",
@@ -32154,7 +32164,7 @@
         "stars": 268,
         "forks": 80,
         "language": "C",
-        "pushed_at": "2025-10-03T22:34:58Z",
+        "pushed_at": "2025-10-16T05:13:15Z",
         "created_at": "2018-12-16T07:10:09Z"
       },
       {
@@ -32741,7 +32751,7 @@
         "name": "googletest",
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "url": "https://github.com/google/googletest",
-        "stars": 37312,
+        "stars": 37311,
         "forks": 10562,
         "language": "C++",
         "pushed_at": "2025-10-16T04:02:47Z",
@@ -39561,7 +39571,7 @@
         "name": "oss-fuzz",
         "description": "OSS-Fuzz - continuous fuzzing for open source software.",
         "url": "https://github.com/google/oss-fuzz",
-        "stars": 11391,
+        "stars": 11392,
         "forks": 2495,
         "language": "Shell",
         "pushed_at": "2025-10-16T03:38:22Z",
@@ -39631,7 +39641,7 @@
         "name": "osv-scanner",
         "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
         "url": "https://github.com/google/osv-scanner",
-        "stars": 7896,
+        "stars": 7897,
         "forks": 465,
         "language": "Go",
         "pushed_at": "2025-10-16T03:04:18Z",
