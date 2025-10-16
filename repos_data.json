@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-16T15:18:59Z",
+        "pushed_at": "2025-10-16T15:37:02Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -10464,7 +10464,7 @@
         "stars": 12,
         "forks": 3,
         "language": "C",
-        "pushed_at": "2025-10-16T13:02:03Z",
+        "pushed_at": "2025-10-16T15:41:29Z",
         "created_at": "2024-04-12T13:29:12Z"
       },
       {
@@ -11477,7 +11477,7 @@
         "description": "AT application for ESP32/ESP32-C2/ESP32-C3/ESP32-C6/ESP8266",
         "url": "https://github.com/espressif/esp-at",
         "stars": 1093,
-        "forks": 1073,
+        "forks": 1074,
         "language": "C",
         "pushed_at": "2025-10-16T09:52:10Z",
         "created_at": "2017-01-11T15:36:52Z"
@@ -13859,7 +13859,7 @@
         "stars": 47,
         "forks": 38,
         "language": "C",
-        "pushed_at": "2025-10-16T14:38:50Z",
+        "pushed_at": "2025-10-16T15:41:26Z",
         "created_at": "2020-03-06T10:57:38Z"
       },
       {
@@ -16362,7 +16362,7 @@
         "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/",
         "url": "https://github.com/RT-Thread/rt-thread",
         "stars": 11456,
-        "forks": 5285,
+        "forks": 5287,
         "language": "C",
         "pushed_at": "2025-10-16T10:34:43Z",
         "created_at": "2013-01-02T14:49:21Z"
@@ -16746,7 +16746,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 31087,
+        "stars": 31088,
         "forks": 3791,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16776,10 +16776,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 47788,
+        "stars": 47790,
         "forks": 5769,
         "language": "Rust",
-        "pushed_at": "2025-10-16T15:29:49Z",
+        "pushed_at": "2025-10-16T15:39:34Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -17006,7 +17006,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 17137,
+        "stars": 17138,
         "forks": 2816,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -17736,7 +17736,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 16542,
+        "stars": 16543,
         "forks": 2706,
         "language": "Python",
         "pushed_at": "2025-10-16T14:43:36Z",
@@ -17746,7 +17746,7 @@
         "name": "openai-apps-sdk-examples",
         "description": "Example apps for the Apps SDK",
         "url": "https://github.com/openai/openai-apps-sdk-examples",
-        "stars": 1439,
+        "stars": 1441,
         "forks": 209,
         "language": "JavaScript",
         "pushed_at": "2025-10-16T15:24:17Z",
@@ -17889,7 +17889,7 @@
         "stars": 32,
         "forks": 3,
         "language": "TypeScript",
-        "pushed_at": "2025-10-16T14:53:16Z",
+        "pushed_at": "2025-10-16T15:37:04Z",
         "created_at": "2025-09-17T23:09:23Z"
       },
       {
@@ -17946,8 +17946,8 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 28947,
-        "forks": 4341,
+        "stars": 28948,
+        "forks": 4342,
         "language": "Python",
         "pushed_at": "2025-10-16T15:13:43Z",
         "created_at": "2020-10-25T23:23:54Z"
@@ -18746,7 +18746,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 89533,
+        "stars": 89534,
         "forks": 11184,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
@@ -22124,7 +22124,7 @@
         "stars": 555,
         "forks": 169,
         "language": "C++",
-        "pushed_at": "2025-10-16T14:55:54Z",
+        "pushed_at": "2025-10-16T15:40:27Z",
         "created_at": "2017-12-13T19:42:51Z"
       },
       {
@@ -25392,7 +25392,7 @@
         "description": "A JavaScript checker and optimizer.",
         "url": "https://github.com/google/closure-compiler",
         "stars": 7573,
-        "forks": 1168,
+        "forks": 1169,
         "language": "JavaScript",
         "pushed_at": "2025-10-16T14:30:23Z",
         "created_at": "2014-04-16T15:30:36Z"
@@ -33452,7 +33452,7 @@
         "description": "Application Kernel for Containers",
         "url": "https://github.com/google/gvisor",
         "stars": 17060,
-        "forks": 1442,
+        "forks": 1443,
         "language": "Go",
         "pushed_at": "2025-10-16T07:34:32Z",
         "created_at": "2018-04-26T21:28:49Z"
@@ -35954,7 +35954,7 @@
         "stars": 862,
         "forks": 65,
         "language": "Python",
-        "pushed_at": "2025-10-16T06:13:39Z",
+        "pushed_at": "2025-10-16T15:41:39Z",
         "created_at": "2023-08-29T17:58:47Z"
       },
       {
@@ -38474,7 +38474,7 @@
         "stars": 869,
         "forks": 181,
         "language": "C++",
-        "pushed_at": "2025-10-16T07:21:33Z",
+        "pushed_at": "2025-10-16T15:47:59Z",
         "created_at": "2020-04-23T20:41:37Z"
       },
       {
@@ -40214,7 +40214,7 @@
         "stars": 4750,
         "forks": 600,
         "language": "C++",
-        "pushed_at": "2025-10-16T14:46:03Z",
+        "pushed_at": "2025-10-16T15:44:54Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -48814,7 +48814,7 @@
         "stars": 1360,
         "forks": 213,
         "language": "C++",
-        "pushed_at": "2025-10-16T15:32:10Z",
+        "pushed_at": "2025-10-16T15:47:25Z",
         "created_at": "2020-05-07T21:38:30Z"
       },
       {
