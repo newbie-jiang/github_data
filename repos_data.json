@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-20T22:45:10Z",
+        "pushed_at": "2025-10-20T23:14:57Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4139,7 +4139,7 @@
         "stars": 13330,
         "forks": 8075,
         "language": "C",
-        "pushed_at": "2025-10-20T18:23:56Z",
+        "pushed_at": "2025-10-20T23:19:20Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -11926,7 +11926,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 16436,
+        "stars": 16437,
         "forks": 7919,
         "language": "C",
         "pushed_at": "2025-10-20T21:29:55Z",
@@ -12886,7 +12886,7 @@
         "name": "esp32-camera",
         "description": "（无简介）",
         "url": "https://github.com/espressif/esp32-camera",
-        "stars": 2402,
+        "stars": 2403,
         "forks": 732,
         "language": "C",
         "pushed_at": "2025-10-09T10:59:21Z",
@@ -14451,7 +14451,1748 @@
   },
   {
     "username": "stm32-hotspot",
-    "repos": []
+    "repos": [
+      {
+        "name": ".github",
+        "description": "STM32 Hotspot organization presentation",
+        "url": "https://github.com/stm32-hotspot/.github",
+        "stars": 3,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2022-02-22T13:09:56Z",
+        "created_at": "2021-11-26T14:44:56Z"
+      },
+      {
+        "name": "B-U585I-IOT02A-HTS221",
+        "description": "Read temperature and humidity from the HTS221 sensor present on B-U585I-IOT02A ",
+        "url": "https://github.com/stm32-hotspot/B-U585I-IOT02A-HTS221",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2022-05-13T23:17:46Z",
+        "created_at": "2022-05-13T22:53:25Z"
+      },
+      {
+        "name": "B-U585I-IOT02A-IIS2MDC",
+        "description": "Read 3-axis magnetic field from the IIS2MDC.",
+        "url": "https://github.com/stm32-hotspot/B-U585I-IOT02A-IIS2MDC",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-12-17T23:52:31Z",
+        "created_at": "2024-12-17T23:31:30Z"
+      },
+      {
+        "name": "B-U585I-IOT02A-ISM330DHC",
+        "description": "Read Acceleration and Angular velocity from the ISM330DHC",
+        "url": "https://github.com/stm32-hotspot/B-U585I-IOT02A-ISM330DHC",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-12-17T23:51:39Z",
+        "created_at": "2024-12-17T23:07:48Z"
+      },
+      {
+        "name": "B-U585I-IOT02A-ISM330DHCX-FreeFall-Detection",
+        "description": "A freefall detection example using the ism330dlcx on the B-U585I-IOT02A board",
+        "url": "https://github.com/stm32-hotspot/B-U585I-IOT02A-ISM330DHCX-FreeFall-Detection",
+        "stars": 3,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2022-09-21T18:34:38Z",
+        "created_at": "2022-05-05T20:43:01Z"
+      },
+      {
+        "name": "B-U585I-IOT02A-LPS22HH",
+        "description": "Read Pressure and Temperature from the LPS22HH",
+        "url": "https://github.com/stm32-hotspot/B-U585I-IOT02A-LPS22HH",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-12-17T23:18:16Z",
+        "created_at": "2024-12-17T22:25:28Z"
+      },
+      {
+        "name": "B-U585I-IOT02A_AI_RELOCATABLE_THREADX",
+        "description": "Demo of STM32Cube.ai in form of relocatable binary files running with Azure RTOS in conjunction with ThreadX Modules.",
+        "url": "https://github.com/stm32-hotspot/B-U585I-IOT02A_AI_RELOCATABLE_THREADX",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-07-07T15:12:30Z",
+        "created_at": "2023-01-25T15:04:24Z"
+      },
+      {
+        "name": "B-U585I-IOT02A_MODULE_MANAGER_THREADX",
+        "description": "Demo of ThreadX Module Manager and the associated Module executed in place from RAM and FLASH, and from file.",
+        "url": "https://github.com/stm32-hotspot/B-U585I-IOT02A_MODULE_MANAGER_THREADX",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-02-12T09:02:54Z",
+        "created_at": "2022-08-30T15:14:20Z"
+      },
+      {
+        "name": "B-U585I-IOT02A_SPI",
+        "description": "configure and use the SPI interfaces connected to the Arduino and STMOD2 on the B-U585I-IOT02A board",
+        "url": "https://github.com/stm32-hotspot/B-U585I-IOT02A_SPI",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-12-19T22:34:12Z",
+        "created_at": "2024-12-19T22:17:35Z"
+      },
+      {
+        "name": "BlueNRG_LPS_HSE_CALIB",
+        "description": "Tune BlueNRG-LPS via buttons and MCO pin or RF tone",
+        "url": "https://github.com/stm32-hotspot/BlueNRG_LPS_HSE_CALIB",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-27T15:36:08Z",
+        "created_at": "2023-06-27T15:35:56Z"
+      },
+      {
+        "name": "BlueNRG_LPS_HSE_CALIB_RTT",
+        "description": "Tune BlueNRG-LPS via J-LINK RTT interface and MCO or RF output",
+        "url": "https://github.com/stm32-hotspot/BlueNRG_LPS_HSE_CALIB_RTT",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-11-29T13:49:08Z",
+        "created_at": "2023-06-27T15:46:59Z"
+      },
+      {
+        "name": "BlueNRG_LP_HSE_CALIB",
+        "description": "Tune BlueNRG-LP HSE via buttons and MCO pin or RF tone",
+        "url": "https://github.com/stm32-hotspot/BlueNRG_LP_HSE_CALIB",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-27T15:05:45Z",
+        "created_at": "2023-06-27T15:04:14Z"
+      },
+      {
+        "name": "BlueNRG_LP_HSE_CALIB_RTT",
+        "description": "Tune BlueNRG-LP via J-LINK RTT interface and MCO or RF output",
+        "url": "https://github.com/stm32-hotspot/BlueNRG_LP_HSE_CALIB_RTT",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-11-29T13:45:15Z",
+        "created_at": "2023-06-27T15:42:56Z"
+      },
+      {
+        "name": "BOOTLOADER_USB_MSC_STM32G0",
+        "description": "（无简介）",
+        "url": "https://github.com/stm32-hotspot/BOOTLOADER_USB_MSC_STM32G0",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-06-27T22:42:11Z",
+        "created_at": "2024-06-27T22:30:04Z"
+      },
+      {
+        "name": "b_u585_iota02_aws_iot",
+        "description": "AWS IoT reference Integration for STM32U585",
+        "url": "https://github.com/stm32-hotspot/b_u585_iota02_aws_iot",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-03-03T20:42:29Z",
+        "created_at": "2024-11-20T23:33:57Z"
+      },
+      {
+        "name": "CKB-LwIP-FreeRTOS-UDP-Echo-Server-F767",
+        "description": "（无简介）",
+        "url": "https://github.com/stm32-hotspot/CKB-LwIP-FreeRTOS-UDP-Echo-Server-F767",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-06-27T10:59:00Z",
+        "created_at": "2025-06-25T10:26:10Z"
+      },
+      {
+        "name": "CKB-STM32-bxCAN-LoopBack",
+        "description": "This is an example tailored to different STM32 Nucleo boards demonstrating how to configure the bxCAN in loop back mode running at 500kb/s.",
+        "url": "https://github.com/stm32-hotspot/CKB-STM32-bxCAN-LoopBack",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-04-07T11:11:26Z",
+        "created_at": "2025-02-12T09:44:26Z"
+      },
+      {
+        "name": "CKB-STM32-bxCAN-Normal-Mode",
+        "description": "（无简介）",
+        "url": "https://github.com/stm32-hotspot/CKB-STM32-bxCAN-Normal-Mode",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-05-14T15:44:13Z",
+        "created_at": "2025-05-14T10:24:33Z"
+      },
+      {
+        "name": "CKB-STM32-DUAL-CDC-ACM",
+        "description": "（无简介）",
+        "url": "https://github.com/stm32-hotspot/CKB-STM32-DUAL-CDC-ACM",
+        "stars": 1,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2024-09-11T08:23:23Z",
+        "created_at": "2024-09-10T14:23:21Z"
+      },
+      {
+        "name": "CKB-STM32-FDCAN-8Mbs",
+        "description": "This is an example tailored to different STM32 Nucleo boards demonstrating that the STM32 FDCAN can reach 8Mb/s during the data phase.",
+        "url": "https://github.com/stm32-hotspot/CKB-STM32-FDCAN-8Mbs",
+        "stars": 1,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2025-03-19T14:07:46Z",
+        "created_at": "2024-10-17T10:31:29Z"
+      },
+      {
+        "name": "CKB-STM32-HAL-Ethernet-BareMetal",
+        "description": "Ethernet BareMetal configuration and minimal implementation on STM32H5/H7 series",
+        "url": "https://github.com/stm32-hotspot/CKB-STM32-HAL-Ethernet-BareMetal",
+        "stars": 5,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2024-09-10T16:30:00Z",
+        "created_at": "2024-09-06T11:01:26Z"
+      },
+      {
+        "name": "CKB-STM32-HID-DFU-H5",
+        "description": "Build an application on STM32 that combines HID and DFU functionalities into a composite USB device. ",
+        "url": "https://github.com/stm32-hotspot/CKB-STM32-HID-DFU-H5",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-02-21T10:52:11Z",
+        "created_at": "2025-01-27T16:35:38Z"
+      },
+      {
+        "name": "CKB-STM32-HID-KEYBOARD-C0",
+        "description": "implementing-a-usb-hid-keyboard-device-from-a-usb-hid-mouse",
+        "url": "https://github.com/stm32-hotspot/CKB-STM32-HID-KEYBOARD-C0",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-04-15T15:17:24Z",
+        "created_at": "2025-04-15T14:49:52Z"
+      },
+      {
+        "name": "CKB-STM32-HTTP-Example-With-LWIP-Debug",
+        "description": "enhancing debuggability of LWIP applications using SWV console in STM32CubeIDE",
+        "url": "https://github.com/stm32-hotspot/CKB-STM32-HTTP-Example-With-LWIP-Debug",
+        "stars": 1,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2024-10-15T13:47:32Z",
+        "created_at": "2024-10-15T13:26:57Z"
+      },
+      {
+        "name": "CKB-STM32-IWDG-EWI",
+        "description": "An example of IWDG  Early Wakeup Interrupt using STM32U535/545/59x/5Ax/5Fx/5Gx",
+        "url": "https://github.com/stm32-hotspot/CKB-STM32-IWDG-EWI",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-09-18T13:26:20Z",
+        "created_at": "2024-09-18T09:34:21Z"
+      },
+      {
+        "name": "CKB-STM32-MSC-UX-Standalone-U5",
+        "description": "（无简介）",
+        "url": "https://github.com/stm32-hotspot/CKB-STM32-MSC-UX-Standalone-U5",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-09-29T14:38:07Z",
+        "created_at": "2025-09-22T14:46:32Z"
+      },
+      {
+        "name": "CKB-STM32-USBD-Composite-MSC-HID-U5",
+        "description": "A STM32 Composite Class USB Device Application combining MSC and HID classes running on the NUCLEO-U545RE-Q board.",
+        "url": "https://github.com/stm32-hotspot/CKB-STM32-USBD-Composite-MSC-HID-U5",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-09-18T12:52:56Z",
+        "created_at": "2025-07-14T13:23:05Z"
+      },
+      {
+        "name": "Coremark_Example",
+        "description": "（无简介）",
+        "url": "https://github.com/stm32-hotspot/Coremark_Example",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-02-28T15:51:46Z",
+        "created_at": "2024-02-28T15:49:19Z"
+      },
+      {
+        "name": "DBFU_L476",
+        "description": "An example of a Dual-Bank Firmware Update application on the NUCLEO-L476",
+        "url": "https://github.com/stm32-hotspot/DBFU_L476",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2022-12-20T19:00:21Z",
+        "created_at": "2022-12-20T18:43:07Z"
+      },
+      {
+        "name": "Debug_STM32_FreeRTOS_with_VS_Code",
+        "description": "Using VS Code for FreeRTOS™ application debugging using Nucleo-H753 ",
+        "url": "https://github.com/stm32-hotspot/Debug_STM32_FreeRTOS_with_VS_Code",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-12-24T15:39:40Z",
+        "created_at": "2024-12-24T15:27:14Z"
+      },
+      {
+        "name": "DMIPS_Example",
+        "description": "（无简介）",
+        "url": "https://github.com/stm32-hotspot/DMIPS_Example",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-02-28T15:55:04Z",
+        "created_at": "2024-02-28T15:53:17Z"
+      },
+      {
+        "name": "DRC02_IIoT_GreenGrass_Gateway",
+        "description": "Simple, expandable edge IoT gateway based on STM32MP157 supporting a range of connectivity options.",
+        "url": "https://github.com/stm32-hotspot/DRC02_IIoT_GreenGrass_Gateway",
+        "stars": 3,
+        "forks": 0,
+        "language": "Shell",
+        "pushed_at": "2022-09-21T18:24:58Z",
+        "created_at": "2022-05-23T20:48:59Z"
+      },
+      {
+        "name": "ELOOM-SDK",
+        "description": "eLooM SDK is a collection of embedded applications based on eLooM framework and components. It demonstrates how to use the eLooM framework providing ready-to-use examples.",
+        "url": "https://github.com/stm32-hotspot/ELOOM-SDK",
+        "stars": 2,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2023-12-21T17:30:56Z",
+        "created_at": "2023-06-15T13:02:44Z"
+      },
+      {
+        "name": "ELOOMTX-SDK",
+        "description": "eLooM SDK is a collection of embedded applications based on eLooM framework and components. It demonstrates how to use the eLooM framework providing ready-to-use examples.",
+        "url": "https://github.com/stm32-hotspot/ELOOMTX-SDK",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-12-21T17:31:48Z",
+        "created_at": "2023-06-15T13:18:42Z"
+      },
+      {
+        "name": "EMxxLX_Driver",
+        "description": "This user guide was made to show users how to properly configure and use the Everspin MRAM driver for STM32 Microcontrollers. The driver was tested on STM32U599NJ Microcontroller, using STM32Cube IDE v1.15.0, HAL drivers and OCTOSPI peripheral",
+        "url": "https://github.com/stm32-hotspot/EMxxLX_Driver",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-02-07T14:49:52Z",
+        "created_at": "2025-02-05T13:27:01Z"
+      },
+      {
+        "name": "GreengrassLite_STM32MP1_Workshop",
+        "description": "（无简介）",
+        "url": "https://github.com/stm32-hotspot/GreengrassLite_STM32MP1_Workshop",
+        "stars": 1,
+        "forks": 0,
+        "language": "Shell",
+        "pushed_at": "2025-06-24T18:14:31Z",
+        "created_at": "2025-05-29T18:47:40Z"
+      },
+      {
+        "name": "GreenGrass_Lite_BLE_Gateway",
+        "description": "AWS IoT Greengrass Lite BLE Sensor Gateway",
+        "url": "https://github.com/stm32-hotspot/GreenGrass_Lite_BLE_Gateway",
+        "stars": 1,
+        "forks": 0,
+        "language": "Python",
+        "pushed_at": "2025-03-03T20:47:28Z",
+        "created_at": "2025-02-10T20:24:17Z"
+      },
+      {
+        "name": "GreenGrass_Lite_BLE_Gateway_Proteus",
+        "description": "AWS IoT Greengrass Lite BLE Gateway component with automated deployment script for STEVAL Proteus Industrial sensor node ",
+        "url": "https://github.com/stm32-hotspot/GreenGrass_Lite_BLE_Gateway_Proteus",
+        "stars": 0,
+        "forks": 0,
+        "language": "Python",
+        "pushed_at": "2025-05-29T19:10:06Z",
+        "created_at": "2025-05-22T15:54:19Z"
+      },
+      {
+        "name": "I-CUBE-ExpressLink",
+        "description": "AWS ExpressLink driver and examples for STM32 devices",
+        "url": "https://github.com/stm32-hotspot/I-CUBE-ExpressLink",
+        "stars": 6,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-12-16T17:06:44Z",
+        "created_at": "2023-01-19T22:58:49Z"
+      },
+      {
+        "name": "I-CUBE-STDIO",
+        "description": "（无简介）",
+        "url": "https://github.com/stm32-hotspot/I-CUBE-STDIO",
+        "stars": 4,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2023-01-19T22:18:33Z",
+        "created_at": "2022-05-13T22:43:37Z"
+      },
+      {
+        "name": "NUCLEO_H743_NetXDuo_UDP_IPv4_IPv6",
+        "description": "An example of UDP communications using both IPv4 and IPv6 using NetXDuo. Created with CubeMX for the NUCLEO_H743",
+        "url": "https://github.com/stm32-hotspot/NUCLEO_H743_NetXDuo_UDP_IPv4_IPv6",
+        "stars": 3,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-23T14:25:00Z",
+        "created_at": "2023-06-23T14:21:48Z"
+      },
+      {
+        "name": "Nucleo_WB55RG_Zigbee_OTA_TransferResume",
+        "description": "（无简介）",
+        "url": "https://github.com/stm32-hotspot/Nucleo_WB55RG_Zigbee_OTA_TransferResume",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-09T12:14:54Z",
+        "created_at": "2023-06-09T11:57:02Z"
+      },
+      {
+        "name": "pytorch-ssd",
+        "description": "MobileNetV1, MobileNetV2, VGG based SSD/SSD-lite implementation in Pytorch 1.0 / Pytorch 0.4. Out-of-box support for retraining on Open Images dataset. ONNX and Caffe2 support. Experiment Ideas like CoordConv.",
+        "url": "https://github.com/stm32-hotspot/pytorch-ssd",
+        "stars": 0,
+        "forks": 0,
+        "language": "Python",
+        "pushed_at": "2025-04-24T15:13:35Z",
+        "created_at": "2025-03-28T08:45:19Z"
+      },
+      {
+        "name": "ST67W61-Bare-metal-implementation",
+        "description": "Extension of the basic X-CUBE-ST67W61 package. It demonstrates a simplified implementation of the AT protocol (over SPI) for the Wi-Fi and BLE NCP module.",
+        "url": "https://github.com/stm32-hotspot/ST67W61-Bare-metal-implementation",
+        "stars": 1,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2025-10-13T11:52:53Z",
+        "created_at": "2025-09-01T13:39:17Z"
+      },
+      {
+        "name": "stm32-host-programmer-usart",
+        "description": "（无简介）",
+        "url": "https://github.com/stm32-hotspot/stm32-host-programmer-usart",
+        "stars": 8,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2023-11-21T22:19:34Z",
+        "created_at": "2023-11-21T20:08:19Z"
+      },
+      {
+        "name": "STM32-Sidewalk-SDK",
+        "description": "The STM32-Sidewalk-SDK package is an integration of the Sidewalk SDK provided by Amazon, specifically designed to run on the STM32WBAxx MCUs",
+        "url": "https://github.com/stm32-hotspot/STM32-Sidewalk-SDK",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-09-12T08:45:18Z",
+        "created_at": "2025-08-22T08:32:19Z"
+      },
+      {
+        "name": "stm32ai-nanoedge-current-classification",
+        "description": "C code examples on how to collect data from current sensor, print the values through uart and then extend an embedded application with NEAI library",
+        "url": "https://github.com/stm32-hotspot/stm32ai-nanoedge-current-classification",
+        "stars": 1,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2023-04-03T10:02:59Z",
+        "created_at": "2023-04-03T09:44:17Z"
+      },
+      {
+        "name": "stm32ai-nanoedge-datalogger",
+        "description": "STM32 Application for datalogging feature with NanoEdge AI Studio",
+        "url": "https://github.com/stm32-hotspot/stm32ai-nanoedge-datalogger",
+        "stars": 11,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2024-06-13T09:39:05Z",
+        "created_at": "2023-03-16T12:09:13Z"
+      },
+      {
+        "name": "stm32ai-nanoedge-mnist-classification",
+        "description": "This repository contains the project shown at the NanoEdge AI Studio workshop. This is a classification project with the MNIST dataset",
+        "url": "https://github.com/stm32-hotspot/stm32ai-nanoedge-mnist-classification",
+        "stars": 0,
+        "forks": 0,
+        "language": "Tcl",
+        "pushed_at": "2023-04-03T11:27:15Z",
+        "created_at": "2023-04-03T09:46:31Z"
+      },
+      {
+        "name": "stm32ai-nanoedge-vibration-abnormality-detection",
+        "description": "NanoEdge AI Studio library in Arduino IDE: Anomaly Detection demonstration based on vibration data (3D accelerometer). ",
+        "url": "https://github.com/stm32-hotspot/stm32ai-nanoedge-vibration-abnormality-detection",
+        "stars": 5,
+        "forks": 0,
+        "language": "C++",
+        "pushed_at": "2023-04-03T09:59:59Z",
+        "created_at": "2023-04-03T09:49:13Z"
+      },
+      {
+        "name": "stm32ai-nanoedge-vibration-monitoring",
+        "description": "STM32 Application for vibration monitoring with NanoEdge AI Studio",
+        "url": "https://github.com/stm32-hotspot/stm32ai-nanoedge-vibration-monitoring",
+        "stars": 3,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2022-09-22T11:52:34Z",
+        "created_at": "2022-06-13T15:38:29Z"
+      },
+      {
+        "name": "stm32ai-tvm",
+        "description": "STM32 Application for Deep Learning Framework with TVM",
+        "url": "https://github.com/stm32-hotspot/stm32ai-tvm",
+        "stars": 18,
+        "forks": 3,
+        "language": "C",
+        "pushed_at": "2022-09-22T11:53:42Z",
+        "created_at": "2022-05-03T15:39:48Z"
+      },
+      {
+        "name": "STM32C0316-DK-Brisk-Demo",
+        "description": "A rich demo used to bring up and test the STM32C0316-DK board",
+        "url": "https://github.com/stm32-hotspot/STM32C0316-DK-Brisk-Demo",
+        "stars": 6,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-03-24T09:19:17Z",
+        "created_at": "2023-01-12T14:21:35Z"
+      },
+      {
+        "name": "STM32CubeRF-Flow",
+        "description": "The STM32CubeRF-Flow is a Python application example that demonstrates how to automate RF Testing",
+        "url": "https://github.com/stm32-hotspot/STM32CubeRF-Flow",
+        "stars": 2,
+        "forks": 0,
+        "language": "Python",
+        "pushed_at": "2023-12-29T01:18:35Z",
+        "created_at": "2023-05-02T22:16:53Z"
+      },
+      {
+        "name": "STM32CubeWB09-Workshop-Repository",
+        "description": "A pre-released version of CubeWB0, including CubeIDE projects for PAwR",
+        "url": "https://github.com/stm32-hotspot/STM32CubeWB09-Workshop-Repository",
+        "stars": 3,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-12-02T18:56:43Z",
+        "created_at": "2024-11-20T19:29:15Z"
+      },
+      {
+        "name": "STM32G0xx_IAP",
+        "description": "STM32 in-application programming (IAP) using USART via YMODEM Protocol",
+        "url": "https://github.com/stm32-hotspot/STM32G0xx_IAP",
+        "stars": 12,
+        "forks": 4,
+        "language": "C",
+        "pushed_at": "2023-07-11T19:15:29Z",
+        "created_at": "2023-07-10T17:51:47Z"
+      },
+      {
+        "name": "STM32G0_UART1_PA9_PA10",
+        "description": "UART1 on STM32G0  remapped to PA9 and PA10",
+        "url": "https://github.com/stm32-hotspot/STM32G0_UART1_PA9_PA10",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2022-09-21T18:31:35Z",
+        "created_at": "2022-05-31T16:54:54Z"
+      },
+      {
+        "name": "STM32H5_DA_EmbeddedProvisioning",
+        "description": "STM32H5 Debug Authentication provisioning by embedded firmware. This example provides details to provision DA_Config.OBK through embedded firmware.",
+        "url": "https://github.com/stm32-hotspot/STM32H5_DA_EmbeddedProvisioning",
+        "stars": 1,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2025-03-18T15:14:31Z",
+        "created_at": "2025-03-18T13:13:54Z"
+      },
+      {
+        "name": "STM32H5_USB_DFU_Dual_Bank_demo",
+        "description": "Demo of bank-swapping mechanism used with USB DFU",
+        "url": "https://github.com/stm32-hotspot/STM32H5_USB_DFU_Dual_Bank_demo",
+        "stars": 5,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2024-11-06T14:06:17Z",
+        "created_at": "2024-11-06T14:06:11Z"
+      },
+      {
+        "name": "STM32H7-LwIP-Examples",
+        "description": "Ethernet examples using LwIP + FreeRTOS for STM32H7 Discovery and Nucleo boards",
+        "url": "https://github.com/stm32-hotspot/STM32H7-LwIP-Examples",
+        "stars": 124,
+        "forks": 33,
+        "language": "C",
+        "pushed_at": "2022-09-27T14:30:22Z",
+        "created_at": "2022-09-27T14:02:25Z"
+      },
+      {
+        "name": "stm32h7-matter-bridge",
+        "description": "Matter bridge for STM32H7",
+        "url": "https://github.com/stm32-hotspot/stm32h7-matter-bridge",
+        "stars": 10,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2023-02-24T18:36:29Z",
+        "created_at": "2023-02-24T14:19:08Z"
+      },
+      {
+        "name": "STM32L4-RTT",
+        "description": "A simple application example to demonstrate how to use SEGGER's RTT with an STM32L4 project",
+        "url": "https://github.com/stm32-hotspot/STM32L4-RTT",
+        "stars": 5,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2022-12-09T13:47:30Z",
+        "created_at": "2022-12-09T13:44:36Z"
+      },
+      {
+        "name": "STM32L4-System-DFU-WB0",
+        "description": "The project aims to flash firmware into BlueNRG-2/WB0x wireless devices via a UART bootloader, using an STM32L476RG MCU as the host where the firmware is stored.",
+        "url": "https://github.com/stm32-hotspot/STM32L4-System-DFU-WB0",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-10-18T05:33:12Z",
+        "created_at": "2024-10-18T05:29:25Z"
+      },
+      {
+        "name": "stm32mcu_aws_fleetProvisioning",
+        "description": "AWS Fleet Provisioning for STM32 Microcontroller ",
+        "url": "https://github.com/stm32-hotspot/stm32mcu_aws_fleetProvisioning",
+        "stars": 0,
+        "forks": 0,
+        "language": "Shell",
+        "pushed_at": "2025-02-27T23:22:28Z",
+        "created_at": "2025-02-04T21:56:28Z"
+      },
+      {
+        "name": "stm32mcu_aws_mar",
+        "description": "AWS Multi-Account registration for STM32Microcontrollers",
+        "url": "https://github.com/stm32-hotspot/stm32mcu_aws_mar",
+        "stars": 0,
+        "forks": 0,
+        "language": "Shell",
+        "pushed_at": "2025-02-27T23:23:33Z",
+        "created_at": "2025-02-27T20:56:43Z"
+      },
+      {
+        "name": "stm32mp1-otbr-posix",
+        "description": "Linux package for Openthread Border Router (OTBR) working with a Radio Co-Processor (RCP) STM32WB55 through a serial connection (FTDI) between STM32MPU and STM32WB. This meta-layer provides all recipes needed to compile \"ot-br-posix\".",
+        "url": "https://github.com/stm32-hotspot/stm32mp1-otbr-posix",
+        "stars": 4,
+        "forks": 2,
+        "language": "Shell",
+        "pushed_at": "2023-10-11T10:46:18Z",
+        "created_at": "2023-06-07T15:03:44Z"
+      },
+      {
+        "name": "STM32MP1_AWS-IoT-Greengrass-nucleus-lite",
+        "description": "AWS GreenGrass lite for STM32MP1",
+        "url": "https://github.com/stm32-hotspot/STM32MP1_AWS-IoT-Greengrass-nucleus-lite",
+        "stars": 0,
+        "forks": 0,
+        "language": "Shell",
+        "pushed_at": "2025-10-14T19:27:55Z",
+        "created_at": "2024-12-04T19:35:53Z"
+      },
+      {
+        "name": "STM32MP2_AWS-IoT-Greengrass-nucleus-lite",
+        "description": "AWS GreenGrass lite for STM32MP2",
+        "url": "https://github.com/stm32-hotspot/STM32MP2_AWS-IoT-Greengrass-nucleus-lite",
+        "stars": 1,
+        "forks": 1,
+        "language": "Shell",
+        "pushed_at": "2025-10-14T19:28:52Z",
+        "created_at": "2025-02-14T23:03:58Z"
+      },
+      {
+        "name": "STM32MPU-OSTL-DEV-helper",
+        "description": "Set of tools that allow users to build their own Yocto image",
+        "url": "https://github.com/stm32-hotspot/STM32MPU-OSTL-DEV-helper",
+        "stars": 3,
+        "forks": 2,
+        "language": "Shell",
+        "pushed_at": "2025-07-28T06:30:11Z",
+        "created_at": "2024-11-27T12:45:01Z"
+      },
+      {
+        "name": "STM32MPU_GG_FleetProvisioning",
+        "description": "Automated setup for AWS IoT Fleet Provisioning with Greengrass V2 on STM32MP1/STM32MP2 devices",
+        "url": "https://github.com/stm32-hotspot/STM32MPU_GG_FleetProvisioning",
+        "stars": 2,
+        "forks": 0,
+        "language": "Shell",
+        "pushed_at": "2024-11-06T21:42:32Z",
+        "created_at": "2024-11-06T20:57:21Z"
+      },
+      {
+        "name": "STM32N6-AI-Assistant-People-Detection",
+        "description": "This repository offers a Computer Vision application for deploying object detection models on the AI Assistant board, based on the official n6-ai-people-detection-v1.0.0 package for the STM32N6570-DK board. It is prebuilt with the \"TinyYOLOv2\" people detection model.",
+        "url": "https://github.com/stm32-hotspot/STM32N6-AI-Assistant-People-Detection",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-09-01T15:03:40Z",
+        "created_at": "2025-09-01T10:01:38Z"
+      },
+      {
+        "name": "STM32N6-Boot-ROM-Traces",
+        "description": "（无简介）",
+        "url": "https://github.com/stm32-hotspot/STM32N6-Boot-ROM-Traces",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-04-15T09:36:05Z",
+        "created_at": "2024-11-22T09:41:36Z"
+      },
+      {
+        "name": "stm32n6570-dk-ltdc-to-hdmi",
+        "description": "SW example in charge of demonstrating the usage of the LTDC/HDMI converter on STM32N6 DK board",
+        "url": "https://github.com/stm32-hotspot/stm32n6570-dk-ltdc-to-hdmi",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-04-24T07:29:36Z",
+        "created_at": "2025-04-22T15:09:37Z"
+      },
+      {
+        "name": "STM32N6_FSBL_Modes",
+        "description": "（无简介）",
+        "url": "https://github.com/stm32-hotspot/STM32N6_FSBL_Modes",
+        "stars": 9,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2025-02-27T20:51:31Z",
+        "created_at": "2025-02-19T13:41:05Z"
+      },
+      {
+        "name": "STM32TRUST_WRP_WRITE_PROTECTION",
+        "description": "Barebones WRP example for Nucleo-H723ZGZ platform",
+        "url": "https://github.com/stm32-hotspot/STM32TRUST_WRP_WRITE_PROTECTION",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-22T17:47:22Z",
+        "created_at": "2023-06-08T18:59:18Z"
+      },
+      {
+        "name": "STM32U0-ULP-BatteryLess-Demo",
+        "description": "（无简介）",
+        "url": "https://github.com/stm32-hotspot/STM32U0-ULP-BatteryLess-Demo",
+        "stars": 3,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-01-07T09:39:34Z",
+        "created_at": "2024-09-27T09:21:34Z"
+      },
+      {
+        "name": "STM32U5_AWS_QuickConnect",
+        "description": "（无简介）",
+        "url": "https://github.com/stm32-hotspot/STM32U5_AWS_QuickConnect",
+        "stars": 0,
+        "forks": 0,
+        "language": "Python",
+        "pushed_at": "2023-02-08T23:35:17Z",
+        "created_at": "2023-01-20T01:55:57Z"
+      },
+      {
+        "name": "STM32U5_AWS_Virtual_Workshop_2023",
+        "description": "（无简介）",
+        "url": "https://github.com/stm32-hotspot/STM32U5_AWS_Virtual_Workshop_2023",
+        "stars": 4,
+        "forks": 0,
+        "language": "Python",
+        "pushed_at": "2023-06-15T16:16:12Z",
+        "created_at": "2023-01-20T02:09:53Z"
+      },
+      {
+        "name": "STM32U5_Azure_OOBE",
+        "description": "B-U585I-IOT02A Azure Out Of the Box Experience",
+        "url": "https://github.com/stm32-hotspot/STM32U5_Azure_OOBE",
+        "stars": 3,
+        "forks": 2,
+        "language": "未指定",
+        "pushed_at": "2022-09-21T18:33:33Z",
+        "created_at": "2022-03-31T21:14:36Z"
+      },
+      {
+        "name": "STM32U5_Azure_Virtual_Workshop",
+        "description": "（无简介）",
+        "url": "https://github.com/stm32-hotspot/STM32U5_Azure_Virtual_Workshop",
+        "stars": 1,
+        "forks": 1,
+        "language": "PowerShell",
+        "pushed_at": "2023-02-22T16:30:27Z",
+        "created_at": "2023-01-25T19:46:20Z"
+      },
+      {
+        "name": "STM32WB-BLE-AI-MotionSense",
+        "description": "Example demonstrates how to create a motion sensing application to recognize human activities using machine learning on an STM32WB microcontroller",
+        "url": "https://github.com/stm32-hotspot/STM32WB-BLE-AI-MotionSense",
+        "stars": 17,
+        "forks": 5,
+        "language": "C",
+        "pushed_at": "2022-10-10T16:48:29Z",
+        "created_at": "2022-06-03T16:25:29Z"
+      },
+      {
+        "name": "STM32WB-BLE-Basic-DataThroughput-Server",
+        "description": "STM32WB55 BLE GATT Server implementation for max data transfer via notification to GATT client",
+        "url": "https://github.com/stm32-hotspot/STM32WB-BLE-Basic-DataThroughput-Server",
+        "stars": 9,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2022-10-10T16:45:32Z",
+        "created_at": "2022-02-17T02:24:59Z"
+      },
+      {
+        "name": "STM32WB-BLE-COC-DataTransfer",
+        "description": "A COC is a logical channel established over a BLE link. It allows to exchange data at L2CAP level without GATT layer.",
+        "url": "https://github.com/stm32-hotspot/STM32WB-BLE-COC-DataTransfer",
+        "stars": 3,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-02-10T14:24:12Z",
+        "created_at": "2023-02-10T14:06:39Z"
+      },
+      {
+        "name": "STM32WB-BLE-Dev-App-Android",
+        "description": "Application created in Android Studio by ST Microelectronics for mobile devices running Android. The app is split into two parts: scanning & connection. In the scanning phase, the user can scan for nearby Bluetooth devices, filter scanning by device name or RSSI value, and read a device's raw & parsed advertising data. Once connected to the BLE device, the user will see a list of the device's BLE services & characteristics. The user can then use the read, write, & notify functionality on each supported characteristic.",
+        "url": "https://github.com/stm32-hotspot/STM32WB-BLE-Dev-App-Android",
+        "stars": 16,
+        "forks": 3,
+        "language": "Kotlin",
+        "pushed_at": "2022-10-10T16:44:32Z",
+        "created_at": "2022-06-30T19:19:41Z"
+      },
+      {
+        "name": "STM32WB-BLE-EncryptedAdvertising",
+        "description": "Two applications are included in the example: one with central role BLE_p2pClient_EAD_Ext, and one with peripheral role BLE_p2pServer_EAD_Ext",
+        "url": "https://github.com/stm32-hotspot/STM32WB-BLE-EncryptedAdvertising",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-10-10T12:42:54Z",
+        "created_at": "2024-10-10T12:13:22Z"
+      },
+      {
+        "name": "STM32WB-BLE-HID-Selfie",
+        "description": "This example uses BLE HID to send keycodes to your device and lets you take a selfie by using the volume down button as a shortcut.",
+        "url": "https://github.com/stm32-hotspot/STM32WB-BLE-HID-Selfie",
+        "stars": 3,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2024-03-08T01:33:02Z",
+        "created_at": "2024-03-08T00:57:04Z"
+      },
+      {
+        "name": "STM32WB-BLE-Interoperability-Test",
+        "description": "This application allows to verify behavior of our STM32WB BLE solution against Smart Phones (Android & IOS), by performing basic functional tests such as discovery, connection, GATT procedure",
+        "url": "https://github.com/stm32-hotspot/STM32WB-BLE-Interoperability-Test",
+        "stars": 3,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-02-20T16:59:28Z",
+        "created_at": "2023-02-16T09:06:58Z"
+      },
+      {
+        "name": "STM32WB-BLE-MIDI",
+        "description": "This application acts as a MIDI controller",
+        "url": "https://github.com/stm32-hotspot/STM32WB-BLE-MIDI",
+        "stars": 8,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-28T14:31:42Z",
+        "created_at": "2023-06-28T14:09:09Z"
+      },
+      {
+        "name": "STM32WB-BLE-Motor-Control-SDK",
+        "description": "This example aims to demonstrate how to use the STM32WB55 microcontroller as a wireless remote control host using ST's legacy Motor Control SDK v5",
+        "url": "https://github.com/stm32-hotspot/STM32WB-BLE-Motor-Control-SDK",
+        "stars": 5,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2022-10-10T16:44:02Z",
+        "created_at": "2022-06-30T19:26:03Z"
+      },
+      {
+        "name": "STM32WB-BLE-Motor-Control-SDK-Android",
+        "description": "This Android app allows a user to connect to a ST Nucleo-WB55 board with a motor attached to it and control the motor’s speed (RPM) and direction through Bluetooth. On connection, the app will request the min & max motor speeds to use as limits and through out the connection it will periodically request the current motor speed every 100ms to display to the user. A live time-log is also available to view the application & Bluetooth activities.",
+        "url": "https://github.com/stm32-hotspot/STM32WB-BLE-Motor-Control-SDK-Android",
+        "stars": 7,
+        "forks": 0,
+        "language": "Kotlin",
+        "pushed_at": "2022-10-10T16:42:49Z",
+        "created_at": "2022-06-30T20:09:07Z"
+      },
+      {
+        "name": "STM32WB-BLE-NFC-Reader",
+        "description": "Example demonstrates BLE connectivity, environmental and motion sensors and driver for the ST25R3916 device (NFC reader) to demonstrate reading a dynamic tag such as the ST25DV64K from the STM32WB and forward the read data to the BLE Sensors smartphone app via BLE.  ",
+        "url": "https://github.com/stm32-hotspot/STM32WB-BLE-NFC-Reader",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2022-10-10T16:42:12Z",
+        "created_at": "2022-08-05T19:02:54Z"
+      },
+      {
+        "name": "STM32WB-BLE-PER-Testbench",
+        "description": "Example demonstrates how to enable BLE Direct Test Mode (DTM) in the STM32WB from a firmware user application using HCI testing commands directly to perform a Packet Errror Rate (PER) measurement",
+        "url": "https://github.com/stm32-hotspot/STM32WB-BLE-PER-Testbench",
+        "stars": 6,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2022-10-10T16:46:04Z",
+        "created_at": "2022-03-10T21:02:35Z"
+      },
+      {
+        "name": "STM32WB-BLE-PER-Testbench-Android",
+        "description": "STM32WB-BLE-PER-Testbench Android app used with the STM32WB-BLE-PER-Testbench project.  Allows users to setup and monitor a Bluetooth PER test between two STM32WB devices. ",
+        "url": "https://github.com/stm32-hotspot/STM32WB-BLE-PER-Testbench-Android",
+        "stars": 3,
+        "forks": 0,
+        "language": "Kotlin",
+        "pushed_at": "2022-10-10T16:48:04Z",
+        "created_at": "2022-03-30T14:27:31Z"
+      },
+      {
+        "name": "STM32WB-BLE-Privacy",
+        "description": "GAP Peripheral device with Bluetooth LE Privacy feature enabled to demonstrate advertising with a Resolvable Private Address",
+        "url": "https://github.com/stm32-hotspot/STM32WB-BLE-Privacy",
+        "stars": 3,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2022-10-10T16:46:34Z",
+        "created_at": "2022-06-02T19:19:09Z"
+      },
+      {
+        "name": "STM32WB-BLE-sensors-multiple-links",
+        "description": "This example implements a multilink communication between a STM32WB5MM-DK board and up to 8 smartphones through Bluetooth® LE",
+        "url": "https://github.com/stm32-hotspot/STM32WB-BLE-sensors-multiple-links",
+        "stars": 10,
+        "forks": 3,
+        "language": "C",
+        "pushed_at": "2022-09-22T10:02:21Z",
+        "created_at": "2022-03-31T12:37:33Z"
+      },
+      {
+        "name": "STM32WB-BLE-server-NVM-handling",
+        "description": "The example demonstrates how to store NVM BLE bonding data to flash using M4 core.",
+        "url": "https://github.com/stm32-hotspot/STM32WB-BLE-server-NVM-handling",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-01-10T15:03:01Z",
+        "created_at": "2024-01-10T14:55:17Z"
+      },
+      {
+        "name": "STM32WB-BLE-Sniffer",
+        "description": "STM32 Sniffer for Bluetooth® LE",
+        "url": "https://github.com/stm32-hotspot/STM32WB-BLE-Sniffer",
+        "stars": 11,
+        "forks": 1,
+        "language": "Python",
+        "pushed_at": "2023-10-25T13:25:06Z",
+        "created_at": "2023-07-06T09:51:40Z"
+      },
+      {
+        "name": "STM32WB-BLE-standby",
+        "description": "Standby is a low power mode available on STM32 MCUs, in this repository we share a STM32WB BLE code example on a standby use case",
+        "url": "https://github.com/stm32-hotspot/STM32WB-BLE-standby",
+        "stars": 9,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2022-12-19T10:25:42Z",
+        "created_at": "2022-10-13T15:32:31Z"
+      },
+      {
+        "name": "STM32WB-BLE-Template",
+        "description": "This application is an example that you can use as a starting point for developing your own BLE application, using the hardware included on the NUCLEO-WB55RG board.",
+        "url": "https://github.com/stm32-hotspot/STM32WB-BLE-Template",
+        "stars": 5,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-01-09T06:19:49Z",
+        "created_at": "2024-01-04T05:54:10Z"
+      },
+      {
+        "name": "STM32WB-BLE-USB-CDC-VCOM",
+        "description": "Examle demonstrates how to use the BLE component alongside the USB peripheral for point-to-point communications. ",
+        "url": "https://github.com/stm32-hotspot/STM32WB-BLE-USB-CDC-VCOM",
+        "stars": 10,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2022-10-10T16:47:38Z",
+        "created_at": "2022-04-25T02:55:32Z"
+      },
+      {
+        "name": "STM32WB-BLE-WeightScale-Profile",
+        "description": "Example demonstrates how to support BT SIG WSP(Weight Scale Profile) using STM32WB15CC",
+        "url": "https://github.com/stm32-hotspot/STM32WB-BLE-WeightScale-Profile",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2022-10-13T03:45:50Z",
+        "created_at": "2022-10-13T02:32:55Z"
+      },
+      {
+        "name": "STM32WB-Filter-Accept-List-Peripheral",
+        "description": "STM32WB Bluetooth peripheral examples to test Bluetooth LE Filter Accept list (formerly White List)",
+        "url": "https://github.com/stm32-hotspot/STM32WB-Filter-Accept-List-Peripheral",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-06-29T13:26:06Z",
+        "created_at": "2024-06-29T13:25:59Z"
+      },
+      {
+        "name": "STM32WB-FUS-Command-Line-Interface",
+        "description": "This application shows how to interact with FUS using FUS commands in order to perform a wireless stack or FUS upgrade",
+        "url": "https://github.com/stm32-hotspot/STM32WB-FUS-Command-Line-Interface",
+        "stars": 3,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2022-09-22T11:09:20Z",
+        "created_at": "2022-05-24T14:32:56Z"
+      },
+      {
+        "name": "STM32WB-Matter-ColorControl",
+        "description": "This project showcases an application using the X-Cube-Matter firmware to simulate remote control of a light bulb via LEDs, with color control through HSV, CT, and XYZ to RGB transformations, including level management.",
+        "url": "https://github.com/stm32-hotspot/STM32WB-Matter-ColorControl",
+        "stars": 3,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-06-12T02:57:31Z",
+        "created_at": "2024-06-12T02:16:24Z"
+      },
+      {
+        "name": "stm32wb-matter-device-over-thread",
+        "description": "Matter device over thread for STM32WB",
+        "url": "https://github.com/stm32-hotspot/stm32wb-matter-device-over-thread",
+        "stars": 31,
+        "forks": 4,
+        "language": "C",
+        "pushed_at": "2023-09-01T13:29:08Z",
+        "created_at": "2023-02-24T14:16:25Z"
+      },
+      {
+        "name": "STM32WB-Web-Bluetooth-App-Interfaces",
+        "description": "This web interface using Web Bluetooth® APIs can be used to establish a Bluetooth® LE connection and exchange data with a STM32WB board",
+        "url": "https://github.com/stm32-hotspot/STM32WB-Web-Bluetooth-App-Interfaces",
+        "stars": 3,
+        "forks": 0,
+        "language": "JavaScript",
+        "pushed_at": "2023-03-06T16:03:52Z",
+        "created_at": "2023-03-06T15:56:15Z"
+      },
+      {
+        "name": "STM32WB-ZB-RUC-Lighting",
+        "description": "This is an example to quickly handle an On/Off Light Device with On/Off Light Switch",
+        "url": "https://github.com/stm32-hotspot/STM32WB-ZB-RUC-Lighting",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-03-26T15:13:32Z",
+        "created_at": "2024-03-26T14:10:05Z"
+      },
+      {
+        "name": "STM32WB-ZB-RUC-WindowCovering",
+        "description": "This implementation can be seen as a simple extension of the Zigbee RUC Lighting, adding another Zigbee cluster for the Home automation aspect",
+        "url": "https://github.com/stm32-hotspot/STM32WB-ZB-RUC-WindowCovering",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-04-10T14:04:21Z",
+        "created_at": "2024-04-10T13:43:03Z"
+      },
+      {
+        "name": "STM32WB0-BLE-PAwR-ESL",
+        "description": "STM32WB09 PAwR/ESL application demonstrates the PAwR (Periodic Advertising with Response) feature of STM32WB0 Bluetooth stack",
+        "url": "https://github.com/stm32-hotspot/STM32WB0-BLE-PAwR-ESL",
+        "stars": 8,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2025-07-29T08:39:29Z",
+        "created_at": "2024-07-03T15:09:19Z"
+      },
+      {
+        "name": "STM32WB0x-Demo-Workshop",
+        "description": "Discover how the STM32WB0 series can streamline your Bluetooth® Low Energy 5.4 integration.",
+        "url": "https://github.com/stm32-hotspot/STM32WB0x-Demo-Workshop",
+        "stars": 6,
+        "forks": 3,
+        "language": "未指定",
+        "pushed_at": "2024-10-10T12:33:44Z",
+        "created_at": "2024-10-09T09:18:07Z"
+      },
+      {
+        "name": "STM32WB15-HSE-CALIB-RTT",
+        "description": "An application example based on the RCC_HSE_Calib application found in the X-CUBE-CLKTRIM expansion package.",
+        "url": "https://github.com/stm32-hotspot/STM32WB15-HSE-CALIB-RTT",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2022-12-09T14:31:36Z",
+        "created_at": "2022-12-09T14:31:33Z"
+      },
+      {
+        "name": "STM32WB15-TM-RTT",
+        "description": "An application example based on the BLE_TransparentMode application found in the STM32CubeWB firmware package.",
+        "url": "https://github.com/stm32-hotspot/STM32WB15-TM-RTT",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2022-12-09T13:54:08Z",
+        "created_at": "2022-12-09T13:52:52Z"
+      },
+      {
+        "name": "STM32WB15_Health_Temperature_Sensor",
+        "description": "This project implements a low-power temperature measurement solution with connectivity to a peer-to-peer client via Bluetooth Low Energy (BLE).",
+        "url": "https://github.com/stm32-hotspot/STM32WB15_Health_Temperature_Sensor",
+        "stars": 0,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2025-07-22T12:08:09Z",
+        "created_at": "2025-07-22T11:44:03Z"
+      },
+      {
+        "name": "STM32WB1M-BLE-HealthThermometer",
+        "description": "This BLE_HealthThermometer application uses the temperature sensor embedded on the B-WB1M-WPAN1 board to transmit and display the temperature data on an Android or IOS device",
+        "url": "https://github.com/stm32-hotspot/STM32WB1M-BLE-HealthThermometer",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-12-19T13:53:59Z",
+        "created_at": "2023-12-19T13:39:18Z"
+      },
+      {
+        "name": "STM32WB55-HSE-CALIB-RTT",
+        "description": "An application example based on the RCC_HSE_Calib application found in the X-CUBE-CLKTRIM expansion package.",
+        "url": "https://github.com/stm32-hotspot/STM32WB55-HSE-CALIB-RTT",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2022-12-09T13:57:52Z",
+        "created_at": "2022-12-09T13:57:47Z"
+      },
+      {
+        "name": "STM32WB55-p2p-Client-OOB-UART",
+        "description": "A BLE OOB pairing/bonding example, similar to the STSW-ST25DV004 BLE + NFC OOB pairing demo",
+        "url": "https://github.com/stm32-hotspot/STM32WB55-p2p-Client-OOB-UART",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2022-12-09T16:10:59Z",
+        "created_at": "2022-12-09T15:57:09Z"
+      },
+      {
+        "name": "STM32WB55-p2p-Server-OOB-UART",
+        "description": "A BLE OOB pairing/bonding example, similar to the STSW-ST25DV004 BLE + NFC OOB pairing demo.",
+        "url": "https://github.com/stm32-hotspot/STM32WB55-p2p-Server-OOB-UART",
+        "stars": 3,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2022-12-09T16:15:08Z",
+        "created_at": "2022-12-09T16:14:21Z"
+      },
+      {
+        "name": "STM32WB55-TM-RTT",
+        "description": "Application example based on the BLE_TransparentMode application found in the STM32CubeWB firmware package.",
+        "url": "https://github.com/stm32-hotspot/STM32WB55-TM-RTT",
+        "stars": 3,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2022-12-09T02:57:23Z",
+        "created_at": "2022-12-09T00:56:47Z"
+      },
+      {
+        "name": "STM32WB55ADV-Tester",
+        "description": "STM32WB55 Bluetooth example to test and simulate multiple Bluetooth devices near a smartphone",
+        "url": "https://github.com/stm32-hotspot/STM32WB55ADV-Tester",
+        "stars": 1,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2024-06-11T15:10:17Z",
+        "created_at": "2024-06-11T15:10:12Z"
+      },
+      {
+        "name": "STM32WB55_BLE_HeartRate_Client",
+        "description": "An application example of a BLE Client for the BLE_HeartRate project from STM32CubeWB.",
+        "url": "https://github.com/stm32-hotspot/STM32WB55_BLE_HeartRate_Client",
+        "stars": 3,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-07-11T12:53:18Z",
+        "created_at": "2024-12-10T00:52:22Z"
+      },
+      {
+        "name": "STM32WB55_BLE_P2PClient_EXT_ATT",
+        "description": "An application example based on the BLE_P2PClient from CubeWB which demonstrates extended attribute functionality (sending extended reads & writes and receiving extended notifications).",
+        "url": "https://github.com/stm32-hotspot/STM32WB55_BLE_P2PClient_EXT_ATT",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-05-15T21:25:22Z",
+        "created_at": "2024-05-15T21:18:20Z"
+      },
+      {
+        "name": "STM32WB55_BLE_P2PServer_EXT_ATT",
+        "description": "An application example based on the BLE_Custom (BLE_P2PServer) from CubeWB which demonstrates extended attribute functionality (sending extended notifications and receiving extended writes & read requests).",
+        "url": "https://github.com/stm32-hotspot/STM32WB55_BLE_P2PServer_EXT_ATT",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-05-15T21:29:06Z",
+        "created_at": "2024-05-15T21:12:07Z"
+      },
+      {
+        "name": "STM32WBA-BLE-AI-Fan-Control",
+        "description": "This demonstration features a BLE link, an AI algorithm, and motor control operating concurrently",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-AI-Fan-Control",
+        "stars": 6,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2024-08-02T13:37:15Z",
+        "created_at": "2024-08-02T13:03:19Z"
+      },
+      {
+        "name": "STM32WBA-BLE-ANCS-AMS",
+        "description": "How to use the Apple Notification Center and Media Services (ANCS & AMS) as specified by Apple",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-ANCS-AMS",
+        "stars": 3,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-04-19T13:09:09Z",
+        "created_at": "2024-04-19T12:47:56Z"
+      },
+      {
+        "name": "STM32WBA-BLE-Audio-Broadcast-Assistant",
+        "description": "The objective of this project is to provide an example of the implementation of the Broadcast Assistant role from the Bluetooth® LE Audio specification using the STM32 Bluetooth® LE Audio library on the STM32WBA MCUs.",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-Audio-Broadcast-Assistant",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-06-23T14:00:34Z",
+        "created_at": "2025-06-20T14:22:08Z"
+      },
+      {
+        "name": "STM32WBA-BLE-BloodPressure",
+        "description": "The STM32WBA-BLE-Blood-Pressure demonstrating Bluetooth® SIG Blood Pressure Profile 1.0.1 example",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-BloodPressure",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-06-14T12:36:25Z",
+        "created_at": "2024-06-14T08:22:20Z"
+      },
+      {
+        "name": "STM32WBA-BLE-Connection-Subrating",
+        "description": "This package contains two applications (central and peripheral) to demonstrate Connection Subrating feature",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-Connection-Subrating",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-02-21T14:33:52Z",
+        "created_at": "2025-02-21T14:17:54Z"
+      },
+      {
+        "name": "STM32WBA-BLE-ContinuousGlucoseMonitoring",
+        "description": "The STM32WBA-BLE-Continuous-Glucose-Monitoring demonstrating Bluetooth® SIG Continuous Glucose Monitoring Profile 1.0.2 example",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-ContinuousGlucoseMonitoring",
+        "stars": 3,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-06-21T08:47:31Z",
+        "created_at": "2024-06-21T08:25:27Z"
+      },
+      {
+        "name": "STM32WBA-BLE-Encrypted-Advertising",
+        "description": "This package contains two specific applications to demonstrate Encrypted Advertising encryption-decryption on STM32WAB55 MCU",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-Encrypted-Advertising",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-10-31T09:37:34Z",
+        "created_at": "2024-10-31T09:07:43Z"
+      },
+      {
+        "name": "STM32WBA-BLE-Enhanced-ATT",
+        "description": "This package contains two applications (central and peripheral) to demonstrate EATT feature",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-Enhanced-ATT",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-01-27T17:42:27Z",
+        "created_at": "2025-01-13T14:41:11Z"
+      },
+      {
+        "name": "STM32WBA-BLE-FOTA-DualBank",
+        "description": "This package contains two specific applications to demonstrate FOTA DualBank on STM32WBA65I-DK1 board ",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-FOTA-DualBank",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-05-16T16:21:56Z",
+        "created_at": "2025-05-16T16:07:38Z"
+      },
+      {
+        "name": "STM32WBA-BLE-GATT-Caching",
+        "description": "This package contains two specific applications to demonstrate GATT caching on STM32WAB55 MCU",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-GATT-Caching",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-01-27T17:32:44Z",
+        "created_at": "2024-12-02T13:39:53Z"
+      },
+      {
+        "name": "STM32WBA-BLE-GenericHealthSensor",
+        "description": "The STM32WBA-BLE-Generic-Health-Sensor demonstrating Bluetooth® SIG Generic Health Sensor Profile 1.0 example",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-GenericHealthSensor",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-09-06T08:25:12Z",
+        "created_at": "2024-09-06T07:58:31Z"
+      },
+      {
+        "name": "STM32WBA-BLE-HeartRate-FreeRTOS",
+        "description": "This application demonstrates how to build a BLE application on STM32WBA5 with X-cubeFreeRTOS",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-HeartRate-FreeRTOS",
+        "stars": 4,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-02-05T14:11:44Z",
+        "created_at": "2024-06-14T12:52:05Z"
+      },
+      {
+        "name": "STM32WBA-BLE-HID-Keyboard",
+        "description": "The STM32WBA-Human-Interface-Device-Keyboard demonstrating Bluetooth® SIG Human Interface Device (HID) Over GATT Profile 1.0 example",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-HID-Keyboard",
+        "stars": 7,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-06-21T13:00:35Z",
+        "created_at": "2024-06-21T12:38:09Z"
+      },
+      {
+        "name": "STM32WBA-BLE-InsulinDelivery",
+        "description": "The STM32WBA-BLE-Insulin-Delivery demonstrating Bluetooth® SIG Insulin Delivery Profile 1.0.1 example",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-InsulinDelivery",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-08-23T08:41:34Z",
+        "created_at": "2024-08-23T08:22:23Z"
+      },
+      {
+        "name": "STM32WBA-BLE-LongRange",
+        "description": "Long range or LE coded feature is a way to extend BLE range up to 1.6 km or more",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-LongRange",
+        "stars": 5,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-06-05T12:56:37Z",
+        "created_at": "2024-01-17T16:10:37Z"
+      },
+      {
+        "name": "STM32WBA-BLE-OEMiROT-FOTA",
+        "description": "This project demonstrates how to integrate Bluetooth Low Energy (BLE) capabilities with OEMiROT to enable secure firmware updates over the air, specifically designed for the STM32WBA65I-DK board.",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-OEMiROT-FOTA",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-05-27T14:31:53Z",
+        "created_at": "2025-05-27T14:06:15Z"
+      },
+      {
+        "name": "STM32WBA-BLE-performance",
+        "description": "This application demonstrates the performance of the STM32WBA65 by calculating CoreMark while utilizing Bluetooth LE functionality, with options to modify Bluetooth LE parameters.",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-performance",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-05-21T11:17:54Z",
+        "created_at": "2025-05-21T09:16:29Z"
+      },
+      {
+        "name": "STM32WBA-BLE-Privacy",
+        "description": "How to use a Resolvable Private Address (RPA) to prevent tracking of a beacon device by its BLE address.",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-Privacy",
+        "stars": 1,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2024-06-27T05:21:54Z",
+        "created_at": "2024-06-27T05:14:58Z"
+      },
+      {
+        "name": "STM32WBA-BLE-RunningSpeedAndCadence",
+        "description": "The BLE-Running-Speed-and-Cadence demonstrating Bluetooth® SIG Running Speed and Cadence Profile 1.0 example",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-RunningSpeedAndCadence",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-06-28T13:10:26Z",
+        "created_at": "2024-06-28T12:50:58Z"
+      },
+      {
+        "name": "STM32WBA-BLE-Security-Level-Characteristic",
+        "description": "This package contains two specific applications to demonstrate Security Level Characteristic feature on STM32WBA55 MCU",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-Security-Level-Characteristic",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-04-25T13:33:09Z",
+        "created_at": "2025-04-25T13:17:20Z"
+      },
+      {
+        "name": "STM32WBA-BLE-TFM-Doorlock",
+        "description": "This project illustrates how to create a Bluetooth Low Energy Secure Application on STM32WBA in a TrustZoned environment running the TF-M",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-TFM-Doorlock",
+        "stars": 3,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-12-14T16:05:13Z",
+        "created_at": "2023-12-14T15:12:21Z"
+      },
+      {
+        "name": "STM32WBA-BLE-USBx-Class-Audio",
+        "description": "The objective of this project is to provide examples of the implementation of the USB Class Audio using the Azure RTOS USBX stack on the STM32WBA6 MCU.",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-USBx-Class-Audio",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-06-16T13:46:24Z",
+        "created_at": "2025-06-16T13:31:51Z"
+      },
+      {
+        "name": "STM32WBA-BLE-WeightScale",
+        "description": "The STM32WBA-BLE-Weight-Scale demonstrating Bluetooth® SIG Weight Scale Profile 1.0 example",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-BLE-WeightScale",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-08-14T09:45:31Z",
+        "created_at": "2024-08-14T09:18:30Z"
+      },
+      {
+        "name": "STM32WBA-p2p-Client-FreeRTOS",
+        "description": "Simple BLE Client example using FreeRTOS",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-p2p-Client-FreeRTOS",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-30T18:35:53Z",
+        "created_at": "2023-06-30T18:33:24Z"
+      },
+      {
+        "name": "STM32WBA-p2p-Server-FreeRTOS",
+        "description": "Simple BLE Server example using FreeRTOS",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-p2p-Server-FreeRTOS",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-30T18:29:37Z",
+        "created_at": "2023-06-30T18:27:46Z"
+      },
+      {
+        "name": "STM32WBA-Web-Bluetooth-App-Interfaces",
+        "description": "This web interface using Web Bluetooth® APIs can be used to establish a Bluetooth® LE connection and exchange data with a STM32WBA board",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-Web-Bluetooth-App-Interfaces",
+        "stars": 6,
+        "forks": 0,
+        "language": "JavaScript",
+        "pushed_at": "2023-03-07T09:26:05Z",
+        "created_at": "2023-03-06T16:06:51Z"
+      },
+      {
+        "name": "STM32WBA-Zephyr-custom-binaries",
+        "description": "This package contains 802.15.4 libraries designed specifically to be used with Zephyr",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-Zephyr-custom-binaries",
+        "stars": 1,
+        "forks": 0,
+        "language": "CSS",
+        "pushed_at": "2025-10-16T08:03:29Z",
+        "created_at": "2025-07-29T12:32:01Z"
+      },
+      {
+        "name": "STM32WBA-Zigbee-OnOff-Router",
+        "description": "This application is based on Zigbee_OnOff_Client_Router example from SDK and it is enhanced with second configuration for functioning as OnOffServer.",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-Zigbee-OnOff-Router",
+        "stars": 0,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2025-05-21T12:25:13Z",
+        "created_at": "2025-05-21T09:13:52Z"
+      },
+      {
+        "name": "STM32WBA-ZigbeeDirect-ZDD",
+        "description": "Zigbee Direct is a communication protocol designed to enable direct communication between Zigbee devices and smartphones or tablets without the need for a dedicated Zigbee hub or gateway.",
+        "url": "https://github.com/stm32-hotspot/STM32WBA-ZigbeeDirect-ZDD",
+        "stars": 1,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2025-05-22T06:43:04Z",
+        "created_at": "2025-05-21T13:16:02Z"
+      },
+      {
+        "name": "STM32WBA55_BLE_HeartRate_Client",
+        "description": "An application example of a BLE Client for the BLE_HeartRate project from STM32CubeWBA",
+        "url": "https://github.com/stm32-hotspot/STM32WBA55_BLE_HeartRate_Client",
+        "stars": 3,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-07-11T12:52:00Z",
+        "created_at": "2024-11-18T20:37:00Z"
+      },
+      {
+        "name": "STM32WBA55_BLE_HeartRate_NoLSE",
+        "description": "An application example based on the BLE_HeartRate from CubeWBA which demonstrates a BLE project without the LSE",
+        "url": "https://github.com/stm32-hotspot/STM32WBA55_BLE_HeartRate_NoLSE",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-08-25T18:43:38Z",
+        "created_at": "2025-08-25T17:51:11Z"
+      },
+      {
+        "name": "STM32WBA55_BLE_P2PClient_EXT_ATT",
+        "description": "An application example based on the BLE_P2PClient from CubeWBA which demonstrates extended attribute functionality (sending extended reads & writes and receiving extended notifications).",
+        "url": "https://github.com/stm32-hotspot/STM32WBA55_BLE_P2PClient_EXT_ATT",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-02-28T20:28:12Z",
+        "created_at": "2024-06-11T15:04:33Z"
+      },
+      {
+        "name": "STM32WBA55_BLE_P2PServer_EXT_ATT",
+        "description": "An application example based on the BLE_P2PServer from CubeWBA which demonstrates extended attribute functionality (sending extended notifications and receiving extended writes & read requests).",
+        "url": "https://github.com/stm32-hotspot/STM32WBA55_BLE_P2PServer_EXT_ATT",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2025-02-28T20:23:26Z",
+        "created_at": "2024-06-11T15:07:02Z"
+      },
+      {
+        "name": "STM32WBA6-Demo-Workshop",
+        "description": "In this workshop, ST experts introduce STM32WBA6, the latest high-end wireless MCU offering the richest functionalities in the series.",
+        "url": "https://github.com/stm32-hotspot/STM32WBA6-Demo-Workshop",
+        "stars": 0,
+        "forks": 4,
+        "language": "未指定",
+        "pushed_at": "2025-06-03T06:44:34Z",
+        "created_at": "2025-05-23T08:07:19Z"
+      },
+      {
+        "name": "STM32WL-LoRaWAN-MQTT-Android",
+        "description": "This Android app serves as an example of using the MQTT network protocol to retrieve sensor data from devices connected to the same MQTT network. It allows users to log-in and connect to the [Things Network](https://www.thethingsnetwork.org). From there, the user can add multiple devices using their device ID and view the latest sensor data from each device.",
+        "url": "https://github.com/stm32-hotspot/STM32WL-LoRaWAN-MQTT-Android",
+        "stars": 7,
+        "forks": 2,
+        "language": "Kotlin",
+        "pushed_at": "2022-10-10T16:43:31Z",
+        "created_at": "2022-06-30T20:39:18Z"
+      },
+      {
+        "name": "STM32WL-SubGHz-Phy-Rx-Hop",
+        "description": "The projects demonstrates a transmitter device (implemented on a stand alone Nucleo-WL55JC1 board) and a receiver (implemented on a second Nucleo-WL55JC1 board) that can be configured as a standalone demodulator or a frequency hopping scanner and demodulator. ",
+        "url": "https://github.com/stm32-hotspot/STM32WL-SubGHz-Phy-Rx-Hop",
+        "stars": 13,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2022-10-10T16:45:06Z",
+        "created_at": "2022-06-27T17:45:25Z"
+      },
+      {
+        "name": "STM32WL-SubGHz-PhyBasic-Tx-Rx",
+        "description": "Basic Tx-only or Rx-only Phy application between two devices",
+        "url": "https://github.com/stm32-hotspot/STM32WL-SubGHz-PhyBasic-Tx-Rx",
+        "stars": 7,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2022-11-17T16:06:10Z",
+        "created_at": "2022-01-19T04:11:12Z"
+      },
+      {
+        "name": "STM32_Zigbee_DM_Workshop",
+        "description": "This application demonstrates how to use the STM32WB55 Nucleo board in various Zigbee configurations, showcasing different real-world use case scenarios.",
+        "url": "https://github.com/stm32-hotspot/STM32_Zigbee_DM_Workshop",
+        "stars": 7,
+        "forks": 2,
+        "language": "C",
+        "pushed_at": "2024-07-16T08:11:15Z",
+        "created_at": "2024-07-05T10:18:46Z"
+      },
+      {
+        "name": "STWINBX1_WIFI",
+        "description": "STWINBX1_WIFI package enables the support for the MXCHIP WIFI module mounted on the STEVAL-STWINBX1",
+        "url": "https://github.com/stm32-hotspot/STWINBX1_WIFI",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-12-21T17:32:56Z",
+        "created_at": "2023-07-07T14:49:59Z"
+      },
+      {
+        "name": "STWINKT1B_ADC_DataLog",
+        "description": "ADC Data logging onto SD card with FATFS on the STWINKT1B",
+        "url": "https://github.com/stm32-hotspot/STWINKT1B_ADC_DataLog",
+        "stars": 4,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2022-09-21T20:06:12Z",
+        "created_at": "2022-06-30T18:34:30Z"
+      },
+      {
+        "name": "ultralytics",
+        "description": "NEW - YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite",
+        "url": "https://github.com/stm32-hotspot/ultralytics",
+        "stars": 6,
+        "forks": 1,
+        "language": "Python",
+        "pushed_at": "2025-10-02T09:16:47Z",
+        "created_at": "2024-04-19T14:45:13Z"
+      },
+      {
+        "name": "USBD_Composite_STM32H503",
+        "description": "（无简介）",
+        "url": "https://github.com/stm32-hotspot/USBD_Composite_STM32H503",
+        "stars": 2,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2025-06-02T12:39:44Z",
+        "created_at": "2024-06-27T20:54:13Z"
+      },
+      {
+        "name": "USBX_Composiste_STM32H7",
+        "description": "（无简介）",
+        "url": "https://github.com/stm32-hotspot/USBX_Composiste_STM32H7",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-06-27T21:55:03Z",
+        "created_at": "2024-06-27T21:35:24Z"
+      },
+      {
+        "name": "USBX_Dual_CDC_Example",
+        "description": "Showcase how to create a Dual CDC application using the Azure® USBX with STM32. This is the code used in this article> https://community.st.com/t5/stm32-mcus/how-to-create-a-dual-cdc-application-using-the-azure-usbx-with/ta-p/747380",
+        "url": "https://github.com/stm32-hotspot/USBX_Dual_CDC_Example",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-12-06T04:14:36Z",
+        "created_at": "2024-12-06T04:07:10Z"
+      },
+      {
+        "name": "WB55-p2p-Client-Legacy-OOB-UART",
+        "description": "BLE legacy OOB pairing/bonding example using two P-NUCLEO-WB55 via UART",
+        "url": "https://github.com/stm32-hotspot/WB55-p2p-Client-Legacy-OOB-UART",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-30T15:41:02Z",
+        "created_at": "2023-06-30T15:40:54Z"
+      },
+      {
+        "name": "WB55-p2p-Server-Legacy-OOB-UART",
+        "description": "BLE legacy OOB pairing/bonding example using two P-NUCLEO-WB55 via UART",
+        "url": "https://github.com/stm32-hotspot/WB55-p2p-Server-Legacy-OOB-UART",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2023-06-30T15:35:02Z",
+        "created_at": "2023-06-30T15:34:54Z"
+      },
+      {
+        "name": "WB55Gimbal-6steps",
+        "description": "An example demonstrating how to spin a gimbal motor using STM32WB55 and ST's MCSDK v6 sensorless six-step algorithm",
+        "url": "https://github.com/stm32-hotspot/WB55Gimbal-6steps",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2024-05-17T18:53:09Z",
+        "created_at": "2024-05-17T18:52:16Z"
+      },
+      {
+        "name": "X-CUBE-MATTER-Extension",
+        "description": "Extension of basic X-CUBE_MATTER package containing more device types and support for NUCLEO-WBA65RI board.",
+        "url": "https://github.com/stm32-hotspot/X-CUBE-MATTER-Extension",
+        "stars": 3,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2025-06-04T11:59:09Z",
+        "created_at": "2025-03-31T12:26:21Z"
+      },
+      {
+        "name": "X-LINUX-AWS-Utilities",
+        "description": "Quickly connect STM32MP1 and STM32MP2 to AWS GreenGrass",
+        "url": "https://github.com/stm32-hotspot/X-LINUX-AWS-Utilities",
+        "stars": 0,
+        "forks": 0,
+        "language": "Shell",
+        "pushed_at": "2024-11-15T20:02:36Z",
+        "created_at": "2024-11-01T19:45:34Z"
+      },
+      {
+        "name": "X_CUBE_AWS_2.2.1_QC_Patch",
+        "description": "X_CUBE_AWS_2.2.1 Quick Connect is a script that automates most of the steps required to connect B-L4S5I-IOT01A board and X-CUBE-AWS 2.2.1 to AWS making it easy and takes less time.",
+        "url": "https://github.com/stm32-hotspot/X_CUBE_AWS_2.2.1_QC_Patch",
+        "stars": 4,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2022-09-21T18:35:15Z",
+        "created_at": "2022-03-28T16:26:39Z"
+      },
+      {
+        "name": "zephyr-stm32-mw-isp",
+        "description": "This module provides the necessary code and libraries to enable Image Signal Processing (ISP) support for Zephyr RTOS on STM32 microcontrollers. It is compatible with the Zephyr STM32 DCMIPP driver.",
+        "url": "https://github.com/stm32-hotspot/zephyr-stm32-mw-isp",
+        "stars": 0,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2025-09-19T14:21:22Z",
+        "created_at": "2025-07-22T12:32:41Z"
+      },
+      {
+        "name": "zephyr-stm32n6-ai-people-detection",
+        "description": "STM32N6 AI people detection application using Zephyr OS ",
+        "url": "https://github.com/stm32-hotspot/zephyr-stm32n6-ai-people-detection",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-10-03T07:15:32Z",
+        "created_at": "2025-10-03T07:15:31Z"
+      }
+    ]
   },
   {
     "username": "RT-Thread",
