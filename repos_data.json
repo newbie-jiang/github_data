@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-21T16:22:31Z",
+        "pushed_at": "2025-10-21T16:51:11Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -11373,6 +11373,16 @@
         "created_at": "2024-02-08T09:26:09Z"
       },
       {
+        "name": "developer-portal-codebase",
+        "description": "This repository contains Developer Portal examples, testing code, and other related coding for articles, tutorials,  and workshops.",
+        "url": "https://github.com/espressif/developer-portal-codebase",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-10-21T16:57:16Z",
+        "created_at": "2025-10-21T16:56:40Z"
+      },
+      {
         "name": "docker-hub-issue-test",
         "description": "（无简介）",
         "url": "https://github.com/espressif/docker-hub-issue-test",
@@ -13539,7 +13549,7 @@
         "stars": 256,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-10-21T16:27:37Z",
+        "pushed_at": "2025-10-21T16:59:36Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16536,7 +16546,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 7476,
+        "stars": 7477,
         "forks": 581,
         "language": "TypeScript",
         "pushed_at": "2025-10-19T12:09:49Z",
@@ -16786,17 +16796,17 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 48427,
+        "stars": 48430,
         "forks": 5861,
         "language": "Rust",
-        "pushed_at": "2025-10-21T16:45:07Z",
+        "pushed_at": "2025-10-21T17:03:30Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
         "name": "codex-action",
         "description": "（无简介）",
         "url": "https://github.com/openai/codex-action",
-        "stars": 524,
+        "stars": 525,
         "forks": 39,
         "language": "TypeScript",
         "pushed_at": "2025-10-17T23:48:51Z",
@@ -17746,10 +17756,10 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 16704,
-        "forks": 2738,
+        "stars": 16705,
+        "forks": 2739,
         "language": "Python",
-        "pushed_at": "2025-10-21T14:57:25Z",
+        "pushed_at": "2025-10-21T16:53:32Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -17807,7 +17817,7 @@
         "description": "Starter app to build with OpenAI ChatKit + Agent Builder",
         "url": "https://github.com/openai/openai-chatkit-starter-app",
         "stars": 540,
-        "forks": 426,
+        "forks": 427,
         "language": "TypeScript",
         "pushed_at": "2025-10-14T12:36:38Z",
         "created_at": "2025-10-06T01:07:01Z"
@@ -17816,7 +17826,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 68709,
+        "stars": 68712,
         "forks": 11478,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-10-21T02:36:20Z",
@@ -18057,7 +18067,7 @@
         "description": "Starter app to build with the OpenAI Responses API",
         "url": "https://github.com/openai/openai-responses-starter-app",
         "stars": 680,
-        "forks": 234,
+        "forks": 235,
         "language": "TypeScript",
         "pushed_at": "2025-09-03T01:26:06Z",
         "created_at": "2025-03-11T14:29:27Z"
@@ -18117,7 +18127,7 @@
         "description": "Demo of a UI testing agent using the OpenAI CUA model and the Responses API.",
         "url": "https://github.com/openai/openai-testing-agent-demo",
         "stars": 713,
-        "forks": 106,
+        "forks": 107,
         "language": "TypeScript",
         "pushed_at": "2025-06-17T10:18:47Z",
         "created_at": "2025-06-06T21:06:30Z"
@@ -18626,7 +18636,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 16282,
+        "stars": 16283,
         "forks": 1266,
         "language": "Python",
         "pushed_at": "2025-10-06T20:21:57Z",
@@ -18844,7 +18854,7 @@
         "stars": 364,
         "forks": 83,
         "language": "C",
-        "pushed_at": "2025-10-20T18:40:04Z",
+        "pushed_at": "2025-10-21T17:15:27Z",
         "created_at": "2022-06-13T09:08:33Z"
       },
       {
@@ -23722,7 +23732,7 @@
         "description": "Games for tomorrow's programmers.",
         "url": "https://github.com/google/blockly-games",
         "stars": 1342,
-        "forks": 630,
+        "forks": 631,
         "language": "JavaScript",
         "pushed_at": "2024-07-19T11:15:40Z",
         "created_at": "2014-08-25T16:09:42Z"
@@ -27384,7 +27394,7 @@
         "stars": 736,
         "forks": 127,
         "language": "C++",
-        "pushed_at": "2025-10-21T16:32:30Z",
+        "pushed_at": "2025-10-21T16:55:49Z",
         "created_at": "2023-10-04T16:54:23Z"
       },
       {
@@ -28331,8 +28341,8 @@
         "name": "dreambooth",
         "description": "（无简介）",
         "url": "https://github.com/google/dreambooth",
-        "stars": 987,
-        "forks": 89,
+        "stars": 988,
+        "forks": 90,
         "language": "未指定",
         "pushed_at": "2023-03-06T21:57:36Z",
         "created_at": "2023-03-01T17:10:19Z"
@@ -28632,9 +28642,9 @@
         "description": "Earth Engine Public Data Catalog in STAC form",
         "url": "https://github.com/google/earthengine-catalog",
         "stars": 120,
-        "forks": 86,
+        "forks": 87,
         "language": "Jsonnet",
-        "pushed_at": "2025-10-21T16:49:01Z",
+        "pushed_at": "2025-10-21T17:15:06Z",
         "created_at": "2022-06-06T17:21:40Z"
       },
       {
@@ -29694,7 +29704,7 @@
         "stars": 198,
         "forks": 117,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-10-20T21:27:50Z",
+        "pushed_at": "2025-10-21T17:05:34Z",
         "created_at": "2020-08-07T18:07:01Z"
       },
       {
@@ -29784,7 +29794,7 @@
         "stars": 18946,
         "forks": 2042,
         "language": "C++",
-        "pushed_at": "2025-10-21T02:21:15Z",
+        "pushed_at": "2025-10-21T17:05:46Z",
         "created_at": "2018-08-03T17:26:00Z"
       },
       {
@@ -30924,7 +30934,7 @@
         "stars": 6597,
         "forks": 572,
         "language": "C++",
-        "pushed_at": "2025-10-17T17:12:39Z",
+        "pushed_at": "2025-10-21T17:05:06Z",
         "created_at": "2024-02-13T04:36:03Z"
       },
       {
@@ -32761,7 +32771,7 @@
         "name": "googletest",
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "url": "https://github.com/google/googletest",
-        "stars": 37338,
+        "stars": 37339,
         "forks": 10566,
         "language": "C++",
         "pushed_at": "2025-10-16T13:32:39Z",
@@ -35441,7 +35451,7 @@
         "name": "jsonnet",
         "description": "Jsonnet - The data templating language",
         "url": "https://github.com/google/jsonnet",
-        "stars": 7378,
+        "stars": 7379,
         "forks": 466,
         "language": "Jsonnet",
         "pushed_at": "2025-07-23T09:16:57Z",
@@ -35951,7 +35961,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 16453,
+        "stars": 16454,
         "forks": 1143,
         "language": "Python",
         "pushed_at": "2025-10-04T23:13:19Z",
@@ -36214,7 +36224,7 @@
         "stars": 17,
         "forks": 24,
         "language": "C",
-        "pushed_at": "2025-10-21T16:33:04Z",
+        "pushed_at": "2025-10-21T17:12:45Z",
         "created_at": "2022-06-13T15:13:16Z"
       },
       {
@@ -37222,7 +37232,7 @@
         "description": "A 360° media viewer for the modern web.",
         "url": "https://github.com/google/marzipano",
         "stars": 2150,
-        "forks": 1038,
+        "forks": 1039,
         "language": "JavaScript",
         "pushed_at": "2023-10-08T12:35:56Z",
         "created_at": "2016-02-29T18:28:26Z"
@@ -38184,7 +38194,7 @@
         "stars": 418,
         "forks": 72,
         "language": "Java",
-        "pushed_at": "2025-10-21T16:17:04Z",
+        "pushed_at": "2025-10-21T17:08:46Z",
         "created_at": "2017-02-14T17:01:43Z"
       },
       {
@@ -39444,7 +39454,7 @@
         "stars": 437,
         "forks": 71,
         "language": "Python",
-        "pushed_at": "2025-10-21T16:47:58Z",
+        "pushed_at": "2025-10-21T17:02:05Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39584,7 +39594,7 @@
         "stars": 11404,
         "forks": 2500,
         "language": "Shell",
-        "pushed_at": "2025-10-21T15:55:22Z",
+        "pushed_at": "2025-10-21T16:56:20Z",
         "created_at": "2016-07-20T19:39:50Z"
       },
       {
@@ -39681,7 +39691,7 @@
         "name": "osv.dev",
         "description": "Open source vulnerability DB and triage service.",
         "url": "https://github.com/google/osv.dev",
-        "stars": 2341,
+        "stars": 2342,
         "forks": 245,
         "language": "Python",
         "pushed_at": "2025-10-21T05:32:45Z",
@@ -40224,7 +40234,7 @@
         "stars": 4771,
         "forks": 601,
         "language": "C++",
-        "pushed_at": "2025-10-21T16:13:11Z",
+        "pushed_at": "2025-10-21T17:10:15Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -41791,7 +41801,7 @@
         "name": "python-fire",
         "description": "Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
         "url": "https://github.com/google/python-fire",
-        "stars": 27935,
+        "stars": 27936,
         "forks": 1458,
         "language": "Python",
         "pushed_at": "2025-10-01T08:32:24Z",
@@ -42024,7 +42034,7 @@
         "stars": 787,
         "forks": 154,
         "language": "C++",
-        "pushed_at": "2025-10-21T07:12:58Z",
+        "pushed_at": "2025-10-21T16:51:58Z",
         "created_at": "2021-07-27T18:19:46Z"
       },
       {
