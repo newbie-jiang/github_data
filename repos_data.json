@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-23T10:41:17Z",
+        "pushed_at": "2025-10-23T11:15:06Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3107,7 +3107,7 @@
         "description": "HAL for GigaDevice devices",
         "url": "https://github.com/zephyrproject-rtos/hal_gigadevice",
         "stars": 10,
-        "forks": 16,
+        "forks": 17,
         "language": "C",
         "pushed_at": "2023-10-05T15:21:22Z",
         "created_at": "2021-10-05T14:10:02Z"
@@ -5262,7 +5262,7 @@
         "description": "（无简介）",
         "url": "https://github.com/STMicroelectronics/gnu-tools-for-stm32",
         "stars": 39,
-        "forks": 7,
+        "forks": 8,
         "language": "C",
         "pushed_at": "2025-07-16T09:48:39Z",
         "created_at": "2023-11-14T16:39:00Z"
@@ -7311,7 +7311,7 @@
         "name": "stm32-gt911",
         "description": "Provides the GT911 driver, part of the STM32Cube BSP Component for all STM32xx series.",
         "url": "https://github.com/STMicroelectronics/stm32-gt911",
-        "stars": 13,
+        "stars": 14,
         "forks": 3,
         "language": "C",
         "pushed_at": "2024-04-26T09:01:24Z",
@@ -7771,7 +7771,7 @@
         "name": "stm32-mw-filex",
         "description": "Provides the FileX library part of the STM32Cube MCU Component \"middleware\" for all STM32xx series.",
         "url": "https://github.com/STMicroelectronics/stm32-mw-filex",
-        "stars": 3,
+        "stars": 4,
         "forks": 1,
         "language": "C",
         "pushed_at": "2025-08-19T10:47:59Z",
@@ -7811,7 +7811,7 @@
         "name": "stm32-mw-levelx",
         "description": "Provides the LevelX library part of the STM32Cube MCU Component \"middleware\" for all STM32xx series.",
         "url": "https://github.com/STMicroelectronics/stm32-mw-levelx",
-        "stars": 3,
+        "stars": 4,
         "forks": 1,
         "language": "C",
         "pushed_at": "2025-09-15T11:45:30Z",
@@ -7971,7 +7971,7 @@
         "name": "stm32-mw-usbx",
         "description": "Provides the USBX library part of the STM32Cube MCU Component \"middleware\" for all STM32xx series.",
         "url": "https://github.com/STMicroelectronics/stm32-mw-usbx",
-        "stars": 9,
+        "stars": 10,
         "forks": 2,
         "language": "C",
         "pushed_at": "2025-09-15T11:30:06Z",
@@ -11147,9 +11147,9 @@
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
         "stars": 15604,
-        "forks": 7736,
+        "forks": 7737,
         "language": "C++",
-        "pushed_at": "2025-10-23T01:09:40Z",
+        "pushed_at": "2025-10-23T11:17:16Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -11429,7 +11429,7 @@
         "stars": 2070,
         "forks": 812,
         "language": "C",
-        "pushed_at": "2025-10-14T06:17:05Z",
+        "pushed_at": "2025-10-23T11:23:35Z",
         "created_at": "2018-04-02T07:03:49Z"
       },
       {
@@ -11747,7 +11747,7 @@
         "description": "Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.",
         "url": "https://github.com/espressif/esp-drone",
         "stars": 1305,
-        "forks": 339,
+        "forks": 340,
         "language": "C",
         "pushed_at": "2025-07-24T13:59:16Z",
         "created_at": "2020-06-22T07:14:49Z"
@@ -13149,7 +13149,7 @@
         "stars": 4,
         "forks": 8,
         "language": "Linker Script",
-        "pushed_at": "2025-10-23T11:13:17Z",
+        "pushed_at": "2025-10-23T11:27:25Z",
         "created_at": "2024-05-28T10:09:55Z"
       },
       {
@@ -13549,7 +13549,7 @@
         "stars": 257,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-10-23T10:53:43Z",
+        "pushed_at": "2025-10-23T11:25:43Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16188,8 +16188,8 @@
         "url": "https://github.com/stm32-hotspot/zephyr-stm32n6-ai-people-detection",
         "stars": 0,
         "forks": 0,
-        "language": "未指定",
-        "pushed_at": "2025-10-03T07:15:32Z",
+        "language": "C",
+        "pushed_at": "2025-10-23T11:16:43Z",
         "created_at": "2025-10-03T07:15:31Z"
       }
     ]
@@ -16546,7 +16546,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 7533,
+        "stars": 7534,
         "forks": 585,
         "language": "TypeScript",
         "pushed_at": "2025-10-22T15:03:46Z",
@@ -16796,8 +16796,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 48627,
-        "forks": 5884,
+        "stars": 48628,
+        "forks": 5885,
         "language": "Rust",
         "pushed_at": "2025-10-23T10:13:55Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -17536,7 +17536,7 @@
         "name": "lm-human-preferences",
         "description": "Code for the paper Fine-Tuning Language Models from Human Preferences",
         "url": "https://github.com/openai/lm-human-preferences",
-        "stars": 1370,
+        "stars": 1371,
         "forks": 172,
         "language": "Python",
         "pushed_at": "2023-07-25T16:48:57Z",
@@ -17817,7 +17817,7 @@
         "description": "Starter app to build with OpenAI ChatKit + Agent Builder",
         "url": "https://github.com/openai/openai-chatkit-starter-app",
         "stars": 555,
-        "forks": 464,
+        "forks": 466,
         "language": "TypeScript",
         "pushed_at": "2025-10-14T12:36:38Z",
         "created_at": "2025-10-06T01:07:01Z"
@@ -17826,7 +17826,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 68813,
+        "stars": 68814,
         "forks": 11491,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-10-23T03:54:25Z",
@@ -17866,7 +17866,7 @@
         "name": "openai-dotnet",
         "description": "The official .NET library for the OpenAI API",
         "url": "https://github.com/openai/openai-dotnet",
-        "stars": 2376,
+        "stars": 2377,
         "forks": 340,
         "language": "C#",
         "pushed_at": "2025-10-22T22:48:10Z",
@@ -18636,7 +18636,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 16303,
+        "stars": 16304,
         "forks": 1266,
         "language": "Python",
         "pushed_at": "2025-10-06T20:21:57Z",
@@ -18766,7 +18766,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 89838,
+        "stars": 89839,
         "forks": 11228,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
@@ -20839,7 +20839,7 @@
         "stars": 16,
         "forks": 17,
         "language": "C",
-        "pushed_at": "2025-10-23T11:02:54Z",
+        "pushed_at": "2025-10-23T11:15:45Z",
         "created_at": "2024-11-22T12:00:48Z"
       },
       {
@@ -21017,7 +21017,7 @@
         "description": "NCS downstream of https://github.com/zephyrproject-rtos/mcuboot",
         "url": "https://github.com/nrfconnect/sdk-mcuboot",
         "stars": 71,
-        "forks": 241,
+        "forks": 242,
         "language": "C",
         "pushed_at": "2025-10-21T09:44:52Z",
         "created_at": "2018-02-05T14:45:56Z"
@@ -21039,7 +21039,7 @@
         "stars": 1167,
         "forks": 1399,
         "language": "C",
-        "pushed_at": "2025-10-23T10:23:05Z",
+        "pushed_at": "2025-10-23T11:29:25Z",
         "created_at": "2018-02-14T13:50:55Z"
       },
       {
@@ -21059,7 +21059,7 @@
         "stars": 158,
         "forks": 339,
         "language": "C",
-        "pushed_at": "2025-10-22T12:03:43Z",
+        "pushed_at": "2025-10-23T11:18:57Z",
         "created_at": "2018-09-21T11:46:24Z"
       },
       {
@@ -21159,7 +21159,7 @@
         "stars": 345,
         "forks": 717,
         "language": "C",
-        "pushed_at": "2025-10-22T14:49:34Z",
+        "pushed_at": "2025-10-23T11:19:58Z",
         "created_at": "2018-02-05T14:45:23Z"
       },
       {
@@ -21562,7 +21562,7 @@
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
         "stars": 13907,
-        "forks": 2075,
+        "forks": 2076,
         "language": "Python",
         "pushed_at": "2025-10-23T06:11:50Z",
         "created_at": "2025-04-01T20:44:40Z"
@@ -21571,7 +21571,7 @@
         "name": "adk-python-community",
         "description": "Community repo for adk-python",
         "url": "https://github.com/google/adk-python-community",
-        "stars": 57,
+        "stars": 58,
         "forks": 9,
         "language": "Python",
         "pushed_at": "2025-09-24T04:01:04Z",
@@ -24014,7 +24014,7 @@
         "stars": 10,
         "forks": 10,
         "language": "未指定",
-        "pushed_at": "2025-10-23T11:02:50Z",
+        "pushed_at": "2025-10-23T11:26:12Z",
         "created_at": "2017-03-09T22:00:48Z"
       },
       {
@@ -24831,7 +24831,7 @@
         "name": "cel-spec",
         "description": "Common Expression Language -- specification and binary representation",
         "url": "https://github.com/google/cel-spec",
-        "stars": 3468,
+        "stars": 3469,
         "forks": 259,
         "language": "Starlark",
         "pushed_at": "2025-07-18T22:22:30Z",
@@ -35794,7 +35794,7 @@
         "stars": 27,
         "forks": 14,
         "language": "C++",
-        "pushed_at": "2025-10-23T11:08:43Z",
+        "pushed_at": "2025-10-23T11:22:35Z",
         "created_at": "2024-05-07T11:31:53Z"
       },
       {
@@ -35864,7 +35864,7 @@
         "stars": 3265,
         "forks": 351,
         "language": "Kotlin",
-        "pushed_at": "2025-10-23T07:43:19Z",
+        "pushed_at": "2025-10-23T11:28:14Z",
         "created_at": "2020-09-22T18:59:42Z"
       },
       {
@@ -36274,7 +36274,7 @@
         "stars": 17582,
         "forks": 2122,
         "language": "C++",
-        "pushed_at": "2025-10-23T11:08:01Z",
+        "pushed_at": "2025-10-23T11:15:28Z",
         "created_at": "2014-12-03T18:02:17Z"
       },
       {
@@ -44254,7 +44254,7 @@
         "stars": 1332,
         "forks": 322,
         "language": "JavaScript",
-        "pushed_at": "2025-10-23T10:55:47Z",
+        "pushed_at": "2025-10-23T11:21:32Z",
         "created_at": "2019-06-11T14:20:21Z"
       },
       {
