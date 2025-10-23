@@ -349,7 +349,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-23T23:15:12Z",
+        "pushed_at": "2025-10-23T23:29:24Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4127,9 +4127,9 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 13350,
-        "forks": 8093,
+        "forks": 8094,
         "language": "C",
-        "pushed_at": "2025-10-23T22:12:49Z",
+        "pushed_at": "2025-10-23T23:34:36Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -13549,7 +13549,7 @@
         "stars": 257,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-10-23T23:00:42Z",
+        "pushed_at": "2025-10-23T23:32:38Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -17756,7 +17756,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 16784,
+        "stars": 16785,
         "forks": 2754,
         "language": "Python",
         "pushed_at": "2025-10-23T23:06:47Z",
@@ -21582,7 +21582,7 @@
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
         "stars": 5727,
-        "forks": 1670,
+        "forks": 1671,
         "language": "Python",
         "pushed_at": "2025-10-21T18:07:08Z",
         "created_at": "2025-04-01T20:44:42Z"
@@ -27384,7 +27384,7 @@
         "stars": 737,
         "forks": 127,
         "language": "C++",
-        "pushed_at": "2025-10-23T21:52:33Z",
+        "pushed_at": "2025-10-23T23:42:12Z",
         "created_at": "2023-10-04T16:54:23Z"
       },
       {
@@ -28254,7 +28254,7 @@
         "stars": 304,
         "forks": 35,
         "language": "Python",
-        "pushed_at": "2025-10-22T19:59:57Z",
+        "pushed_at": "2025-10-23T23:30:49Z",
         "created_at": "2024-08-27T18:41:13Z"
       },
       {
@@ -29924,7 +29924,7 @@
         "stars": 6870,
         "forks": 746,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-10-23T23:22:20Z",
+        "pushed_at": "2025-10-23T23:32:12Z",
         "created_at": "2020-01-10T09:48:37Z"
       },
       {
@@ -32974,7 +32974,7 @@
         "stars": 572,
         "forks": 56,
         "language": "Python",
-        "pushed_at": "2025-10-23T23:26:56Z",
+        "pushed_at": "2025-10-23T23:44:41Z",
         "created_at": "2022-08-05T08:29:51Z"
       },
       {
@@ -33474,7 +33474,7 @@
         "stars": 17078,
         "forks": 1445,
         "language": "Go",
-        "pushed_at": "2025-10-23T23:20:29Z",
+        "pushed_at": "2025-10-23T23:36:06Z",
         "created_at": "2018-04-26T21:28:49Z"
       },
       {
@@ -39454,7 +39454,7 @@
         "stars": 437,
         "forks": 71,
         "language": "Python",
-        "pushed_at": "2025-10-23T23:23:57Z",
+        "pushed_at": "2025-10-23T23:37:22Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39591,7 +39591,7 @@
         "name": "oss-fuzz",
         "description": "OSS-Fuzz - continuous fuzzing for open source software.",
         "url": "https://github.com/google/oss-fuzz",
-        "stars": 11412,
+        "stars": 11411,
         "forks": 2501,
         "language": "Shell",
         "pushed_at": "2025-10-23T23:04:24Z",
@@ -39654,7 +39654,7 @@
         "stars": 524,
         "forks": 86,
         "language": "Go",
-        "pushed_at": "2025-10-23T22:07:13Z",
+        "pushed_at": "2025-10-23T23:42:48Z",
         "created_at": "2024-04-10T09:09:11Z"
       },
       {
@@ -41802,7 +41802,7 @@
         "description": "Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
         "url": "https://github.com/google/python-fire",
         "stars": 27939,
-        "forks": 1459,
+        "forks": 1460,
         "language": "Python",
         "pushed_at": "2025-10-01T08:32:24Z",
         "created_at": "2017-02-21T21:35:07Z"
@@ -45832,7 +45832,7 @@
         "description": "syzkaller is an unsupervised coverage-guided kernel fuzzer",
         "url": "https://github.com/google/syzkaller",
         "stars": 5873,
-        "forks": 1327,
+        "forks": 1326,
         "language": "Go",
         "pushed_at": "2025-10-22T14:34:06Z",
         "created_at": "2015-10-12T06:05:05Z"
@@ -48721,7 +48721,7 @@
         "name": "wuffs",
         "description": "Wrangling Untrusted File Formats Safely",
         "url": "https://github.com/google/wuffs",
-        "stars": 4630,
+        "stars": 4631,
         "forks": 141,
         "language": "C",
         "pushed_at": "2025-07-19T01:36:57Z",
