@@ -359,7 +359,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-28T07:32:27Z",
+        "pushed_at": "2025-10-28T07:45:18Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3469,7 +3469,7 @@
         "stars": 21,
         "forks": 13,
         "language": "Python",
-        "pushed_at": "2025-10-21T18:34:23Z",
+        "pushed_at": "2025-10-28T08:03:31Z",
         "created_at": "2024-08-14T15:21:37Z"
       },
       {
@@ -8681,7 +8681,7 @@
         "name": "stm32ai-modelzoo",
         "description": "AI Model Zoo for STM32 devices",
         "url": "https://github.com/STMicroelectronics/stm32ai-modelzoo",
-        "stars": 508,
+        "stars": 509,
         "forks": 103,
         "language": "未指定",
         "pushed_at": "2025-08-05T13:09:50Z",
@@ -11186,7 +11186,7 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15626,
+        "stars": 15627,
         "forks": 7741,
         "language": "C++",
         "pushed_at": "2025-10-28T01:06:41Z",
@@ -11959,7 +11959,7 @@
         "stars": 61,
         "forks": 16,
         "language": "C",
-        "pushed_at": "2025-10-23T18:06:38Z",
+        "pushed_at": "2025-10-28T08:17:29Z",
         "created_at": "2024-11-04T07:38:53Z"
       },
       {
@@ -12046,7 +12046,7 @@
         "name": "esp-idf-provisioning-android",
         "description": "Android Provisioning application for ESP-IDF Unified provisioning",
         "url": "https://github.com/espressif/esp-idf-provisioning-android",
-        "stars": 244,
+        "stars": 245,
         "forks": 158,
         "language": "Java",
         "pushed_at": "2025-10-27T07:52:04Z",
@@ -12339,7 +12339,7 @@
         "stars": 4,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-10-28T06:03:12Z",
+        "pushed_at": "2025-10-28T08:03:00Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -12577,7 +12577,7 @@
         "description": "Library for flashing Espressif SoCs from other MCUs.",
         "url": "https://github.com/espressif/esp-serial-flasher",
         "stars": 495,
-        "forks": 135,
+        "forks": 136,
         "language": "C",
         "pushed_at": "2025-10-07T12:35:19Z",
         "created_at": "2020-01-29T09:40:36Z"
@@ -13189,7 +13189,7 @@
         "stars": 4,
         "forks": 8,
         "language": "Linker Script",
-        "pushed_at": "2025-10-28T03:21:38Z",
+        "pushed_at": "2025-10-28T08:08:25Z",
         "created_at": "2024-05-28T10:09:55Z"
       },
       {
@@ -13349,7 +13349,7 @@
         "stars": 348,
         "forks": 130,
         "language": "Java",
-        "pushed_at": "2025-10-27T18:13:09Z",
+        "pushed_at": "2025-10-28T08:11:53Z",
         "created_at": "2019-09-16T02:21:43Z"
       },
       {
@@ -13589,7 +13589,7 @@
         "stars": 258,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-10-28T07:35:37Z",
+        "pushed_at": "2025-10-28T08:06:53Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13959,7 +13959,7 @@
         "stars": 1316,
         "forks": 334,
         "language": "TypeScript",
-        "pushed_at": "2025-10-28T07:38:44Z",
+        "pushed_at": "2025-10-28T08:04:36Z",
         "created_at": "2018-11-21T03:27:08Z"
       },
       {
@@ -14224,7 +14224,7 @@
         "stars": 2,
         "forks": 1,
         "language": "Python",
-        "pushed_at": "2025-10-23T04:14:52Z",
+        "pushed_at": "2025-10-28T07:46:50Z",
         "created_at": "2025-06-24T08:38:14Z"
       },
       {
@@ -14244,7 +14244,7 @@
         "stars": 53,
         "forks": 41,
         "language": "C",
-        "pushed_at": "2025-10-24T10:53:02Z",
+        "pushed_at": "2025-10-28T08:14:01Z",
         "created_at": "2024-05-10T02:00:41Z"
       },
       {
@@ -14484,7 +14484,7 @@
         "stars": 0,
         "forks": 0,
         "language": "C",
-        "pushed_at": "2025-10-28T06:32:30Z",
+        "pushed_at": "2025-10-28T07:58:38Z",
         "created_at": "2025-03-04T09:28:58Z"
       }
     ]
@@ -16586,7 +16586,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 7687,
+        "stars": 7689,
         "forks": 598,
         "language": "TypeScript",
         "pushed_at": "2025-10-22T15:03:46Z",
@@ -16836,7 +16836,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 49072,
+        "stars": 49074,
         "forks": 5990,
         "language": "Rust",
         "pushed_at": "2025-10-28T06:37:20Z",
@@ -17066,7 +17066,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 17189,
+        "stars": 17190,
         "forks": 2828,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -17106,7 +17106,7 @@
         "name": "finetune-transformer-lm",
         "description": "Code and model for the paper \"Improving Language Understanding by Generative Pre-Training\"",
         "url": "https://github.com/openai/finetune-transformer-lm",
-        "stars": 2248,
+        "stars": 2249,
         "forks": 513,
         "language": "Python",
         "pushed_at": "2019-01-25T09:52:16Z",
@@ -17286,7 +17286,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 18972,
+        "stars": 18974,
         "forks": 1883,
         "language": "Python",
         "pushed_at": "2025-10-23T06:39:55Z",
@@ -17676,7 +17676,7 @@
         "name": "model_spec",
         "description": "The OpenAI Model Spec",
         "url": "https://github.com/openai/model_spec",
-        "stars": 659,
+        "stars": 660,
         "forks": 80,
         "language": "未指定",
         "pushed_at": "2025-10-27T17:03:43Z",
@@ -17796,8 +17796,8 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 16882,
-        "forks": 2782,
+        "stars": 16883,
+        "forks": 2784,
         "language": "Python",
         "pushed_at": "2025-10-28T04:40:00Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -17807,7 +17807,7 @@
         "description": "Example apps for the Apps SDK",
         "url": "https://github.com/openai/openai-apps-sdk-examples",
         "stars": 1564,
-        "forks": 284,
+        "forks": 285,
         "language": "JavaScript",
         "pushed_at": "2025-10-24T18:10:15Z",
         "created_at": "2025-10-06T05:28:01Z"
@@ -17856,8 +17856,8 @@
         "name": "openai-chatkit-starter-app",
         "description": "Starter app to build with OpenAI ChatKit + Agent Builder",
         "url": "https://github.com/openai/openai-chatkit-starter-app",
-        "stars": 582,
-        "forks": 529,
+        "stars": 583,
+        "forks": 530,
         "language": "TypeScript",
         "pushed_at": "2025-10-14T12:36:38Z",
         "created_at": "2025-10-06T01:07:01Z"
@@ -18257,7 +18257,7 @@
         "description": "Point cloud diffusion for 3D model synthesis",
         "url": "https://github.com/openai/point-e",
         "stars": 6807,
-        "forks": 795,
+        "forks": 796,
         "language": "Python",
         "pushed_at": "2024-07-04T19:05:34Z",
         "created_at": "2022-12-06T16:32:13Z"
@@ -18516,7 +18516,7 @@
         "name": "shap-e",
         "description": "Generate 3D objects conditioned on text or images",
         "url": "https://github.com/openai/shap-e",
-        "stars": 12106,
+        "stars": 12107,
         "forks": 1041,
         "language": "Python",
         "pushed_at": "2024-06-22T19:19:14Z",
@@ -18636,7 +18636,7 @@
         "name": "swarm",
         "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
         "url": "https://github.com/openai/swarm",
-        "stars": 20547,
+        "stars": 20548,
         "forks": 2208,
         "language": "Python",
         "pushed_at": "2025-03-11T17:27:22Z",
@@ -19264,7 +19264,7 @@
         "stars": 21,
         "forks": 19,
         "language": "C",
-        "pushed_at": "2025-10-27T13:46:51Z",
+        "pushed_at": "2025-10-28T08:15:48Z",
         "created_at": "2019-02-15T09:58:57Z"
       },
       {
@@ -20879,7 +20879,7 @@
         "stars": 16,
         "forks": 17,
         "language": "C",
-        "pushed_at": "2025-10-28T00:52:17Z",
+        "pushed_at": "2025-10-28T07:49:48Z",
         "created_at": "2024-11-22T12:00:48Z"
       },
       {
@@ -21079,7 +21079,7 @@
         "stars": 1170,
         "forks": 1398,
         "language": "C",
-        "pushed_at": "2025-10-27T17:57:46Z",
+        "pushed_at": "2025-10-28T08:22:41Z",
         "created_at": "2018-02-14T13:50:55Z"
       },
       {
@@ -21601,7 +21601,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 14031,
+        "stars": 14033,
         "forks": 2112,
         "language": "Python",
         "pushed_at": "2025-10-28T05:13:09Z",
@@ -21621,7 +21621,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 5803,
+        "stars": 5804,
         "forks": 1694,
         "language": "Python",
         "pushed_at": "2025-10-27T20:19:05Z",
@@ -21634,7 +21634,7 @@
         "stars": 350,
         "forks": 119,
         "language": "TypeScript",
-        "pushed_at": "2025-10-28T00:36:14Z",
+        "pushed_at": "2025-10-28T08:22:23Z",
         "created_at": "2025-05-05T17:16:28Z"
       },
       {
@@ -27814,7 +27814,7 @@
         "stars": 56,
         "forks": 21,
         "language": "Java",
-        "pushed_at": "2025-10-28T07:29:00Z",
+        "pushed_at": "2025-10-28T08:23:12Z",
         "created_at": "2022-04-15T03:00:41Z"
       },
       {
@@ -28341,7 +28341,7 @@
         "name": "draco",
         "description": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
         "url": "https://github.com/google/draco",
-        "stars": 7004,
+        "stars": 7006,
         "forks": 1019,
         "language": "C++",
         "pushed_at": "2025-09-18T02:22:42Z",
@@ -29941,7 +29941,7 @@
         "name": "flatbuffers",
         "description": "FlatBuffers: Memory Efficient Serialization Library",
         "url": "https://github.com/google/flatbuffers",
-        "stars": 24918,
+        "stars": 24919,
         "forks": 3411,
         "language": "C++",
         "pushed_at": "2025-10-25T18:58:05Z",
@@ -35621,7 +35621,7 @@
         "name": "keep-sorted",
         "description": "keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file.",
         "url": "https://github.com/google/keep-sorted",
-        "stars": 296,
+        "stars": 297,
         "forks": 25,
         "language": "Go",
         "pushed_at": "2025-10-06T17:56:32Z",
@@ -36001,8 +36001,8 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 16643,
-        "forks": 1170,
+        "stars": 16644,
+        "forks": 1171,
         "language": "Python",
         "pushed_at": "2025-10-04T23:13:19Z",
         "created_at": "2025-07-08T20:46:06Z"
@@ -36911,7 +36911,7 @@
         "name": "lyra",
         "description": "A Very Low-Bitrate Codec for Speech Compression",
         "url": "https://github.com/google/lyra",
-        "stars": 3918,
+        "stars": 3919,
         "forks": 366,
         "language": "C++",
         "pushed_at": "2024-08-20T04:55:24Z",
@@ -37291,7 +37291,7 @@
         "name": "material-design-icons",
         "description": "Material Design icons by Google (Material Symbols)",
         "url": "https://github.com/google/material-design-icons",
-        "stars": 52430,
+        "stars": 52431,
         "forks": 9675,
         "language": "未指定",
         "pushed_at": "2025-09-19T02:38:15Z",
@@ -37931,7 +37931,7 @@
         "name": "model-viewer",
         "description": "Easily display interactive 3D models on the web and in AR! ",
         "url": "https://github.com/google/model-viewer",
-        "stars": 7690,
+        "stars": 7691,
         "forks": 878,
         "language": "TypeScript",
         "pushed_at": "2025-08-05T22:48:03Z",
@@ -38991,7 +38991,7 @@
         "name": "nsjail",
         "description": "A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.",
         "url": "https://github.com/google/nsjail",
-        "stars": 3531,
+        "stars": 3532,
         "forks": 293,
         "language": "C++",
         "pushed_at": "2025-10-16T09:04:42Z",
@@ -39632,7 +39632,7 @@
         "description": "OSS-Fuzz - continuous fuzzing for open source software.",
         "url": "https://github.com/google/oss-fuzz",
         "stars": 11418,
-        "forks": 2502,
+        "forks": 2503,
         "language": "Shell",
         "pushed_at": "2025-10-28T04:49:35Z",
         "created_at": "2016-07-20T19:39:50Z"
@@ -40274,7 +40274,7 @@
         "stars": 4824,
         "forks": 607,
         "language": "C++",
-        "pushed_at": "2025-10-27T23:47:09Z",
+        "pushed_at": "2025-10-28T08:02:30Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -42124,7 +42124,7 @@
         "stars": 53,
         "forks": 5,
         "language": "Python",
-        "pushed_at": "2025-10-28T00:41:44Z",
+        "pushed_at": "2025-10-28T07:50:47Z",
         "created_at": "2025-03-19T23:45:26Z"
       },
       {
@@ -44731,7 +44731,7 @@
         "name": "snappy",
         "description": "A fast compressor/decompressor",
         "url": "https://github.com/google/snappy",
-        "stars": 6468,
+        "stars": 6470,
         "forks": 1016,
         "language": "C++",
         "pushed_at": "2025-10-20T13:36:49Z",
