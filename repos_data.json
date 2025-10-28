@@ -359,7 +359,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-28T16:23:07Z",
+        "pushed_at": "2025-10-28T16:54:27Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -11966,7 +11966,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 16492,
+        "stars": 16493,
         "forks": 7929,
         "language": "C",
         "pushed_at": "2025-10-27T06:12:17Z",
@@ -13589,7 +13589,7 @@
         "stars": 258,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-10-28T16:32:39Z",
+        "pushed_at": "2025-10-28T17:04:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16836,10 +16836,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 49115,
+        "stars": 49117,
         "forks": 5997,
         "language": "Rust",
-        "pushed_at": "2025-10-28T16:42:59Z",
+        "pushed_at": "2025-10-28T17:16:18Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -16856,7 +16856,7 @@
         "name": "codex-universal",
         "description": "Base docker image used in Codex environments",
         "url": "https://github.com/openai/codex-universal",
-        "stars": 664,
+        "stars": 665,
         "forks": 190,
         "language": "Dockerfile",
         "pushed_at": "2025-10-24T00:32:56Z",
@@ -17226,7 +17226,7 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 24320,
+        "stars": 24321,
         "forks": 5809,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
@@ -17286,7 +17286,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 18982,
+        "stars": 18983,
         "forks": 1884,
         "language": "Python",
         "pushed_at": "2025-10-23T06:39:55Z",
@@ -17857,7 +17857,7 @@
         "description": "Starter app to build with OpenAI ChatKit + Agent Builder",
         "url": "https://github.com/openai/openai-chatkit-starter-app",
         "stars": 586,
-        "forks": 534,
+        "forks": 535,
         "language": "TypeScript",
         "pushed_at": "2025-10-14T12:36:38Z",
         "created_at": "2025-10-06T01:07:01Z"
@@ -17866,7 +17866,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 68899,
+        "stars": 68900,
         "forks": 11504,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-10-24T14:45:28Z",
@@ -17976,7 +17976,7 @@
         "name": "openai-java",
         "description": "The official Java library for the OpenAI API",
         "url": "https://github.com/openai/openai-java",
-        "stars": 1174,
+        "stars": 1175,
         "forks": 168,
         "language": "Kotlin",
         "pushed_at": "2025-10-28T05:05:22Z",
@@ -18006,7 +18006,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 29091,
+        "stars": 29092,
         "forks": 4379,
         "language": "Python",
         "pushed_at": "2025-10-28T05:04:21Z",
@@ -21076,7 +21076,7 @@
         "name": "sdk-nrf",
         "description": "nRF Connect SDK main repository",
         "url": "https://github.com/nrfconnect/sdk-nrf",
-        "stars": 1172,
+        "stars": 1173,
         "forks": 1399,
         "language": "C",
         "pushed_at": "2025-10-28T15:08:38Z",
@@ -21199,7 +21199,7 @@
         "stars": 347,
         "forks": 719,
         "language": "C",
-        "pushed_at": "2025-10-28T14:26:40Z",
+        "pushed_at": "2025-10-28T17:12:34Z",
         "created_at": "2018-02-05T14:45:23Z"
       },
       {
@@ -21574,7 +21574,7 @@
         "stars": 534,
         "forks": 374,
         "language": "HTML",
-        "pushed_at": "2025-10-27T22:47:02Z",
+        "pushed_at": "2025-10-28T17:15:06Z",
         "created_at": "2025-04-01T20:44:41Z"
       },
       {
@@ -21601,7 +21601,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 14050,
+        "stars": 14052,
         "forks": 2113,
         "language": "Python",
         "pushed_at": "2025-10-28T15:41:50Z",
@@ -21621,7 +21621,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 5811,
+        "stars": 5813,
         "forks": 1697,
         "language": "Python",
         "pushed_at": "2025-10-28T16:17:19Z",
@@ -22184,7 +22184,7 @@
         "stars": 560,
         "forks": 172,
         "language": "C++",
-        "pushed_at": "2025-10-28T16:30:00Z",
+        "pushed_at": "2025-10-28T17:12:44Z",
         "created_at": "2017-12-13T19:42:51Z"
       },
       {
@@ -22242,7 +22242,7 @@
         "description": "The Android FHIR SDK is a set of Kotlin libraries for building offline-capable, mobile-first healthcare applications using the HL7® FHIR® standard on Android.",
         "url": "https://github.com/google/android-fhir",
         "stars": 564,
-        "forks": 315,
+        "forks": 316,
         "language": "Kotlin",
         "pushed_at": "2025-10-28T10:52:24Z",
         "created_at": "2020-03-17T13:31:29Z"
@@ -24041,7 +24041,7 @@
         "name": "brotli",
         "description": "Brotli compression format",
         "url": "https://github.com/google/brotli",
-        "stars": 14372,
+        "stars": 14368,
         "forks": 1293,
         "language": "TypeScript",
         "pushed_at": "2025-10-27T16:03:32Z",
@@ -24481,7 +24481,7 @@
         "name": "cameratrapai",
         "description": "AI models trained by Google to classify species in images from motion-triggered wildlife cameras.",
         "url": "https://github.com/google/cameratrapai",
-        "stars": 375,
+        "stars": 376,
         "forks": 41,
         "language": "Python",
         "pushed_at": "2025-10-21T18:45:53Z",
@@ -25454,7 +25454,7 @@
         "stars": 7580,
         "forks": 1169,
         "language": "JavaScript",
-        "pushed_at": "2025-10-28T16:32:50Z",
+        "pushed_at": "2025-10-28T17:12:46Z",
         "created_at": "2014-04-16T15:30:36Z"
       },
       {
@@ -25724,7 +25724,7 @@
         "stars": 5488,
         "forks": 587,
         "language": "Python",
-        "pushed_at": "2025-10-28T15:09:25Z",
+        "pushed_at": "2025-10-28T16:57:01Z",
         "created_at": "2019-01-29T00:19:40Z"
       },
       {
@@ -29744,7 +29744,7 @@
         "stars": 198,
         "forks": 117,
         "language": "Jupyter Notebook",
-        "pushed_at": "2025-10-27T21:34:47Z",
+        "pushed_at": "2025-10-28T16:54:37Z",
         "created_at": "2020-08-07T18:07:01Z"
       },
       {
@@ -33014,7 +33014,7 @@
         "stars": 581,
         "forks": 56,
         "language": "Python",
-        "pushed_at": "2025-10-28T16:29:51Z",
+        "pushed_at": "2025-10-28T17:13:30Z",
         "created_at": "2022-08-05T08:29:51Z"
       },
       {
@@ -33491,7 +33491,7 @@
         "name": "gumbo-parser",
         "description": "An HTML5 parsing library in pure C99",
         "url": "https://github.com/google/gumbo-parser",
-        "stars": 5191,
+        "stars": 5192,
         "forks": 662,
         "language": "HTML",
         "pushed_at": "2023-02-15T22:54:12Z",
@@ -33601,7 +33601,7 @@
         "name": "hackable_diffusion",
         "description": "（无简介）",
         "url": "https://github.com/google/hackable_diffusion",
-        "stars": 1,
+        "stars": 2,
         "forks": 0,
         "language": "Python",
         "pushed_at": "2025-10-28T16:23:47Z",
@@ -34724,7 +34724,7 @@
         "stars": 45,
         "forks": 12,
         "language": "C++",
-        "pushed_at": "2025-10-28T16:48:19Z",
+        "pushed_at": "2025-10-28T17:11:27Z",
         "created_at": "2019-01-02T16:04:39Z"
       },
       {
@@ -35334,7 +35334,7 @@
         "stars": 266,
         "forks": 49,
         "language": "Kotlin",
-        "pushed_at": "2025-10-28T15:27:21Z",
+        "pushed_at": "2025-10-28T17:15:22Z",
         "created_at": "2023-01-19T23:20:10Z"
       },
       {
@@ -36201,7 +36201,7 @@
         "name": "leveldb",
         "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
         "url": "https://github.com/google/leveldb",
-        "stars": 38276,
+        "stars": 38277,
         "forks": 8068,
         "language": "C++",
         "pushed_at": "2025-01-30T17:33:01Z",
@@ -36821,7 +36821,7 @@
         "name": "longfellow-zk",
         "description": "Implementation of the Google Zero-Knowledge library for Identity Protocols.",
         "url": "https://github.com/google/longfellow-zk",
-        "stars": 958,
+        "stars": 959,
         "forks": 78,
         "language": "C++",
         "pushed_at": "2025-10-28T11:46:53Z",
@@ -37282,7 +37282,7 @@
         "description": "A 360° media viewer for the modern web.",
         "url": "https://github.com/google/marzipano",
         "stars": 2153,
-        "forks": 1043,
+        "forks": 1044,
         "language": "JavaScript",
         "pushed_at": "2023-10-08T12:35:56Z",
         "created_at": "2016-02-29T18:28:26Z"
@@ -37942,7 +37942,7 @@
         "description": "Easily display interactive 3D models on the web and in AR! ",
         "url": "https://github.com/google/model-viewer",
         "stars": 7692,
-        "forks": 878,
+        "forks": 879,
         "language": "TypeScript",
         "pushed_at": "2025-08-05T22:48:03Z",
         "created_at": "2018-10-18T16:05:16Z"
@@ -38964,7 +38964,7 @@
         "stars": 1764,
         "forks": 290,
         "language": "Java",
-        "pushed_at": "2025-10-28T16:32:27Z",
+        "pushed_at": "2025-10-28T17:10:43Z",
         "created_at": "2016-02-29T20:16:48Z"
       },
       {
@@ -39001,7 +39001,7 @@
         "name": "nsjail",
         "description": "A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.",
         "url": "https://github.com/google/nsjail",
-        "stars": 3532,
+        "stars": 3533,
         "forks": 293,
         "language": "C++",
         "pushed_at": "2025-10-16T09:04:42Z",
@@ -39504,7 +39504,7 @@
         "stars": 439,
         "forks": 71,
         "language": "Python",
-        "pushed_at": "2025-10-28T16:45:05Z",
+        "pushed_at": "2025-10-28T16:59:27Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39641,7 +39641,7 @@
         "name": "oss-fuzz",
         "description": "OSS-Fuzz - continuous fuzzing for open source software.",
         "url": "https://github.com/google/oss-fuzz",
-        "stars": 11418,
+        "stars": 11419,
         "forks": 2503,
         "language": "Shell",
         "pushed_at": "2025-10-28T15:28:42Z",
@@ -40284,7 +40284,7 @@
         "stars": 4826,
         "forks": 608,
         "language": "C++",
-        "pushed_at": "2025-10-28T16:47:30Z",
+        "pushed_at": "2025-10-28T17:10:25Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -42134,7 +42134,7 @@
         "stars": 53,
         "forks": 5,
         "language": "Python",
-        "pushed_at": "2025-10-28T07:50:47Z",
+        "pushed_at": "2025-10-28T17:12:33Z",
         "created_at": "2025-03-19T23:45:26Z"
       },
       {
@@ -44334,7 +44334,7 @@
         "stars": 10196,
         "forks": 1634,
         "language": "C++",
-        "pushed_at": "2025-10-28T16:14:32Z",
+        "pushed_at": "2025-10-28T17:04:32Z",
         "created_at": "2014-01-09T17:09:57Z"
       },
       {
@@ -46084,7 +46084,7 @@
         "stars": 4960,
         "forks": 528,
         "language": "C++",
-        "pushed_at": "2025-10-27T23:23:45Z",
+        "pushed_at": "2025-10-28T17:02:34Z",
         "created_at": "2019-08-23T14:02:59Z"
       },
       {
@@ -46351,7 +46351,7 @@
         "name": "tf-quant-finance",
         "description": "High-performance TensorFlow library for quantitative finance.",
         "url": "https://github.com/google/tf-quant-finance",
-        "stars": 5017,
+        "stars": 5016,
         "forks": 642,
         "language": "Python",
         "pushed_at": "2025-03-21T14:29:57Z",
@@ -47084,7 +47084,7 @@
         "stars": 1683,
         "forks": 148,
         "language": "Python",
-        "pushed_at": "2025-10-28T16:10:23Z",
+        "pushed_at": "2025-10-28T17:14:13Z",
         "created_at": "2025-04-02T22:19:15Z"
       },
       {
@@ -48894,7 +48894,7 @@
         "stars": 1363,
         "forks": 212,
         "language": "C++",
-        "pushed_at": "2025-10-28T15:29:23Z",
+        "pushed_at": "2025-10-28T17:04:55Z",
         "created_at": "2020-05-07T21:38:30Z"
       },
       {
@@ -48991,7 +48991,7 @@
         "name": "xsecurelock",
         "description": "X11 screen lock utility with security in mind",
         "url": "https://github.com/google/xsecurelock",
-        "stars": 914,
+        "stars": 915,
         "forks": 62,
         "language": "C",
         "pushed_at": "2024-03-14T22:35:11Z",
@@ -49114,7 +49114,7 @@
         "stars": 614,
         "forks": 69,
         "language": "C++",
-        "pushed_at": "2025-10-28T16:14:17Z",
+        "pushed_at": "2025-10-28T16:54:40Z",
         "created_at": "2021-04-22T08:21:18Z"
       },
       {
@@ -49311,7 +49311,7 @@
         "name": "zx",
         "description": "A tool for writing better scripts",
         "url": "https://github.com/google/zx",
-        "stars": 44759,
+        "stars": 44760,
         "forks": 1177,
         "language": "JavaScript",
         "pushed_at": "2025-10-21T14:25:23Z",
