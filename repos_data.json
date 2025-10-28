@@ -359,7 +359,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-28T15:39:57Z",
+        "pushed_at": "2025-10-28T15:52:29Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3007,7 +3007,7 @@
         "description": "This implementation of file system is developed by ELM Chan",
         "url": "https://github.com/zephyrproject-rtos/fatfs",
         "stars": 16,
-        "forks": 31,
+        "forks": 32,
         "language": "C",
         "pushed_at": "2025-10-23T10:18:03Z",
         "created_at": "2019-05-23T01:27:04Z"
@@ -4166,10 +4166,10 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 13538,
-        "forks": 8134,
+        "stars": 13539,
+        "forks": 8135,
         "language": "C",
-        "pushed_at": "2025-10-28T15:48:51Z",
+        "pushed_at": "2025-10-28T16:00:30Z",
         "created_at": "2016-05-26T17:54:19Z"
       },
       {
@@ -8862,7 +8862,7 @@
         "description": "STM32Cube MCU Full Package for the STM32F7 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
         "url": "https://github.com/STMicroelectronics/STM32CubeF7",
         "stars": 373,
-        "forks": 207,
+        "forks": 206,
         "language": "C",
         "pushed_at": "2025-10-27T10:27:09Z",
         "created_at": "2019-04-19T09:09:19Z"
@@ -9312,7 +9312,7 @@
         "description": "Provides the STM32Cube MCU Component \"hal_driver\" of the STM32F7 series.",
         "url": "https://github.com/STMicroelectronics/stm32f7xx-hal-driver",
         "stars": 36,
-        "forks": 20,
+        "forks": 19,
         "language": "C",
         "pushed_at": "2025-10-24T14:06:32Z",
         "created_at": "2020-01-29T11:39:46Z"
@@ -9592,7 +9592,7 @@
         "description": "Provides the STM32Cube MCU Component \"hal_driver\" of the STM32H7 series.",
         "url": "https://github.com/STMicroelectronics/stm32h7xx-hal-driver",
         "stars": 128,
-        "forks": 56,
+        "forks": 55,
         "language": "C",
         "pushed_at": "2025-10-24T15:10:56Z",
         "created_at": "2020-01-29T13:20:11Z"
@@ -11636,7 +11636,7 @@
         "name": "esp-box",
         "description": "The ESP-BOX is a new generation AIoT development platform released by Espressif Systems.",
         "url": "https://github.com/espressif/esp-box",
-        "stars": 1132,
+        "stars": 1133,
         "forks": 249,
         "language": "HTML",
         "pushed_at": "2025-08-08T10:29:35Z",
@@ -12339,7 +12339,7 @@
         "stars": 4,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-10-28T14:03:12Z",
+        "pushed_at": "2025-10-28T16:04:53Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -13589,7 +13589,7 @@
         "stars": 258,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-10-28T15:29:42Z",
+        "pushed_at": "2025-10-28T16:00:43Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -13709,7 +13709,7 @@
         "stars": 30,
         "forks": 9,
         "language": "C++",
-        "pushed_at": "2025-10-28T00:25:07Z",
+        "pushed_at": "2025-10-28T15:55:06Z",
         "created_at": "2021-03-01T07:44:10Z"
       },
       {
@@ -16586,7 +16586,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 7696,
+        "stars": 7697,
         "forks": 598,
         "language": "TypeScript",
         "pushed_at": "2025-10-22T15:03:46Z",
@@ -16746,7 +16746,7 @@
         "name": "chatgpt-retrieval-plugin",
         "description": "The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.",
         "url": "https://github.com/openai/chatgpt-retrieval-plugin",
-        "stars": 21231,
+        "stars": 21232,
         "forks": 3681,
         "language": "Python",
         "pushed_at": "2024-07-04T22:00:16Z",
@@ -16756,7 +16756,7 @@
         "name": "chatkit-js",
         "description": "（无简介）",
         "url": "https://github.com/openai/chatkit-js",
-        "stars": 1525,
+        "stars": 1527,
         "forks": 106,
         "language": "TypeScript",
         "pushed_at": "2025-10-27T22:31:41Z",
@@ -16836,10 +16836,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 49110,
+        "stars": 49114,
         "forks": 5996,
         "language": "Rust",
-        "pushed_at": "2025-10-28T15:50:23Z",
+        "pushed_at": "2025-10-28T16:04:15Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -17456,7 +17456,7 @@
         "name": "improved-diffusion",
         "description": "Release for Improved Denoising Diffusion Probabilistic Models",
         "url": "https://github.com/openai/improved-diffusion",
-        "stars": 3705,
+        "stars": 3706,
         "forks": 525,
         "language": "Python",
         "pushed_at": "2024-07-18T02:45:29Z",
@@ -17786,7 +17786,7 @@
         "name": "openai-agents-js",
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
-        "stars": 1811,
+        "stars": 1812,
         "forks": 442,
         "language": "TypeScript",
         "pushed_at": "2025-10-28T09:45:03Z",
@@ -17796,7 +17796,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 16888,
+        "stars": 16889,
         "forks": 2786,
         "language": "Python",
         "pushed_at": "2025-10-28T09:11:32Z",
@@ -17866,8 +17866,8 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 68899,
-        "forks": 11505,
+        "stars": 68900,
+        "forks": 11504,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-10-24T14:45:28Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -17956,8 +17956,8 @@
         "name": "openai-guardrails-python",
         "description": "OpenAI Guardrails Python (Preview)",
         "url": "https://github.com/openai/openai-guardrails-python",
-        "stars": 100,
-        "forks": 14,
+        "stars": 101,
+        "forks": 15,
         "language": "Python",
         "pushed_at": "2025-10-21T22:27:39Z",
         "created_at": "2025-04-09T18:15:43Z"
@@ -17986,7 +17986,7 @@
         "name": "openai-node",
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
-        "stars": 10287,
+        "stars": 10288,
         "forks": 1285,
         "language": "TypeScript",
         "pushed_at": "2025-10-28T05:08:14Z",
@@ -18006,8 +18006,8 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 29090,
-        "forks": 4380,
+        "stars": 29091,
+        "forks": 4379,
         "language": "Python",
         "pushed_at": "2025-10-28T05:04:21Z",
         "created_at": "2020-10-25T23:23:54Z"
@@ -18247,7 +18247,7 @@
         "description": "Get a ChatGPT plugin up and running in under 5 minutes!",
         "url": "https://github.com/openai/plugins-quickstart",
         "stars": 4241,
-        "forks": 727,
+        "forks": 726,
         "language": "Python",
         "pushed_at": "2024-01-30T23:23:11Z",
         "created_at": "2023-04-06T13:43:37Z"
@@ -18676,7 +18676,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 16356,
+        "stars": 16357,
         "forks": 1274,
         "language": "Python",
         "pushed_at": "2025-10-06T20:21:57Z",
@@ -18807,7 +18807,7 @@
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
         "stars": 90035,
-        "forks": 11263,
+        "forks": 11262,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -18902,7 +18902,7 @@
         "description": "ARM Enterprise ACS",
         "url": "https://github.com/ARM-software/arm-enterprise-acs",
         "stars": 43,
-        "forks": 49,
+        "forks": 50,
         "language": "C",
         "pushed_at": "2022-06-03T14:03:41Z",
         "created_at": "2016-11-29T09:51:45Z"
@@ -19704,7 +19704,7 @@
         "stars": 35,
         "forks": 8,
         "language": "Go",
-        "pushed_at": "2025-10-28T12:05:20Z",
+        "pushed_at": "2025-10-28T16:14:02Z",
         "created_at": "2021-08-06T12:57:47Z"
       },
       {
@@ -21601,7 +21601,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 14048,
+        "stars": 14050,
         "forks": 2113,
         "language": "Python",
         "pushed_at": "2025-10-28T15:41:50Z",
@@ -21624,7 +21624,7 @@
         "stars": 5811,
         "forks": 1697,
         "language": "Python",
-        "pushed_at": "2025-10-28T15:31:44Z",
+        "pushed_at": "2025-10-28T16:17:19Z",
         "created_at": "2025-04-01T20:44:42Z"
       },
       {
@@ -22112,7 +22112,7 @@
         "description": "（无简介）",
         "url": "https://github.com/google/analytics-settings-database",
         "stars": 57,
-        "forks": 10,
+        "forks": 11,
         "language": "Python",
         "pushed_at": "2023-10-10T16:50:32Z",
         "created_at": "2021-12-14T02:44:45Z"
@@ -29834,7 +29834,7 @@
         "stars": 18976,
         "forks": 2046,
         "language": "C++",
-        "pushed_at": "2025-10-28T06:05:03Z",
+        "pushed_at": "2025-10-28T16:16:27Z",
         "created_at": "2018-08-03T17:26:00Z"
       },
       {
@@ -29961,7 +29961,7 @@
         "name": "flax",
         "description": "Flax is a neural network library for JAX that is designed for flexibility.",
         "url": "https://github.com/google/flax",
-        "stars": 6878,
+        "stars": 6879,
         "forks": 748,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-10-27T21:45:45Z",
@@ -29971,7 +29971,7 @@
         "name": "flaxformer",
         "description": "（无简介）",
         "url": "https://github.com/google/flaxformer",
-        "stars": 362,
+        "stars": 363,
         "forks": 32,
         "language": "Python",
         "pushed_at": "2024-04-12T06:28:23Z",
@@ -33401,10 +33401,10 @@
         "name": "guava",
         "description": "Google core libraries for Java",
         "url": "https://github.com/google/guava",
-        "stars": 51221,
+        "stars": 51220,
         "forks": 11079,
         "language": "Java",
-        "pushed_at": "2025-10-28T15:29:53Z",
+        "pushed_at": "2025-10-28T16:03:56Z",
         "created_at": "2014-05-29T16:23:17Z"
       },
       {
@@ -33511,7 +33511,7 @@
         "name": "gvisor",
         "description": "Application Kernel for Containers",
         "url": "https://github.com/google/gvisor",
-        "stars": 17101,
+        "stars": 17102,
         "forks": 1445,
         "language": "Go",
         "pushed_at": "2025-10-28T04:59:55Z",
@@ -33596,6 +33596,16 @@
         "language": "未指定",
         "pushed_at": "2021-10-27T14:46:20Z",
         "created_at": "2021-10-25T17:46:30Z"
+      },
+      {
+        "name": "hackable_diffusion",
+        "description": "（无简介）",
+        "url": "https://github.com/google/hackable_diffusion",
+        "stars": 1,
+        "forks": 0,
+        "language": "Python",
+        "pushed_at": "2025-10-27T22:48:46Z",
+        "created_at": "2025-06-11T12:32:19Z"
       },
       {
         "name": "hadoop-migration-assessment-tools",
@@ -35042,7 +35052,7 @@
         "description": "Google IT Automation with Python Professional Certificate - Practice files",
         "url": "https://github.com/google/it-cert-automation-practice",
         "stars": 977,
-        "forks": 45921,
+        "forks": 45922,
         "language": "Python",
         "pushed_at": "2024-08-21T14:58:21Z",
         "created_at": "2019-12-17T19:04:12Z"
@@ -36001,7 +36011,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 16654,
+        "stars": 16655,
         "forks": 1172,
         "language": "Python",
         "pushed_at": "2025-10-04T23:13:19Z",
@@ -37051,10 +37061,10 @@
         "name": "magika",
         "description": "Fast and accurate AI powered file content types detection ",
         "url": "https://github.com/google/magika",
-        "stars": 8901,
+        "stars": 8902,
         "forks": 454,
         "language": "Python",
-        "pushed_at": "2025-10-28T15:47:29Z",
+        "pushed_at": "2025-10-28T16:16:16Z",
         "created_at": "2023-08-22T09:36:55Z"
       },
       {
@@ -37524,7 +37534,7 @@
         "stars": 1164,
         "forks": 199,
         "language": "Python",
-        "pushed_at": "2025-10-28T15:32:46Z",
+        "pushed_at": "2025-10-28T15:59:07Z",
         "created_at": "2024-01-31T18:15:38Z"
       },
       {
@@ -38954,7 +38964,7 @@
         "stars": 1764,
         "forks": 290,
         "language": "Java",
-        "pushed_at": "2025-10-28T15:36:03Z",
+        "pushed_at": "2025-10-28T16:18:21Z",
         "created_at": "2016-02-29T20:16:48Z"
       },
       {
@@ -40274,7 +40284,7 @@
         "stars": 4826,
         "forks": 608,
         "language": "C++",
-        "pushed_at": "2025-10-28T15:44:22Z",
+        "pushed_at": "2025-10-28T16:19:32Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -42964,7 +42974,7 @@
         "stars": 59,
         "forks": 27,
         "language": "Rust",
-        "pushed_at": "2025-10-27T12:11:12Z",
+        "pushed_at": "2025-10-28T15:58:43Z",
         "created_at": "2020-04-11T15:49:46Z"
       },
       {
@@ -44324,7 +44334,7 @@
         "stars": 10196,
         "forks": 1634,
         "language": "C++",
-        "pushed_at": "2025-10-28T15:49:32Z",
+        "pushed_at": "2025-10-28T16:14:32Z",
         "created_at": "2014-01-09T17:09:57Z"
       },
       {
@@ -46821,7 +46831,7 @@
         "name": "trillian",
         "description": "A transparent, highly scalable and cryptographically verifiable data store.",
         "url": "https://github.com/google/trillian",
-        "stars": 3659,
+        "stars": 3658,
         "forks": 414,
         "language": "Go",
         "pushed_at": "2025-10-03T22:34:30Z",
@@ -47072,9 +47082,9 @@
         "description": "A JAX-native LLM Post-Training Library",
         "url": "https://github.com/google/tunix",
         "stars": 1683,
-        "forks": 149,
+        "forks": 148,
         "language": "Python",
-        "pushed_at": "2025-10-28T13:45:26Z",
+        "pushed_at": "2025-10-28T16:10:23Z",
         "created_at": "2025-04-02T22:19:15Z"
       },
       {
@@ -48874,7 +48884,7 @@
         "stars": 317,
         "forks": 38,
         "language": "Python",
-        "pushed_at": "2025-10-28T15:30:46Z",
+        "pushed_at": "2025-10-28T16:08:51Z",
         "created_at": "2023-08-23T18:09:46Z"
       },
       {
@@ -49104,7 +49114,7 @@
         "stars": 614,
         "forks": 69,
         "language": "C++",
-        "pushed_at": "2025-10-28T15:16:26Z",
+        "pushed_at": "2025-10-28T16:14:17Z",
         "created_at": "2021-04-22T08:21:18Z"
       },
       {
