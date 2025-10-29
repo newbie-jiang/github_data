@@ -359,7 +359,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-29T11:44:56Z",
+        "pushed_at": "2025-10-29T12:37:38Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4166,8 +4166,8 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 13545,
-        "forks": 8143,
+        "stars": 13547,
+        "forks": 8144,
         "language": "C",
         "pushed_at": "2025-10-29T11:48:34Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -9081,7 +9081,7 @@
         "name": "STM32CubeWL",
         "description": "STM32Cube MCU Full FW Package for the STM32WL series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on boards provided by ST (Nucleo boards)",
         "url": "https://github.com/STMicroelectronics/STM32CubeWL",
-        "stars": 147,
+        "stars": 148,
         "forks": 68,
         "language": "C",
         "pushed_at": "2025-10-27T10:20:59Z",
@@ -10514,7 +10514,7 @@
         "stars": 13,
         "forks": 4,
         "language": "C",
-        "pushed_at": "2025-10-29T11:42:43Z",
+        "pushed_at": "2025-10-29T13:01:39Z",
         "created_at": "2024-04-12T13:29:12Z"
       },
       {
@@ -11186,7 +11186,7 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15634,
+        "stars": 15633,
         "forks": 7742,
         "language": "C++",
         "pushed_at": "2025-10-29T01:14:54Z",
@@ -11359,7 +11359,7 @@
         "stars": 40,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-10-28T23:41:12Z",
+        "pushed_at": "2025-10-29T13:07:07Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -11786,7 +11786,7 @@
         "name": "esp-drone",
         "description": "Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.",
         "url": "https://github.com/espressif/esp-drone",
-        "stars": 1313,
+        "stars": 1312,
         "forks": 340,
         "language": "C",
         "pushed_at": "2025-07-24T13:59:16Z",
@@ -13589,7 +13589,7 @@
         "stars": 258,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-10-29T12:30:36Z",
+        "pushed_at": "2025-10-29T13:02:50Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16586,7 +16586,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 7721,
+        "stars": 7723,
         "forks": 601,
         "language": "TypeScript",
         "pushed_at": "2025-10-22T15:03:46Z",
@@ -16806,7 +16806,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 31298,
+        "stars": 31299,
         "forks": 3812,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16836,10 +16836,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 49205,
-        "forks": 6014,
+        "stars": 49208,
+        "forks": 6015,
         "language": "Rust",
-        "pushed_at": "2025-10-29T12:32:58Z",
+        "pushed_at": "2025-10-29T13:12:29Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -17066,7 +17066,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 17202,
+        "stars": 17203,
         "forks": 2830,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -17266,7 +17266,7 @@
         "name": "gpt-5-coding-examples",
         "description": "GPT-5 coding examples",
         "url": "https://github.com/openai/gpt-5-coding-examples",
-        "stars": 1734,
+        "stars": 1735,
         "forks": 232,
         "language": "HTML",
         "pushed_at": "2025-08-08T04:36:36Z",
@@ -17286,7 +17286,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 18991,
+        "stars": 18994,
         "forks": 1886,
         "language": "Python",
         "pushed_at": "2025-10-23T06:39:55Z",
@@ -17799,14 +17799,14 @@
         "stars": 1819,
         "forks": 445,
         "language": "TypeScript",
-        "pushed_at": "2025-10-29T12:28:07Z",
+        "pushed_at": "2025-10-29T12:57:06Z",
         "created_at": "2025-05-31T00:08:49Z"
       },
       {
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 16907,
+        "stars": 16909,
         "forks": 2791,
         "language": "Python",
         "pushed_at": "2025-10-29T04:15:48Z",
@@ -17856,7 +17856,7 @@
         "name": "openai-chatkit-advanced-samples",
         "description": "Starter app to build with OpenAI ChatKit SDK",
         "url": "https://github.com/openai/openai-chatkit-advanced-samples",
-        "stars": 403,
+        "stars": 404,
         "forks": 160,
         "language": "Python",
         "pushed_at": "2025-10-15T23:57:07Z",
@@ -17866,7 +17866,7 @@
         "name": "openai-chatkit-starter-app",
         "description": "Starter app to build with OpenAI ChatKit + Agent Builder",
         "url": "https://github.com/openai/openai-chatkit-starter-app",
-        "stars": 591,
+        "stars": 592,
         "forks": 540,
         "language": "TypeScript",
         "pushed_at": "2025-10-14T12:36:38Z",
@@ -17876,7 +17876,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 68914,
+        "stars": 68916,
         "forks": 11510,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-10-29T12:06:25Z",
@@ -17887,7 +17887,7 @@
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
         "stars": 5843,
-        "forks": 896,
+        "forks": 897,
         "language": "TypeScript",
         "pushed_at": "2025-08-25T08:30:57Z",
         "created_at": "2025-06-14T03:07:09Z"
@@ -18016,10 +18016,10 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 29108,
+        "stars": 29109,
         "forks": 4384,
         "language": "Python",
-        "pushed_at": "2025-10-29T10:43:33Z",
+        "pushed_at": "2025-10-29T12:53:44Z",
         "created_at": "2020-10-25T23:23:54Z"
       },
       {
@@ -18526,7 +18526,7 @@
         "name": "shap-e",
         "description": "Generate 3D objects conditioned on text or images",
         "url": "https://github.com/openai/shap-e",
-        "stars": 12112,
+        "stars": 12113,
         "forks": 1041,
         "language": "Python",
         "pushed_at": "2024-06-22T19:19:14Z",
@@ -18559,7 +18559,7 @@
         "stars": 40,
         "forks": 6,
         "language": "Swift",
-        "pushed_at": "2025-10-29T11:39:13Z",
+        "pushed_at": "2025-10-29T12:48:32Z",
         "created_at": "2025-08-25T23:43:23Z"
       },
       {
@@ -18816,7 +18816,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 90080,
+        "stars": 90084,
         "forks": 11274,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
@@ -18904,7 +18904,7 @@
         "stars": 363,
         "forks": 84,
         "language": "C",
-        "pushed_at": "2025-10-28T10:02:48Z",
+        "pushed_at": "2025-10-29T13:09:37Z",
         "created_at": "2022-06-13T09:08:33Z"
       },
       {
@@ -21209,7 +21209,7 @@
         "stars": 348,
         "forks": 718,
         "language": "C",
-        "pushed_at": "2025-10-29T12:31:50Z",
+        "pushed_at": "2025-10-29T13:14:20Z",
         "created_at": "2018-02-05T14:45:23Z"
       },
       {
@@ -21611,7 +21611,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 14089,
+        "stars": 14090,
         "forks": 2130,
         "language": "Python",
         "pushed_at": "2025-10-29T06:03:51Z",
@@ -21631,7 +21631,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 5841,
+        "stars": 5842,
         "forks": 1707,
         "language": "Python",
         "pushed_at": "2025-10-28T16:17:19Z",
@@ -21691,7 +21691,7 @@
         "name": "ads-privacy",
         "description": "（无简介）",
         "url": "https://github.com/google/ads-privacy",
-        "stars": 408,
+        "stars": 409,
         "forks": 136,
         "language": "未指定",
         "pushed_at": "2025-03-31T22:03:59Z",
@@ -22384,7 +22384,7 @@
         "stars": 3833,
         "forks": 682,
         "language": "C++",
-        "pushed_at": "2025-10-29T12:20:54Z",
+        "pushed_at": "2025-10-29T12:45:56Z",
         "created_at": "2014-08-26T14:59:07Z"
       },
       {
@@ -23544,7 +23544,7 @@
         "stars": 9796,
         "forks": 1712,
         "language": "C++",
-        "pushed_at": "2025-10-28T20:07:28Z",
+        "pushed_at": "2025-10-29T12:38:43Z",
         "created_at": "2013-12-12T00:10:48Z"
       },
       {
@@ -23721,7 +23721,7 @@
         "name": "bloaty",
         "description": "Bloaty: a size profiler for binaries",
         "url": "https://github.com/google/bloaty",
-        "stars": 5212,
+        "stars": 5213,
         "forks": 362,
         "language": "C++",
         "pushed_at": "2025-10-29T03:37:10Z",
@@ -23991,7 +23991,7 @@
         "name": "brax",
         "description": "Massively parallel rigidbody physics simulation on accelerator hardware.",
         "url": "https://github.com/google/brax",
-        "stars": 2904,
+        "stars": 2905,
         "forks": 315,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-10-20T17:33:01Z",
@@ -24211,7 +24211,7 @@
         "name": "building-secure-and-reliable-systems",
         "description": "This repository contains the content of the book \"Building Secure and Reliable Systems\" by Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, and Adam Stubblefield. Google wrote this book aiming to share knowledge about our experience in building secure systems at scale. This is not an officially supported Google product.",
         "url": "https://github.com/google/building-secure-and-reliable-systems",
-        "stars": 122,
+        "stars": 123,
         "forks": 20,
         "language": "HTML",
         "pushed_at": "2023-05-23T23:56:49Z",
@@ -25734,7 +25734,7 @@
         "stars": 5488,
         "forks": 587,
         "language": "Python",
-        "pushed_at": "2025-10-28T19:03:18Z",
+        "pushed_at": "2025-10-29T13:10:43Z",
         "created_at": "2019-01-29T00:19:40Z"
       },
       {
@@ -26111,7 +26111,7 @@
         "name": "comprehensive-rust",
         "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
         "url": "https://github.com/google/comprehensive-rust",
-        "stars": 32195,
+        "stars": 32196,
         "forks": 1919,
         "language": "Rust",
         "pushed_at": "2025-10-20T13:09:44Z",
@@ -27434,7 +27434,7 @@
         "stars": 740,
         "forks": 130,
         "language": "C++",
-        "pushed_at": "2025-10-29T08:52:12Z",
+        "pushed_at": "2025-10-29T13:19:34Z",
         "created_at": "2023-10-04T16:54:23Z"
       },
       {
@@ -27824,7 +27824,7 @@
         "stars": 56,
         "forks": 21,
         "language": "Java",
-        "pushed_at": "2025-10-29T11:17:59Z",
+        "pushed_at": "2025-10-29T12:45:48Z",
         "created_at": "2022-04-15T03:00:41Z"
       },
       {
@@ -28351,7 +28351,7 @@
         "name": "draco",
         "description": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
         "url": "https://github.com/google/draco",
-        "stars": 7006,
+        "stars": 7007,
         "forks": 1019,
         "language": "C++",
         "pushed_at": "2025-09-18T02:22:42Z",
@@ -29914,7 +29914,7 @@
         "stars": 9,
         "forks": 1,
         "language": "Python",
-        "pushed_at": "2025-10-27T11:53:16Z",
+        "pushed_at": "2025-10-29T13:02:00Z",
         "created_at": "2024-10-30T10:40:19Z"
       },
       {
@@ -30304,7 +30304,7 @@
         "stars": 19349,
         "forks": 2784,
         "language": "HTML",
-        "pushed_at": "2025-10-29T11:30:56Z",
+        "pushed_at": "2025-10-29T13:19:57Z",
         "created_at": "2015-02-11T23:34:54Z"
       },
       {
@@ -30531,7 +30531,7 @@
         "name": "fully-homomorphic-encryption",
         "description": "An FHE compiler for C++",
         "url": "https://github.com/google/fully-homomorphic-encryption",
-        "stars": 3610,
+        "stars": 3611,
         "forks": 267,
         "language": "C++",
         "pushed_at": "2025-09-16T22:40:43Z",
@@ -31244,7 +31244,7 @@
         "stars": 16,
         "forks": 11,
         "language": "C++",
-        "pushed_at": "2025-10-29T11:49:52Z",
+        "pushed_at": "2025-10-29T12:50:41Z",
         "created_at": "2025-05-07T22:21:39Z"
       },
       {
@@ -33411,7 +33411,7 @@
         "name": "guava",
         "description": "Google core libraries for Java",
         "url": "https://github.com/google/guava",
-        "stars": 51218,
+        "stars": 51219,
         "forks": 11078,
         "language": "Java",
         "pushed_at": "2025-10-28T21:00:21Z",
@@ -33614,7 +33614,7 @@
         "stars": 9,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-28T16:23:47Z",
+        "pushed_at": "2025-10-29T12:48:48Z",
         "created_at": "2025-06-11T12:32:19Z"
       },
       {
@@ -33831,7 +33831,7 @@
         "name": "heir",
         "description": "A compiler for homomorphic encryption",
         "url": "https://github.com/google/heir",
-        "stars": 592,
+        "stars": 593,
         "forks": 100,
         "language": "C++",
         "pushed_at": "2025-10-29T12:08:38Z",
@@ -33911,7 +33911,7 @@
         "name": "highway",
         "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
         "url": "https://github.com/google/highway",
-        "stars": 5080,
+        "stars": 5081,
         "forks": 384,
         "language": "C++",
         "pushed_at": "2025-10-29T07:57:40Z",
@@ -34521,7 +34521,7 @@
         "name": "if-this-then-ad",
         "description": "☀️ A game changer in rule-based marketing. Run marketing campaigns based on real world events.",
         "url": "https://github.com/google/if-this-then-ad",
-        "stars": 96,
+        "stars": 97,
         "forks": 17,
         "language": "TypeScript",
         "pushed_at": "2025-08-08T10:34:07Z",
@@ -34961,7 +34961,7 @@
         "name": "ios-webkit-debug-proxy",
         "description": "A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).",
         "url": "https://github.com/google/ios-webkit-debug-proxy",
-        "stars": 6102,
+        "stars": 6103,
         "forks": 473,
         "language": "C",
         "pushed_at": "2025-07-02T07:34:34Z",
@@ -35864,7 +35864,7 @@
         "stars": 27,
         "forks": 14,
         "language": "C++",
-        "pushed_at": "2025-10-29T12:24:36Z",
+        "pushed_at": "2025-10-29T13:14:36Z",
         "created_at": "2024-05-07T11:31:53Z"
       },
       {
@@ -38244,7 +38244,7 @@
         "stars": 3970,
         "forks": 391,
         "language": "Go",
-        "pushed_at": "2025-10-17T14:20:00Z",
+        "pushed_at": "2025-10-29T13:09:28Z",
         "created_at": "2014-05-27T23:46:16Z"
       },
       {
@@ -38974,7 +38974,7 @@
         "stars": 1764,
         "forks": 290,
         "language": "Java",
-        "pushed_at": "2025-10-29T07:02:33Z",
+        "pushed_at": "2025-10-29T12:48:17Z",
         "created_at": "2016-02-29T20:16:48Z"
       },
       {
@@ -39111,7 +39111,7 @@
         "name": "oboe",
         "description": "Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.",
         "url": "https://github.com/google/oboe",
-        "stars": 3951,
+        "stars": 3952,
         "forks": 604,
         "language": "C++",
         "pushed_at": "2025-10-16T22:04:06Z",
@@ -39491,7 +39491,7 @@
         "name": "or-tools",
         "description": "Google's Operations Research tools:",
         "url": "https://github.com/google/or-tools",
-        "stars": 12621,
+        "stars": 12622,
         "forks": 2301,
         "language": "C++",
         "pushed_at": "2025-10-28T13:44:28Z",
@@ -39511,10 +39511,10 @@
         "name": "orbax",
         "description": "Orbax provides common checkpointing and persistence utilities for JAX users",
         "url": "https://github.com/google/orbax",
-        "stars": 439,
+        "stars": 440,
         "forks": 71,
         "language": "Python",
-        "pushed_at": "2025-10-29T12:29:49Z",
+        "pushed_at": "2025-10-29T12:51:17Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -40294,7 +40294,7 @@
         "stars": 4828,
         "forks": 608,
         "language": "C++",
-        "pushed_at": "2025-10-29T12:26:34Z",
+        "pushed_at": "2025-10-29T13:11:26Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -41761,7 +41761,7 @@
         "name": "pyink",
         "description": "Pyink, pronounced pī-ˈiŋk, is a Python formatter, forked from Black with a few different formatting behaviors.",
         "url": "https://github.com/google/pyink",
-        "stars": 278,
+        "stars": 279,
         "forks": 15,
         "language": "Python",
         "pushed_at": "2025-05-27T15:20:28Z",
@@ -42311,7 +42311,7 @@
         "name": "re2",
         "description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
         "url": "https://github.com/google/re2",
-        "stars": 9476,
+        "stars": 9475,
         "forks": 1184,
         "language": "C++",
         "pushed_at": "2025-09-29T18:54:07Z",
@@ -42854,7 +42854,7 @@
         "stars": 455,
         "forks": 61,
         "language": "C++",
-        "pushed_at": "2025-10-24T08:29:11Z",
+        "pushed_at": "2025-10-29T12:43:27Z",
         "created_at": "2018-01-03T15:05:56Z"
       },
       {
@@ -43501,7 +43501,7 @@
         "name": "sanitizers",
         "description": "AddressSanitizer, ThreadSanitizer, MemorySanitizer",
         "url": "https://github.com/google/sanitizers",
-        "stars": 12172,
+        "stars": 12173,
         "forks": 1083,
         "language": "C",
         "pushed_at": "2025-10-02T09:06:30Z",
@@ -44324,7 +44324,7 @@
         "stars": 1330,
         "forks": 323,
         "language": "JavaScript",
-        "pushed_at": "2025-10-29T11:59:59Z",
+        "pushed_at": "2025-10-29T13:09:14Z",
         "created_at": "2019-06-11T14:20:21Z"
       },
       {
@@ -44411,7 +44411,7 @@
         "name": "skywater-pdk",
         "description": "Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.",
         "url": "https://github.com/google/skywater-pdk",
-        "stars": 3290,
+        "stars": 3291,
         "forks": 431,
         "language": "Python",
         "pushed_at": "2024-10-28T09:51:48Z",
@@ -44681,7 +44681,7 @@
         "name": "smali",
         "description": "（无简介）",
         "url": "https://github.com/google/smali",
-        "stars": 322,
+        "stars": 321,
         "forks": 54,
         "language": "Java",
         "pushed_at": "2025-04-07T06:57:00Z",
@@ -46361,7 +46361,7 @@
         "name": "tf-quant-finance",
         "description": "High-performance TensorFlow library for quantitative finance.",
         "url": "https://github.com/google/tf-quant-finance",
-        "stars": 5015,
+        "stars": 5016,
         "forks": 643,
         "language": "Python",
         "pushed_at": "2025-03-21T14:29:57Z",
@@ -47091,7 +47091,7 @@
         "name": "tunix",
         "description": "A JAX-native LLM Post-Training Library",
         "url": "https://github.com/google/tunix",
-        "stars": 1687,
+        "stars": 1688,
         "forks": 148,
         "language": "Python",
         "pushed_at": "2025-10-29T03:51:29Z",
@@ -48924,7 +48924,7 @@
         "stars": 2149,
         "forks": 446,
         "language": "C",
-        "pushed_at": "2025-10-29T12:26:15Z",
+        "pushed_at": "2025-10-29T12:57:01Z",
         "created_at": "2019-09-13T23:48:37Z"
       },
       {
