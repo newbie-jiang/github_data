@@ -359,7 +359,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-29T20:50:22Z",
+        "pushed_at": "2025-10-29T21:16:11Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -11379,7 +11379,7 @@
         "stars": 40,
         "forks": 29,
         "language": "C++",
-        "pushed_at": "2025-10-29T17:46:09Z",
+        "pushed_at": "2025-10-29T21:23:26Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -13609,7 +13609,7 @@
         "stars": 258,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-10-29T20:58:36Z",
+        "pushed_at": "2025-10-29T21:29:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16606,7 +16606,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 7727,
+        "stars": 7728,
         "forks": 601,
         "language": "TypeScript",
         "pushed_at": "2025-10-22T15:03:46Z",
@@ -16856,17 +16856,17 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 49251,
+        "stars": 49253,
         "forks": 6019,
         "language": "Rust",
-        "pushed_at": "2025-10-29T21:14:59Z",
+        "pushed_at": "2025-10-29T21:23:59Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
         "name": "codex-action",
         "description": "（无简介）",
         "url": "https://github.com/openai/codex-action",
-        "stars": 630,
+        "stars": 631,
         "forks": 49,
         "language": "TypeScript",
         "pushed_at": "2025-10-24T19:11:08Z",
@@ -17086,7 +17086,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 17202,
+        "stars": 17201,
         "forks": 2830,
         "language": "Python",
         "pushed_at": "2024-12-18T22:09:47Z",
@@ -17306,7 +17306,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 19006,
+        "stars": 19007,
         "forks": 1890,
         "language": "Python",
         "pushed_at": "2025-10-23T06:39:55Z",
@@ -17966,7 +17966,7 @@
         "name": "openai-go",
         "description": "The official Go library for the OpenAI API",
         "url": "https://github.com/openai/openai-go",
-        "stars": 2638,
+        "stars": 2639,
         "forks": 229,
         "language": "Go",
         "pushed_at": "2025-10-28T14:21:54Z",
@@ -17974,7 +17974,7 @@
       },
       {
         "name": "openai-guardrails-js",
-        "description": "OpenAI Guardrails TypeScript / JavaScript (Preview)",
+        "description": "OpenAI Guardrails - TypeScript / JavaScript",
         "url": "https://github.com/openai/openai-guardrails-js",
         "stars": 37,
         "forks": 5,
@@ -17984,7 +17984,7 @@
       },
       {
         "name": "openai-guardrails-python",
-        "description": "OpenAI Guardrails Python (Preview)",
+        "description": "OpenAI Guardrails - Python",
         "url": "https://github.com/openai/openai-guardrails-python",
         "stars": 102,
         "forks": 15,
@@ -18086,7 +18086,7 @@
         "name": "openai-realtime-console",
         "description": "React app for inspecting, building and debugging with the Realtime API",
         "url": "https://github.com/openai/openai-realtime-console",
-        "stars": 3493,
+        "stars": 3494,
         "forks": 1375,
         "language": "JavaScript",
         "pushed_at": "2025-08-28T16:07:56Z",
@@ -21631,7 +21631,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 14103,
+        "stars": 14104,
         "forks": 2135,
         "language": "Python",
         "pushed_at": "2025-10-29T20:24:20Z",
@@ -21651,7 +21651,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 5852,
+        "stars": 5853,
         "forks": 1714,
         "language": "Python",
         "pushed_at": "2025-10-29T21:04:58Z",
@@ -23152,7 +23152,7 @@
         "description": "A collection of source code generators for Java.",
         "url": "https://github.com/google/auto",
         "stars": 10524,
-        "forks": 1209,
+        "forks": 1208,
         "language": "Java",
         "pushed_at": "2025-10-28T12:40:38Z",
         "created_at": "2013-05-22T21:41:56Z"
@@ -26891,7 +26891,7 @@
         "name": "crosvm",
         "description": "The Chrome OS Virtual Machine Monitor - Mirror of https://chromium.googlesource.com/crosvm/crosvm/",
         "url": "https://github.com/google/crosvm",
-        "stars": 1062,
+        "stars": 1063,
         "forks": 129,
         "language": "Rust",
         "pushed_at": "2025-10-29T20:06:31Z",
@@ -27991,7 +27991,7 @@
         "name": "diff-match-patch",
         "description": "Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.",
         "url": "https://github.com/google/diff-match-patch",
-        "stars": 7952,
+        "stars": 7953,
         "forks": 1173,
         "language": "Python",
         "pushed_at": "2024-05-22T22:13:22Z",
@@ -29864,7 +29864,7 @@
         "stars": 18978,
         "forks": 2044,
         "language": "C++",
-        "pushed_at": "2025-10-29T18:54:42Z",
+        "pushed_at": "2025-10-29T21:19:47Z",
         "created_at": "2018-08-03T17:26:00Z"
       },
       {
@@ -34724,7 +34724,7 @@
         "stars": 79,
         "forks": 9,
         "language": "Python",
-        "pushed_at": "2025-10-29T21:15:45Z",
+        "pushed_at": "2025-10-29T21:28:18Z",
         "created_at": "2021-05-14T19:55:29Z"
       },
       {
@@ -35904,7 +35904,7 @@
         "stars": 52,
         "forks": 11,
         "language": "Kotlin",
-        "pushed_at": "2025-10-29T11:23:55Z",
+        "pushed_at": "2025-10-29T21:30:00Z",
         "created_at": "2025-01-11T17:46:11Z"
       },
       {
@@ -39051,7 +39051,7 @@
         "name": "nsync",
         "description": "nsync is a C library that exports various synchronization primitives, such as mutexes",
         "url": "https://github.com/google/nsync",
-        "stars": 1222,
+        "stars": 1223,
         "forks": 94,
         "language": "C",
         "pushed_at": "2025-10-24T19:14:08Z",
@@ -39534,7 +39534,7 @@
         "stars": 440,
         "forks": 71,
         "language": "Python",
-        "pushed_at": "2025-10-29T21:09:10Z",
+        "pushed_at": "2025-10-29T21:16:19Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39734,7 +39734,7 @@
         "stars": 528,
         "forks": 88,
         "language": "Go",
-        "pushed_at": "2025-10-29T03:37:33Z",
+        "pushed_at": "2025-10-29T21:23:58Z",
         "created_at": "2024-04-10T09:09:11Z"
       },
       {
@@ -40314,7 +40314,7 @@
         "stars": 4828,
         "forks": 608,
         "language": "C++",
-        "pushed_at": "2025-10-29T21:15:04Z",
+        "pushed_at": "2025-10-29T21:27:10Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -44344,7 +44344,7 @@
         "stars": 1330,
         "forks": 323,
         "language": "JavaScript",
-        "pushed_at": "2025-10-29T20:04:57Z",
+        "pushed_at": "2025-10-29T21:24:40Z",
         "created_at": "2019-06-11T14:20:21Z"
       },
       {
@@ -44364,7 +44364,7 @@
         "stars": 10200,
         "forks": 1634,
         "language": "C++",
-        "pushed_at": "2025-10-29T20:01:31Z",
+        "pushed_at": "2025-10-29T21:17:32Z",
         "created_at": "2014-01-09T17:09:57Z"
       },
       {
@@ -45234,7 +45234,7 @@
         "stars": 2560,
         "forks": 226,
         "language": "Go",
-        "pushed_at": "2025-10-27T17:14:25Z",
+        "pushed_at": "2025-10-29T21:17:36Z",
         "created_at": "2018-10-23T14:35:50Z"
       },
       {
