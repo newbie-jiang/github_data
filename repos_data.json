@@ -359,7 +359,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-10-30T08:23:05Z",
+        "pushed_at": "2025-10-30T08:52:35Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4167,7 +4167,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 13557,
-        "forks": 8151,
+        "forks": 8153,
         "language": "C",
         "pushed_at": "2025-10-30T00:32:52Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -11986,7 +11986,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 16506,
+        "stars": 16507,
         "forks": 7934,
         "language": "C",
         "pushed_at": "2025-10-28T20:17:49Z",
@@ -12779,7 +12779,7 @@
         "stars": 1930,
         "forks": 515,
         "language": "C",
-        "pushed_at": "2025-07-23T07:54:40Z",
+        "pushed_at": "2025-10-30T09:10:45Z",
         "created_at": "2018-10-26T11:00:01Z"
       },
       {
@@ -13609,7 +13609,7 @@
         "stars": 258,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-10-30T07:54:41Z",
+        "pushed_at": "2025-10-30T08:57:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16372,7 +16372,7 @@
         "description": "packages index repository for rt-thread.",
         "url": "https://github.com/RT-Thread/packages",
         "stars": 245,
-        "forks": 344,
+        "forks": 345,
         "language": "Python",
         "pushed_at": "2025-10-26T03:46:00Z",
         "created_at": "2017-06-23T11:53:18Z"
@@ -16716,7 +16716,7 @@
         "name": "baselines",
         "description": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
         "url": "https://github.com/openai/baselines",
-        "stars": 16525,
+        "stars": 16526,
         "forks": 4947,
         "language": "Python",
         "pushed_at": "2024-08-01T21:31:33Z",
@@ -16846,7 +16846,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 31315,
+        "stars": 31316,
         "forks": 3813,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16876,8 +16876,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 49298,
-        "forks": 6031,
+        "stars": 49299,
+        "forks": 6032,
         "language": "Rust",
         "pushed_at": "2025-10-30T07:59:33Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -17306,7 +17306,7 @@
         "name": "gpt-5-coding-examples",
         "description": "GPT-5 coding examples",
         "url": "https://github.com/openai/gpt-5-coding-examples",
-        "stars": 1736,
+        "stars": 1737,
         "forks": 233,
         "language": "HTML",
         "pushed_at": "2025-08-08T04:36:36Z",
@@ -17326,7 +17326,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 19015,
+        "stars": 19016,
         "forks": 1889,
         "language": "Python",
         "pushed_at": "2025-10-23T06:39:55Z",
@@ -17736,7 +17736,7 @@
         "name": "moderation-api-release",
         "description": "（无简介）",
         "url": "https://github.com/openai/moderation-api-release",
-        "stars": 145,
+        "stars": 146,
         "forks": 19,
         "language": "未指定",
         "pushed_at": "2022-08-09T00:46:27Z",
@@ -17847,7 +17847,7 @@
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
         "stars": 16933,
-        "forks": 2793,
+        "forks": 2794,
         "language": "Python",
         "pushed_at": "2025-10-29T22:39:49Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -17907,7 +17907,7 @@
         "description": "Starter app to build with OpenAI ChatKit + Agent Builder",
         "url": "https://github.com/openai/openai-chatkit-starter-app",
         "stars": 597,
-        "forks": 552,
+        "forks": 553,
         "language": "TypeScript",
         "pushed_at": "2025-10-14T12:36:38Z",
         "created_at": "2025-10-06T01:07:01Z"
@@ -18006,7 +18006,7 @@
         "name": "openai-guardrails-python",
         "description": "OpenAI Guardrails - Python",
         "url": "https://github.com/openai/openai-guardrails-python",
-        "stars": 102,
+        "stars": 103,
         "forks": 15,
         "language": "Python",
         "pushed_at": "2025-10-29T23:18:56Z",
@@ -18856,8 +18856,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 90128,
-        "forks": 11282,
+        "stars": 90129,
+        "forks": 11283,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -18992,7 +18992,7 @@
         "description": "Read-only mirror of Trusted Firmware-A",
         "url": "https://github.com/ARM-software/arm-trusted-firmware",
         "stars": 2119,
-        "forks": 1497,
+        "forks": 1498,
         "language": "C",
         "pushed_at": "2025-10-30T04:40:39Z",
         "created_at": "2013-10-21T11:39:00Z"
@@ -19314,7 +19314,7 @@
         "stars": 21,
         "forks": 19,
         "language": "C",
-        "pushed_at": "2025-10-30T08:51:21Z",
+        "pushed_at": "2025-10-30T08:52:33Z",
         "created_at": "2019-02-15T09:58:57Z"
       },
       {
@@ -19472,9 +19472,9 @@
         "description": "The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.",
         "url": "https://github.com/ARM-software/ComputeLibrary",
         "stars": 3068,
-        "forks": 807,
+        "forks": 808,
         "language": "C++",
-        "pushed_at": "2025-10-30T06:46:35Z",
+        "pushed_at": "2025-10-30T08:55:39Z",
         "created_at": "2017-03-10T14:51:43Z"
       },
       {
@@ -19754,7 +19754,7 @@
         "stars": 35,
         "forks": 8,
         "language": "Go",
-        "pushed_at": "2025-10-28T16:32:34Z",
+        "pushed_at": "2025-10-30T09:01:35Z",
         "created_at": "2021-08-06T12:57:47Z"
       },
       {
@@ -21129,7 +21129,7 @@
         "stars": 1173,
         "forks": 1401,
         "language": "C",
-        "pushed_at": "2025-10-30T08:25:02Z",
+        "pushed_at": "2025-10-30T09:07:00Z",
         "created_at": "2018-02-14T13:50:55Z"
       },
       {
@@ -21672,7 +21672,7 @@
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
         "stars": 5864,
-        "forks": 1716,
+        "forks": 1717,
         "language": "Python",
         "pushed_at": "2025-10-29T21:04:58Z",
         "created_at": "2025-04-01T20:44:42Z"
@@ -21911,7 +21911,7 @@
         "name": "airio",
         "description": "（无简介）",
         "url": "https://github.com/google/airio",
-        "stars": 21,
+        "stars": 22,
         "forks": 11,
         "language": "Python",
         "pushed_at": "2025-10-27T16:25:27Z",
@@ -23682,7 +23682,7 @@
         "description": "Quickly find differences and similarities in disassembled code",
         "url": "https://github.com/google/bindiff",
         "stars": 2776,
-        "forks": 198,
+        "forks": 199,
         "language": "Java",
         "pushed_at": "2025-10-10T11:45:52Z",
         "created_at": "2023-09-20T06:41:55Z"
@@ -24201,7 +24201,7 @@
         "name": "budoux",
         "description": "（无简介）",
         "url": "https://github.com/google/budoux",
-        "stars": 1538,
+        "stars": 1539,
         "forks": 37,
         "language": "Python",
         "pushed_at": "2025-10-27T14:32:11Z",
@@ -24331,7 +24331,7 @@
         "name": "bumble",
         "description": "（无简介）",
         "url": "https://github.com/google/bumble",
-        "stars": 413,
+        "stars": 414,
         "forks": 101,
         "language": "Python",
         "pushed_at": "2025-10-28T06:39:26Z",
@@ -27864,7 +27864,7 @@
         "stars": 56,
         "forks": 21,
         "language": "Java",
-        "pushed_at": "2025-10-30T08:48:37Z",
+        "pushed_at": "2025-10-30T09:10:58Z",
         "created_at": "2022-04-15T03:00:41Z"
       },
       {
@@ -28034,7 +28034,7 @@
         "stars": 3241,
         "forks": 401,
         "language": "Go",
-        "pushed_at": "2025-10-30T07:03:39Z",
+        "pushed_at": "2025-10-30T09:13:50Z",
         "created_at": "2019-09-04T13:04:15Z"
       },
       {
@@ -32861,7 +32861,7 @@
         "name": "googletest",
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "url": "https://github.com/google/googletest",
-        "stars": 37372,
+        "stars": 37373,
         "forks": 10567,
         "language": "C++",
         "pushed_at": "2025-10-16T13:32:39Z",
@@ -35561,7 +35561,7 @@
         "name": "jsonschema-go",
         "description": "The Go library for JSON Schema. An official Google project providing a comprehensive toolkit for validation, reflection, and schema construction.",
         "url": "https://github.com/google/jsonschema-go",
-        "stars": 94,
+        "stars": 95,
         "forks": 15,
         "language": "Go",
         "pushed_at": "2025-10-17T18:45:27Z",
@@ -35661,7 +35661,7 @@
         "name": "kati",
         "description": "An experimental GNU make clone",
         "url": "https://github.com/google/kati",
-        "stars": 994,
+        "stars": 995,
         "forks": 122,
         "language": "Rust",
         "pushed_at": "2025-09-17T23:18:42Z",
@@ -35974,7 +35974,7 @@
         "stars": 3280,
         "forks": 353,
         "language": "Kotlin",
-        "pushed_at": "2025-10-30T08:38:22Z",
+        "pushed_at": "2025-10-30T09:07:21Z",
         "created_at": "2020-09-22T18:59:42Z"
       },
       {
@@ -36001,7 +36001,7 @@
         "name": "kube-startup-cpu-boost",
         "description": "Kube Startup CPU Boost is a controller that increases CPU resource requests and limits during Kubernetes workload startup time",
         "url": "https://github.com/google/kube-startup-cpu-boost",
-        "stars": 499,
+        "stars": 500,
         "forks": 24,
         "language": "Go",
         "pushed_at": "2025-09-01T14:37:02Z",
@@ -36061,7 +36061,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 16689,
+        "stars": 16690,
         "forks": 1174,
         "language": "Python",
         "pushed_at": "2025-10-30T06:13:02Z",
@@ -36251,7 +36251,7 @@
         "name": "leveldb",
         "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
         "url": "https://github.com/google/leveldb",
-        "stars": 38280,
+        "stars": 38281,
         "forks": 8069,
         "language": "C++",
         "pushed_at": "2025-01-30T17:33:01Z",
@@ -37114,7 +37114,7 @@
         "stars": 8902,
         "forks": 454,
         "language": "Python",
-        "pushed_at": "2025-10-29T22:25:38Z",
+        "pushed_at": "2025-10-30T09:11:18Z",
         "created_at": "2023-08-22T09:36:55Z"
       },
       {
@@ -37584,7 +37584,7 @@
         "stars": 1164,
         "forks": 200,
         "language": "Python",
-        "pushed_at": "2025-10-30T06:33:23Z",
+        "pushed_at": "2025-10-30T09:14:15Z",
         "created_at": "2024-01-31T18:15:38Z"
       },
       {
@@ -40334,7 +40334,7 @@
         "stars": 4829,
         "forks": 608,
         "language": "C++",
-        "pushed_at": "2025-10-30T08:01:58Z",
+        "pushed_at": "2025-10-30T08:58:25Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -41264,7 +41264,7 @@
         "stars": 60,
         "forks": 25,
         "language": "TypeScript",
-        "pushed_at": "2025-10-20T13:21:05Z",
+        "pushed_at": "2025-10-30T09:09:20Z",
         "created_at": "2021-07-12T19:17:10Z"
       },
       {
@@ -44451,7 +44451,7 @@
         "name": "skywater-pdk",
         "description": "Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.",
         "url": "https://github.com/google/skywater-pdk",
-        "stars": 3292,
+        "stars": 3293,
         "forks": 431,
         "language": "Python",
         "pushed_at": "2024-10-28T09:51:48Z",
@@ -44941,7 +44941,7 @@
         "name": "spatial-media",
         "description": "Specifications and tools for 360º video and spatial audio.",
         "url": "https://github.com/google/spatial-media",
-        "stars": 1985,
+        "stars": 1984,
         "forks": 452,
         "language": "Python",
         "pushed_at": "2025-09-28T00:18:30Z",
