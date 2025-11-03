@@ -369,7 +369,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-11-03T08:54:18Z",
+        "pushed_at": "2025-11-03T09:21:28Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4197,7 +4197,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 13591,
-        "forks": 8168,
+        "forks": 8169,
         "language": "C",
         "pushed_at": "2025-11-03T08:42:06Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -6914,7 +6914,7 @@
         "stars": 2,
         "forks": 1,
         "language": "未指定",
-        "pushed_at": "2025-11-03T09:20:35Z",
+        "pushed_at": "2025-11-03T09:21:28Z",
         "created_at": "2021-02-18T20:17:35Z"
       },
       {
@@ -11246,7 +11246,7 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15658,
+        "stars": 15659,
         "forks": 7746,
         "language": "C++",
         "pushed_at": "2025-11-03T06:59:10Z",
@@ -13409,7 +13409,7 @@
         "stars": 349,
         "forks": 130,
         "language": "Java",
-        "pushed_at": "2025-10-29T02:44:39Z",
+        "pushed_at": "2025-11-03T09:27:05Z",
         "created_at": "2019-09-16T02:21:43Z"
       },
       {
@@ -13439,7 +13439,7 @@
         "stars": 209,
         "forks": 115,
         "language": "C",
-        "pushed_at": "2025-11-03T08:47:05Z",
+        "pushed_at": "2025-11-03T09:36:19Z",
         "created_at": "2021-11-16T17:59:26Z"
       },
       {
@@ -13649,7 +13649,7 @@
         "stars": 258,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-11-03T08:53:50Z",
+        "pushed_at": "2025-11-03T09:25:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -14019,7 +14019,7 @@
         "stars": 1318,
         "forks": 336,
         "language": "TypeScript",
-        "pushed_at": "2025-11-03T08:48:51Z",
+        "pushed_at": "2025-11-03T09:43:06Z",
         "created_at": "2018-11-21T03:27:08Z"
       },
       {
@@ -16163,6 +16163,16 @@
         "created_at": "2022-01-19T04:11:12Z"
       },
       {
+        "name": "STM32WL3x-Demo-Workshop",
+        "description": "（无简介）",
+        "url": "https://github.com/stm32-hotspot/STM32WL3x-Demo-Workshop",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2025-11-03T09:31:13Z",
+        "created_at": "2025-11-03T09:31:12Z"
+      },
+      {
         "name": "STM32_Zigbee_DM_Workshop",
         "description": "This application demonstrates how to use the STM32WB55 Nucleo board in various Zigbee configurations, showcasing different real-world use case scenarios.",
         "url": "https://github.com/stm32-hotspot/STM32_Zigbee_DM_Workshop",
@@ -16916,8 +16926,8 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 49609,
-        "forks": 6099,
+        "stars": 49610,
+        "forks": 6100,
         "language": "Rust",
         "pushed_at": "2025-11-03T05:44:59Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -17366,8 +17376,8 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 19077,
-        "forks": 1895,
+        "stars": 19078,
+        "forks": 1896,
         "language": "Python",
         "pushed_at": "2025-11-01T03:58:51Z",
         "created_at": "2025-06-23T16:43:33Z"
@@ -17746,7 +17756,7 @@
         "name": "mle-bench",
         "description": "MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering",
         "url": "https://github.com/openai/mle-bench",
-        "stars": 1118,
+        "stars": 1119,
         "forks": 169,
         "language": "Python",
         "pushed_at": "2025-10-17T14:17:46Z",
@@ -17836,7 +17846,7 @@
         "name": "multiagent-particle-envs",
         "description": "Code for a multi-agent particle environment used in the paper \"Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments\"",
         "url": "https://github.com/openai/multiagent-particle-envs",
-        "stars": 2665,
+        "stars": 2666,
         "forks": 813,
         "language": "Python",
         "pushed_at": "2024-04-09T01:15:17Z",
@@ -17936,7 +17946,7 @@
         "name": "openai-chatkit-advanced-samples",
         "description": "Starter app to build with OpenAI ChatKit SDK",
         "url": "https://github.com/openai/openai-chatkit-advanced-samples",
-        "stars": 418,
+        "stars": 419,
         "forks": 170,
         "language": "Python",
         "pushed_at": "2025-10-15T23:57:07Z",
@@ -17966,7 +17976,7 @@
         "name": "openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
         "url": "https://github.com/openai/openai-cs-agents-demo",
-        "stars": 5844,
+        "stars": 5845,
         "forks": 897,
         "language": "TypeScript",
         "pushed_at": "2025-08-25T08:30:57Z",
@@ -18046,7 +18056,7 @@
         "name": "openai-guardrails-python",
         "description": "OpenAI Guardrails - Python",
         "url": "https://github.com/openai/openai-guardrails-python",
-        "stars": 117,
+        "stars": 118,
         "forks": 15,
         "language": "Python",
         "pushed_at": "2025-10-30T20:49:04Z",
@@ -18066,7 +18076,7 @@
         "name": "openai-java",
         "description": "The official Java library for the OpenAI API",
         "url": "https://github.com/openai/openai-java",
-        "stars": 1190,
+        "stars": 1191,
         "forks": 171,
         "language": "Kotlin",
         "pushed_at": "2025-11-03T05:05:28Z",
@@ -18076,7 +18086,7 @@
         "name": "openai-node",
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
-        "stars": 10306,
+        "stars": 10307,
         "forks": 1289,
         "language": "TypeScript",
         "pushed_at": "2025-11-03T05:08:32Z",
@@ -18126,7 +18136,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 6577,
+        "stars": 6578,
         "forks": 1013,
         "language": "TypeScript",
         "pushed_at": "2025-10-27T15:01:09Z",
@@ -18557,7 +18567,7 @@
         "description": "Tools for accelerating safe exploration research.",
         "url": "https://github.com/openai/safety-gym",
         "stars": 564,
-        "forks": 145,
+        "forks": 144,
         "language": "Python",
         "pushed_at": "2023-04-02T11:31:24Z",
         "created_at": "2019-11-21T07:56:24Z"
@@ -18626,7 +18636,7 @@
         "name": "simple-evals",
         "description": "（无简介）",
         "url": "https://github.com/openai/simple-evals",
-        "stars": 4149,
+        "stars": 4150,
         "forks": 443,
         "language": "Python",
         "pushed_at": "2025-07-31T19:49:09Z",
@@ -18896,7 +18906,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 90273,
+        "stars": 90274,
         "forks": 11309,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
@@ -19104,7 +19114,7 @@
         "stars": 45,
         "forks": 24,
         "language": "Python",
-        "pushed_at": "2025-10-27T04:17:44Z",
+        "pushed_at": "2025-11-03T09:30:11Z",
         "created_at": "2021-08-23T13:25:32Z"
       },
       {
@@ -19372,7 +19382,7 @@
         "description": "FreeRTOS adaptation for CMSIS-RTOS Version 2",
         "url": "https://github.com/ARM-software/CMSIS-FreeRTOS",
         "stars": 600,
-        "forks": 164,
+        "forks": 165,
         "language": "C",
         "pushed_at": "2025-10-27T22:59:11Z",
         "created_at": "2017-01-11T13:06:10Z"
@@ -19844,7 +19854,7 @@
         "stars": 93,
         "forks": 14,
         "language": "C",
-        "pushed_at": "2025-10-31T16:00:09Z",
+        "pushed_at": "2025-11-03T09:27:58Z",
         "created_at": "2025-01-23T14:23:07Z"
       },
       {
@@ -20969,7 +20979,7 @@
         "stars": 16,
         "forks": 17,
         "language": "C",
-        "pushed_at": "2025-11-03T00:53:30Z",
+        "pushed_at": "2025-11-03T09:47:38Z",
         "created_at": "2024-11-22T12:00:48Z"
       },
       {
@@ -21149,7 +21159,7 @@
         "stars": 73,
         "forks": 243,
         "language": "C",
-        "pushed_at": "2025-10-23T12:44:27Z",
+        "pushed_at": "2025-11-03T09:41:19Z",
         "created_at": "2018-02-05T14:45:56Z"
       },
       {
@@ -21169,7 +21179,7 @@
         "stars": 1179,
         "forks": 1407,
         "language": "C",
-        "pushed_at": "2025-11-03T09:12:36Z",
+        "pushed_at": "2025-11-03T09:41:26Z",
         "created_at": "2018-02-14T13:50:55Z"
       },
       {
@@ -22464,7 +22474,7 @@
         "stars": 3834,
         "forks": 682,
         "language": "C++",
-        "pushed_at": "2025-11-01T05:40:53Z",
+        "pushed_at": "2025-11-03T09:27:53Z",
         "created_at": "2014-08-26T14:59:07Z"
       },
       {
@@ -25034,7 +25044,7 @@
         "stars": 1052,
         "forks": 279,
         "language": "Go",
-        "pushed_at": "2025-11-03T09:02:56Z",
+        "pushed_at": "2025-11-03T09:30:18Z",
         "created_at": "2017-05-08T14:22:46Z"
       },
       {
@@ -28071,7 +28081,7 @@
         "name": "differential-privacy",
         "description": "Google's differential privacy libraries.",
         "url": "https://github.com/google/differential-privacy",
-        "stars": 3246,
+        "stars": 3247,
         "forks": 403,
         "language": "Go",
         "pushed_at": "2025-10-31T10:39:40Z",
@@ -28402,7 +28412,7 @@
         "description": "Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.",
         "url": "https://github.com/google/double-conversion",
         "stars": 1169,
-        "forks": 302,
+        "forks": 303,
         "language": "C++",
         "pushed_at": "2025-10-28T11:23:42Z",
         "created_at": "2014-10-18T12:48:15Z"
@@ -33271,7 +33281,7 @@
         "name": "grr",
         "description": "GRR Rapid Response: remote live forensics for incident response",
         "url": "https://github.com/google/grr",
-        "stars": 4990,
+        "stars": 4991,
         "forks": 791,
         "language": "Python",
         "pushed_at": "2025-06-05T12:55:11Z",
@@ -37151,7 +37161,7 @@
         "name": "magika",
         "description": "Fast and accurate AI powered file content types detection ",
         "url": "https://github.com/google/magika",
-        "stars": 8908,
+        "stars": 8909,
         "forks": 454,
         "language": "Python",
         "pushed_at": "2025-11-03T05:11:02Z",
@@ -37391,7 +37401,7 @@
         "name": "material-design-icons",
         "description": "Material Design icons by Google (Material Symbols)",
         "url": "https://github.com/google/material-design-icons",
-        "stars": 52458,
+        "stars": 52459,
         "forks": 9678,
         "language": "未指定",
         "pushed_at": "2025-09-19T02:38:15Z",
@@ -38634,7 +38644,7 @@
         "stars": 874,
         "forks": 183,
         "language": "C++",
-        "pushed_at": "2025-11-03T03:21:15Z",
+        "pushed_at": "2025-11-03T09:48:47Z",
         "created_at": "2020-04-23T20:41:37Z"
       },
       {
@@ -39054,7 +39064,7 @@
         "stars": 1764,
         "forks": 291,
         "language": "Java",
-        "pushed_at": "2025-11-03T08:01:06Z",
+        "pushed_at": "2025-11-03T09:30:42Z",
         "created_at": "2016-02-29T20:16:48Z"
       },
       {
@@ -39571,7 +39581,7 @@
         "name": "or-tools",
         "description": "Google's Operations Research tools:",
         "url": "https://github.com/google/or-tools",
-        "stars": 12631,
+        "stars": 12633,
         "forks": 2301,
         "language": "C++",
         "pushed_at": "2025-11-01T14:37:26Z",
@@ -39741,7 +39751,7 @@
         "name": "oss-fuzz-gen",
         "description": "LLM powered fuzzing via OSS-Fuzz.",
         "url": "https://github.com/google/oss-fuzz-gen",
-        "stars": 1293,
+        "stars": 1294,
         "forks": 203,
         "language": "Python",
         "pushed_at": "2025-10-10T05:44:30Z",
@@ -40374,7 +40384,7 @@
         "stars": 4885,
         "forks": 611,
         "language": "C++",
-        "pushed_at": "2025-11-02T19:56:21Z",
+        "pushed_at": "2025-11-03T09:43:59Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
