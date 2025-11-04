@@ -369,7 +369,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-11-04T13:52:57Z",
+        "pushed_at": "2025-11-04T14:18:09Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -10534,7 +10534,7 @@
         "stars": 1,
         "forks": 0,
         "language": "C",
-        "pushed_at": "2025-11-04T13:16:48Z",
+        "pushed_at": "2025-11-04T14:25:27Z",
         "created_at": "2025-06-24T08:25:23Z"
       },
       {
@@ -10544,7 +10544,7 @@
         "stars": 1,
         "forks": 1,
         "language": "C",
-        "pushed_at": "2025-10-17T13:03:02Z",
+        "pushed_at": "2025-11-04T14:39:06Z",
         "created_at": "2025-06-24T08:27:23Z"
       },
       {
@@ -11767,7 +11767,7 @@
         "description": "Applications based on Wi-Fi CSI (Channel state information), such as indoor positioning, human detection",
         "url": "https://github.com/espressif/esp-csi",
         "stars": 939,
-        "forks": 135,
+        "forks": 136,
         "language": "C",
         "pushed_at": "2025-07-21T07:00:10Z",
         "created_at": "2021-02-20T03:01:53Z"
@@ -12466,7 +12466,7 @@
         "name": "esp-protocols",
         "description": "Collection of ESP-IDF components related to networking protocols",
         "url": "https://github.com/espressif/esp-protocols",
-        "stars": 264,
+        "stars": 265,
         "forks": 173,
         "language": "C",
         "pushed_at": "2025-11-03T12:26:17Z",
@@ -13509,7 +13509,7 @@
         "stars": 12,
         "forks": 9,
         "language": "Python",
-        "pushed_at": "2025-11-04T14:15:55Z",
+        "pushed_at": "2025-11-04T14:18:32Z",
         "created_at": "2021-01-25T19:07:39Z"
       },
       {
@@ -16896,7 +16896,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 31400,
+        "stars": 31399,
         "forks": 3819,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16926,7 +16926,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 49715,
+        "stars": 49717,
         "forks": 6125,
         "language": "Rust",
         "pushed_at": "2025-11-04T08:57:46Z",
@@ -17896,10 +17896,10 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 17071,
-        "forks": 2811,
+        "stars": 17072,
+        "forks": 2812,
         "language": "Python",
-        "pushed_at": "2025-11-04T07:59:12Z",
+        "pushed_at": "2025-11-04T14:18:51Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -18106,7 +18106,7 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 29161,
+        "stars": 29162,
         "forks": 4394,
         "language": "Python",
         "pushed_at": "2025-11-04T06:07:04Z",
@@ -18206,8 +18206,8 @@
         "name": "openai-responses-starter-app",
         "description": "Starter app to build with the OpenAI Responses API",
         "url": "https://github.com/openai/openai-responses-starter-app",
-        "stars": 697,
-        "forks": 242,
+        "stars": 698,
+        "forks": 243,
         "language": "TypeScript",
         "pushed_at": "2025-11-02T09:16:49Z",
         "created_at": "2025-03-11T14:29:27Z"
@@ -18906,7 +18906,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 90335,
+        "stars": 90337,
         "forks": 11314,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
@@ -20979,7 +20979,7 @@
         "stars": 16,
         "forks": 17,
         "language": "C",
-        "pushed_at": "2025-11-04T13:53:47Z",
+        "pushed_at": "2025-11-04T14:30:37Z",
         "created_at": "2024-11-22T12:00:48Z"
       },
       {
@@ -21721,7 +21721,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 6025,
+        "stars": 6026,
         "forks": 1744,
         "language": "Python",
         "pushed_at": "2025-11-03T10:53:01Z",
@@ -21734,7 +21734,7 @@
         "stars": 369,
         "forks": 128,
         "language": "TypeScript",
-        "pushed_at": "2025-11-04T13:52:25Z",
+        "pushed_at": "2025-11-04T14:31:21Z",
         "created_at": "2025-05-05T17:16:28Z"
       },
       {
@@ -22412,7 +22412,7 @@
         "description": "Custom security-focused lint checks for Android development",
         "url": "https://github.com/google/android-security-lints",
         "stars": 153,
-        "forks": 10,
+        "forks": 11,
         "language": "Kotlin",
         "pushed_at": "2025-01-16T10:47:13Z",
         "created_at": "2023-08-02T18:13:59Z"
@@ -23732,7 +23732,7 @@
         "description": "Quickly find differences and similarities in disassembled code",
         "url": "https://github.com/google/bindiff",
         "stars": 2780,
-        "forks": 200,
+        "forks": 201,
         "language": "Java",
         "pushed_at": "2025-11-04T13:24:12Z",
         "created_at": "2023-09-20T06:41:55Z"
@@ -28471,7 +28471,7 @@
         "name": "dranet",
         "description": "DRANET is a Kubernetes Network Driver that uses Dynamic Resource Allocation (DRA) to deliver high-performance networking for demanding applications in Kubernetes.",
         "url": "https://github.com/google/dranet",
-        "stars": 130,
+        "stars": 131,
         "forks": 23,
         "language": "Go",
         "pushed_at": "2025-11-03T08:31:26Z",
@@ -29294,7 +29294,7 @@
         "stars": 7081,
         "forks": 774,
         "language": "Java",
-        "pushed_at": "2025-11-04T13:55:40Z",
+        "pushed_at": "2025-11-04T14:33:20Z",
         "created_at": "2014-08-21T23:26:50Z"
       },
       {
@@ -32912,7 +32912,7 @@
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "url": "https://github.com/google/googletest",
         "stars": 37407,
-        "forks": 10568,
+        "forks": 10569,
         "language": "C++",
         "pushed_at": "2025-10-31T20:56:44Z",
         "created_at": "2015-07-28T15:07:53Z"
@@ -33364,7 +33364,7 @@
         "stars": 24198,
         "forks": 4357,
         "language": "Java",
-        "pushed_at": "2025-11-04T03:43:42Z",
+        "pushed_at": "2025-11-04T14:39:25Z",
         "created_at": "2015-03-19T18:21:20Z"
       },
       {
@@ -33502,7 +33502,7 @@
         "description": "Google core libraries for Java",
         "url": "https://github.com/google/guava",
         "stars": 51239,
-        "forks": 11080,
+        "forks": 11081,
         "language": "Java",
         "pushed_at": "2025-11-03T21:24:56Z",
         "created_at": "2014-05-29T16:23:17Z"
@@ -33611,7 +33611,7 @@
         "name": "gvisor",
         "description": "Application Kernel for Containers",
         "url": "https://github.com/google/gvisor",
-        "stars": 17131,
+        "stars": 17132,
         "forks": 1446,
         "language": "Go",
         "pushed_at": "2025-11-04T13:58:01Z",
@@ -36302,7 +36302,7 @@
         "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
         "url": "https://github.com/google/leveldb",
         "stars": 38303,
-        "forks": 8067,
+        "forks": 8068,
         "language": "C++",
         "pushed_at": "2025-01-30T17:33:01Z",
         "created_at": "2014-08-27T21:17:52Z"
@@ -37402,7 +37402,7 @@
         "description": "Material Design icons by Google (Material Symbols)",
         "url": "https://github.com/google/material-design-icons",
         "stars": 52462,
-        "forks": 9679,
+        "forks": 9680,
         "language": "未指定",
         "pushed_at": "2025-09-19T02:38:15Z",
         "created_at": "2014-10-08T18:01:28Z"
@@ -37972,7 +37972,7 @@
         "description": "Snippets to allow Mobly tests to control Android devices by exposing a simplified Android API.",
         "url": "https://github.com/google/mobly-bundled-snippets",
         "stars": 54,
-        "forks": 63,
+        "forks": 64,
         "language": "Java",
         "pushed_at": "2025-09-04T17:52:49Z",
         "created_at": "2017-01-21T00:14:06Z"
@@ -39064,7 +39064,7 @@
         "stars": 1764,
         "forks": 291,
         "language": "Java",
-        "pushed_at": "2025-11-04T13:01:25Z",
+        "pushed_at": "2025-11-04T14:35:39Z",
         "created_at": "2016-02-29T20:16:48Z"
       },
       {
