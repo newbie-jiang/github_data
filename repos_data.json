@@ -369,7 +369,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-11-05T09:40:00Z",
+        "pushed_at": "2025-11-05T09:51:49Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -2676,7 +2676,7 @@
         "name": "awesome-zephyr-rtos",
         "description": "🪁 A curated list of awesome projects and resources for the Zephyr RTOS project.",
         "url": "https://github.com/zephyrproject-rtos/awesome-zephyr-rtos",
-        "stars": 38,
+        "stars": 39,
         "forks": 9,
         "language": "未指定",
         "pushed_at": "2025-11-03T15:43:39Z",
@@ -3349,7 +3349,7 @@
         "stars": 136,
         "forks": 146,
         "language": "C",
-        "pushed_at": "2025-11-03T10:57:33Z",
+        "pushed_at": "2025-11-05T10:03:03Z",
         "created_at": "2019-06-07T16:54:35Z"
       },
       {
@@ -4197,7 +4197,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 13609,
-        "forks": 8183,
+        "forks": 8184,
         "language": "C",
         "pushed_at": "2025-11-05T09:36:03Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -11249,7 +11249,7 @@
         "stars": 15673,
         "forks": 7746,
         "language": "C++",
-        "pushed_at": "2025-11-05T09:41:55Z",
+        "pushed_at": "2025-11-05T10:17:20Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -11566,7 +11566,7 @@
         "name": "esp-aliyun",
         "description": "Aliyun Iotkit-embedded, support esp32 & esp8266.",
         "url": "https://github.com/espressif/esp-aliyun",
-        "stars": 349,
+        "stars": 350,
         "forks": 148,
         "language": "C",
         "pushed_at": "2021-09-30T10:06:03Z",
@@ -11719,7 +11719,7 @@
         "stars": 348,
         "forks": 176,
         "language": "C",
-        "pushed_at": "2025-11-05T08:51:31Z",
+        "pushed_at": "2025-11-05T09:58:04Z",
         "created_at": "2021-09-14T09:33:04Z"
       },
       {
@@ -11729,7 +11729,7 @@
         "stars": 1,
         "forks": 1,
         "language": "Python",
-        "pushed_at": "2025-11-05T09:30:20Z",
+        "pushed_at": "2025-11-05T09:57:52Z",
         "created_at": "2025-04-27T03:56:17Z"
       },
       {
@@ -12026,7 +12026,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 16542,
+        "stars": 16543,
         "forks": 7943,
         "language": "C",
         "pushed_at": "2025-11-05T08:08:16Z",
@@ -12399,7 +12399,7 @@
         "stars": 4,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-11-05T08:03:16Z",
+        "pushed_at": "2025-11-05T10:05:25Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -16676,7 +16676,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 7916,
+        "stars": 7917,
         "forks": 614,
         "language": "TypeScript",
         "pushed_at": "2025-10-22T15:03:46Z",
@@ -16846,7 +16846,7 @@
         "name": "chatkit-js",
         "description": "（无简介）",
         "url": "https://github.com/openai/chatkit-js",
-        "stars": 1551,
+        "stars": 1550,
         "forks": 119,
         "language": "TypeScript",
         "pushed_at": "2025-10-27T22:31:41Z",
@@ -16896,7 +16896,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 31418,
+        "stars": 31420,
         "forks": 3820,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16926,7 +16926,7 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 49798,
+        "stars": 49800,
         "forks": 6147,
         "language": "Rust",
         "pushed_at": "2025-11-05T09:18:03Z",
@@ -16936,7 +16936,7 @@
         "name": "codex-action",
         "description": "（无简介）",
         "url": "https://github.com/openai/codex-action",
-        "stars": 661,
+        "stars": 662,
         "forks": 52,
         "language": "TypeScript",
         "pushed_at": "2025-11-05T07:07:16Z",
@@ -17156,7 +17156,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 17228,
+        "stars": 17229,
         "forks": 2830,
         "language": "Python",
         "pushed_at": "2025-11-03T21:36:50Z",
@@ -17496,7 +17496,7 @@
         "name": "harmony",
         "description": "Renderer for the harmony response format to be used with gpt-oss",
         "url": "https://github.com/openai/harmony",
-        "stars": 3969,
+        "stars": 3970,
         "forks": 224,
         "language": "Rust",
         "pushed_at": "2025-11-03T15:39:44Z",
@@ -17896,7 +17896,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 17102,
+        "stars": 17104,
         "forks": 2817,
         "language": "Python",
         "pushed_at": "2025-11-05T06:01:51Z",
@@ -18056,7 +18056,7 @@
         "name": "openai-guardrails-python",
         "description": "OpenAI Guardrails - Python",
         "url": "https://github.com/openai/openai-guardrails-python",
-        "stars": 121,
+        "stars": 122,
         "forks": 16,
         "language": "Python",
         "pushed_at": "2025-11-04T22:20:14Z",
@@ -18926,7 +18926,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 90373,
+        "stars": 90375,
         "forks": 11321,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
@@ -21199,7 +21199,7 @@
         "stars": 1180,
         "forks": 1409,
         "language": "C",
-        "pushed_at": "2025-11-05T09:48:11Z",
+        "pushed_at": "2025-11-05T09:58:22Z",
         "created_at": "2018-02-14T13:50:55Z"
       },
       {
@@ -21299,7 +21299,7 @@
         "stars": 18,
         "forks": 51,
         "language": "C",
-        "pushed_at": "2025-11-05T09:00:31Z",
+        "pushed_at": "2025-11-05T09:58:25Z",
         "created_at": "2021-01-18T11:58:41Z"
       },
       {
@@ -21721,7 +21721,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 14331,
+        "stars": 14332,
         "forks": 2175,
         "language": "Python",
         "pushed_at": "2025-11-05T07:21:00Z",
@@ -21754,7 +21754,7 @@
         "stars": 376,
         "forks": 129,
         "language": "TypeScript",
-        "pushed_at": "2025-11-04T15:25:53Z",
+        "pushed_at": "2025-11-05T10:15:13Z",
         "created_at": "2025-05-05T17:16:28Z"
       },
       {
@@ -23381,7 +23381,7 @@
         "name": "automl",
         "description": "Google Brain AutoML",
         "url": "https://github.com/google/automl",
-        "stars": 6415,
+        "stars": 6416,
         "forks": 1461,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-03-02T07:46:39Z",
@@ -28804,7 +28804,7 @@
         "stars": 120,
         "forks": 90,
         "language": "Jsonnet",
-        "pushed_at": "2025-11-05T07:24:23Z",
+        "pushed_at": "2025-11-05T10:00:20Z",
         "created_at": "2022-06-06T17:21:40Z"
       },
       {
@@ -30414,7 +30414,7 @@
         "stars": 19370,
         "forks": 2788,
         "language": "HTML",
-        "pushed_at": "2025-11-04T15:50:03Z",
+        "pushed_at": "2025-11-05T09:54:14Z",
         "created_at": "2015-02-11T23:34:54Z"
       },
       {
@@ -33244,7 +33244,7 @@
         "stars": 271,
         "forks": 136,
         "language": "Kotlin",
-        "pushed_at": "2025-11-05T05:30:17Z",
+        "pushed_at": "2025-11-05T10:10:15Z",
         "created_at": "2018-04-02T15:51:24Z"
       },
       {
@@ -33634,7 +33634,7 @@
         "stars": 17134,
         "forks": 1446,
         "language": "Go",
-        "pushed_at": "2025-11-05T09:04:09Z",
+        "pushed_at": "2025-11-05T10:14:06Z",
         "created_at": "2018-04-26T21:28:49Z"
       },
       {
@@ -35421,7 +35421,7 @@
         "name": "jaxonnxruntime",
         "description": "A user-friendly tool chain that enables the seamless execution of ONNX models using JAX as the backend.",
         "url": "https://github.com/google/jaxonnxruntime",
-        "stars": 123,
+        "stars": 124,
         "forks": 22,
         "language": "Python",
         "pushed_at": "2025-09-16T03:12:28Z",
@@ -36131,7 +36131,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 16766,
+        "stars": 16767,
         "forks": 1178,
         "language": "Python",
         "pushed_at": "2025-11-02T11:05:28Z",
@@ -36621,7 +36621,7 @@
         "name": "lightweight_mmm",
         "description": "LightweightMMM 🦇 is a lightweight Bayesian Marketing Mix Modeling (MMM) library that allows users to easily train MMMs and obtain channel attribution information.",
         "url": "https://github.com/google/lightweight_mmm",
-        "stars": 1004,
+        "stars": 1005,
         "forks": 225,
         "language": "Python",
         "pushed_at": "2025-06-17T15:20:20Z",
@@ -39421,7 +39421,7 @@
         "name": "open-location-code",
         "description": "Open Location Code is a library to generate short codes, called \"plus codes\", that can be used as digital addresses where street addresses don't exist.",
         "url": "https://github.com/google/open-location-code",
-        "stars": 4266,
+        "stars": 4267,
         "forks": 519,
         "language": "Java",
         "pushed_at": "2025-06-20T13:48:21Z",
@@ -39624,7 +39624,7 @@
         "stars": 443,
         "forks": 72,
         "language": "Python",
-        "pushed_at": "2025-11-05T08:27:49Z",
+        "pushed_at": "2025-11-05T09:53:01Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39824,7 +39824,7 @@
         "stars": 529,
         "forks": 90,
         "language": "Go",
-        "pushed_at": "2025-11-04T17:41:14Z",
+        "pushed_at": "2025-11-05T09:57:54Z",
         "created_at": "2024-04-10T09:09:11Z"
       },
       {
@@ -43351,7 +43351,7 @@
         "name": "s2geometry",
         "description": "Computational geometry and spatial indexing on the sphere",
         "url": "https://github.com/google/s2geometry",
-        "stars": 2548,
+        "stars": 2549,
         "forks": 336,
         "language": "C++",
         "pushed_at": "2025-10-24T09:06:46Z",
