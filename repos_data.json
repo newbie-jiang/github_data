@@ -309,7 +309,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-11-11T15:12:49Z",
+        "pushed_at": "2025-11-11T15:41:00Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3496,7 +3496,7 @@
         "name": "mbedtls",
         "description": "mbedtls module for Zephyr, this is not a mirror of the official mbedtls repository.",
         "url": "https://github.com/zephyrproject-rtos/mbedtls",
-        "stars": 23,
+        "stars": 24,
         "forks": 67,
         "language": "C",
         "pushed_at": "2025-11-06T10:10:00Z",
@@ -3506,7 +3506,7 @@
         "name": "mcuboot",
         "description": "Secure boot for 32-bit Microcontrollers!",
         "url": "https://github.com/zephyrproject-rtos/mcuboot",
-        "stars": 31,
+        "stars": 32,
         "forks": 86,
         "language": "C",
         "pushed_at": "2025-11-07T07:47:57Z",
@@ -3606,7 +3606,7 @@
         "name": "open-amp",
         "description": "open-amp module for zephyr, this is not an official mirror of the open-amp repo",
         "url": "https://github.com/zephyrproject-rtos/open-amp",
-        "stars": 10,
+        "stars": 11,
         "forks": 18,
         "language": "C",
         "pushed_at": "2025-11-06T09:06:42Z",
@@ -4624,7 +4624,7 @@
         "stars": 97,
         "forks": 49,
         "language": "Kotlin",
-        "pushed_at": "2025-11-11T15:12:23Z",
+        "pushed_at": "2025-11-11T16:01:16Z",
         "created_at": "2015-10-01T15:22:58Z"
       },
       {
@@ -11116,7 +11116,7 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15706,
+        "stars": 15707,
         "forks": 7747,
         "language": "C++",
         "pushed_at": "2025-11-11T01:26:56Z",
@@ -12269,7 +12269,7 @@
         "stars": 4,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2025-11-11T14:03:08Z",
+        "pushed_at": "2025-11-11T16:03:12Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -13096,7 +13096,7 @@
         "name": "ESP8266_RTOS_SDK",
         "description": "Latest ESP8266 SDK based on FreeRTOS, esp-idf style.",
         "url": "https://github.com/espressif/ESP8266_RTOS_SDK",
-        "stars": 3495,
+        "stars": 3496,
         "forks": 1600,
         "language": "C",
         "pushed_at": "2025-05-09T10:38:46Z",
@@ -13296,7 +13296,7 @@
         "name": "idf-env",
         "description": "idf-env tool helps set up and manage ESP-IDF installations",
         "url": "https://github.com/espressif/idf-env",
-        "stars": 33,
+        "stars": 34,
         "forks": 5,
         "language": "Rust",
         "pushed_at": "2025-08-12T11:06:50Z",
@@ -13359,7 +13359,7 @@
         "stars": 23,
         "forks": 2,
         "language": "Rust",
-        "pushed_at": "2025-11-11T13:37:20Z",
+        "pushed_at": "2025-11-11T15:54:39Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
@@ -13529,7 +13529,7 @@
         "stars": 258,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-11-11T15:35:42Z",
+        "pushed_at": "2025-11-11T16:07:37Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16716,7 +16716,7 @@
         "name": "chatgpt-retrieval-plugin",
         "description": "The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.",
         "url": "https://github.com/openai/chatgpt-retrieval-plugin",
-        "stars": 21230,
+        "stars": 21231,
         "forks": 3676,
         "language": "Python",
         "pushed_at": "2024-07-04T22:00:16Z",
@@ -16726,7 +16726,7 @@
         "name": "chatkit-js",
         "description": "（无简介）",
         "url": "https://github.com/openai/chatkit-js",
-        "stars": 1568,
+        "stars": 1569,
         "forks": 121,
         "language": "TypeScript",
         "pushed_at": "2025-10-27T22:31:41Z",
@@ -16776,7 +16776,7 @@
         "name": "CLIP",
         "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
         "url": "https://github.com/openai/CLIP",
-        "stars": 31497,
+        "stars": 31498,
         "forks": 3829,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-07-23T01:30:44Z",
@@ -16806,10 +16806,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 50254,
-        "forks": 6240,
+        "stars": 50255,
+        "forks": 6242,
         "language": "Rust",
-        "pushed_at": "2025-11-11T15:38:56Z",
+        "pushed_at": "2025-11-11T16:02:27Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -17636,7 +17636,7 @@
         "name": "mle-bench",
         "description": "MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering",
         "url": "https://github.com/openai/mle-bench",
-        "stars": 1151,
+        "stars": 1152,
         "forks": 173,
         "language": "Python",
         "pushed_at": "2025-11-11T09:50:37Z",
@@ -17786,7 +17786,7 @@
         "name": "openai-apps-sdk-examples",
         "description": "Example apps for the Apps SDK",
         "url": "https://github.com/openai/openai-apps-sdk-examples",
-        "stars": 1650,
+        "stars": 1651,
         "forks": 336,
         "language": "JavaScript",
         "pushed_at": "2025-11-10T19:24:20Z",
@@ -17826,7 +17826,7 @@
         "name": "openai-chatkit-advanced-samples",
         "description": "Starter app to build with OpenAI ChatKit SDK",
         "url": "https://github.com/openai/openai-chatkit-advanced-samples",
-        "stars": 439,
+        "stars": 440,
         "forks": 188,
         "language": "Python",
         "pushed_at": "2025-11-11T06:53:55Z",
@@ -17836,8 +17836,8 @@
         "name": "openai-chatkit-starter-app",
         "description": "Starter app to build with OpenAI ChatKit + Agent Builder",
         "url": "https://github.com/openai/openai-chatkit-starter-app",
-        "stars": 640,
-        "forks": 685,
+        "stars": 641,
+        "forks": 686,
         "language": "TypeScript",
         "pushed_at": "2025-10-14T12:36:38Z",
         "created_at": "2025-10-06T01:07:01Z"
@@ -17846,7 +17846,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 69132,
+        "stars": 69133,
         "forks": 11565,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-11-07T23:47:56Z",
@@ -18007,7 +18007,7 @@
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
         "stars": 29238,
-        "forks": 4408,
+        "forks": 4409,
         "language": "Python",
         "pushed_at": "2025-11-11T14:40:39Z",
         "created_at": "2020-10-25T23:23:54Z"
@@ -18516,7 +18516,7 @@
         "name": "shap-e",
         "description": "Generate 3D objects conditioned on text or images",
         "url": "https://github.com/openai/shap-e",
-        "stars": 12129,
+        "stars": 12128,
         "forks": 1049,
         "language": "Python",
         "pushed_at": "2024-06-22T19:19:14Z",
@@ -18536,7 +18536,7 @@
         "name": "simple-evals",
         "description": "（无简介）",
         "url": "https://github.com/openai/simple-evals",
-        "stars": 4162,
+        "stars": 4163,
         "forks": 448,
         "language": "Python",
         "pushed_at": "2025-07-31T19:49:09Z",
@@ -18746,7 +18746,7 @@
         "name": "Video-Pre-Training",
         "description": "Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos",
         "url": "https://github.com/openai/Video-Pre-Training",
-        "stars": 1577,
+        "stars": 1578,
         "forks": 156,
         "language": "Python",
         "pushed_at": "2025-09-03T21:51:23Z",
@@ -21571,8 +21571,8 @@
         "name": "adk-docs",
         "description": "An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-docs",
-        "stars": 668,
-        "forks": 553,
+        "stars": 673,
+        "forks": 557,
         "language": "HTML",
         "pushed_at": "2025-11-10T18:27:11Z",
         "created_at": "2025-04-01T20:44:41Z"
@@ -21581,8 +21581,8 @@
         "name": "adk-go",
         "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-go",
-        "stars": 2240,
-        "forks": 122,
+        "stars": 2250,
+        "forks": 123,
         "language": "Go",
         "pushed_at": "2025-11-11T10:31:49Z",
         "created_at": "2025-05-05T17:16:26Z"
@@ -21611,8 +21611,8 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 14767,
-        "forks": 2285,
+        "stars": 14773,
+        "forks": 2286,
         "language": "Python",
         "pushed_at": "2025-11-11T14:15:03Z",
         "created_at": "2025-04-01T20:44:40Z"
@@ -21631,7 +21631,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 6163,
+        "stars": 6164,
         "forks": 1788,
         "language": "Python",
         "pushed_at": "2025-11-11T06:03:50Z",
@@ -21641,7 +21641,7 @@
         "name": "adk-web",
         "description": "Agent Development Kit Web (adk web) is the built-in developer UI that is integrated with Agent Development Kit for easier agent development and debugging. ",
         "url": "https://github.com/google/adk-web",
-        "stars": 433,
+        "stars": 438,
         "forks": 141,
         "language": "TypeScript",
         "pushed_at": "2025-11-11T14:32:54Z",
@@ -22191,7 +22191,7 @@
         "name": "android-classyshark",
         "description": "Android and Java bytecode viewer",
         "url": "https://github.com/google/android-classyshark",
-        "stars": 7582,
+        "stars": 7581,
         "forks": 869,
         "language": "Java",
         "pushed_at": "2023-05-19T10:01:03Z",
@@ -22394,7 +22394,7 @@
         "stars": 3836,
         "forks": 685,
         "language": "C++",
-        "pushed_at": "2025-11-11T14:47:55Z",
+        "pushed_at": "2025-11-11T16:02:55Z",
         "created_at": "2014-08-26T14:59:07Z"
       },
       {
@@ -24024,7 +24024,7 @@
         "stars": 14416,
         "forks": 1303,
         "language": "TypeScript",
-        "pushed_at": "2025-11-11T15:07:56Z",
+        "pushed_at": "2025-11-11T16:10:53Z",
         "created_at": "2014-10-09T14:35:14Z"
       },
       {
@@ -25434,7 +25434,7 @@
         "stars": 7588,
         "forks": 1171,
         "language": "JavaScript",
-        "pushed_at": "2025-11-11T04:37:04Z",
+        "pushed_at": "2025-11-11T16:00:37Z",
         "created_at": "2014-04-16T15:30:36Z"
       },
       {
@@ -25704,7 +25704,7 @@
         "stars": 5490,
         "forks": 589,
         "language": "Python",
-        "pushed_at": "2025-11-11T15:37:27Z",
+        "pushed_at": "2025-11-11T16:13:28Z",
         "created_at": "2019-01-29T00:19:40Z"
       },
       {
@@ -29941,7 +29941,7 @@
         "name": "flax",
         "description": "Flax is a neural network library for JAX that is designed for flexibility.",
         "url": "https://github.com/google/flax",
-        "stars": 6903,
+        "stars": 6904,
         "forks": 755,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-11-11T09:11:26Z",
@@ -32791,7 +32791,7 @@
         "name": "googletest",
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "url": "https://github.com/google/googletest",
-        "stars": 37442,
+        "stars": 37443,
         "forks": 10574,
         "language": "C++",
         "pushed_at": "2025-11-08T10:53:52Z",
@@ -32841,7 +32841,7 @@
         "name": "gops",
         "description": "A tool to list and diagnose Go processes currently running on your system",
         "url": "https://github.com/google/gops",
-        "stars": 6984,
+        "stars": 6983,
         "forks": 337,
         "language": "Go",
         "pushed_at": "2025-09-04T20:17:40Z",
@@ -33804,7 +33804,7 @@
         "stars": 601,
         "forks": 105,
         "language": "C++",
-        "pushed_at": "2025-11-11T00:48:19Z",
+        "pushed_at": "2025-11-11T15:48:23Z",
         "created_at": "2023-04-17T21:14:13Z"
       },
       {
@@ -35032,7 +35032,7 @@
         "description": "Google IT Automation with Python Professional Certificate - Practice files",
         "url": "https://github.com/google/it-cert-automation-practice",
         "stars": 983,
-        "forks": 46003,
+        "forks": 46004,
         "language": "Python",
         "pushed_at": "2024-08-21T14:58:21Z",
         "created_at": "2019-12-17T19:04:12Z"
@@ -35991,7 +35991,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 16847,
+        "stars": 16849,
         "forks": 1187,
         "language": "Python",
         "pushed_at": "2025-11-02T11:05:28Z",
@@ -36004,7 +36004,7 @@
         "stars": 869,
         "forks": 67,
         "language": "Python",
-        "pushed_at": "2025-11-11T06:12:40Z",
+        "pushed_at": "2025-11-11T15:42:07Z",
         "created_at": "2023-08-29T17:58:47Z"
       },
       {
@@ -37041,7 +37041,7 @@
         "name": "magika",
         "description": "Fast and accurate AI powered file content types detection ",
         "url": "https://github.com/google/magika",
-        "stars": 9506,
+        "stars": 9507,
         "forks": 468,
         "language": "Python",
         "pushed_at": "2025-11-11T13:56:06Z",
@@ -39484,7 +39484,7 @@
         "stars": 449,
         "forks": 71,
         "language": "Python",
-        "pushed_at": "2025-11-11T15:30:55Z",
+        "pushed_at": "2025-11-11T15:56:48Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39644,7 +39644,7 @@
         "stars": 165,
         "forks": 44,
         "language": "Python",
-        "pushed_at": "2025-11-11T15:19:46Z",
+        "pushed_at": "2025-11-11T15:52:55Z",
         "created_at": "2021-03-23T06:04:38Z"
       },
       {
@@ -39684,7 +39684,7 @@
         "stars": 529,
         "forks": 90,
         "language": "Go",
-        "pushed_at": "2025-11-11T15:38:27Z",
+        "pushed_at": "2025-11-11T16:14:16Z",
         "created_at": "2024-04-10T09:09:11Z"
       },
       {
@@ -40264,7 +40264,7 @@
         "stars": 4923,
         "forks": 615,
         "language": "C++",
-        "pushed_at": "2025-11-11T15:28:36Z",
+        "pushed_at": "2025-11-11T16:10:30Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -41954,7 +41954,7 @@
         "stars": 5014,
         "forks": 289,
         "language": "Python",
-        "pushed_at": "2025-11-10T21:37:47Z",
+        "pushed_at": "2025-11-11T15:41:04Z",
         "created_at": "2015-03-18T20:52:08Z"
       },
       {
@@ -44304,7 +44304,7 @@
         "stars": 1332,
         "forks": 326,
         "language": "JavaScript",
-        "pushed_at": "2025-11-11T15:34:42Z",
+        "pushed_at": "2025-11-11T16:12:50Z",
         "created_at": "2019-06-11T14:20:21Z"
       },
       {
@@ -44324,7 +44324,7 @@
         "stars": 10230,
         "forks": 1639,
         "language": "C++",
-        "pushed_at": "2025-11-11T10:15:31Z",
+        "pushed_at": "2025-11-11T16:13:32Z",
         "created_at": "2014-01-09T17:09:57Z"
       },
       {
@@ -48884,7 +48884,7 @@
         "stars": 1367,
         "forks": 216,
         "language": "C++",
-        "pushed_at": "2025-11-11T07:50:34Z",
+        "pushed_at": "2025-11-11T16:06:55Z",
         "created_at": "2020-05-07T21:38:30Z"
       },
       {
@@ -48904,7 +48904,7 @@
         "stars": 2160,
         "forks": 449,
         "language": "C",
-        "pushed_at": "2025-11-11T15:05:55Z",
+        "pushed_at": "2025-11-11T16:03:32Z",
         "created_at": "2019-09-13T23:48:37Z"
       },
       {
@@ -49104,7 +49104,7 @@
         "stars": 620,
         "forks": 70,
         "language": "C++",
-        "pushed_at": "2025-11-11T13:41:52Z",
+        "pushed_at": "2025-11-11T15:46:32Z",
         "created_at": "2021-04-22T08:21:18Z"
       },
       {
