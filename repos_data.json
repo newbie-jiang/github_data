@@ -309,7 +309,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-11-14T15:38:08Z",
+        "pushed_at": "2025-11-14T16:14:50Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -2141,7 +2141,7 @@
         "name": "st7789",
         "description": "ST7789 full-featured driver library for general-purpose MCU and Linux.",
         "url": "https://github.com/libdriver/st7789",
-        "stars": 314,
+        "stars": 315,
         "forks": 50,
         "language": "C",
         "pushed_at": "2025-10-26T04:00:30Z",
@@ -8651,7 +8651,7 @@
         "name": "stm32ai-modelzoo",
         "description": "AI Model Zoo for STM32 devices",
         "url": "https://github.com/STMicroelectronics/stm32ai-modelzoo",
-        "stars": 518,
+        "stars": 519,
         "forks": 107,
         "language": "未指定",
         "pushed_at": "2025-08-05T13:09:50Z",
@@ -10254,7 +10254,7 @@
         "stars": 14,
         "forks": 5,
         "language": "C",
-        "pushed_at": "2025-03-10T09:57:14Z",
+        "pushed_at": "2025-11-14T16:26:54Z",
         "created_at": "2020-11-19T13:20:57Z"
       },
       {
@@ -10389,12 +10389,12 @@
       },
       {
         "name": "STSAFE-A120_examples",
-        "description": "Example project illustrating the implementation of STSAFE-A as symmetric cryptography companion",
+        "description": "Example projects illustrating the use of STSAFE-A120 Secure Element",
         "url": "https://github.com/STMicroelectronics/STSAFE-A120_examples",
         "stars": 2,
         "forks": 0,
-        "language": "未指定",
-        "pushed_at": "2025-11-05T17:28:58Z",
+        "language": "C",
+        "pushed_at": "2025-11-14T16:45:47Z",
         "created_at": "2025-05-19T13:10:10Z"
       },
       {
@@ -11179,7 +11179,7 @@
         "stars": 15726,
         "forks": 7751,
         "language": "C++",
-        "pushed_at": "2025-11-14T15:47:19Z",
+        "pushed_at": "2025-11-14T16:35:38Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -11936,7 +11936,7 @@
         "name": "esp-hosted",
         "description": "Hosted Solution (Linux/MCU) with ESP32 (Wi-Fi + BT + BLE)",
         "url": "https://github.com/espressif/esp-hosted",
-        "stars": 904,
+        "stars": 905,
         "forks": 204,
         "language": "C",
         "pushed_at": "2025-10-08T05:33:45Z",
@@ -12399,7 +12399,7 @@
         "stars": 264,
         "forks": 175,
         "language": "C",
-        "pushed_at": "2025-11-14T12:47:53Z",
+        "pushed_at": "2025-11-14T16:42:30Z",
         "created_at": "2021-10-04T08:47:54Z"
       },
       {
@@ -13419,7 +13419,7 @@
         "stars": 23,
         "forks": 2,
         "language": "Rust",
-        "pushed_at": "2025-11-14T13:29:57Z",
+        "pushed_at": "2025-11-14T16:43:57Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
@@ -13589,7 +13589,7 @@
         "stars": 258,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-11-14T15:48:37Z",
+        "pushed_at": "2025-11-14T16:19:39Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16716,7 +16716,7 @@
         "name": "baselines",
         "description": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
         "url": "https://github.com/openai/baselines",
-        "stars": 16546,
+        "stars": 16547,
         "forks": 4949,
         "language": "Python",
         "pushed_at": "2024-08-01T21:31:33Z",
@@ -16846,7 +16846,7 @@
         "name": "circuit_sparsity",
         "description": "Open-source release accompanying Gao et al. 2025",
         "url": "https://github.com/openai/circuit_sparsity",
-        "stars": 31,
+        "stars": 34,
         "forks": 3,
         "language": "Python",
         "pushed_at": "2025-11-13T17:55:38Z",
@@ -16886,10 +16886,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 50499,
+        "stars": 50501,
         "forks": 6291,
         "language": "Rust",
-        "pushed_at": "2025-11-14T16:10:38Z",
+        "pushed_at": "2025-11-14T16:29:08Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -17926,7 +17926,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 69182,
+        "stars": 69183,
         "forks": 11578,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-11-14T02:12:34Z",
@@ -18067,7 +18067,7 @@
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
         "stars": 10343,
-        "forks": 1300,
+        "forks": 1301,
         "language": "TypeScript",
         "pushed_at": "2025-11-13T18:19:07Z",
         "created_at": "2021-12-14T22:32:58Z"
@@ -18616,7 +18616,7 @@
         "name": "simple-evals",
         "description": "（无简介）",
         "url": "https://github.com/openai/simple-evals",
-        "stars": 4168,
+        "stars": 4167,
         "forks": 447,
         "language": "Python",
         "pushed_at": "2025-07-31T19:49:09Z",
@@ -18886,8 +18886,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 90817,
-        "forks": 11388,
+        "stars": 90819,
+        "forks": 11389,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -19014,7 +19014,7 @@
         "stars": 75,
         "forks": 70,
         "language": "Python",
-        "pushed_at": "2025-11-14T16:13:11Z",
+        "pushed_at": "2025-11-14T16:17:22Z",
         "created_at": "2020-09-30T14:08:10Z"
       },
       {
@@ -19022,7 +19022,7 @@
         "description": "Read-only mirror of Trusted Firmware-A",
         "url": "https://github.com/ARM-software/arm-trusted-firmware",
         "stars": 2127,
-        "forks": 1503,
+        "forks": 1504,
         "language": "C",
         "pushed_at": "2025-11-14T07:26:45Z",
         "created_at": "2013-10-21T11:39:00Z"
@@ -21354,7 +21354,7 @@
         "stars": 99,
         "forks": 19,
         "language": "Rust",
-        "pushed_at": "2025-11-14T15:18:12Z",
+        "pushed_at": "2025-11-14T16:37:49Z",
         "created_at": "2021-11-04T17:03:27Z"
       },
       {
@@ -21654,17 +21654,17 @@
         "stars": 947,
         "forks": 618,
         "language": "HTML",
-        "pushed_at": "2025-11-14T16:01:40Z",
+        "pushed_at": "2025-11-14T16:22:22Z",
         "created_at": "2025-04-01T20:44:41Z"
       },
       {
         "name": "adk-go",
         "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-go",
-        "stars": 3273,
+        "stars": 3276,
         "forks": 175,
         "language": "Go",
-        "pushed_at": "2025-11-14T11:23:07Z",
+        "pushed_at": "2025-11-14T16:18:14Z",
         "created_at": "2025-05-05T17:16:26Z"
       },
       {
@@ -21691,7 +21691,7 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 15023,
+        "stars": 15024,
         "forks": 2345,
         "language": "Python",
         "pushed_at": "2025-11-14T03:43:32Z",
@@ -23381,7 +23381,7 @@
         "name": "automotive-design-compose",
         "description": "Automotive Design for Compose is an extension to Jetpack Compose that allows every screen, component, and overlay of your Android App to be defined in Figma, and lets you see the latest changes to your Figma design in your app, immediately!",
         "url": "https://github.com/google/automotive-design-compose",
-        "stars": 162,
+        "stars": 163,
         "forks": 32,
         "language": "Rust",
         "pushed_at": "2025-11-14T01:04:57Z",
@@ -23701,7 +23701,7 @@
         "name": "BIG-bench",
         "description": "Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models",
         "url": "https://github.com/google/BIG-bench",
-        "stars": 3145,
+        "stars": 3144,
         "forks": 614,
         "language": "Python",
         "pushed_at": "2024-07-19T11:57:37Z",
@@ -26881,8 +26881,8 @@
         "name": "cronet-transport-for-okhttp",
         "description": "This package allows OkHttp and Retrofit users to use Cronet as their transport layer, benefiting from features like QUIC/HTTP3 support or connection migration.",
         "url": "https://github.com/google/cronet-transport-for-okhttp",
-        "stars": 521,
-        "forks": 43,
+        "stars": 522,
+        "forks": 44,
         "language": "Java",
         "pushed_at": "2024-06-14T10:14:44Z",
         "created_at": "2022-03-10T15:52:24Z"
@@ -27494,7 +27494,7 @@
         "stars": 763,
         "forks": 136,
         "language": "C++",
-        "pushed_at": "2025-11-14T14:42:09Z",
+        "pushed_at": "2025-11-14T16:40:49Z",
         "created_at": "2023-10-04T16:54:23Z"
       },
       {
@@ -27884,7 +27884,7 @@
         "stars": 58,
         "forks": 22,
         "language": "Java",
-        "pushed_at": "2025-11-14T14:53:15Z",
+        "pushed_at": "2025-11-14T16:38:37Z",
         "created_at": "2022-04-15T03:00:41Z"
       },
       {
@@ -28664,7 +28664,7 @@
         "stars": 54,
         "forks": 63,
         "language": "Java",
-        "pushed_at": "2025-11-14T08:03:35Z",
+        "pushed_at": "2025-11-14T16:42:42Z",
         "created_at": "2022-03-18T19:18:39Z"
       },
       {
@@ -33614,7 +33614,7 @@
         "stars": 329,
         "forks": 10,
         "language": "C++",
-        "pushed_at": "2025-11-14T15:23:32Z",
+        "pushed_at": "2025-11-14T16:46:34Z",
         "created_at": "2024-05-28T21:13:43Z"
       },
       {
@@ -35174,7 +35174,7 @@
         "stars": 6028,
         "forks": 992,
         "language": "Java",
-        "pushed_at": "2025-11-12T19:30:15Z",
+        "pushed_at": "2025-11-14T16:15:33Z",
         "created_at": "2014-01-30T20:19:56Z"
       },
       {
@@ -35404,7 +35404,7 @@
         "stars": 275,
         "forks": 49,
         "language": "Kotlin",
-        "pushed_at": "2025-11-14T16:14:38Z",
+        "pushed_at": "2025-11-14T16:45:13Z",
         "created_at": "2023-01-19T23:20:10Z"
       },
       {
@@ -36094,7 +36094,7 @@
         "stars": 870,
         "forks": 67,
         "language": "Python",
-        "pushed_at": "2025-11-14T05:39:21Z",
+        "pushed_at": "2025-11-14T16:45:21Z",
         "created_at": "2023-08-29T17:58:47Z"
       },
       {
@@ -36661,7 +36661,7 @@
         "name": "lisp-koans",
         "description": "Common Lisp Koans is a language learning exercise in the same vein as the ruby koans, python koans and others.   It is a port of the prior koans with some modifications to highlight lisp-specific features.  Structured as ordered groups of broken unit tests, the project guides the learner progressively through many Common Lisp language features. ",
         "url": "https://github.com/google/lisp-koans",
-        "stars": 3170,
+        "stars": 3171,
         "forks": 573,
         "language": "Common Lisp",
         "pushed_at": "2023-04-14T13:37:55Z",
@@ -37131,7 +37131,7 @@
         "name": "magika",
         "description": "Fast and accurate AI powered file content types detection ",
         "url": "https://github.com/google/magika",
-        "stars": 9671,
+        "stars": 9675,
         "forks": 473,
         "language": "Python",
         "pushed_at": "2025-11-13T20:49:08Z",
@@ -37661,7 +37661,7 @@
         "name": "metrax",
         "description": "A JAX-native High Performance Eval Metrics Library",
         "url": "https://github.com/google/metrax",
-        "stars": 28,
+        "stars": 29,
         "forks": 12,
         "language": "Python",
         "pushed_at": "2025-11-13T22:39:56Z",
@@ -39044,7 +39044,7 @@
         "stars": 1766,
         "forks": 294,
         "language": "Java",
-        "pushed_at": "2025-11-14T08:38:32Z",
+        "pushed_at": "2025-11-14T16:44:48Z",
         "created_at": "2016-02-29T20:16:48Z"
       },
       {
@@ -39564,7 +39564,7 @@
         "stars": 12672,
         "forks": 2305,
         "language": "C++",
-        "pushed_at": "2025-11-14T15:37:25Z",
+        "pushed_at": "2025-11-14T16:29:10Z",
         "created_at": "2015-02-21T01:25:35Z"
       },
       {
@@ -39584,7 +39584,7 @@
         "stars": 450,
         "forks": 71,
         "language": "Python",
-        "pushed_at": "2025-11-14T15:34:59Z",
+        "pushed_at": "2025-11-14T16:21:14Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39721,7 +39721,7 @@
         "name": "oss-fuzz",
         "description": "OSS-Fuzz - continuous fuzzing for open source software.",
         "url": "https://github.com/google/oss-fuzz",
-        "stars": 11596,
+        "stars": 11597,
         "forks": 2521,
         "language": "Shell",
         "pushed_at": "2025-11-14T11:45:46Z",
@@ -40364,7 +40364,7 @@
         "stars": 4940,
         "forks": 618,
         "language": "C++",
-        "pushed_at": "2025-11-14T15:53:09Z",
+        "pushed_at": "2025-11-14T16:29:00Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -43861,7 +43861,7 @@
         "name": "secure-aggregation",
         "description": "（无简介）",
         "url": "https://github.com/google/secure-aggregation",
-        "stars": 2,
+        "stars": 3,
         "forks": 2,
         "language": "Rust",
         "pushed_at": "2025-11-14T00:04:01Z",
