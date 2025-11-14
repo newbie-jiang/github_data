@@ -309,7 +309,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-11-14T14:39:38Z",
+        "pushed_at": "2025-11-14T15:11:55Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4774,7 +4774,7 @@
         "stars": 1,
         "forks": 4,
         "language": "C",
-        "pushed_at": "2025-02-25T16:05:31Z",
+        "pushed_at": "2025-11-14T15:32:12Z",
         "created_at": "2024-03-21T09:12:25Z"
       },
       {
@@ -4814,7 +4814,7 @@
         "stars": 9,
         "forks": 5,
         "language": "C",
-        "pushed_at": "2025-06-17T16:09:54Z",
+        "pushed_at": "2025-11-14T15:25:55Z",
         "created_at": "2020-01-17T15:53:28Z"
       },
       {
@@ -9754,7 +9754,7 @@
         "stars": 8,
         "forks": 8,
         "language": "C",
-        "pushed_at": "2025-09-19T09:00:39Z",
+        "pushed_at": "2025-11-14T15:37:22Z",
         "created_at": "2020-01-29T15:43:55Z"
       },
       {
@@ -11179,7 +11179,7 @@
         "stars": 15726,
         "forks": 7751,
         "language": "C++",
-        "pushed_at": "2025-11-14T08:47:23Z",
+        "pushed_at": "2025-11-14T15:33:23Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -11356,8 +11356,8 @@
         "name": "conventional-precommit-linter",
         "description": "Pre-commit hook script for linting conventional commit style",
         "url": "https://github.com/espressif/conventional-precommit-linter",
-        "stars": 12,
-        "forks": 0,
+        "stars": 13,
+        "forks": 1,
         "language": "Python",
         "pushed_at": "2024-10-03T16:01:44Z",
         "created_at": "2023-06-08T06:56:48Z"
@@ -11457,7 +11457,7 @@
         "description": "Espressif Advanced Development Framework for Multimedia Applications",
         "url": "https://github.com/espressif/esp-adf",
         "stars": 2084,
-        "forks": 818,
+        "forks": 819,
         "language": "C",
         "pushed_at": "2025-11-12T04:44:32Z",
         "created_at": "2018-04-02T07:03:49Z"
@@ -11696,7 +11696,7 @@
         "name": "esp-csi",
         "description": "Applications based on Wi-Fi CSI (Channel state information), such as indoor positioning, human detection",
         "url": "https://github.com/espressif/esp-csi",
-        "stars": 948,
+        "stars": 949,
         "forks": 137,
         "language": "C",
         "pushed_at": "2025-07-21T07:00:10Z",
@@ -11747,7 +11747,7 @@
         "description": "Espressif deep-learning library for AIoT applications",
         "url": "https://github.com/espressif/esp-dl",
         "stars": 828,
-        "forks": 169,
+        "forks": 170,
         "language": "Assembly",
         "pushed_at": "2025-11-14T11:01:31Z",
         "created_at": "2018-11-16T04:01:02Z"
@@ -12679,7 +12679,7 @@
         "stars": 53,
         "forks": 35,
         "language": "C",
-        "pushed_at": "2025-11-14T10:25:16Z",
+        "pushed_at": "2025-11-14T15:26:09Z",
         "created_at": "2024-01-18T07:20:01Z"
       },
       {
@@ -13339,7 +13339,7 @@
         "stars": 60,
         "forks": 18,
         "language": "Python",
-        "pushed_at": "2025-11-14T11:44:54Z",
+        "pushed_at": "2025-11-14T15:37:24Z",
         "created_at": "2021-09-13T13:03:48Z"
       },
       {
@@ -13589,7 +13589,7 @@
         "stars": 258,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-11-14T14:45:38Z",
+        "pushed_at": "2025-11-14T15:17:43Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16464,7 +16464,7 @@
         "stars": 11538,
         "forks": 5315,
         "language": "C",
-        "pushed_at": "2025-11-14T04:44:52Z",
+        "pushed_at": "2025-11-14T15:32:08Z",
         "created_at": "2013-01-02T14:49:21Z"
       },
       {
@@ -16886,10 +16886,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 50495,
+        "stars": 50497,
         "forks": 6291,
         "language": "Rust",
-        "pushed_at": "2025-11-14T15:11:29Z",
+        "pushed_at": "2025-11-14T15:37:37Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -17336,7 +17336,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 19186,
+        "stars": 19187,
         "forks": 1921,
         "language": "Python",
         "pushed_at": "2025-11-01T03:58:51Z",
@@ -17456,7 +17456,7 @@
         "name": "harmony",
         "description": "Renderer for the harmony response format to be used with gpt-oss",
         "url": "https://github.com/openai/harmony",
-        "stars": 4004,
+        "stars": 4005,
         "forks": 225,
         "language": "Rust",
         "pushed_at": "2025-11-05T18:52:26Z",
@@ -17717,7 +17717,7 @@
         "description": "MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering",
         "url": "https://github.com/openai/mle-bench",
         "stars": 1172,
-        "forks": 177,
+        "forks": 178,
         "language": "Python",
         "pushed_at": "2025-11-13T15:13:11Z",
         "created_at": "2024-10-08T17:07:40Z"
@@ -17856,7 +17856,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 17308,
+        "stars": 17309,
         "forks": 2855,
         "language": "Python",
         "pushed_at": "2025-11-14T12:09:41Z",
@@ -17926,8 +17926,8 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 69181,
-        "forks": 11577,
+        "stars": 69182,
+        "forks": 11578,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-11-14T02:12:34Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -18629,7 +18629,7 @@
         "stars": 42,
         "forks": 6,
         "language": "Swift",
-        "pushed_at": "2025-11-14T04:19:06Z",
+        "pushed_at": "2025-11-14T15:25:52Z",
         "created_at": "2025-08-25T23:43:23Z"
       },
       {
@@ -18886,7 +18886,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 90815,
+        "stars": 90817,
         "forks": 11388,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
@@ -19194,7 +19194,7 @@
         "stars": 12,
         "forks": 29,
         "language": "C",
-        "pushed_at": "2025-09-29T14:02:57Z",
+        "pushed_at": "2025-11-14T15:23:56Z",
         "created_at": "2020-09-30T14:06:29Z"
       },
       {
@@ -21354,7 +21354,7 @@
         "stars": 99,
         "forks": 19,
         "language": "Rust",
-        "pushed_at": "2025-11-14T14:44:21Z",
+        "pushed_at": "2025-11-14T15:18:12Z",
         "created_at": "2021-11-04T17:03:27Z"
       },
       {
@@ -21651,17 +21651,17 @@
         "name": "adk-docs",
         "description": "An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-docs",
-        "stars": 946,
+        "stars": 947,
         "forks": 618,
         "language": "HTML",
-        "pushed_at": "2025-11-14T05:17:53Z",
+        "pushed_at": "2025-11-14T15:33:47Z",
         "created_at": "2025-04-01T20:44:41Z"
       },
       {
         "name": "adk-go",
         "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-go",
-        "stars": 3261,
+        "stars": 3267,
         "forks": 175,
         "language": "Go",
         "pushed_at": "2025-11-14T11:23:07Z",
@@ -21712,7 +21712,7 @@
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
         "stars": 6252,
-        "forks": 1816,
+        "forks": 1817,
         "language": "Python",
         "pushed_at": "2025-11-14T11:41:28Z",
         "created_at": "2025-04-01T20:44:42Z"
@@ -21721,7 +21721,7 @@
         "name": "adk-web",
         "description": "Agent Development Kit Web (adk web) is the built-in developer UI that is integrated with Agent Development Kit for easier agent development and debugging. ",
         "url": "https://github.com/google/adk-web",
-        "stars": 611,
+        "stars": 612,
         "forks": 152,
         "language": "TypeScript",
         "pushed_at": "2025-11-14T15:00:50Z",
@@ -23631,7 +23631,7 @@
         "name": "benchmark",
         "description": "A microbenchmark support library",
         "url": "https://github.com/google/benchmark",
-        "stars": 9823,
+        "stars": 9824,
         "forks": 1711,
         "language": "C++",
         "pushed_at": "2025-11-12T20:48:34Z",
@@ -23732,7 +23732,7 @@
         "description": "Quickly find differences and similarities in disassembled code",
         "url": "https://github.com/google/bindiff",
         "stars": 2793,
-        "forks": 203,
+        "forks": 204,
         "language": "Java",
         "pushed_at": "2025-11-10T10:39:48Z",
         "created_at": "2023-09-20T06:41:55Z"
@@ -27214,7 +27214,7 @@
         "stars": 17659,
         "forks": 2040,
         "language": "Java",
-        "pushed_at": "2025-11-14T01:00:18Z",
+        "pushed_at": "2025-11-14T15:34:56Z",
         "created_at": "2013-02-01T23:14:14Z"
       },
       {
@@ -28054,7 +28054,7 @@
         "stars": 3249,
         "forks": 406,
         "language": "Go",
-        "pushed_at": "2025-11-14T09:46:52Z",
+        "pushed_at": "2025-11-14T15:31:05Z",
         "created_at": "2019-09-04T13:04:15Z"
       },
       {
@@ -28754,7 +28754,7 @@
         "stars": 120,
         "forks": 91,
         "language": "Jsonnet",
-        "pushed_at": "2025-11-14T15:10:05Z",
+        "pushed_at": "2025-11-14T15:25:49Z",
         "created_at": "2022-06-06T17:21:40Z"
       },
       {
@@ -29261,7 +29261,7 @@
         "name": "error-prone",
         "description": "Catch common Java mistakes as compile-time errors",
         "url": "https://github.com/google/error-prone",
-        "stars": 7080,
+        "stars": 7081,
         "forks": 772,
         "language": "Java",
         "pushed_at": "2025-11-14T14:22:51Z",
@@ -29974,7 +29974,7 @@
         "stars": 10,
         "forks": 1,
         "language": "Python",
-        "pushed_at": "2025-11-10T13:56:59Z",
+        "pushed_at": "2025-11-14T15:31:23Z",
         "created_at": "2024-10-30T10:40:19Z"
       },
       {
@@ -30364,7 +30364,7 @@
         "stars": 19406,
         "forks": 2795,
         "language": "HTML",
-        "pushed_at": "2025-11-14T15:05:47Z",
+        "pushed_at": "2025-11-14T15:20:19Z",
         "created_at": "2015-02-11T23:34:54Z"
       },
       {
@@ -30824,7 +30824,7 @@
         "stars": 8,
         "forks": 3,
         "language": "Python",
-        "pushed_at": "2025-11-14T13:34:43Z",
+        "pushed_at": "2025-11-14T15:33:03Z",
         "created_at": "2024-11-08T13:28:56Z"
       },
       {
@@ -32044,7 +32044,7 @@
         "stars": 11013,
         "forks": 2182,
         "language": "Go",
-        "pushed_at": "2025-11-14T15:07:49Z",
+        "pushed_at": "2025-11-14T15:26:00Z",
         "created_at": "2013-05-24T16:42:58Z"
       },
       {
@@ -32511,8 +32511,8 @@
         "name": "google-api-javascript-client",
         "description": "Google APIs Client Library for browser JavaScript, aka gapi.",
         "url": "https://github.com/google/google-api-javascript-client",
-        "stars": 3436,
-        "forks": 1120,
+        "stars": 3437,
+        "forks": 1121,
         "language": "CSS",
         "pushed_at": "2024-08-23T19:41:51Z",
         "created_at": "2014-12-11T05:39:35Z"
@@ -32882,7 +32882,7 @@
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "url": "https://github.com/google/googletest",
         "stars": 37450,
-        "forks": 10578,
+        "forks": 10577,
         "language": "C++",
         "pushed_at": "2025-11-12T02:58:26Z",
         "created_at": "2015-07-28T15:07:53Z"
@@ -33614,7 +33614,7 @@
         "stars": 329,
         "forks": 10,
         "language": "C++",
-        "pushed_at": "2025-11-14T14:43:52Z",
+        "pushed_at": "2025-11-14T15:23:32Z",
         "created_at": "2024-05-28T21:13:43Z"
       },
       {
@@ -35122,7 +35122,7 @@
         "description": "Google IT Automation with Python Professional Certificate - Practice files",
         "url": "https://github.com/google/it-cert-automation-practice",
         "stars": 986,
-        "forks": 46016,
+        "forks": 46015,
         "language": "Python",
         "pushed_at": "2024-08-21T14:58:21Z",
         "created_at": "2019-12-17T19:04:12Z"
@@ -37131,7 +37131,7 @@
         "name": "magika",
         "description": "Fast and accurate AI powered file content types detection ",
         "url": "https://github.com/google/magika",
-        "stars": 9664,
+        "stars": 9668,
         "forks": 473,
         "language": "Python",
         "pushed_at": "2025-11-13T20:49:08Z",
@@ -39564,7 +39564,7 @@
         "stars": 12672,
         "forks": 2305,
         "language": "C++",
-        "pushed_at": "2025-11-14T14:41:32Z",
+        "pushed_at": "2025-11-14T15:37:25Z",
         "created_at": "2015-02-21T01:25:35Z"
       },
       {
@@ -39584,7 +39584,7 @@
         "stars": 450,
         "forks": 71,
         "language": "Python",
-        "pushed_at": "2025-11-14T05:50:05Z",
+        "pushed_at": "2025-11-14T15:34:59Z",
         "created_at": "2022-05-06T17:36:22Z"
       },
       {
@@ -39721,7 +39721,7 @@
         "name": "oss-fuzz",
         "description": "OSS-Fuzz - continuous fuzzing for open source software.",
         "url": "https://github.com/google/oss-fuzz",
-        "stars": 11595,
+        "stars": 11596,
         "forks": 2521,
         "language": "Shell",
         "pushed_at": "2025-11-14T11:45:46Z",
@@ -40364,7 +40364,7 @@
         "stars": 4940,
         "forks": 618,
         "language": "C++",
-        "pushed_at": "2025-11-14T15:10:07Z",
+        "pushed_at": "2025-11-14T15:30:21Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -42934,7 +42934,7 @@
         "stars": 462,
         "forks": 61,
         "language": "C++",
-        "pushed_at": "2025-11-12T19:49:03Z",
+        "pushed_at": "2025-11-14T15:35:58Z",
         "created_at": "2018-01-03T15:05:56Z"
       },
       {
@@ -46174,7 +46174,7 @@
         "stars": 4982,
         "forks": 530,
         "language": "C++",
-        "pushed_at": "2025-11-14T08:45:38Z",
+        "pushed_at": "2025-11-14T15:16:00Z",
         "created_at": "2019-08-23T14:02:59Z"
       },
       {
@@ -48984,7 +48984,7 @@
         "stars": 1370,
         "forks": 217,
         "language": "C++",
-        "pushed_at": "2025-11-14T15:01:57Z",
+        "pushed_at": "2025-11-14T15:31:42Z",
         "created_at": "2020-05-07T21:38:30Z"
       },
       {
