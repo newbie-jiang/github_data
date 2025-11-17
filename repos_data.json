@@ -309,7 +309,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-11-17T04:18:15Z",
+        "pushed_at": "2025-11-17T04:45:15Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -7871,7 +7871,7 @@
         "name": "stm32-mw-lwip",
         "description": "Provides the LwIP library part of the STM32Cube MCU Component \"middleware\" for all STM32xx series.",
         "url": "https://github.com/STMicroelectronics/stm32-mw-lwip",
-        "stars": 30,
+        "stars": 31,
         "forks": 12,
         "language": "C",
         "pushed_at": "2025-10-06T09:34:06Z",
@@ -11196,7 +11196,7 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 15738,
+        "stars": 15739,
         "forks": 7751,
         "language": "C++",
         "pushed_at": "2025-11-17T01:27:16Z",
@@ -11946,7 +11946,7 @@
         "name": "esp-homekit-sdk",
         "description": "（无简介）",
         "url": "https://github.com/espressif/esp-homekit-sdk",
-        "stars": 635,
+        "stars": 636,
         "forks": 116,
         "language": "C",
         "pushed_at": "2025-06-06T15:42:24Z",
@@ -13609,7 +13609,7 @@
         "stars": 258,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-11-17T01:11:37Z",
+        "pushed_at": "2025-11-17T04:48:38Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16906,10 +16906,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 50661,
+        "stars": 50664,
         "forks": 6335,
         "language": "Rust",
-        "pushed_at": "2025-11-17T04:35:06Z",
+        "pushed_at": "2025-11-17T05:07:42Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -17356,7 +17356,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 19208,
+        "stars": 19209,
         "forks": 1925,
         "language": "Python",
         "pushed_at": "2025-11-01T03:58:51Z",
@@ -17876,7 +17876,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 17352,
+        "stars": 17353,
         "forks": 2863,
         "language": "Python",
         "pushed_at": "2025-11-17T02:39:13Z",
@@ -17929,7 +17929,7 @@
         "stars": 455,
         "forks": 201,
         "language": "未指定",
-        "pushed_at": "2025-11-17T04:20:45Z",
+        "pushed_at": "2025-11-17T05:10:05Z",
         "created_at": "2025-10-06T01:08:49Z"
       },
       {
@@ -18019,7 +18019,7 @@
         "stars": 2706,
         "forks": 233,
         "language": "Go",
-        "pushed_at": "2025-11-16T05:11:20Z",
+        "pushed_at": "2025-11-17T05:07:41Z",
         "created_at": "2024-07-22T19:29:26Z"
       },
       {
@@ -18089,7 +18089,7 @@
         "stars": 10356,
         "forks": 1304,
         "language": "TypeScript",
-        "pushed_at": "2025-11-16T05:07:33Z",
+        "pushed_at": "2025-11-17T05:08:46Z",
         "created_at": "2021-12-14T22:32:58Z"
       },
       {
@@ -18906,7 +18906,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 90907,
+        "stars": 90908,
         "forks": 11401,
         "language": "Python",
         "pushed_at": "2025-09-08T10:58:26Z",
@@ -21681,7 +21681,7 @@
         "name": "adk-go",
         "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-go",
-        "stars": 3672,
+        "stars": 3676,
         "forks": 213,
         "language": "Go",
         "pushed_at": "2025-11-14T16:18:14Z",
@@ -21711,10 +21711,10 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 15161,
+        "stars": 15165,
         "forks": 2374,
         "language": "Python",
-        "pushed_at": "2025-11-15T22:08:07Z",
+        "pushed_at": "2025-11-17T04:55:18Z",
         "created_at": "2025-04-01T20:44:40Z"
       },
       {
@@ -21731,7 +21731,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 6311,
+        "stars": 6312,
         "forks": 1838,
         "language": "Python",
         "pushed_at": "2025-11-16T10:55:23Z",
@@ -21741,8 +21741,8 @@
         "name": "adk-web",
         "description": "Agent Development Kit Web (adk web) is the built-in developer UI that is integrated with Agent Development Kit for easier agent development and debugging. ",
         "url": "https://github.com/google/adk-web",
-        "stars": 626,
-        "forks": 153,
+        "stars": 627,
+        "forks": 154,
         "language": "TypeScript",
         "pushed_at": "2025-11-16T00:41:17Z",
         "created_at": "2025-05-05T17:16:28Z"
@@ -27661,7 +27661,7 @@
         "name": "deeppolisher",
         "description": "Transformer-based sequence correction method for genome assembly polishing",
         "url": "https://github.com/google/deeppolisher",
-        "stars": 94,
+        "stars": 93,
         "forks": 7,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-03-11T16:18:02Z",
@@ -27904,7 +27904,7 @@
         "stars": 58,
         "forks": 23,
         "language": "Java",
-        "pushed_at": "2025-11-17T04:08:46Z",
+        "pushed_at": "2025-11-17T04:52:55Z",
         "created_at": "2022-04-15T03:00:41Z"
       },
       {
@@ -36101,8 +36101,8 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 16897,
-        "forks": 1189,
+        "stars": 16898,
+        "forks": 1190,
         "language": "Python",
         "pushed_at": "2025-11-15T00:14:51Z",
         "created_at": "2025-07-08T20:46:06Z"
@@ -36111,8 +36111,8 @@
         "name": "langfun",
         "description": "OO for LLMs",
         "url": "https://github.com/google/langfun",
-        "stars": 870,
-        "forks": 67,
+        "stars": 871,
+        "forks": 68,
         "language": "Python",
         "pushed_at": "2025-11-17T02:52:41Z",
         "created_at": "2023-08-29T17:58:47Z"
@@ -39064,7 +39064,7 @@
         "stars": 1767,
         "forks": 295,
         "language": "Java",
-        "pushed_at": "2025-11-17T00:31:24Z",
+        "pushed_at": "2025-11-17T04:58:55Z",
         "created_at": "2016-02-29T20:16:48Z"
       },
       {
@@ -43601,7 +43601,7 @@
         "name": "sanitizers",
         "description": "AddressSanitizer, ThreadSanitizer, MemorySanitizer",
         "url": "https://github.com/google/sanitizers",
-        "stars": 12209,
+        "stars": 12210,
         "forks": 1080,
         "language": "C",
         "pushed_at": "2025-10-02T09:06:30Z",
@@ -44051,7 +44051,7 @@
         "name": "sentencepiece",
         "description": "Unsupervised text tokenizer for Neural Network-based text generation.",
         "url": "https://github.com/google/sentencepiece",
-        "stars": 11441,
+        "stars": 11440,
         "forks": 1308,
         "language": "C++",
         "pushed_at": "2025-11-06T01:31:13Z",
@@ -44444,7 +44444,7 @@
         "stars": 10245,
         "forks": 1643,
         "language": "C++",
-        "pushed_at": "2025-11-17T04:28:32Z",
+        "pushed_at": "2025-11-17T04:54:31Z",
         "created_at": "2014-01-09T17:09:57Z"
       },
       {
@@ -47194,7 +47194,7 @@
         "stars": 1864,
         "forks": 167,
         "language": "Python",
-        "pushed_at": "2025-11-17T04:12:33Z",
+        "pushed_at": "2025-11-17T04:53:18Z",
         "created_at": "2025-04-02T22:19:15Z"
       },
       {
