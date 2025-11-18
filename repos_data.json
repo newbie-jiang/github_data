@@ -309,7 +309,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2025-11-18T11:36:34Z",
+        "pushed_at": "2025-11-18T12:23:42Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -3146,7 +3146,7 @@
         "name": "hal_nxp",
         "description": "HAL module for NXP SoCs",
         "url": "https://github.com/zephyrproject-rtos/hal_nxp",
-        "stars": 40,
+        "stars": 41,
         "forks": 166,
         "language": "C",
         "pushed_at": "2025-11-14T16:57:05Z",
@@ -8671,7 +8671,7 @@
         "name": "stm32ai-modelzoo",
         "description": "AI Model Zoo for STM32 devices",
         "url": "https://github.com/STMicroelectronics/stm32ai-modelzoo",
-        "stars": 521,
+        "stars": 522,
         "forks": 107,
         "language": "未指定",
         "pushed_at": "2025-11-17T16:34:53Z",
@@ -12699,7 +12699,7 @@
         "stars": 53,
         "forks": 35,
         "language": "C",
-        "pushed_at": "2025-11-17T21:49:25Z",
+        "pushed_at": "2025-11-18T12:37:29Z",
         "created_at": "2024-01-18T07:20:01Z"
       },
       {
@@ -12946,7 +12946,7 @@
         "name": "esp32-camera",
         "description": "（无简介）",
         "url": "https://github.com/espressif/esp32-camera",
-        "stars": 2441,
+        "stars": 2442,
         "forks": 743,
         "language": "C",
         "pushed_at": "2025-11-06T08:45:38Z",
@@ -13399,7 +13399,7 @@
         "stars": 215,
         "forks": 118,
         "language": "C",
-        "pushed_at": "2025-11-14T08:26:28Z",
+        "pushed_at": "2025-11-18T12:44:01Z",
         "created_at": "2021-11-16T17:59:26Z"
       },
       {
@@ -13439,7 +13439,7 @@
         "stars": 23,
         "forks": 2,
         "language": "Rust",
-        "pushed_at": "2025-11-18T11:49:53Z",
+        "pushed_at": "2025-11-18T12:46:22Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
@@ -13609,7 +13609,7 @@
         "stars": 258,
         "forks": 27,
         "language": "LLVM",
-        "pushed_at": "2025-11-18T11:52:40Z",
+        "pushed_at": "2025-11-18T12:54:38Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16636,7 +16636,7 @@
         "name": "agents.md",
         "description": "AGENTS.md — a simple, open format for guiding coding agents",
         "url": "https://github.com/openai/agents.md",
-        "stars": 8315,
+        "stars": 8316,
         "forks": 647,
         "language": "TypeScript",
         "pushed_at": "2025-10-22T15:03:46Z",
@@ -16897,7 +16897,7 @@
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
         "stars": 50803,
-        "forks": 6356,
+        "forks": 6359,
         "language": "Rust",
         "pushed_at": "2025-11-18T12:09:26Z",
         "created_at": "2025-04-13T05:37:54Z"
@@ -17286,7 +17286,7 @@
         "name": "gpt-2",
         "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
         "url": "https://github.com/openai/gpt-2",
-        "stars": 24388,
+        "stars": 24389,
         "forks": 5821,
         "language": "Python",
         "pushed_at": "2024-08-14T10:50:53Z",
@@ -17927,7 +17927,7 @@
         "description": "Starter app to build with OpenAI ChatKit + Agent Builder",
         "url": "https://github.com/openai/openai-chatkit-starter-app",
         "stars": 661,
-        "forks": 742,
+        "forks": 743,
         "language": "TypeScript",
         "pushed_at": "2025-10-14T12:36:38Z",
         "created_at": "2025-10-06T01:07:01Z"
@@ -17936,8 +17936,8 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 69258,
-        "forks": 11608,
+        "stars": 69259,
+        "forks": 11607,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-11-15T11:41:01Z",
         "created_at": "2022-03-11T02:08:53Z"
@@ -17976,7 +17976,7 @@
         "name": "openai-dotnet",
         "description": "The official .NET library for the OpenAI API",
         "url": "https://github.com/openai/openai-dotnet",
-        "stars": 2411,
+        "stars": 2412,
         "forks": 341,
         "language": "C#",
         "pushed_at": "2025-11-18T04:24:13Z",
@@ -18606,7 +18606,7 @@
         "name": "shap-e",
         "description": "Generate 3D objects conditioned on text or images",
         "url": "https://github.com/openai/shap-e",
-        "stars": 12151,
+        "stars": 12152,
         "forks": 1050,
         "language": "Python",
         "pushed_at": "2024-06-22T19:19:14Z",
@@ -21169,7 +21169,7 @@
         "stars": 1194,
         "forks": 1415,
         "language": "C",
-        "pushed_at": "2025-11-18T12:17:30Z",
+        "pushed_at": "2025-11-18T12:58:44Z",
         "created_at": "2018-02-14T13:50:55Z"
       },
       {
@@ -21179,7 +21179,7 @@
         "stars": 14,
         "forks": 25,
         "language": "C",
-        "pushed_at": "2025-11-18T09:58:05Z",
+        "pushed_at": "2025-11-18T13:00:56Z",
         "created_at": "2024-10-14T12:43:23Z"
       },
       {
@@ -21671,7 +21671,7 @@
         "name": "adk-go",
         "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-go",
-        "stars": 3906,
+        "stars": 3907,
         "forks": 235,
         "language": "Go",
         "pushed_at": "2025-11-17T15:07:24Z",
@@ -21684,7 +21684,7 @@
         "stars": 914,
         "forks": 196,
         "language": "Java",
-        "pushed_at": "2025-11-17T21:54:57Z",
+        "pushed_at": "2025-11-18T12:26:02Z",
         "created_at": "2025-05-05T17:16:25Z"
       },
       {
@@ -21721,7 +21721,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 6330,
+        "stars": 6331,
         "forks": 1849,
         "language": "Python",
         "pushed_at": "2025-11-17T16:23:47Z",
@@ -24114,7 +24114,7 @@
         "stars": 14433,
         "forks": 1302,
         "language": "TypeScript",
-        "pushed_at": "2025-11-18T11:17:11Z",
+        "pushed_at": "2025-11-18T12:41:38Z",
         "created_at": "2014-10-09T14:35:14Z"
       },
       {
@@ -25794,7 +25794,7 @@
         "stars": 5492,
         "forks": 592,
         "language": "Python",
-        "pushed_at": "2025-11-18T12:10:28Z",
+        "pushed_at": "2025-11-18T12:52:07Z",
         "created_at": "2019-01-29T00:19:40Z"
       },
       {
@@ -28294,7 +28294,7 @@
         "stars": 2866,
         "forks": 953,
         "language": "JavaScript",
-        "pushed_at": "2025-11-17T22:51:28Z",
+        "pushed_at": "2025-11-18T13:03:41Z",
         "created_at": "2018-10-15T20:59:47Z"
       },
       {
@@ -28674,7 +28674,7 @@
         "stars": 54,
         "forks": 63,
         "language": "Java",
-        "pushed_at": "2025-11-18T08:26:47Z",
+        "pushed_at": "2025-11-18T12:27:55Z",
         "created_at": "2022-03-18T19:18:39Z"
       },
       {
@@ -29911,7 +29911,7 @@
         "name": "filament",
         "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
         "url": "https://github.com/google/filament",
-        "stars": 19048,
+        "stars": 19049,
         "forks": 2056,
         "language": "C++",
         "pushed_at": "2025-11-18T01:04:17Z",
@@ -29982,9 +29982,9 @@
         "description": "AI Creative Concept Analysis",
         "url": "https://github.com/google/filonov",
         "stars": 10,
-        "forks": 1,
+        "forks": 2,
         "language": "Python",
-        "pushed_at": "2025-11-18T10:53:03Z",
+        "pushed_at": "2025-11-18T12:31:57Z",
         "created_at": "2024-10-30T10:40:19Z"
       },
       {
@@ -30021,7 +30021,7 @@
         "name": "flatbuffers",
         "description": "FlatBuffers: Memory Efficient Serialization Library",
         "url": "https://github.com/google/flatbuffers",
-        "stars": 25046,
+        "stars": 25047,
         "forks": 3425,
         "language": "C++",
         "pushed_at": "2025-11-17T22:31:32Z",
@@ -30601,7 +30601,7 @@
         "name": "fully-homomorphic-encryption",
         "description": "An FHE compiler for C++",
         "url": "https://github.com/google/fully-homomorphic-encryption",
-        "stars": 3612,
+        "stars": 3613,
         "forks": 266,
         "language": "C++",
         "pushed_at": "2025-09-16T22:40:43Z",
@@ -31091,7 +31091,7 @@
         "name": "generative-ai-docs",
         "description": "Documentation for Google's Gen AI site - including the Gemini API and Gemma",
         "url": "https://github.com/google/generative-ai-docs",
-        "stars": 2192,
+        "stars": 2193,
         "forks": 738,
         "language": "Jupyter Notebook",
         "pushed_at": "2025-10-09T03:18:39Z",
@@ -31314,7 +31314,7 @@
         "stars": 19,
         "forks": 11,
         "language": "C++",
-        "pushed_at": "2025-11-17T19:48:45Z",
+        "pushed_at": "2025-11-18T12:42:08Z",
         "created_at": "2025-05-07T22:21:39Z"
       },
       {
@@ -32741,7 +32741,7 @@
         "name": "google-toolbox-for-mac",
         "description": "Google Toolbox for Mac",
         "url": "https://github.com/google/google-toolbox-for-mac",
-        "stars": 1188,
+        "stars": 1189,
         "forks": 266,
         "language": "Objective-C",
         "pushed_at": "2025-11-17T04:09:57Z",
@@ -36291,7 +36291,7 @@
         "name": "leveldb",
         "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
         "url": "https://github.com/google/leveldb",
-        "stars": 38345,
+        "stars": 38346,
         "forks": 8081,
         "language": "C++",
         "pushed_at": "2025-01-30T17:33:01Z",
@@ -37151,7 +37151,7 @@
         "name": "magika",
         "description": "Fast and accurate AI powered file content types detection ",
         "url": "https://github.com/google/magika",
-        "stars": 9776,
+        "stars": 9777,
         "forks": 475,
         "language": "Python",
         "pushed_at": "2025-11-13T20:49:08Z",
@@ -39584,7 +39584,7 @@
         "stars": 12682,
         "forks": 2305,
         "language": "C++",
-        "pushed_at": "2025-11-18T10:30:22Z",
+        "pushed_at": "2025-11-18T12:56:27Z",
         "created_at": "2015-02-21T01:25:35Z"
       },
       {
@@ -39804,7 +39804,7 @@
         "stars": 529,
         "forks": 90,
         "language": "Go",
-        "pushed_at": "2025-11-18T10:54:31Z",
+        "pushed_at": "2025-11-18T13:05:52Z",
         "created_at": "2024-04-10T09:09:11Z"
       },
       {
@@ -40384,7 +40384,7 @@
         "stars": 4961,
         "forks": 619,
         "language": "C++",
-        "pushed_at": "2025-11-18T11:46:37Z",
+        "pushed_at": "2025-11-18T12:26:04Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -42071,7 +42071,7 @@
         "name": "pytype",
         "description": "A static type analyzer for Python code",
         "url": "https://github.com/google/pytype",
-        "stars": 5014,
+        "stars": 5015,
         "forks": 289,
         "language": "Python",
         "pushed_at": "2025-11-17T11:23:32Z",
@@ -43734,7 +43734,7 @@
         "stars": 1102,
         "forks": 46,
         "language": "TypeScript",
-        "pushed_at": "2025-10-05T19:10:12Z",
+        "pushed_at": "2025-11-18T13:01:17Z",
         "created_at": "2018-11-29T21:45:45Z"
       },
       {
@@ -44454,7 +44454,7 @@
         "stars": 157,
         "forks": 79,
         "language": "Go",
-        "pushed_at": "2025-11-18T11:57:31Z",
+        "pushed_at": "2025-11-18T12:47:31Z",
         "created_at": "2014-01-09T17:10:17Z"
       },
       {
@@ -48531,7 +48531,7 @@
         "name": "webauthndemo",
         "description": "An example Node.js Relying Party implementation of the WebAuthn specification",
         "url": "https://github.com/google/webauthndemo",
-        "stars": 620,
+        "stars": 621,
         "forks": 132,
         "language": "TypeScript",
         "pushed_at": "2025-05-29T01:16:22Z",
@@ -48892,7 +48892,7 @@
         "description": "（无简介）",
         "url": "https://github.com/google/wuffs-mirror-release-c",
         "stars": 38,
-        "forks": 20,
+        "forks": 21,
         "language": "C",
         "pushed_at": "2025-03-25T02:53:54Z",
         "created_at": "2021-03-30T21:07:49Z"
@@ -49294,7 +49294,7 @@
         "stars": 2075,
         "forks": 131,
         "language": "Rust",
-        "pushed_at": "2025-11-18T04:46:57Z",
+        "pushed_at": "2025-11-18T13:00:23Z",
         "created_at": "2022-09-08T19:01:01Z"
       },
       {
