@@ -219,7 +219,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2026-08-16T01:21:14Z",
+        "pushed_at": "2026-08-16T03:01:25Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4286,8 +4286,8 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 16220,
-        "forks": 9751,
+        "stars": 16221,
+        "forks": 9750,
         "language": "C",
         "pushed_at": "2026-08-15T23:08:07Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -12249,7 +12249,7 @@
         "stars": 17230,
         "forks": 7902,
         "language": "C++",
-        "pushed_at": "2026-08-13T02:43:48Z",
+        "pushed_at": "2026-08-16T04:22:51Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -12816,7 +12816,7 @@
         "name": "esp-claw",
         "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
         "url": "https://github.com/espressif/esp-claw",
-        "stars": 2005,
+        "stars": 2006,
         "forks": 420,
         "language": "C",
         "pushed_at": "2026-08-11T02:50:23Z",
@@ -13519,7 +13519,7 @@
         "stars": 107,
         "forks": 77,
         "language": "C",
-        "pushed_at": "2026-08-14T05:10:39Z",
+        "pushed_at": "2026-08-16T04:22:13Z",
         "created_at": "2019-03-14T06:09:28Z"
       },
       {
@@ -13559,7 +13559,7 @@
         "stars": 9,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2026-08-16T02:27:28Z",
+        "pushed_at": "2026-08-16T04:13:25Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -13876,7 +13876,7 @@
         "name": "esp-sr",
         "description": "Speech recognition",
         "url": "https://github.com/espressif/esp-sr",
-        "stars": 1485,
+        "stars": 1486,
         "forks": 222,
         "language": "C",
         "pushed_at": "2026-08-14T12:19:27Z",
@@ -15019,7 +15019,7 @@
         "stars": 284,
         "forks": 30,
         "language": "LLVM",
-        "pushed_at": "2026-08-16T01:49:11Z",
+        "pushed_at": "2026-08-16T03:22:11Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -19556,10 +19556,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 106140,
-        "forks": 16115,
+        "stars": 106149,
+        "forks": 16117,
         "language": "Rust",
-        "pushed_at": "2026-08-16T02:38:10Z",
+        "pushed_at": "2026-08-16T04:13:09Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -19586,17 +19586,17 @@
         "name": "codex-security",
         "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
         "url": "https://github.com/openai/codex-security",
-        "stars": 9862,
+        "stars": 9865,
         "forks": 690,
         "language": "TypeScript",
-        "pushed_at": "2026-08-16T01:32:27Z",
+        "pushed_at": "2026-08-16T04:36:08Z",
         "created_at": "2026-07-13T22:00:13Z"
       },
       {
         "name": "codex-universal",
         "description": "Base docker image used in Codex environments",
         "url": "https://github.com/openai/codex-universal",
-        "stars": 1017,
+        "stars": 1018,
         "forks": 269,
         "language": "Dockerfile",
         "pushed_at": "2026-05-02T20:28:32Z",
@@ -20637,19 +20637,19 @@
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
         "stars": 3601,
-        "forks": 912,
+        "forks": 913,
         "language": "TypeScript",
-        "pushed_at": "2026-08-16T02:23:51Z",
+        "pushed_at": "2026-08-16T04:34:45Z",
         "created_at": "2025-05-31T00:08:49Z"
       },
       {
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 28664,
-        "forks": 4510,
+        "stars": 28665,
+        "forks": 4512,
         "language": "Python",
-        "pushed_at": "2026-08-16T02:15:38Z",
+        "pushed_at": "2026-08-16T04:31:17Z",
         "created_at": "2025-03-11T03:42:36Z"
       },
       {
@@ -20846,7 +20846,7 @@
         "name": "openai-icpc-2025",
         "description": "OpenAI 2025 ICPC Submissions",
         "url": "https://github.com/openai/openai-icpc-2025",
-        "stars": 61,
+        "stars": 62,
         "forks": 5,
         "language": "C++",
         "pushed_at": "2025-09-17T21:55:00Z",
@@ -20946,7 +20946,7 @@
         "name": "openai-realtime-agents",
         "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
         "url": "https://github.com/openai/openai-realtime-agents",
-        "stars": 6956,
+        "stars": 6957,
         "forks": 1096,
         "language": "TypeScript",
         "pushed_at": "2026-01-07T18:38:52Z",
@@ -21256,7 +21256,7 @@
         "name": "privacy-filter",
         "description": "OpenAI Privacy Filter",
         "url": "https://github.com/openai/privacy-filter",
-        "stars": 2657,
+        "stars": 2658,
         "forks": 236,
         "language": "Python",
         "pushed_at": "2026-04-22T19:55:02Z",
@@ -21566,7 +21566,7 @@
         "name": "skills",
         "description": "Skills Catalog for Codex",
         "url": "https://github.com/openai/skills",
-        "stars": 24968,
+        "stars": 24969,
         "forks": 1697,
         "language": "Python",
         "pushed_at": "2026-07-14T16:47:46Z",
@@ -21926,8 +21926,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 107337,
-        "forks": 13040,
+        "stars": 107340,
+        "forks": 13042,
         "language": "Python",
         "pushed_at": "2026-07-28T20:18:29Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -22061,7 +22061,7 @@
         "name": "arm-systemready",
         "description": "Arm SystemReady",
         "url": "https://github.com/ARM-software/arm-systemready",
-        "stars": 77,
+        "stars": 78,
         "forks": 78,
         "language": "Python",
         "pushed_at": "2026-08-12T08:23:05Z",
@@ -23621,7 +23621,7 @@
         "name": "sysarch-acs",
         "description": "Arm System Architecture: Architecture Compliance Suite",
         "url": "https://github.com/ARM-software/sysarch-acs",
-        "stars": 19,
+        "stars": 20,
         "forks": 39,
         "language": "C",
         "pushed_at": "2026-08-14T04:04:47Z",
@@ -24902,7 +24902,7 @@
         "description": "An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-docs",
         "stars": 1471,
-        "forks": 1216,
+        "forks": 1217,
         "language": "Shell",
         "pushed_at": "2026-08-14T23:07:30Z",
         "created_at": "2025-04-01T20:44:41Z"
@@ -24952,9 +24952,9 @@
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
         "stars": 21125,
-        "forks": 3838,
+        "forks": 3839,
         "language": "Python",
-        "pushed_at": "2026-08-16T00:20:22Z",
+        "pushed_at": "2026-08-16T04:02:10Z",
         "created_at": "2025-04-01T20:44:40Z"
       },
       {
@@ -28894,7 +28894,7 @@
         "stars": 7674,
         "forks": 1181,
         "language": "JavaScript",
-        "pushed_at": "2026-08-16T02:59:41Z",
+        "pushed_at": "2026-08-16T03:01:21Z",
         "created_at": "2014-04-16T15:30:36Z"
       },
       {
@@ -30604,7 +30604,7 @@
         "stars": 10,
         "forks": 4,
         "language": "Python",
-        "pushed_at": "2026-08-16T01:43:06Z",
+        "pushed_at": "2026-08-16T03:45:55Z",
         "created_at": "2026-07-06T15:51:14Z"
       },
       {
@@ -33354,7 +33354,7 @@
         "stars": 20358,
         "forks": 2229,
         "language": "C++",
-        "pushed_at": "2026-08-16T02:57:40Z",
+        "pushed_at": "2026-08-16T04:23:02Z",
         "created_at": "2018-08-03T17:26:00Z"
       },
       {
@@ -34061,7 +34061,7 @@
         "name": "fully-homomorphic-encryption",
         "description": "Homomorphic Encryption demos",
         "url": "https://github.com/google/fully-homomorphic-encryption",
-        "stars": 3676,
+        "stars": 3677,
         "forks": 272,
         "language": "Starlark",
         "pushed_at": "2026-08-14T12:57:23Z",
@@ -37121,7 +37121,7 @@
         "name": "gvisor",
         "description": "Application Kernel for Containers",
         "url": "https://github.com/google/gvisor",
-        "stars": 19090,
+        "stars": 19091,
         "forks": 1916,
         "language": "Go",
         "pushed_at": "2026-08-15T05:51:27Z",
@@ -40711,8 +40711,8 @@
         "name": "magika",
         "description": "Fast and accurate AI powered file content types detection ",
         "url": "https://github.com/google/magika",
-        "stars": 17954,
-        "forks": 1123,
+        "stars": 17955,
+        "forks": 1124,
         "language": "Python",
         "pushed_at": "2026-08-15T21:11:47Z",
         "created_at": "2023-08-22T09:36:55Z"
@@ -40972,7 +40972,7 @@
         "description": "Material Design icons by Google (Material Symbols)",
         "url": "https://github.com/google/material-design-icons",
         "stars": 53768,
-        "forks": 9737,
+        "forks": 9738,
         "language": "未指定",
         "pushed_at": "2026-08-14T03:02:13Z",
         "created_at": "2014-10-08T18:01:28Z"
@@ -41002,7 +41002,7 @@
         "description": "Step by step math solutions for everyone",
         "url": "https://github.com/google/mathsteps",
         "stars": 2159,
-        "forks": 280,
+        "forks": 279,
         "language": "JavaScript",
         "pushed_at": "2023-06-26T18:13:13Z",
         "created_at": "2016-11-21T15:58:00Z"
@@ -41954,7 +41954,7 @@
         "stars": 532,
         "forks": 88,
         "language": "Java",
-        "pushed_at": "2026-08-16T02:58:42Z",
+        "pushed_at": "2026-08-16T04:29:30Z",
         "created_at": "2017-02-14T17:01:43Z"
       },
       {
@@ -42714,7 +42714,7 @@
         "stars": 1805,
         "forks": 303,
         "language": "Java",
-        "pushed_at": "2026-08-15T07:02:04Z",
+        "pushed_at": "2026-08-16T03:28:09Z",
         "created_at": "2016-02-29T20:16:48Z"
       },
       {
@@ -43442,7 +43442,7 @@
         "description": "Securing open-source package ecosystems by originating, validating, and augmenting build attestations.",
         "url": "https://github.com/google/oss-rebuild",
         "stars": 712,
-        "forks": 62,
+        "forks": 63,
         "language": "Go",
         "pushed_at": "2026-08-13T17:05:02Z",
         "created_at": "2024-05-22T15:44:36Z"
@@ -46671,7 +46671,7 @@
         "name": "riegeli",
         "description": "Riegeli/records is a file format for storing a sequence of string records, typically serialized protocol buffers.",
         "url": "https://github.com/google/riegeli",
-        "stars": 482,
+        "stars": 483,
         "forks": 65,
         "language": "C++",
         "pushed_at": "2026-08-11T10:38:01Z",
@@ -46982,7 +46982,7 @@
         "description": "（无简介）",
         "url": "https://github.com/google/rust-skills",
         "stars": 4,
-        "forks": 1,
+        "forks": 2,
         "language": "Rust",
         "pushed_at": "2026-08-12T01:08:58Z",
         "created_at": "2026-07-29T21:36:30Z"
@@ -47014,7 +47014,7 @@
         "stars": 139,
         "forks": 33,
         "language": "Rust",
-        "pushed_at": "2026-08-14T09:32:58Z",
+        "pushed_at": "2026-08-16T04:18:33Z",
         "created_at": "2019-11-14T04:28:41Z"
       },
       {
@@ -47511,7 +47511,7 @@
         "name": "schema-dts",
         "description": "JSON-LD TypeScript types for Schema.org vocabulary",
         "url": "https://github.com/google/schema-dts",
-        "stars": 1233,
+        "stars": 1234,
         "forks": 54,
         "language": "TypeScript",
         "pushed_at": "2026-06-29T12:49:41Z",
@@ -48241,7 +48241,7 @@
         "name": "skia",
         "description": "Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.  See documentation for contribution instructions.",
         "url": "https://github.com/google/skia",
-        "stars": 10880,
+        "stars": 10882,
         "forks": 1759,
         "language": "C++",
         "pushed_at": "2026-08-15T12:39:48Z",
@@ -48271,7 +48271,7 @@
         "name": "skills",
         "description": "Agent Skills for Google products and technologies",
         "url": "https://github.com/google/skills",
-        "stars": 18341,
+        "stars": 18352,
         "forks": 1443,
         "language": "Python",
         "pushed_at": "2026-08-14T19:19:17Z",
@@ -49421,7 +49421,7 @@
         "name": "styleguide",
         "description": "Style guides for Google-originated open-source projects",
         "url": "https://github.com/google/styleguide",
-        "stars": 39506,
+        "stars": 39507,
         "forks": 12942,
         "language": "HTML",
         "pushed_at": "2026-06-03T15:51:23Z",
@@ -50604,7 +50604,7 @@
         "stars": 117,
         "forks": 21,
         "language": "C++",
-        "pushed_at": "2026-08-15T21:03:17Z",
+        "pushed_at": "2026-08-16T04:30:28Z",
         "created_at": "2026-05-09T01:51:29Z"
       },
       {
@@ -50682,7 +50682,7 @@
         "description": "（无简介）",
         "url": "https://github.com/google/transit",
         "stars": 1046,
-        "forks": 221,
+        "forks": 222,
         "language": "未指定",
         "pushed_at": "2026-07-09T15:43:37Z",
         "created_at": "2015-07-15T18:03:46Z"
@@ -51074,7 +51074,7 @@
         "stars": 2407,
         "forks": 332,
         "language": "Python",
-        "pushed_at": "2026-08-16T02:45:34Z",
+        "pushed_at": "2026-08-16T04:14:01Z",
         "created_at": "2025-04-02T22:19:15Z"
       },
       {
@@ -53321,7 +53321,7 @@
         "name": "zerocopy",
         "description": "Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.",
         "url": "https://github.com/google/zerocopy",
-        "stars": 2546,
+        "stars": 2547,
         "forks": 173,
         "language": "Rust",
         "pushed_at": "2026-08-11T18:30:24Z",
