@@ -219,7 +219,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2026-08-18T12:47:50Z",
+        "pushed_at": "2026-08-18T13:42:58Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4286,7 +4286,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 16242,
+        "stars": 16243,
         "forks": 9772,
         "language": "C",
         "pushed_at": "2026-08-18T12:55:33Z",
@@ -12249,7 +12249,7 @@
         "stars": 17246,
         "forks": 7901,
         "language": "C++",
-        "pushed_at": "2026-08-18T11:28:55Z",
+        "pushed_at": "2026-08-18T14:13:36Z",
         "created_at": "2016-10-06T06:04:20Z"
       },
       {
@@ -12527,7 +12527,7 @@
         "description": "Espressif Advanced Development Framework for Multimedia Applications",
         "url": "https://github.com/espressif/esp-adf",
         "stars": 2296,
-        "forks": 875,
+        "forks": 876,
         "language": "C",
         "pushed_at": "2026-08-14T10:51:45Z",
         "created_at": "2018-04-02T07:03:49Z"
@@ -12657,7 +12657,7 @@
         "description": "AWS IoT SDK for ESP32 based chipsets",
         "url": "https://github.com/espressif/esp-aws-iot",
         "stars": 329,
-        "forks": 187,
+        "forks": 188,
         "language": "C",
         "pushed_at": "2026-07-31T13:26:42Z",
         "created_at": "2019-03-25T12:38:24Z"
@@ -12689,7 +12689,7 @@
         "stars": 10,
         "forks": 3,
         "language": "C",
-        "pushed_at": "2026-08-18T12:41:22Z",
+        "pushed_at": "2026-08-18T14:08:35Z",
         "created_at": "2024-08-29T14:38:47Z"
       },
       {
@@ -12876,7 +12876,7 @@
         "name": "esp-csi",
         "description": "Applications based on Wi-Fi CSI (Channel state information), such as indoor positioning, human detection",
         "url": "https://github.com/espressif/esp-csi",
-        "stars": 1506,
+        "stars": 1507,
         "forks": 231,
         "language": "Shell",
         "pushed_at": "2026-04-22T08:07:36Z",
@@ -12936,8 +12936,8 @@
         "name": "esp-dl",
         "description": "Espressif deep-learning library for AIoT applications",
         "url": "https://github.com/espressif/esp-dl",
-        "stars": 1112,
-        "forks": 220,
+        "stars": 1113,
+        "forks": 221,
         "language": "Assembly",
         "pushed_at": "2026-07-30T09:24:39Z",
         "created_at": "2018-11-16T04:01:02Z"
@@ -13157,7 +13157,7 @@
         "description": "Hosted Solution (Linux/MCU) with ESP32 (Wi-Fi + BT + BLE)",
         "url": "https://github.com/espressif/esp-hosted",
         "stars": 1033,
-        "forks": 241,
+        "forks": 242,
         "language": "C",
         "pushed_at": "2026-08-07T10:17:46Z",
         "created_at": "2020-06-11T09:09:31Z"
@@ -13176,7 +13176,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 18807,
+        "stars": 18808,
         "forks": 8436,
         "language": "C",
         "pushed_at": "2026-08-18T11:54:46Z",
@@ -13507,9 +13507,9 @@
         "description": "ESP32 mqtt component",
         "url": "https://github.com/espressif/esp-mqtt",
         "stars": 739,
-        "forks": 294,
+        "forks": 293,
         "language": "C",
-        "pushed_at": "2026-08-18T12:41:43Z",
+        "pushed_at": "2026-08-18T13:45:34Z",
         "created_at": "2016-09-09T17:06:21Z"
       },
       {
@@ -13559,7 +13559,7 @@
         "stars": 9,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2026-08-18T13:19:59Z",
+        "pushed_at": "2026-08-18T14:13:52Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -13637,7 +13637,7 @@
         "description": "Collection of ESP-IDF components related to networking protocols",
         "url": "https://github.com/espressif/esp-protocols",
         "stars": 300,
-        "forks": 212,
+        "forks": 213,
         "language": "C",
         "pushed_at": "2026-08-18T12:35:28Z",
         "created_at": "2021-10-04T08:47:54Z"
@@ -13799,7 +13799,7 @@
         "stars": 7,
         "forks": 0,
         "language": "TypeScript",
-        "pushed_at": "2026-08-11T05:20:50Z",
+        "pushed_at": "2026-08-18T14:04:34Z",
         "created_at": "2026-08-04T13:32:19Z"
       },
       {
@@ -13857,7 +13857,7 @@
         "description": "Library for flashing Espressif SoCs from other MCUs.",
         "url": "https://github.com/espressif/esp-serial-flasher",
         "stars": 556,
-        "forks": 149,
+        "forks": 150,
         "language": "C",
         "pushed_at": "2026-08-17T08:21:52Z",
         "created_at": "2020-01-29T09:40:36Z"
@@ -13877,7 +13877,7 @@
         "description": "Speech recognition",
         "url": "https://github.com/espressif/esp-sr",
         "stars": 1489,
-        "forks": 222,
+        "forks": 223,
         "language": "C",
         "pushed_at": "2026-08-17T09:18:07Z",
         "created_at": "2019-07-29T13:27:25Z"
@@ -13937,7 +13937,7 @@
         "description": "TensorFlow Lite Micro for Espressif Chipsets",
         "url": "https://github.com/espressif/esp-tflite-micro",
         "stars": 688,
-        "forks": 143,
+        "forks": 144,
         "language": "C++",
         "pushed_at": "2026-08-14T05:27:17Z",
         "created_at": "2021-10-25T09:36:22Z"
@@ -14056,7 +14056,7 @@
         "name": "esp-wdf",
         "description": "Espressif WASM Development Framework.",
         "url": "https://github.com/espressif/esp-wdf",
-        "stars": 44,
+        "stars": 45,
         "forks": 2,
         "language": "C",
         "pushed_at": "2026-03-19T02:02:23Z",
@@ -14087,7 +14087,7 @@
         "description": "Face detection and recognition framework",
         "url": "https://github.com/espressif/esp-who",
         "stars": 2121,
-        "forks": 544,
+        "forks": 545,
         "language": "C++",
         "pushed_at": "2026-08-06T05:10:49Z",
         "created_at": "2018-10-26T11:00:01Z"
@@ -15009,7 +15009,7 @@
         "stars": 284,
         "forks": 30,
         "language": "LLVM",
-        "pushed_at": "2026-08-18T13:20:18Z",
+        "pushed_at": "2026-08-18T14:22:15Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -16981,6 +16981,16 @@
         "language": "未指定",
         "pushed_at": "2026-08-18T08:52:21Z",
         "created_at": "2026-08-18T08:51:39Z"
+      },
+      {
+        "name": "MOOC_Security_Part_1",
+        "description": "Material for Security Part 1 MOOC (Massive Open Online Course)",
+        "url": "https://github.com/stm32-hotspot/MOOC_Security_Part_1",
+        "stars": 0,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2026-08-18T14:16:09Z",
+        "created_at": "2026-08-18T14:15:25Z"
       },
       {
         "name": "NUCLEO_H743_NetXDuo_UDP_IPv4_IPv6",
@@ -19221,7 +19231,7 @@
         "name": "rt-thread",
         "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/",
         "url": "https://github.com/RT-Thread/rt-thread",
-        "stars": 12158,
+        "stars": 12159,
         "forks": 5443,
         "language": "C",
         "pushed_at": "2026-08-17T09:15:34Z",
@@ -19686,10 +19696,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 106632,
-        "forks": 16192,
+        "stars": 106637,
+        "forks": 16196,
         "language": "Rust",
-        "pushed_at": "2026-08-18T13:41:33Z",
+        "pushed_at": "2026-08-18T14:17:20Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -19706,8 +19716,8 @@
         "name": "codex-plugin-cc",
         "description": "Use Codex from Claude Code to review code or delegate tasks.",
         "url": "https://github.com/openai/codex-plugin-cc",
-        "stars": 32018,
-        "forks": 2203,
+        "stars": 32019,
+        "forks": 2204,
         "language": "JavaScript",
         "pushed_at": "2026-07-08T00:17:31Z",
         "created_at": "2026-03-30T15:29:52Z"
@@ -19717,9 +19727,9 @@
         "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
         "url": "https://github.com/openai/codex-security",
         "stars": 9946,
-        "forks": 702,
+        "forks": 701,
         "language": "TypeScript",
-        "pushed_at": "2026-08-18T12:56:47Z",
+        "pushed_at": "2026-08-18T14:04:15Z",
         "created_at": "2026-07-13T22:00:13Z"
       },
       {
@@ -20777,7 +20787,7 @@
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
         "stars": 28745,
-        "forks": 4528,
+        "forks": 4529,
         "language": "Python",
         "pushed_at": "2026-08-18T11:46:42Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -20999,7 +21009,7 @@
         "stars": 1503,
         "forks": 248,
         "language": "Kotlin",
-        "pushed_at": "2026-08-18T13:37:25Z",
+        "pushed_at": "2026-08-18T14:28:50Z",
         "created_at": "2024-10-31T17:42:57Z"
       },
       {
@@ -21049,7 +21059,7 @@
         "stars": 31397,
         "forks": 5130,
         "language": "Python",
-        "pushed_at": "2026-08-18T13:36:26Z",
+        "pushed_at": "2026-08-18T14:32:08Z",
         "created_at": "2020-10-25T23:23:54Z"
       },
       {
@@ -21169,7 +21179,7 @@
         "stars": 450,
         "forks": 56,
         "language": "Ruby",
-        "pushed_at": "2026-08-18T13:35:06Z",
+        "pushed_at": "2026-08-18T14:24:15Z",
         "created_at": "2025-03-05T18:31:42Z"
       },
       {
@@ -21696,7 +21706,7 @@
         "name": "skills",
         "description": "Skills Catalog for Codex",
         "url": "https://github.com/openai/skills",
-        "stars": 25016,
+        "stars": 25015,
         "forks": 1700,
         "language": "Python",
         "pushed_at": "2026-07-14T16:47:46Z",
@@ -21709,7 +21719,7 @@
         "stars": 93,
         "forks": 17,
         "language": "Kotlin",
-        "pushed_at": "2026-08-18T12:47:48Z",
+        "pushed_at": "2026-08-18T14:11:49Z",
         "created_at": "2025-08-25T23:43:23Z"
       },
       {
@@ -21826,7 +21836,7 @@
         "name": "symphony",
         "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
         "url": "https://github.com/openai/symphony",
-        "stars": 26736,
+        "stars": 26735,
         "forks": 2727,
         "language": "Elixir",
         "pushed_at": "2026-08-12T18:19:49Z",
@@ -21849,7 +21859,7 @@
         "stars": 6533,
         "forks": 347,
         "language": "Swift",
-        "pushed_at": "2026-08-18T00:16:47Z",
+        "pushed_at": "2026-08-18T14:16:03Z",
         "created_at": "2022-02-01T11:22:40Z"
       },
       {
@@ -22056,8 +22066,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 107520,
-        "forks": 13057,
+        "stars": 107521,
+        "forks": 13056,
         "language": "Python",
         "pushed_at": "2026-07-28T20:18:29Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -22984,7 +22994,7 @@
         "stars": 40,
         "forks": 7,
         "language": "Go",
-        "pushed_at": "2026-08-18T10:13:51Z",
+        "pushed_at": "2026-08-18T14:09:42Z",
         "created_at": "2021-08-06T12:57:47Z"
       },
       {
@@ -24189,7 +24199,7 @@
         "stars": 34,
         "forks": 37,
         "language": "C",
-        "pushed_at": "2026-08-18T13:35:02Z",
+        "pushed_at": "2026-08-18T14:24:18Z",
         "created_at": "2024-11-22T12:00:48Z"
       },
       {
@@ -24309,7 +24319,7 @@
         "stars": 0,
         "forks": 0,
         "language": "C",
-        "pushed_at": "2026-08-18T13:37:01Z",
+        "pushed_at": "2026-08-18T13:54:23Z",
         "created_at": "2026-06-05T10:30:57Z"
       },
       {
@@ -24399,7 +24409,7 @@
         "stars": 17,
         "forks": 16,
         "language": "C",
-        "pushed_at": "2026-08-18T13:15:27Z",
+        "pushed_at": "2026-08-18T14:08:59Z",
         "created_at": "2025-07-24T11:39:06Z"
       },
       {
@@ -24476,7 +24486,7 @@
         "name": "sdk-nrf",
         "description": "nRF Connect SDK main repository",
         "url": "https://github.com/nrfconnect/sdk-nrf",
-        "stars": 1409,
+        "stars": 1410,
         "forks": 1570,
         "language": "C",
         "pushed_at": "2026-08-18T12:21:08Z",
@@ -25042,7 +25052,7 @@
         "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-go",
         "stars": 8668,
-        "forks": 960,
+        "forks": 961,
         "language": "Go",
         "pushed_at": "2026-08-18T09:28:08Z",
         "created_at": "2025-05-05T17:16:26Z"
@@ -25261,7 +25271,7 @@
         "name": "agents-cli",
         "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
         "url": "https://github.com/google/agents-cli",
-        "stars": 5662,
+        "stars": 5664,
         "forks": 615,
         "language": "Python",
         "pushed_at": "2026-08-04T22:19:20Z",
@@ -25722,7 +25732,7 @@
         "description": "Cuttlefish host support debian package.",
         "url": "https://github.com/google/android-cuttlefish",
         "stars": 694,
-        "forks": 235,
+        "forks": 237,
         "language": "C++",
         "pushed_at": "2026-08-18T09:58:41Z",
         "created_at": "2017-12-13T19:42:51Z"
@@ -27254,7 +27264,7 @@
         "stars": 3147,
         "forks": 238,
         "language": "Java",
-        "pushed_at": "2026-08-18T09:23:54Z",
+        "pushed_at": "2026-08-18T13:42:49Z",
         "created_at": "2023-09-20T06:41:55Z"
       },
       {
@@ -27471,7 +27481,7 @@
         "name": "boringssl",
         "description": "Mirror of BoringSSL",
         "url": "https://github.com/google/boringssl",
-        "stars": 2252,
+        "stars": 2253,
         "forks": 895,
         "language": "C++",
         "pushed_at": "2026-08-18T13:33:54Z",
@@ -29301,7 +29311,7 @@
         "name": "clusterfuzz",
         "description": "Scalable fuzzing infrastructure.",
         "url": "https://github.com/google/clusterfuzz",
-        "stars": 5593,
+        "stars": 5592,
         "forks": 628,
         "language": "Python",
         "pushed_at": "2026-08-18T11:50:07Z",
@@ -30474,7 +30484,7 @@
         "stars": 1086,
         "forks": 76,
         "language": "C++",
-        "pushed_at": "2026-08-18T13:35:44Z",
+        "pushed_at": "2026-08-18T14:26:17Z",
         "created_at": "2022-03-02T09:13:13Z"
       },
       {
@@ -30744,7 +30754,7 @@
         "stars": 11,
         "forks": 4,
         "language": "Python",
-        "pushed_at": "2026-08-18T11:43:15Z",
+        "pushed_at": "2026-08-18T14:15:50Z",
         "created_at": "2026-07-06T15:51:14Z"
       },
       {
@@ -32874,7 +32884,7 @@
         "stars": 7222,
         "forks": 813,
         "language": "Java",
-        "pushed_at": "2026-08-18T01:19:20Z",
+        "pushed_at": "2026-08-18T14:32:49Z",
         "created_at": "2014-08-21T23:26:50Z"
       },
       {
@@ -32944,7 +32954,7 @@
         "stars": 9,
         "forks": 3,
         "language": "Python",
-        "pushed_at": "2026-08-18T13:27:01Z",
+        "pushed_at": "2026-08-18T14:08:55Z",
         "created_at": "2026-05-15T14:58:35Z"
       },
       {
@@ -33961,10 +33971,10 @@
         "name": "fonts",
         "description": "Font files available from Google Fonts, and a public issue tracker for all things Google Fonts",
         "url": "https://github.com/google/fonts",
-        "stars": 20375,
+        "stars": 20376,
         "forks": 2917,
         "language": "HTML",
-        "pushed_at": "2026-08-17T11:16:15Z",
+        "pushed_at": "2026-08-18T13:53:18Z",
         "created_at": "2015-02-11T23:34:54Z"
       },
       {
@@ -34201,7 +34211,7 @@
         "name": "fully-homomorphic-encryption",
         "description": "Homomorphic Encryption demos",
         "url": "https://github.com/google/fully-homomorphic-encryption",
-        "stars": 3692,
+        "stars": 3693,
         "forks": 272,
         "language": "Starlark",
         "pushed_at": "2026-08-16T17:37:09Z",
@@ -34661,7 +34671,7 @@
         "name": "gemma.cpp",
         "description": "lightweight, standalone C++ inference engine for Google's Gemma models.",
         "url": "https://github.com/google/gemma.cpp",
-        "stars": 7024,
+        "stars": 7025,
         "forks": 658,
         "language": "C++",
         "pushed_at": "2026-08-17T18:30:08Z",
@@ -35481,8 +35491,8 @@
         "name": "GNM",
         "description": "An open ecosystem of parametric human models and perception stacks, starting with GNM Head.",
         "url": "https://github.com/google/GNM",
-        "stars": 1424,
-        "forks": 162,
+        "stars": 1425,
+        "forks": 163,
         "language": "Python",
         "pushed_at": "2026-08-18T09:35:07Z",
         "created_at": "2026-03-23T14:54:38Z"
@@ -36374,7 +36384,7 @@
         "stars": 0,
         "forks": 2,
         "language": "Go",
-        "pushed_at": "2026-08-17T16:27:23Z",
+        "pushed_at": "2026-08-18T14:30:22Z",
         "created_at": "2026-07-15T12:39:56Z"
       },
       {
@@ -36541,7 +36551,7 @@
         "name": "googletest",
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "url": "https://github.com/google/googletest",
-        "stars": 38937,
+        "stars": 38936,
         "forks": 10849,
         "language": "C++",
         "pushed_at": "2026-08-17T17:36:26Z",
@@ -37601,7 +37611,7 @@
         "name": "heir",
         "description": "A compiler for homomorphic encryption",
         "url": "https://github.com/google/heir",
-        "stars": 845,
+        "stars": 847,
         "forks": 157,
         "language": "MLIR",
         "pushed_at": "2026-08-18T12:19:51Z",
@@ -39714,7 +39724,7 @@
         "stars": 3472,
         "forks": 412,
         "language": "Kotlin",
-        "pushed_at": "2026-08-18T13:38:32Z",
+        "pushed_at": "2026-08-18T14:09:52Z",
         "created_at": "2020-09-22T18:59:42Z"
       },
       {
@@ -39801,7 +39811,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 38424,
+        "stars": 38425,
         "forks": 2698,
         "language": "Python",
         "pushed_at": "2026-08-11T15:31:39Z",
@@ -39991,7 +40001,7 @@
         "name": "leveldb",
         "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
         "url": "https://github.com/google/leveldb",
-        "stars": 39333,
+        "stars": 39335,
         "forks": 8209,
         "language": "C++",
         "pushed_at": "2026-03-11T04:06:29Z",
@@ -41112,7 +41122,7 @@
         "description": "Material Design icons by Google (Material Symbols)",
         "url": "https://github.com/google/material-design-icons",
         "stars": 53778,
-        "forks": 9739,
+        "forks": 9738,
         "language": "未指定",
         "pushed_at": "2026-08-14T03:02:13Z",
         "created_at": "2014-10-08T18:01:28Z"
@@ -41121,7 +41131,7 @@
         "name": "material-design-lite",
         "description": "Material Design Components in HTML/CSS/JS",
         "url": "https://github.com/google/material-design-lite",
-        "stars": 32186,
+        "stars": 32185,
         "forks": 4907,
         "language": "HTML",
         "pushed_at": "2026-05-03T01:41:50Z",
@@ -42891,7 +42901,7 @@
         "name": "nsjail",
         "description": "A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.",
         "url": "https://github.com/google/nsjail",
-        "stars": 4060,
+        "stars": 4061,
         "forks": 354,
         "language": "C++",
         "pushed_at": "2026-07-27T07:09:10Z",
@@ -43564,7 +43574,7 @@
         "stars": 183,
         "forks": 51,
         "language": "Python",
-        "pushed_at": "2026-08-17T14:23:47Z",
+        "pushed_at": "2026-08-18T14:31:00Z",
         "created_at": "2021-03-23T06:04:38Z"
       },
       {
@@ -43611,7 +43621,7 @@
         "name": "osv-scanner",
         "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
         "url": "https://github.com/google/osv-scanner",
-        "stars": 10853,
+        "stars": 10854,
         "forks": 763,
         "language": "Go",
         "pushed_at": "2026-08-17T20:54:04Z",
@@ -44204,7 +44214,7 @@
         "stars": 6355,
         "forks": 855,
         "language": "C++",
-        "pushed_at": "2026-08-18T13:28:15Z",
+        "pushed_at": "2026-08-18T14:32:12Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
