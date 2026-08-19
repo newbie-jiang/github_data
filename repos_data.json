@@ -219,7 +219,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2026-08-19T18:37:04Z",
+        "pushed_at": "2026-08-19T19:26:58Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -9861,7 +9861,7 @@
         "name": "STM32CubeWB",
         "description": "Full Firmware Package for the STM32WB series: HAL+LL drivers, CMSIS, BSP, MW, plus a set of Projects (examples and demos) running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits).",
         "url": "https://github.com/STMicroelectronics/STM32CubeWB",
-        "stars": 284,
+        "stars": 285,
         "forks": 156,
         "language": "C",
         "pushed_at": "2026-07-17T09:22:49Z",
@@ -12246,7 +12246,7 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32 family of SoCs",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 17251,
+        "stars": 17252,
         "forks": 7902,
         "language": "C++",
         "pushed_at": "2026-08-19T19:00:04Z",
@@ -13447,7 +13447,7 @@
         "description": "Espressif's SDK for Matter",
         "url": "https://github.com/espressif/esp-matter",
         "stars": 1057,
-        "forks": 247,
+        "forks": 248,
         "language": "C++",
         "pushed_at": "2026-08-19T02:20:12Z",
         "created_at": "2022-05-18T10:02:59Z"
@@ -13559,7 +13559,7 @@
         "stars": 9,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2026-08-19T18:05:50Z",
+        "pushed_at": "2026-08-19T20:05:44Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -14086,7 +14086,7 @@
         "name": "esp-who",
         "description": "Face detection and recognition framework",
         "url": "https://github.com/espressif/esp-who",
-        "stars": 2125,
+        "stars": 2126,
         "forks": 546,
         "language": "C++",
         "pushed_at": "2026-08-06T05:10:49Z",
@@ -14276,7 +14276,7 @@
         "name": "esp32-camera",
         "description": "（无简介）",
         "url": "https://github.com/espressif/esp32-camera",
-        "stars": 2755,
+        "stars": 2756,
         "forks": 813,
         "language": "C",
         "pushed_at": "2026-06-05T17:49:16Z",
@@ -14819,7 +14819,7 @@
         "stars": 98,
         "forks": 28,
         "language": "Rust",
-        "pushed_at": "2026-08-19T14:21:04Z",
+        "pushed_at": "2026-08-19T20:26:57Z",
         "created_at": "2024-06-21T06:34:52Z"
       },
       {
@@ -15009,7 +15009,7 @@
         "stars": 284,
         "forks": 30,
         "language": "LLVM",
-        "pushed_at": "2026-08-19T19:21:11Z",
+        "pushed_at": "2026-08-19T20:23:22Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -19806,10 +19806,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 106843,
+        "stars": 106849,
         "forks": 16243,
         "language": "Rust",
-        "pushed_at": "2026-08-19T18:02:33Z",
+        "pushed_at": "2026-08-19T20:05:34Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -19826,7 +19826,7 @@
         "name": "codex-plugin-cc",
         "description": "Use Codex from Claude Code to review code or delegate tasks.",
         "url": "https://github.com/openai/codex-plugin-cc",
-        "stars": 32061,
+        "stars": 32063,
         "forks": 2207,
         "language": "JavaScript",
         "pushed_at": "2026-07-08T00:17:31Z",
@@ -19839,7 +19839,7 @@
         "stars": 9978,
         "forks": 705,
         "language": "TypeScript",
-        "pushed_at": "2026-08-19T19:19:45Z",
+        "pushed_at": "2026-08-19T20:26:26Z",
         "created_at": "2026-07-13T22:00:13Z"
       },
       {
@@ -20887,7 +20887,7 @@
         "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
         "url": "https://github.com/openai/openai-agents-js",
         "stars": 3659,
-        "forks": 922,
+        "forks": 923,
         "language": "TypeScript",
         "pushed_at": "2026-08-19T15:14:07Z",
         "created_at": "2025-05-31T00:08:49Z"
@@ -20896,7 +20896,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 28772,
+        "stars": 28773,
         "forks": 4536,
         "language": "Python",
         "pushed_at": "2026-08-19T14:45:28Z",
@@ -20969,14 +20969,14 @@
         "stars": 663,
         "forks": 42,
         "language": "Go",
-        "pushed_at": "2026-08-19T19:22:11Z",
+        "pushed_at": "2026-08-19T20:17:50Z",
         "created_at": "2026-05-01T16:40:05Z"
       },
       {
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 75359,
+        "stars": 75360,
         "forks": 12740,
         "language": "Jupyter Notebook",
         "pushed_at": "2026-08-19T16:37:05Z",
@@ -21039,7 +21039,7 @@
         "stars": 2669,
         "forks": 411,
         "language": "C#",
-        "pushed_at": "2026-08-19T19:15:55Z",
+        "pushed_at": "2026-08-19T19:31:49Z",
         "created_at": "2024-04-25T23:27:40Z"
       },
       {
@@ -21119,7 +21119,7 @@
         "stars": 1505,
         "forks": 249,
         "language": "Kotlin",
-        "pushed_at": "2026-08-19T18:13:06Z",
+        "pushed_at": "2026-08-19T19:57:51Z",
         "created_at": "2024-10-31T17:42:57Z"
       },
       {
@@ -21149,7 +21149,7 @@
         "stars": 11124,
         "forks": 1559,
         "language": "TypeScript",
-        "pushed_at": "2026-08-19T19:23:06Z",
+        "pushed_at": "2026-08-19T20:05:03Z",
         "created_at": "2021-12-14T22:32:58Z"
       },
       {
@@ -21169,7 +21169,7 @@
         "stars": 31408,
         "forks": 5132,
         "language": "Python",
-        "pushed_at": "2026-08-19T18:50:12Z",
+        "pushed_at": "2026-08-19T20:28:24Z",
         "created_at": "2020-10-25T23:23:54Z"
       },
       {
@@ -21216,7 +21216,7 @@
         "name": "openai-realtime-console",
         "description": "React app for inspecting, building and debugging with the Realtime API",
         "url": "https://github.com/openai/openai-realtime-console",
-        "stars": 3612,
+        "stars": 3613,
         "forks": 1407,
         "language": "JavaScript",
         "pushed_at": "2025-08-28T16:07:56Z",
@@ -21289,7 +21289,7 @@
         "stars": 450,
         "forks": 56,
         "language": "Ruby",
-        "pushed_at": "2026-08-19T19:20:59Z",
+        "pushed_at": "2026-08-19T20:28:26Z",
         "created_at": "2025-03-05T18:31:42Z"
       },
       {
@@ -21996,8 +21996,8 @@
         "name": "ten-proofs",
         "description": "Lean certificates accompanying ten proofs in mathematics and theoretical computer science",
         "url": "https://github.com/openai/ten-proofs",
-        "stars": 73,
-        "forks": 10,
+        "stars": 78,
+        "forks": 12,
         "language": "Lean",
         "pushed_at": "2026-08-05T21:09:29Z",
         "created_at": "2026-08-05T21:07:49Z"
@@ -22009,7 +22009,7 @@
         "stars": 26,
         "forks": 4,
         "language": "Go",
-        "pushed_at": "2026-08-19T18:24:54Z",
+        "pushed_at": "2026-08-19T20:04:05Z",
         "created_at": "2026-06-25T15:09:17Z"
       },
       {
@@ -22059,7 +22059,7 @@
         "stars": 278,
         "forks": 54,
         "language": "Go",
-        "pushed_at": "2026-08-19T19:24:32Z",
+        "pushed_at": "2026-08-19T19:54:22Z",
         "created_at": "2025-12-10T00:39:35Z"
       },
       {
@@ -22116,7 +22116,7 @@
         "name": "Video-Pre-Training",
         "description": "Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos",
         "url": "https://github.com/openai/Video-Pre-Training",
-        "stars": 1730,
+        "stars": 1731,
         "forks": 171,
         "language": "Python",
         "pushed_at": "2025-09-03T21:51:23Z",
@@ -22176,8 +22176,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 107624,
-        "forks": 13061,
+        "stars": 107628,
+        "forks": 13060,
         "language": "Python",
         "pushed_at": "2026-07-28T20:18:29Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -25154,7 +25154,7 @@
         "stars": 1475,
         "forks": 1224,
         "language": "Shell",
-        "pushed_at": "2026-08-19T18:06:26Z",
+        "pushed_at": "2026-08-19T20:05:07Z",
         "created_at": "2025-04-01T20:44:41Z"
       },
       {
@@ -25184,7 +25184,7 @@
         "stars": 1353,
         "forks": 190,
         "language": "TypeScript",
-        "pushed_at": "2026-08-19T19:05:51Z",
+        "pushed_at": "2026-08-19T20:12:28Z",
         "created_at": "2025-08-14T01:57:35Z"
       },
       {
@@ -25201,10 +25201,10 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 21193,
-        "forks": 3864,
+        "stars": 21194,
+        "forks": 3865,
         "language": "Python",
-        "pushed_at": "2026-08-19T19:18:43Z",
+        "pushed_at": "2026-08-19T19:53:35Z",
         "created_at": "2025-04-01T20:44:40Z"
       },
       {
@@ -25234,7 +25234,7 @@
         "stars": 1023,
         "forks": 257,
         "language": "TypeScript",
-        "pushed_at": "2026-08-18T23:25:43Z",
+        "pushed_at": "2026-08-19T20:04:28Z",
         "created_at": "2025-05-05T17:16:28Z"
       },
       {
@@ -25382,7 +25382,7 @@
         "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
         "url": "https://github.com/google/agents-cli",
         "stars": 5684,
-        "forks": 617,
+        "forks": 618,
         "language": "Python",
         "pushed_at": "2026-08-18T17:04:31Z",
         "created_at": "2026-04-08T17:09:55Z"
@@ -25844,7 +25844,7 @@
         "stars": 694,
         "forks": 239,
         "language": "C++",
-        "pushed_at": "2026-08-19T18:46:57Z",
+        "pushed_at": "2026-08-19T20:15:28Z",
         "created_at": "2017-12-13T19:42:51Z"
       },
       {
@@ -27344,7 +27344,7 @@
         "stars": 288,
         "forks": 68,
         "language": "Python",
-        "pushed_at": "2026-08-19T18:58:18Z",
+        "pushed_at": "2026-08-19T20:02:25Z",
         "created_at": "2023-07-17T22:06:16Z"
       },
       {
@@ -29154,7 +29154,7 @@
         "stars": 7672,
         "forks": 1181,
         "language": "JavaScript",
-        "pushed_at": "2026-08-19T18:01:58Z",
+        "pushed_at": "2026-08-19T19:38:57Z",
         "created_at": "2014-04-16T15:30:36Z"
       },
       {
@@ -30594,7 +30594,7 @@
         "stars": 1087,
         "forks": 76,
         "language": "C++",
-        "pushed_at": "2026-08-19T19:08:55Z",
+        "pushed_at": "2026-08-19T19:49:42Z",
         "created_at": "2022-03-02T09:13:13Z"
       },
       {
@@ -32061,7 +32061,7 @@
         "name": "doubleml-pipeline",
         "description": "（无简介）",
         "url": "https://github.com/google/doubleml-pipeline",
-        "stars": 32,
+        "stars": 33,
         "forks": 3,
         "language": "Python",
         "pushed_at": "2026-08-10T09:18:43Z",
@@ -32584,7 +32584,7 @@
         "stars": 22,
         "forks": 6,
         "language": "C++",
-        "pushed_at": "2026-08-19T16:20:48Z",
+        "pushed_at": "2026-08-19T20:26:27Z",
         "created_at": "2020-12-29T19:35:41Z"
       },
       {
@@ -32921,7 +32921,7 @@
         "name": "eng-practices",
         "description": "Google's Engineering Practices documentation",
         "url": "https://github.com/google/eng-practices",
-        "stars": 23309,
+        "stars": 23310,
         "forks": 2292,
         "language": "未指定",
         "pushed_at": "2024-09-19T05:27:52Z",
@@ -33524,7 +33524,7 @@
         "stars": 349,
         "forks": 107,
         "language": "Python",
-        "pushed_at": "2026-08-19T19:18:06Z",
+        "pushed_at": "2026-08-19T19:29:35Z",
         "created_at": "2017-11-10T19:13:38Z"
       },
       {
@@ -33611,10 +33611,10 @@
         "name": "filament",
         "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
         "url": "https://github.com/google/filament",
-        "stars": 20363,
+        "stars": 20364,
         "forks": 2230,
         "language": "C++",
-        "pushed_at": "2026-08-19T19:01:15Z",
+        "pushed_at": "2026-08-19T20:28:48Z",
         "created_at": "2018-08-03T17:26:00Z"
       },
       {
@@ -33731,7 +33731,7 @@
         "name": "flatbuffers",
         "description": "FlatBuffers: Memory Efficient Serialization Library",
         "url": "https://github.com/google/flatbuffers",
-        "stars": 26343,
+        "stars": 26344,
         "forks": 3621,
         "language": "C++",
         "pushed_at": "2026-08-11T19:49:45Z",
@@ -34444,7 +34444,7 @@
         "stars": 1043,
         "forks": 134,
         "language": "C++",
-        "pushed_at": "2026-08-19T18:45:36Z",
+        "pushed_at": "2026-08-19T20:15:45Z",
         "created_at": "2022-08-10T20:54:25Z"
       },
       {
@@ -35141,7 +35141,7 @@
         "name": "git-appraise",
         "description": "Distributed code review system for Git repos",
         "url": "https://github.com/google/git-appraise",
-        "stars": 5306,
+        "stars": 5307,
         "forks": 147,
         "language": "Go",
         "pushed_at": "2023-08-12T01:06:27Z",
@@ -36054,7 +36054,7 @@
         "stars": 307,
         "forks": 115,
         "language": "C",
-        "pushed_at": "2026-08-19T15:26:06Z",
+        "pushed_at": "2026-08-19T20:10:50Z",
         "created_at": "2018-12-16T07:10:09Z"
       },
       {
@@ -36441,7 +36441,7 @@
         "name": "google-java-format",
         "description": "Reformats Java source code to comply with Google Java Style.",
         "url": "https://github.com/google/google-java-format",
-        "stars": 6177,
+        "stars": 6179,
         "forks": 931,
         "language": "Java",
         "pushed_at": "2026-08-13T12:45:56Z",
@@ -36664,7 +36664,7 @@
         "stars": 38939,
         "forks": 10851,
         "language": "C++",
-        "pushed_at": "2026-08-18T14:47:19Z",
+        "pushed_at": "2026-08-19T19:37:00Z",
         "created_at": "2015-07-28T15:07:53Z"
       },
       {
@@ -37381,10 +37381,10 @@
         "name": "gvisor",
         "description": "Application Kernel for Containers",
         "url": "https://github.com/google/gvisor",
-        "stars": 19120,
+        "stars": 19121,
         "forks": 1924,
         "language": "Go",
-        "pushed_at": "2026-08-19T19:10:21Z",
+        "pushed_at": "2026-08-19T20:28:00Z",
         "created_at": "2018-04-26T21:28:49Z"
       },
       {
@@ -39254,7 +39254,7 @@
         "stars": 333,
         "forks": 69,
         "language": "Kotlin",
-        "pushed_at": "2026-08-19T03:04:10Z",
+        "pushed_at": "2026-08-19T20:19:27Z",
         "created_at": "2023-01-19T23:20:10Z"
       },
       {
@@ -40971,10 +40971,10 @@
         "name": "magika",
         "description": "Fast and accurate AI powered file content types detection ",
         "url": "https://github.com/google/magika",
-        "stars": 17959,
+        "stars": 17960,
         "forks": 1124,
         "language": "Python",
-        "pushed_at": "2026-08-19T03:13:18Z",
+        "pushed_at": "2026-08-19T20:24:26Z",
         "created_at": "2023-08-22T09:36:55Z"
       },
       {
@@ -41241,7 +41241,7 @@
         "name": "material-design-lite",
         "description": "Material Design Components in HTML/CSS/JS",
         "url": "https://github.com/google/material-design-lite",
-        "stars": 32184,
+        "stars": 32185,
         "forks": 4905,
         "language": "HTML",
         "pushed_at": "2026-05-03T01:41:50Z",
@@ -41494,7 +41494,7 @@
         "stars": 1500,
         "forks": 284,
         "language": "Python",
-        "pushed_at": "2026-08-19T18:35:18Z",
+        "pushed_at": "2026-08-19T20:24:12Z",
         "created_at": "2024-01-31T18:15:38Z"
       },
       {
@@ -42214,7 +42214,7 @@
         "stars": 534,
         "forks": 88,
         "language": "Java",
-        "pushed_at": "2026-08-19T06:57:58Z",
+        "pushed_at": "2026-08-19T19:40:52Z",
         "created_at": "2017-02-14T17:01:43Z"
       },
       {
@@ -42974,7 +42974,7 @@
         "stars": 1805,
         "forks": 303,
         "language": "Java",
-        "pushed_at": "2026-08-19T19:13:26Z",
+        "pushed_at": "2026-08-19T20:11:11Z",
         "created_at": "2016-02-29T20:16:48Z"
       },
       {
@@ -43724,7 +43724,7 @@
         "stars": 634,
         "forks": 187,
         "language": "Go",
-        "pushed_at": "2026-08-19T19:25:22Z",
+        "pushed_at": "2026-08-19T19:58:09Z",
         "created_at": "2024-04-10T09:09:11Z"
       },
       {
@@ -44324,7 +44324,7 @@
         "stars": 6357,
         "forks": 856,
         "language": "C++",
-        "pushed_at": "2026-08-19T18:28:34Z",
+        "pushed_at": "2026-08-19T19:57:15Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -46201,7 +46201,7 @@
         "name": "qwix",
         "description": "a Jax quantization library",
         "url": "https://github.com/google/qwix",
-        "stars": 129,
+        "stars": 130,
         "forks": 25,
         "language": "Python",
         "pushed_at": "2026-08-13T18:47:55Z",
@@ -47581,8 +47581,8 @@
         "name": "sam",
         "description": "SAM Sovereign Agent Mesh",
         "url": "https://github.com/google/sam",
-        "stars": 291,
-        "forks": 29,
+        "stars": 295,
+        "forks": 30,
         "language": "Go",
         "pushed_at": "2026-08-18T06:54:25Z",
         "created_at": "2026-04-21T15:15:58Z"
@@ -48502,9 +48502,9 @@
         "description": "Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.  See documentation for contribution instructions.",
         "url": "https://github.com/google/skia",
         "stars": 10888,
-        "forks": 1762,
+        "forks": 1761,
         "language": "C++",
-        "pushed_at": "2026-08-19T19:19:48Z",
+        "pushed_at": "2026-08-19T19:44:50Z",
         "created_at": "2014-01-09T17:09:57Z"
       },
       {
@@ -48514,7 +48514,7 @@
         "stars": 172,
         "forks": 88,
         "language": "Go",
-        "pushed_at": "2026-08-19T16:54:48Z",
+        "pushed_at": "2026-08-19T20:09:47Z",
         "created_at": "2014-01-09T17:10:17Z"
       },
       {
@@ -48531,7 +48531,7 @@
         "name": "skills",
         "description": "Agent Skills for Google products and technologies",
         "url": "https://github.com/google/skills",
-        "stars": 18505,
+        "stars": 18511,
         "forks": 1461,
         "language": "Python",
         "pushed_at": "2026-08-18T23:55:14Z",
@@ -50241,7 +50241,7 @@
         "name": "tarpc",
         "description": "An RPC framework for Rust with a focus on ease of use.",
         "url": "https://github.com/google/tarpc",
-        "stars": 3731,
+        "stars": 3730,
         "forks": 228,
         "language": "Rust",
         "pushed_at": "2026-08-12T04:43:00Z",
@@ -50304,7 +50304,7 @@
         "stars": 5323,
         "forks": 563,
         "language": "C++",
-        "pushed_at": "2026-08-19T19:14:44Z",
+        "pushed_at": "2026-08-19T19:57:29Z",
         "created_at": "2019-08-23T14:02:59Z"
       },
       {
@@ -51154,7 +51154,7 @@
         "stars": 45,
         "forks": 13,
         "language": "Go",
-        "pushed_at": "2026-08-19T03:37:39Z",
+        "pushed_at": "2026-08-19T19:31:00Z",
         "created_at": "2020-03-12T22:26:47Z"
       },
       {
@@ -51344,7 +51344,7 @@
         "stars": 2410,
         "forks": 334,
         "language": "Python",
-        "pushed_at": "2026-08-19T18:41:45Z",
+        "pushed_at": "2026-08-19T20:19:04Z",
         "created_at": "2025-04-02T22:19:15Z"
       },
       {
@@ -51732,7 +51732,7 @@
         "description": "Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.",
         "url": "https://github.com/google/uuid",
         "stars": 6137,
-        "forks": 437,
+        "forks": 438,
         "language": "Go",
         "pushed_at": "2024-11-14T17:05:06Z",
         "created_at": "2016-02-12T22:17:59Z"
@@ -53064,7 +53064,7 @@
         "stars": 165,
         "forks": 30,
         "language": "TypeScript",
-        "pushed_at": "2026-08-19T18:56:10Z",
+        "pushed_at": "2026-08-19T20:28:08Z",
         "created_at": "2022-12-07T16:50:39Z"
       },
       {
@@ -53294,7 +53294,7 @@
         "stars": 1819,
         "forks": 269,
         "language": "C++",
-        "pushed_at": "2026-08-19T19:23:33Z",
+        "pushed_at": "2026-08-19T19:45:59Z",
         "created_at": "2020-05-07T21:38:30Z"
       },
       {
@@ -53314,7 +53314,7 @@
         "stars": 2425,
         "forks": 542,
         "language": "C",
-        "pushed_at": "2026-08-19T17:56:26Z",
+        "pushed_at": "2026-08-19T20:00:34Z",
         "created_at": "2019-09-13T23:48:37Z"
       },
       {
@@ -53594,7 +53594,7 @@
         "stars": 2556,
         "forks": 173,
         "language": "Rust",
-        "pushed_at": "2026-08-19T19:12:03Z",
+        "pushed_at": "2026-08-19T20:18:12Z",
         "created_at": "2022-09-08T19:01:01Z"
       },
       {
