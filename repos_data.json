@@ -219,7 +219,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2026-08-23T21:23:01Z",
+        "pushed_at": "2026-08-23T22:22:35Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4287,7 +4287,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
         "stars": 16293,
-        "forks": 9810,
+        "forks": 9811,
         "language": "C",
         "pushed_at": "2026-08-23T21:37:44Z",
         "created_at": "2016-05-26T17:54:19Z"
@@ -12246,7 +12246,7 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32 family of SoCs",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 17278,
+        "stars": 17277,
         "forks": 7902,
         "language": "C++",
         "pushed_at": "2026-08-23T22:19:17Z",
@@ -12806,7 +12806,7 @@
         "name": "esp-buildroot-external",
         "description": "（无简介）",
         "url": "https://github.com/espressif/esp-buildroot-external",
-        "stars": 4,
+        "stars": 5,
         "forks": 0,
         "language": "Shell",
         "pushed_at": "2026-08-20T15:28:17Z",
@@ -12936,7 +12936,7 @@
         "name": "esp-dev-kits",
         "description": "Docs, Schematics, Factory Firmwares for ESP Development Kits",
         "url": "https://github.com/espressif/esp-dev-kits",
-        "stars": 613,
+        "stars": 614,
         "forks": 261,
         "language": "Python",
         "pushed_at": "2026-08-21T13:14:48Z",
@@ -13426,7 +13426,7 @@
         "name": "esp-linux-bsp",
         "description": "（无简介）",
         "url": "https://github.com/espressif/esp-linux-bsp",
-        "stars": 29,
+        "stars": 30,
         "forks": 4,
         "language": "Shell",
         "pushed_at": "2026-08-20T10:41:24Z",
@@ -19876,10 +19876,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 115090,
-        "forks": 17550,
+        "stars": 115111,
+        "forks": 17552,
         "language": "Rust",
-        "pushed_at": "2026-08-23T21:53:43Z",
+        "pushed_at": "2026-08-23T22:44:37Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -19896,7 +19896,7 @@
         "name": "codex-plugin-cc",
         "description": "Use Codex from Claude Code to review code or delegate tasks.",
         "url": "https://github.com/openai/codex-plugin-cc",
-        "stars": 32222,
+        "stars": 32225,
         "forks": 2230,
         "language": "JavaScript",
         "pushed_at": "2026-07-08T00:17:31Z",
@@ -19906,10 +19906,10 @@
         "name": "codex-security",
         "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
         "url": "https://github.com/openai/codex-security",
-        "stars": 10106,
+        "stars": 10107,
         "forks": 721,
         "language": "TypeScript",
-        "pushed_at": "2026-08-23T22:16:48Z",
+        "pushed_at": "2026-08-23T22:59:18Z",
         "created_at": "2026-07-13T22:00:13Z"
       },
       {
@@ -20959,7 +20959,7 @@
         "stars": 3686,
         "forks": 932,
         "language": "TypeScript",
-        "pushed_at": "2026-08-23T04:06:13Z",
+        "pushed_at": "2026-08-23T22:39:31Z",
         "created_at": "2025-05-31T00:08:49Z"
       },
       {
@@ -21867,7 +21867,7 @@
         "description": "（无简介）",
         "url": "https://github.com/openai/simple-evals",
         "stars": 4609,
-        "forks": 504,
+        "forks": 505,
         "language": "Python",
         "pushed_at": "2026-04-22T22:16:18Z",
         "created_at": "2024-04-11T22:38:17Z"
@@ -22016,8 +22016,8 @@
         "name": "symphony",
         "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
         "url": "https://github.com/openai/symphony",
-        "stars": 26818,
-        "forks": 2743,
+        "stars": 26819,
+        "forks": 2744,
         "language": "Elixir",
         "pushed_at": "2026-08-19T23:24:27Z",
         "created_at": "2026-02-26T21:54:00Z"
@@ -22772,7 +22772,7 @@
         "description": "CMSIS-NN Library",
         "url": "https://github.com/ARM-software/CMSIS-NN",
         "stars": 418,
-        "forks": 114,
+        "forks": 115,
         "language": "C",
         "pushed_at": "2026-08-21T05:25:44Z",
         "created_at": "2022-06-01T14:52:41Z"
@@ -23254,7 +23254,7 @@
         "stars": 7,
         "forks": 5,
         "language": "C++",
-        "pushed_at": "2026-08-23T18:23:42Z",
+        "pushed_at": "2026-08-23T23:16:34Z",
         "created_at": "2022-12-08T16:06:01Z"
       },
       {
@@ -23994,7 +23994,7 @@
         "stars": 9,
         "forks": 13,
         "language": "C++",
-        "pushed_at": "2026-08-23T08:37:49Z",
+        "pushed_at": "2026-08-23T22:58:08Z",
         "created_at": "2022-02-02T15:59:29Z"
       },
       {
@@ -25242,7 +25242,7 @@
         "description": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-java",
         "stars": 1695,
-        "forks": 404,
+        "forks": 405,
         "language": "Java",
         "pushed_at": "2026-08-20T10:13:34Z",
         "created_at": "2025-05-05T17:16:25Z"
@@ -27441,7 +27441,7 @@
         "name": "bindiff",
         "description": "Quickly find differences and similarities in disassembled code",
         "url": "https://github.com/google/bindiff",
-        "stars": 3148,
+        "stars": 3149,
         "forks": 238,
         "language": "Java",
         "pushed_at": "2026-08-18T17:08:37Z",
@@ -27811,7 +27811,7 @@
         "name": "brotli",
         "description": "Brotli compression format",
         "url": "https://github.com/google/brotli",
-        "stars": 14848,
+        "stars": 14849,
         "forks": 1350,
         "language": "TypeScript",
         "pushed_at": "2026-08-18T08:18:29Z",
@@ -28334,7 +28334,7 @@
         "stars": 69,
         "forks": 12,
         "language": "Python",
-        "pushed_at": "2026-08-23T14:50:58Z",
+        "pushed_at": "2026-08-23T23:17:02Z",
         "created_at": "2025-09-26T16:07:23Z"
       },
       {
@@ -31481,7 +31481,7 @@
         "name": "deps.dev",
         "description": "Resources for the deps.dev API",
         "url": "https://github.com/google/deps.dev",
-        "stars": 436,
+        "stars": 437,
         "forks": 53,
         "language": "Go",
         "pushed_at": "2026-08-18T12:04:02Z",
@@ -37794,7 +37794,7 @@
         "stars": 865,
         "forks": 160,
         "language": "MLIR",
-        "pushed_at": "2026-08-23T22:20:21Z",
+        "pushed_at": "2026-08-23T22:44:27Z",
         "created_at": "2023-04-17T21:14:13Z"
       },
       {
@@ -41222,7 +41222,7 @@
         "description": "A modular, stack-agnostic toolkit of security review skills for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.",
         "url": "https://github.com/google/mantis",
         "stars": 767,
-        "forks": 87,
+        "forks": 88,
         "language": "Python",
         "pushed_at": "2026-08-17T15:04:15Z",
         "created_at": "2026-06-15T20:58:00Z"
@@ -43044,7 +43044,7 @@
         "stars": 1805,
         "forks": 302,
         "language": "Java",
-        "pushed_at": "2026-08-23T18:06:17Z",
+        "pushed_at": "2026-08-23T23:16:54Z",
         "created_at": "2016-02-29T20:16:48Z"
       },
       {
@@ -43801,7 +43801,7 @@
         "name": "osv-scanner",
         "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
         "url": "https://github.com/google/osv-scanner",
-        "stars": 10909,
+        "stars": 10910,
         "forks": 770,
         "language": "Go",
         "pushed_at": "2026-08-23T21:02:58Z",
