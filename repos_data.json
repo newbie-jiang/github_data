@@ -219,7 +219,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2026-08-23T18:31:17Z",
+        "pushed_at": "2026-08-23T19:22:22Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -706,1828 +706,7 @@
   },
   {
     "username": "LibDriver",
-    "repos": [
-      {
-        "name": "ad7705",
-        "description": "AD7705 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ad7705",
-        "stars": 0,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2025-12-29T15:15:25Z",
-        "created_at": "2025-12-21T03:30:09Z"
-      },
-      {
-        "name": "ad9833",
-        "description": "AD9833 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ad9833",
-        "stars": 6,
-        "forks": 2,
-        "language": "C",
-        "pushed_at": "2026-06-21T11:56:41Z",
-        "created_at": "2024-04-05T04:33:29Z"
-      },
-      {
-        "name": "adg728",
-        "description": "ADG728 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/adg728",
-        "stars": 0,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-01-25T16:23:11Z",
-        "created_at": "2026-01-25T14:56:21Z"
-      },
-      {
-        "name": "ads1110",
-        "description": "ADS1110 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ads1110",
-        "stars": 3,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-01-07T13:34:17Z",
-        "created_at": "2025-08-06T13:07:47Z"
-      },
-      {
-        "name": "ads1115",
-        "description": "ADS1115 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ads1115",
-        "stars": 56,
-        "forks": 7,
-        "language": "C",
-        "pushed_at": "2026-06-21T12:04:58Z",
-        "created_at": "2021-05-09T06:47:48Z"
-      },
-      {
-        "name": "ads1118",
-        "description": "ADS1118 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ads1118",
-        "stars": 22,
-        "forks": 6,
-        "language": "C",
-        "pushed_at": "2025-12-04T12:09:44Z",
-        "created_at": "2024-03-16T10:57:51Z"
-      },
-      {
-        "name": "adxl345",
-        "description": "ADXL345 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/adxl345",
-        "stars": 143,
-        "forks": 15,
-        "language": "C",
-        "pushed_at": "2026-06-26T13:54:00Z",
-        "created_at": "2021-05-05T15:26:02Z"
-      },
-      {
-        "name": "adxl362",
-        "description": "ADXL362 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/adxl362",
-        "stars": 20,
-        "forks": 7,
-        "language": "C",
-        "pushed_at": "2026-06-26T14:21:41Z",
-        "created_at": "2023-03-05T12:39:17Z"
-      },
-      {
-        "name": "adxl375",
-        "description": "ADXL375 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/adxl375",
-        "stars": 16,
-        "forks": 5,
-        "language": "C",
-        "pushed_at": "2026-06-26T19:47:54Z",
-        "created_at": "2025-02-05T12:13:00Z"
-      },
-      {
-        "name": "afs01",
-        "description": "AFS01 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/afs01",
-        "stars": 1,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-06-21T14:28:47Z",
-        "created_at": "2026-01-14T13:55:32Z"
-      },
-      {
-        "name": "ags02ma",
-        "description": "AGS02MA full-featured driver for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ags02ma",
-        "stars": 13,
-        "forks": 5,
-        "language": "C",
-        "pushed_at": "2026-06-21T14:51:55Z",
-        "created_at": "2024-10-11T14:59:46Z"
-      },
-      {
-        "name": "ags10",
-        "description": "AGS10 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ags10",
-        "stars": 11,
-        "forks": 5,
-        "language": "C",
-        "pushed_at": "2026-06-21T14:42:13Z",
-        "created_at": "2024-10-03T13:39:09Z"
-      },
-      {
-        "name": "ags10et",
-        "description": "AGS10ET full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ags10et",
-        "stars": 6,
-        "forks": 5,
-        "language": "C",
-        "pushed_at": "2026-06-21T15:03:49Z",
-        "created_at": "2024-11-17T11:39:00Z"
-      },
-      {
-        "name": "aht10",
-        "description": "AHT10 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/aht10",
-        "stars": 1,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2025-10-25T14:30:22Z",
-        "created_at": "2025-07-06T09:44:15Z"
-      },
-      {
-        "name": "aht20",
-        "description": "AHT20 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/aht20",
-        "stars": 37,
-        "forks": 14,
-        "language": "C",
-        "pushed_at": "2025-10-25T14:32:30Z",
-        "created_at": "2022-10-28T15:02:10Z"
-      },
-      {
-        "name": "aht21",
-        "description": "AHT21 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/aht21",
-        "stars": 1,
-        "forks": 1,
-        "language": "C",
-        "pushed_at": "2025-10-25T14:34:33Z",
-        "created_at": "2025-07-04T13:11:28Z"
-      },
-      {
-        "name": "aht25",
-        "description": "AHT25 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/aht25",
-        "stars": 0,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2025-11-17T13:09:49Z",
-        "created_at": "2025-11-16T15:46:09Z"
-      },
-      {
-        "name": "aht30",
-        "description": "AHT30 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/aht30",
-        "stars": 14,
-        "forks": 8,
-        "language": "C",
-        "pushed_at": "2025-10-25T14:36:57Z",
-        "created_at": "2023-11-16T13:43:07Z"
-      },
-      {
-        "name": "aht40",
-        "description": "AHT40 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/aht40",
-        "stars": 2,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2025-11-27T17:08:56Z",
-        "created_at": "2025-11-27T15:36:53Z"
-      },
-      {
-        "name": "am2320",
-        "description": "AM2320 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/am2320",
-        "stars": 35,
-        "forks": 5,
-        "language": "C",
-        "pushed_at": "2026-06-27T06:01:46Z",
-        "created_at": "2024-10-27T03:39:54Z"
-      },
-      {
-        "name": "amg8833",
-        "description": "AMG8833 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/amg8833",
-        "stars": 60,
-        "forks": 23,
-        "language": "C",
-        "pushed_at": "2026-06-21T15:47:22Z",
-        "created_at": "2021-12-27T16:53:32Z"
-      },
-      {
-        "name": "aox4000",
-        "description": "AOX4000 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/aox4000",
-        "stars": 11,
-        "forks": 5,
-        "language": "C",
-        "pushed_at": "2026-06-27T06:43:01Z",
-        "created_at": "2025-04-07T14:50:19Z"
-      },
-      {
-        "name": "apa102c",
-        "description": "APA102C full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/apa102c",
-        "stars": 1,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-06-21T16:15:23Z",
-        "created_at": "2025-04-08T15:36:30Z"
-      },
-      {
-        "name": "apds9960",
-        "description": "APDS9960 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/apds9960",
-        "stars": 24,
-        "forks": 23,
-        "language": "C",
-        "pushed_at": "2026-01-11T10:08:39Z",
-        "created_at": "2022-01-28T09:07:17Z"
-      },
-      {
-        "name": "apm2000",
-        "description": "APM2000 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/apm2000",
-        "stars": 0,
-        "forks": 1,
-        "language": "C",
-        "pushed_at": "2025-10-25T14:52:17Z",
-        "created_at": "2025-07-16T12:07:33Z"
-      },
-      {
-        "name": "as3935",
-        "description": "AS3935 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/as3935",
-        "stars": 1,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-06-27T08:08:13Z",
-        "created_at": "2025-12-29T15:20:44Z"
-      },
-      {
-        "name": "as5600",
-        "description": "AS5600 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/as5600",
-        "stars": 84,
-        "forks": 16,
-        "language": "C",
-        "pushed_at": "2026-06-27T08:24:31Z",
-        "created_at": "2022-10-02T16:54:20Z"
-      },
-      {
-        "name": "as608",
-        "description": "AS608 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/as608",
-        "stars": 47,
-        "forks": 20,
-        "language": "C",
-        "pushed_at": "2026-06-27T07:27:35Z",
-        "created_at": "2023-11-03T14:40:09Z"
-      },
-      {
-        "name": "at24cxx",
-        "description": "AT24CXX(AT24C01, AT24C02, AT24C04, AT24C08, AT24C16, AT24C32, AT24C64, AT24C128, AT24C256, AT24C512, AT24CM01, AT24CM02) full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/at24cxx",
-        "stars": 87,
-        "forks": 20,
-        "language": "C",
-        "pushed_at": "2026-06-21T17:32:12Z",
-        "created_at": "2021-05-10T13:55:26Z"
-      },
-      {
-        "name": "ba111",
-        "description": "BA111 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ba111",
-        "stars": 11,
-        "forks": 6,
-        "language": "C",
-        "pushed_at": "2026-06-21T17:43:10Z",
-        "created_at": "2025-05-18T05:57:12Z"
-      },
-      {
-        "name": "ba121",
-        "description": "BA121 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ba121",
-        "stars": 0,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-06-22T01:52:50Z",
-        "created_at": "2025-06-08T15:55:53Z"
-      },
-      {
-        "name": "ba234",
-        "description": "BA234 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ba234",
-        "stars": 1,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-07-29T12:44:13Z",
-        "created_at": "2026-07-29T11:39:49Z"
-      },
-      {
-        "name": "bh1750fvi",
-        "description": "BH1750FVI full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/bh1750fvi",
-        "stars": 46,
-        "forks": 18,
-        "language": "C",
-        "pushed_at": "2025-11-15T08:47:38Z",
-        "created_at": "2022-11-20T04:51:29Z"
-      },
-      {
-        "name": "bme280",
-        "description": "BME280 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/bme280",
-        "stars": 3,
-        "forks": 1,
-        "language": "C",
-        "pushed_at": "2026-06-27T09:36:41Z",
-        "created_at": "2024-01-19T16:26:51Z"
-      },
-      {
-        "name": "bme680",
-        "description": "BME680 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/bme680",
-        "stars": 0,
-        "forks": 1,
-        "language": "C",
-        "pushed_at": "2026-07-04T16:13:19Z",
-        "created_at": "2025-07-27T04:38:00Z"
-      },
-      {
-        "name": "bme688",
-        "description": "BME688 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/bme688",
-        "stars": 0,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-07-04T17:41:51Z",
-        "created_at": "2026-03-09T16:25:08Z"
-      },
-      {
-        "name": "bme690",
-        "description": "BME690 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/bme690",
-        "stars": 0,
-        "forks": 1,
-        "language": "C",
-        "pushed_at": "2026-07-04T17:46:41Z",
-        "created_at": "2026-03-14T02:18:24Z"
-      },
-      {
-        "name": "bmm150",
-        "description": "BMM150 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/bmm150",
-        "stars": 2,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-06-27T09:17:18Z",
-        "created_at": "2025-12-06T10:52:48Z"
-      },
-      {
-        "name": "bmp180",
-        "description": "BMP180 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/bmp180",
-        "stars": 63,
-        "forks": 30,
-        "language": "C",
-        "pushed_at": "2025-10-25T15:16:29Z",
-        "created_at": "2021-05-10T13:59:39Z"
-      },
-      {
-        "name": "bmp280",
-        "description": "BMP280 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/bmp280",
-        "stars": 158,
-        "forks": 79,
-        "language": "C",
-        "pushed_at": "2026-06-27T09:48:00Z",
-        "created_at": "2024-01-13T15:21:39Z"
-      },
-      {
-        "name": "bmp384",
-        "description": "BMP384 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/bmp384",
-        "stars": 6,
-        "forks": 4,
-        "language": "C",
-        "pushed_at": "2026-06-27T11:15:43Z",
-        "created_at": "2024-10-17T14:05:22Z"
-      },
-      {
-        "name": "bmp388",
-        "description": "BMP388 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/bmp388",
-        "stars": 16,
-        "forks": 8,
-        "language": "C",
-        "pushed_at": "2026-06-27T11:06:57Z",
-        "created_at": "2021-05-10T14:01:47Z"
-      },
-      {
-        "name": "bmp390",
-        "description": "BMP390 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/bmp390",
-        "stars": 34,
-        "forks": 10,
-        "language": "C",
-        "pushed_at": "2026-06-27T11:34:10Z",
-        "created_at": "2022-05-14T05:29:04Z"
-      },
-      {
-        "name": "bpc",
-        "description": "BPC(68.5kHz) time code decoder full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/bpc",
-        "stars": 3,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-06-27T12:14:21Z",
-        "created_at": "2025-12-12T13:57:51Z"
-      },
-      {
-        "name": "button",
-        "description": "BUTTON full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/button",
-        "stars": 14,
-        "forks": 4,
-        "language": "C",
-        "pushed_at": "2025-10-25T15:28:33Z",
-        "created_at": "2023-11-08T14:34:38Z"
-      },
-      {
-        "name": "ccs811",
-        "description": "CCS811 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ccs811",
-        "stars": 1,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-06-27T12:37:52Z",
-        "created_at": "2025-07-01T12:32:30Z"
-      },
-      {
-        "name": "ch9120",
-        "description": "CH9120 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ch9120",
-        "stars": 8,
-        "forks": 2,
-        "language": "C",
-        "pushed_at": "2026-06-22T04:10:18Z",
-        "created_at": "2025-08-31T07:51:45Z"
-      },
-      {
-        "name": "ch9121",
-        "description": "CH9121 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ch9121",
-        "stars": 35,
-        "forks": 7,
-        "language": "C",
-        "pushed_at": "2026-06-22T04:21:42Z",
-        "created_at": "2023-04-15T19:14:22Z"
-      },
-      {
-        "name": "ch9121x",
-        "description": "CH9121X(CH9121A, CH9121T) full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ch9121x",
-        "stars": 0,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-06-27T13:23:38Z",
-        "created_at": "2026-05-04T15:07:57Z"
-      },
-      {
-        "name": "cs100",
-        "description": "CS100 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/cs100",
-        "stars": 14,
-        "forks": 5,
-        "language": "C",
-        "pushed_at": "2026-06-22T04:34:38Z",
-        "created_at": "2024-07-28T16:07:26Z"
-      },
-      {
-        "name": "dht11",
-        "description": "DHT11 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/dht11",
-        "stars": 130,
-        "forks": 27,
-        "language": "C",
-        "pushed_at": "2025-10-25T15:53:42Z",
-        "created_at": "2021-05-10T15:28:58Z"
-      },
-      {
-        "name": "dht20",
-        "description": "DHT20 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/dht20",
-        "stars": 21,
-        "forks": 11,
-        "language": "C",
-        "pushed_at": "2026-06-22T05:40:09Z",
-        "created_at": "2022-10-29T10:41:24Z"
-      },
-      {
-        "name": "ds1302",
-        "description": "DS1302 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ds1302",
-        "stars": 74,
-        "forks": 18,
-        "language": "C",
-        "pushed_at": "2026-06-22T06:39:29Z",
-        "created_at": "2024-02-06T12:06:25Z"
-      },
-      {
-        "name": "ds1307",
-        "description": "DS1307 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ds1307",
-        "stars": 73,
-        "forks": 16,
-        "language": "C",
-        "pushed_at": "2026-06-27T16:18:13Z",
-        "created_at": "2023-06-23T04:12:44Z"
-      },
-      {
-        "name": "ds18b20",
-        "description": "DS18B20 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ds18b20",
-        "stars": 223,
-        "forks": 41,
-        "language": "C",
-        "pushed_at": "2026-06-27T14:47:06Z",
-        "created_at": "2021-05-10T15:32:27Z"
-      },
-      {
-        "name": "ds2431",
-        "description": "DS2431 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ds2431",
-        "stars": 2,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-06-27T16:50:52Z",
-        "created_at": "2025-11-26T16:13:24Z"
-      },
-      {
-        "name": "ds3231",
-        "description": "DS3231 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ds3231",
-        "stars": 66,
-        "forks": 18,
-        "language": "C",
-        "pushed_at": "2026-06-27T17:32:52Z",
-        "created_at": "2021-05-12T14:57:05Z"
-      },
-      {
-        "name": "em4095",
-        "description": "EM4095 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/em4095",
-        "stars": 24,
-        "forks": 4,
-        "language": "C",
-        "pushed_at": "2025-10-25T12:29:16Z",
-        "created_at": "2024-06-14T16:05:20Z"
-      },
-      {
-        "name": "em4100",
-        "description": "EM4100 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/em4100",
-        "stars": 19,
-        "forks": 5,
-        "language": "C",
-        "pushed_at": "2025-10-25T16:12:43Z",
-        "created_at": "2024-06-16T13:25:11Z"
-      },
-      {
-        "name": "ens160",
-        "description": "ENS160 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ens160",
-        "stars": 0,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-06-22T09:09:08Z",
-        "created_at": "2026-01-31T05:21:22Z"
-      },
-      {
-        "name": "fm11rfxx",
-        "description": "FM11RFXX(FM11RF08, FM11RF32) full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/fm11rfxx",
-        "stars": 5,
-        "forks": 5,
-        "language": "C",
-        "pushed_at": "2026-01-25T16:49:45Z",
-        "created_at": "2024-07-15T15:10:18Z"
-      },
-      {
-        "name": "fm24clxx",
-        "description": "FM24CLXX(FM24CL04B, FM24CL16B, FM24CL64B) full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/fm24clxx",
-        "stars": 18,
-        "forks": 6,
-        "language": "C",
-        "pushed_at": "2026-06-22T09:15:51Z",
-        "created_at": "2021-06-19T05:52:58Z"
-      },
-      {
-        "name": "gp2y1051au0f",
-        "description": "GP2Y1051AU0F full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/gp2y1051au0f",
-        "stars": 8,
-        "forks": 4,
-        "language": "C",
-        "pushed_at": "2026-06-28T04:48:47Z",
-        "created_at": "2024-04-05T04:35:23Z"
-      },
-      {
-        "name": "gt30l32s4w",
-        "description": "GT30L32S4W full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/gt30l32s4w",
-        "stars": 17,
-        "forks": 7,
-        "language": "C",
-        "pushed_at": "2025-10-25T16:25:25Z",
-        "created_at": "2023-09-10T04:36:52Z"
-      },
-      {
-        "name": "hcsr04",
-        "description": "HCSR04 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/hcsr04",
-        "stars": 20,
-        "forks": 4,
-        "language": "C",
-        "pushed_at": "2026-06-22T09:24:11Z",
-        "created_at": "2021-05-12T14:54:27Z"
-      },
-      {
-        "name": "hdc1080",
-        "description": "HDC1080 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/hdc1080",
-        "stars": 35,
-        "forks": 9,
-        "language": "C",
-        "pushed_at": "2025-10-25T16:45:43Z",
-        "created_at": "2023-05-04T15:23:39Z"
-      },
-      {
-        "name": "hdc2080",
-        "description": "HDC2080 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/hdc2080",
-        "stars": 4,
-        "forks": 6,
-        "language": "C",
-        "pushed_at": "2026-06-22T10:38:21Z",
-        "created_at": "2024-06-02T11:06:19Z"
-      },
-      {
-        "name": "hdc302x",
-        "description": "HDC302X(HDC3020, HDC3021, HDC3022) full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/hdc302x",
-        "stars": 1,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-06-22T09:58:44Z",
-        "created_at": "2025-11-30T12:19:15Z"
-      },
-      {
-        "name": "hlw8032",
-        "description": "HLW8032 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/hlw8032",
-        "stars": 5,
-        "forks": 1,
-        "language": "C",
-        "pushed_at": "2026-06-28T06:11:32Z",
-        "created_at": "2025-08-31T07:54:06Z"
-      },
-      {
-        "name": "hmc5883l",
-        "description": "HMC5883L full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/hmc5883l",
-        "stars": 65,
-        "forks": 12,
-        "language": "C",
-        "pushed_at": "2026-06-28T06:29:30Z",
-        "created_at": "2021-05-15T03:37:57Z"
-      },
-      {
-        "name": "htu21d",
-        "description": "HTU21D full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/htu21d",
-        "stars": 47,
-        "forks": 22,
-        "language": "C",
-        "pushed_at": "2026-06-22T11:12:13Z",
-        "created_at": "2022-11-08T12:02:33Z"
-      },
-      {
-        "name": "htu31d",
-        "description": "HTU31D full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/htu31d",
-        "stars": 11,
-        "forks": 7,
-        "language": "C",
-        "pushed_at": "2026-06-22T11:22:01Z",
-        "created_at": "2024-03-04T16:41:39Z"
-      },
-      {
-        "name": "hx711",
-        "description": "HX711 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/hx711",
-        "stars": 58,
-        "forks": 21,
-        "language": "C",
-        "pushed_at": "2026-06-22T11:36:44Z",
-        "created_at": "2021-05-15T03:40:36Z"
-      },
-      {
-        "name": "ina219",
-        "description": "INA219 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ina219",
-        "stars": 43,
-        "forks": 10,
-        "language": "C",
-        "pushed_at": "2026-06-22T14:38:07Z",
-        "created_at": "2021-06-20T03:35:34Z"
-      },
-      {
-        "name": "ina226",
-        "description": "INA226 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ina226",
-        "stars": 65,
-        "forks": 7,
-        "language": "C",
-        "pushed_at": "2026-06-28T07:17:42Z",
-        "created_at": "2025-02-15T07:22:43Z"
-      },
-      {
-        "name": "ir_remote",
-        "description": "NEC IR remote decode full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ir_remote",
-        "stars": 81,
-        "forks": 28,
-        "language": "C",
-        "pushed_at": "2026-06-22T14:49:49Z",
-        "created_at": "2023-03-20T16:52:39Z"
-      },
-      {
-        "name": "isd17xx",
-        "description": "ISD17XX(ISD1730, ISD1740, ISD1750, ISD1760, ISD1790, ISD17120, ISD17150, ISD17180, ISD17210, ISD17240) full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/isd17xx",
-        "stars": 22,
-        "forks": 11,
-        "language": "C",
-        "pushed_at": "2026-06-22T15:08:21Z",
-        "created_at": "2023-03-09T14:19:28Z"
-      },
-      {
-        "name": "jed1xx",
-        "description": "JED1XX(JED101, JED103, JED104, JED105, JED106, JED107, JED109, JED110, JED112, JED115, JED116, JED117, JED131, JED138) full-featured driver library for general-purpose MCU and Linux.(VOC, H2, CO, NH3, H2S, C2H5OH, C3H8, CF2CL2, NO2, SMOG, CH2O, CH3COCH3, O3, C6H6)",
-        "url": "https://github.com/libdriver/jed1xx",
-        "stars": 5,
-        "forks": 6,
-        "language": "C",
-        "pushed_at": "2025-10-25T17:24:38Z",
-        "created_at": "2024-10-31T13:27:14Z"
-      },
-      {
-        "name": "l3gd20h",
-        "description": "L3GD20H full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/l3gd20h",
-        "stars": 21,
-        "forks": 4,
-        "language": "C",
-        "pushed_at": "2026-06-28T08:07:47Z",
-        "created_at": "2021-06-07T17:14:21Z"
-      },
-      {
-        "name": "lan8720",
-        "description": "LAN8720 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/lan8720",
-        "stars": 34,
-        "forks": 10,
-        "language": "C",
-        "pushed_at": "2026-06-22T15:55:38Z",
-        "created_at": "2023-08-12T06:47:17Z"
-      },
-      {
-        "name": "ld3320",
-        "description": "LD3320 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ld3320",
-        "stars": 30,
-        "forks": 9,
-        "language": "C",
-        "pushed_at": "2026-06-22T16:33:41Z",
-        "created_at": "2021-07-02T14:37:12Z"
-      },
-      {
-        "name": "llcc68",
-        "description": "LLCC68 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/llcc68",
-        "stars": 94,
-        "forks": 27,
-        "language": "C",
-        "pushed_at": "2026-07-04T04:24:02Z",
-        "created_at": "2023-03-20T17:15:11Z"
-      },
-      {
-        "name": "lm75b",
-        "description": "LM75B full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/lm75b",
-        "stars": 13,
-        "forks": 5,
-        "language": "C",
-        "pushed_at": "2026-06-22T16:44:22Z",
-        "created_at": "2021-05-15T03:42:51Z"
-      },
-      {
-        "name": "mag3110",
-        "description": "MAG3110 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/mag3110",
-        "stars": 2,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-06-28T09:25:52Z",
-        "created_at": "2025-08-11T12:22:13Z"
-      },
-      {
-        "name": "max30102",
-        "description": "MAX30102 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/max30102",
-        "stars": 107,
-        "forks": 24,
-        "language": "C",
-        "pushed_at": "2026-06-23T15:46:36Z",
-        "created_at": "2021-11-20T13:08:55Z"
-      },
-      {
-        "name": "max30105",
-        "description": "MAX30105 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/max30105",
-        "stars": 30,
-        "forks": 73,
-        "language": "C",
-        "pushed_at": "2026-06-23T16:02:31Z",
-        "created_at": "2022-01-01T18:06:54Z"
-      },
-      {
-        "name": "max30205",
-        "description": "MAX30205 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/max30205",
-        "stars": 21,
-        "forks": 6,
-        "language": "C",
-        "pushed_at": "2026-06-28T10:02:31Z",
-        "created_at": "2021-05-15T03:49:25Z"
-      },
-      {
-        "name": "max31850",
-        "description": "MAX31850 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/max31850",
-        "stars": 0,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-03-31T13:36:27Z",
-        "created_at": "2026-03-30T13:05:06Z"
-      },
-      {
-        "name": "max31855",
-        "description": "MAX31855 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/max31855",
-        "stars": 72,
-        "forks": 10,
-        "language": "C",
-        "pushed_at": "2026-06-23T15:08:35Z",
-        "created_at": "2025-01-08T02:27:17Z"
-      },
-      {
-        "name": "max31856",
-        "description": "MAX31856 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/max31856",
-        "stars": 0,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-07-24T16:57:00Z",
-        "created_at": "2026-07-23T17:24:05Z"
-      },
-      {
-        "name": "max31865",
-        "description": "MAX31865 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/max31865",
-        "stars": 63,
-        "forks": 24,
-        "language": "C",
-        "pushed_at": "2026-06-28T11:36:33Z",
-        "created_at": "2021-05-15T03:51:55Z"
-      },
-      {
-        "name": "max44009",
-        "description": "MAX44009 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/max44009",
-        "stars": 0,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-08-14T17:10:47Z",
-        "created_at": "2026-08-14T12:14:13Z"
-      },
-      {
-        "name": "max6675",
-        "description": "MAX6675 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/max6675",
-        "stars": 37,
-        "forks": 26,
-        "language": "C",
-        "pushed_at": "2025-12-14T06:42:38Z",
-        "created_at": "2022-11-21T15:02:56Z"
-      },
-      {
-        "name": "max7219",
-        "description": "MAX7219 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/max7219",
-        "stars": 88,
-        "forks": 20,
-        "language": "C",
-        "pushed_at": "2026-06-23T14:43:47Z",
-        "created_at": "2021-05-15T03:46:48Z"
-      },
-      {
-        "name": "mb85rcxx",
-        "description": "MB85RCXX(MB85RC04, MB85RC16, MB85RC64, MB85RC128, MB85RC256, MB85RC512, MB85RC1M) full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/mb85rcxx",
-        "stars": 0,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-06-23T16:24:48Z",
-        "created_at": "2025-10-04T03:01:42Z"
-      },
-      {
-        "name": "mb85rsxx",
-        "description": "MB85RSXX(MB85RS16, MB85RS64, MB85RS128, MB85RS256, MB85RS512, MB85RS1M, MB85RS2M, MB85RS4M) full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/mb85rsxx",
-        "stars": 1,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2025-10-26T00:34:49Z",
-        "created_at": "2025-10-10T13:54:30Z"
-      },
-      {
-        "name": "mcp3421",
-        "description": "MCP3421 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/mcp3421",
-        "stars": 31,
-        "forks": 12,
-        "language": "C",
-        "pushed_at": "2025-10-26T00:37:08Z",
-        "created_at": "2024-05-19T16:54:51Z"
-      },
-      {
-        "name": "mcp4725",
-        "description": "MCP4725 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/mcp4725",
-        "stars": 20,
-        "forks": 8,
-        "language": "C",
-        "pushed_at": "2026-06-24T14:10:08Z",
-        "created_at": "2021-05-16T07:04:01Z"
-      },
-      {
-        "name": "mcp9600",
-        "description": "MCP9600 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/mcp9600",
-        "stars": 20,
-        "forks": 8,
-        "language": "C",
-        "pushed_at": "2026-06-28T12:30:26Z",
-        "created_at": "2021-09-21T07:43:48Z"
-      },
-      {
-        "name": "mcp9808",
-        "description": "MCP9808 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/mcp9808",
-        "stars": 1,
-        "forks": 1,
-        "language": "C",
-        "pushed_at": "2026-06-24T16:17:01Z",
-        "created_at": "2026-01-19T14:30:10Z"
-      },
-      {
-        "name": "mfrc522",
-        "description": "MFRC522 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/mfrc522",
-        "stars": 160,
-        "forks": 39,
-        "language": "C",
-        "pushed_at": "2026-01-25T16:38:23Z",
-        "created_at": "2022-05-25T15:19:41Z"
-      },
-      {
-        "name": "mifare_classic",
-        "description": "MIFARE Classic(S50, S70) full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/mifare_classic",
-        "stars": 128,
-        "forks": 37,
-        "language": "C",
-        "pushed_at": "2026-01-25T16:41:38Z",
-        "created_at": "2022-05-26T06:12:29Z"
-      },
-      {
-        "name": "mifare_ultralight",
-        "description": "MIFARE Ultralight full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/mifare_ultralight",
-        "stars": 49,
-        "forks": 9,
-        "language": "C",
-        "pushed_at": "2026-06-25T12:14:05Z",
-        "created_at": "2022-05-26T06:14:33Z"
-      },
-      {
-        "name": "mlx90614",
-        "description": "MLX90614 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/mlx90614",
-        "stars": 23,
-        "forks": 11,
-        "language": "C",
-        "pushed_at": "2026-06-24T16:41:35Z",
-        "created_at": "2021-10-29T16:03:41Z"
-      },
-      {
-        "name": "mma7660fc",
-        "description": "MMA7660FC full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/mma7660fc",
-        "stars": 21,
-        "forks": 4,
-        "language": "C",
-        "pushed_at": "2026-06-25T14:23:15Z",
-        "created_at": "2025-04-01T16:11:27Z"
-      },
-      {
-        "name": "mpu6050",
-        "description": "MPU6050 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/mpu6050",
-        "stars": 425,
-        "forks": 124,
-        "language": "C",
-        "pushed_at": "2026-07-04T09:21:42Z",
-        "created_at": "2022-07-17T11:22:57Z"
-      },
-      {
-        "name": "mpu6500",
-        "description": "MPU6500 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/mpu6500",
-        "stars": 53,
-        "forks": 7,
-        "language": "C",
-        "pushed_at": "2026-07-04T09:04:58Z",
-        "created_at": "2024-07-01T05:38:14Z"
-      },
-      {
-        "name": "mpu9250",
-        "description": "MPU9250 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/mpu9250",
-        "stars": 326,
-        "forks": 124,
-        "language": "C",
-        "pushed_at": "2026-07-04T08:55:44Z",
-        "created_at": "2022-08-20T08:03:27Z"
-      },
-      {
-        "name": "ms5611",
-        "description": "MS5611 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ms5611",
-        "stars": 49,
-        "forks": 16,
-        "language": "C",
-        "pushed_at": "2026-07-05T14:13:17Z",
-        "created_at": "2024-03-31T08:26:21Z"
-      },
-      {
-        "name": "ms5837",
-        "description": "MS5837 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ms5837",
-        "stars": 52,
-        "forks": 27,
-        "language": "C",
-        "pushed_at": "2026-06-24T17:13:22Z",
-        "created_at": "2022-10-02T16:55:20Z"
-      },
-      {
-        "name": "multi_button",
-        "description": "MULTI_BUTTON and MATRIX_BUTTON full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/multi_button",
-        "stars": 23,
-        "forks": 7,
-        "language": "C",
-        "pushed_at": "2026-06-28T15:25:55Z",
-        "created_at": "2023-12-24T12:32:45Z"
-      },
-      {
-        "name": "nrf24l01",
-        "description": "NRF24L01 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/nrf24l01",
-        "stars": 308,
-        "forks": 43,
-        "language": "C",
-        "pushed_at": "2026-02-24T13:01:06Z",
-        "created_at": "2021-12-23T14:29:47Z"
-      },
-      {
-        "name": "nrf905",
-        "description": "NRF905 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/nrf905",
-        "stars": 78,
-        "forks": 34,
-        "language": "C",
-        "pushed_at": "2026-06-24T17:25:52Z",
-        "created_at": "2022-04-04T11:47:42Z"
-      },
-      {
-        "name": "ntag21x",
-        "description": "NTAG21X(NTAG213, NTAG215, NTAG216) full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ntag21x",
-        "stars": 39,
-        "forks": 7,
-        "language": "C",
-        "pushed_at": "2026-01-25T16:46:56Z",
-        "created_at": "2022-05-26T06:16:44Z"
-      },
-      {
-        "name": "ntc",
-        "description": "NTC(Negative Temperature Coefficient) full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ntc",
-        "stars": 101,
-        "forks": 30,
-        "language": "C",
-        "pushed_at": "2026-07-04T18:32:39Z",
-        "created_at": "2026-05-16T12:08:45Z"
-      },
-      {
-        "name": "opt300x",
-        "description": "OPT300X(OPT3001, OPT3002, OPT3004, OPT3005, OPT3006, OPT3007) full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/opt300x",
-        "stars": 2,
-        "forks": 1,
-        "language": "C",
-        "pushed_at": "2026-06-28T16:10:20Z",
-        "created_at": "2025-08-24T07:56:11Z"
-      },
-      {
-        "name": "ov2640",
-        "description": "OV2640 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ov2640",
-        "stars": 96,
-        "forks": 42,
-        "language": "C",
-        "pushed_at": "2026-07-04T10:26:42Z",
-        "created_at": "2024-01-19T16:27:37Z"
-      },
-      {
-        "name": "pca9548a",
-        "description": "PCA9548A full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/pca9548a",
-        "stars": 2,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2025-10-26T01:30:03Z",
-        "created_at": "2025-10-08T11:04:18Z"
-      },
-      {
-        "name": "pca9685",
-        "description": "PCA9685 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/pca9685",
-        "stars": 70,
-        "forks": 21,
-        "language": "C",
-        "pushed_at": "2026-06-28T17:38:40Z",
-        "created_at": "2022-02-05T07:57:21Z"
-      },
-      {
-        "name": "pcf8551a",
-        "description": "PCF8551A full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/pcf8551a",
-        "stars": 0,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-07-11T12:36:02Z",
-        "created_at": "2026-07-09T17:56:37Z"
-      },
-      {
-        "name": "pcf8563",
-        "description": "PCF8563 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/pcf8563",
-        "stars": 30,
-        "forks": 6,
-        "language": "C",
-        "pushed_at": "2026-06-25T16:03:57Z",
-        "created_at": "2024-11-23T09:39:29Z"
-      },
-      {
-        "name": "pcf8574",
-        "description": "PCF8574 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/pcf8574",
-        "stars": 90,
-        "forks": 24,
-        "language": "C",
-        "pushed_at": "2026-06-29T13:19:41Z",
-        "created_at": "2021-08-29T09:20:24Z"
-      },
-      {
-        "name": "pcf8575",
-        "description": "PCF8575 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/pcf8575",
-        "stars": 2,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-06-29T14:48:02Z",
-        "created_at": "2025-07-12T05:18:05Z"
-      },
-      {
-        "name": "pcf8591",
-        "description": "PCF8591 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/pcf8591",
-        "stars": 27,
-        "forks": 5,
-        "language": "C",
-        "pushed_at": "2026-07-08T15:45:19Z",
-        "created_at": "2021-05-16T07:06:03Z"
-      },
-      {
-        "name": "pms3003",
-        "description": "PMS3003 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/pms3003",
-        "stars": 0,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-07-19T12:02:04Z",
-        "created_at": "2026-07-19T11:56:19Z"
-      },
-      {
-        "name": "pmsx003",
-        "description": "PMSX003(PMS1003, PMS5003, PMS6003, PMS7003, PMS9003M, PMSA003) full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/pmsx003",
-        "stars": 103,
-        "forks": 20,
-        "language": "C",
-        "pushed_at": "2026-07-14T17:44:34Z",
-        "created_at": "2025-05-11T16:14:16Z"
-      },
-      {
-        "name": "pmw3901mb",
-        "description": "PMW3901MB full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/pmw3901mb",
-        "stars": 29,
-        "forks": 14,
-        "language": "C",
-        "pushed_at": "2026-06-30T12:20:32Z",
-        "created_at": "2022-01-09T07:59:23Z"
-      },
-      {
-        "name": "qmc5883l",
-        "description": "QMC5883L full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/qmc5883l",
-        "stars": 7,
-        "forks": 1,
-        "language": "C",
-        "pushed_at": "2026-06-30T12:49:07Z",
-        "created_at": "2024-07-25T04:38:22Z"
-      },
-      {
-        "name": "rx8025t",
-        "description": "RX8025T full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/rx8025t",
-        "stars": 0,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-04-28T12:56:34Z",
-        "created_at": "2026-04-27T16:10:25Z"
-      },
-      {
-        "name": "scd30",
-        "description": "SCD30 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/scd30",
-        "stars": 38,
-        "forks": 5,
-        "language": "C",
-        "pushed_at": "2026-07-01T12:14:09Z",
-        "created_at": "2024-10-13T05:34:40Z"
-      },
-      {
-        "name": "scd4x",
-        "description": "SCD4X(SCD40, SCD41, SCD43) full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/scd4x",
-        "stars": 25,
-        "forks": 12,
-        "language": "C",
-        "pushed_at": "2026-07-05T15:42:29Z",
-        "created_at": "2023-09-25T12:52:19Z"
-      },
-      {
-        "name": "sen5x",
-        "description": "SEN5X(SEN50, SEN54, SEN55) full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/sen5x",
-        "stars": 0,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-07-01T12:35:45Z",
-        "created_at": "2025-06-04T15:03:41Z"
-      },
-      {
-        "name": "sfa30",
-        "description": "SFA30 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/sfa30",
-        "stars": 6,
-        "forks": 6,
-        "language": "C",
-        "pushed_at": "2026-07-01T12:56:20Z",
-        "created_at": "2023-07-14T14:54:48Z"
-      },
-      {
-        "name": "sgp30",
-        "description": "SGP30 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/sgp30",
-        "stars": 31,
-        "forks": 18,
-        "language": "C",
-        "pushed_at": "2026-07-01T13:24:44Z",
-        "created_at": "2021-05-16T07:08:20Z"
-      },
-      {
-        "name": "sgp40",
-        "description": "SGP40 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/sgp40",
-        "stars": 16,
-        "forks": 6,
-        "language": "C",
-        "pushed_at": "2026-07-01T14:00:04Z",
-        "created_at": "2023-08-19T17:31:07Z"
-      },
-      {
-        "name": "sgp41",
-        "description": "SGP41 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/sgp41",
-        "stars": 15,
-        "forks": 7,
-        "language": "C",
-        "pushed_at": "2026-07-01T13:51:41Z",
-        "created_at": "2023-08-19T17:28:20Z"
-      },
-      {
-        "name": "sht2x",
-        "description": "SHT2X(SHT20, SHT21, SHT25) full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/sht2x",
-        "stars": 33,
-        "forks": 5,
-        "language": "C",
-        "pushed_at": "2026-07-01T14:40:12Z",
-        "created_at": "2025-04-13T15:32:40Z"
-      },
-      {
-        "name": "sht30",
-        "description": "SHT30 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/sht30",
-        "stars": 44,
-        "forks": 10,
-        "language": "C",
-        "pushed_at": "2026-07-02T11:51:23Z",
-        "created_at": "2024-03-06T16:17:38Z"
-      },
-      {
-        "name": "sht31",
-        "description": "SHT31 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/sht31",
-        "stars": 27,
-        "forks": 21,
-        "language": "C",
-        "pushed_at": "2026-07-02T12:06:41Z",
-        "created_at": "2021-05-16T07:10:25Z"
-      },
-      {
-        "name": "sht35",
-        "description": "SHT35 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/sht35",
-        "stars": 43,
-        "forks": 16,
-        "language": "C",
-        "pushed_at": "2026-07-02T12:17:08Z",
-        "created_at": "2024-03-08T15:04:54Z"
-      },
-      {
-        "name": "sht4x",
-        "description": "SHT4X(SHT40, SHT41, SHT45) full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/sht4x",
-        "stars": 36,
-        "forks": 8,
-        "language": "C",
-        "pushed_at": "2025-10-26T02:53:26Z",
-        "created_at": "2023-06-23T07:03:40Z"
-      },
-      {
-        "name": "sht85",
-        "description": "SHT85 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/sht85",
-        "stars": 1,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-07-01T15:41:23Z",
-        "created_at": "2025-10-31T17:35:42Z"
-      },
-      {
-        "name": "shtc3",
-        "description": "SHTC3 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/shtc3",
-        "stars": 1,
-        "forks": 1,
-        "language": "C",
-        "pushed_at": "2025-10-31T14:08:03Z",
-        "created_at": "2025-10-30T16:22:07Z"
-      },
-      {
-        "name": "si7021",
-        "description": "SI7021 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/si7021",
-        "stars": 0,
-        "forks": 1,
-        "language": "C",
-        "pushed_at": "2026-07-01T17:34:24Z",
-        "created_at": "2026-01-03T09:01:29Z"
-      },
-      {
-        "name": "sps30",
-        "description": "SPS30 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/sps30",
-        "stars": 27,
-        "forks": 13,
-        "language": "C",
-        "pushed_at": "2026-07-02T12:32:32Z",
-        "created_at": "2021-07-14T16:40:50Z"
-      },
-      {
-        "name": "ssd1306",
-        "description": "SSD1306 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ssd1306",
-        "stars": 530,
-        "forks": 111,
-        "language": "C",
-        "pushed_at": "2026-07-05T10:28:17Z",
-        "created_at": "2021-05-16T07:14:21Z"
-      },
-      {
-        "name": "ssd1309",
-        "description": "SSD1309 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ssd1309",
-        "stars": 59,
-        "forks": 9,
-        "language": "C",
-        "pushed_at": "2026-07-05T10:55:25Z",
-        "created_at": "2024-10-01T14:12:21Z"
-      },
-      {
-        "name": "ssd1315",
-        "description": "SSD1315 full-featured driver for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ssd1315",
-        "stars": 62,
-        "forks": 6,
-        "language": "C",
-        "pushed_at": "2026-07-05T11:40:47Z",
-        "created_at": "2024-11-28T12:25:57Z"
-      },
-      {
-        "name": "ssd1351",
-        "description": "SSD1351 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ssd1351",
-        "stars": 30,
-        "forks": 16,
-        "language": "C",
-        "pushed_at": "2026-07-07T15:42:01Z",
-        "created_at": "2021-05-16T07:16:19Z"
-      },
-      {
-        "name": "ssd1681",
-        "description": "SSD1681 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ssd1681",
-        "stars": 31,
-        "forks": 6,
-        "language": "C",
-        "pushed_at": "2025-10-26T03:55:06Z",
-        "created_at": "2022-09-11T07:23:25Z"
-      },
-      {
-        "name": "st7789",
-        "description": "ST7789 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/st7789",
-        "stars": 362,
-        "forks": 56,
-        "language": "C",
-        "pushed_at": "2026-07-07T17:01:00Z",
-        "created_at": "2023-06-05T15:05:09Z"
-      },
-      {
-        "name": "st7920",
-        "description": "ST7920 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/st7920",
-        "stars": 50,
-        "forks": 21,
-        "language": "C",
-        "pushed_at": "2026-07-02T14:29:32Z",
-        "created_at": "2022-03-19T11:55:05Z"
-      },
-      {
-        "name": "stcc4",
-        "description": "STCC4 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/stcc4",
-        "stars": 2,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-07-02T15:04:50Z",
-        "created_at": "2025-10-12T04:44:09Z"
-      },
-      {
-        "name": "sts21",
-        "description": "STS21 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/sts21",
-        "stars": 0,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-07-02T15:45:33Z",
-        "created_at": "2025-07-22T13:11:20Z"
-      },
-      {
-        "name": "sts3x",
-        "description": "STS3X(STS30, STS31, STS35) full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/sts3x",
-        "stars": 8,
-        "forks": 5,
-        "language": "C",
-        "pushed_at": "2025-10-26T04:12:09Z",
-        "created_at": "2024-08-31T03:51:46Z"
-      },
-      {
-        "name": "sts4x",
-        "description": "STS4X(STS40, STS41, STS4L) full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/sts4x",
-        "stars": 9,
-        "forks": 5,
-        "language": "C",
-        "pushed_at": "2026-07-02T15:30:07Z",
-        "created_at": "2024-09-01T07:34:45Z"
-      },
-      {
-        "name": "stts22h",
-        "description": "STTS22H full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/stts22h",
-        "stars": 0,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-02-08T05:35:52Z",
-        "created_at": "2026-02-07T15:36:07Z"
-      },
-      {
-        "name": "sx1262",
-        "description": "SX1262 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/sx1262",
-        "stars": 113,
-        "forks": 12,
-        "language": "C",
-        "pushed_at": "2026-07-04T07:50:58Z",
-        "created_at": "2024-10-13T05:37:33Z"
-      },
-      {
-        "name": "sx1268",
-        "description": "SX1268 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/sx1268",
-        "stars": 55,
-        "forks": 28,
-        "language": "C",
-        "pushed_at": "2026-07-04T07:34:58Z",
-        "created_at": "2022-03-25T16:14:43Z"
-      },
-      {
-        "name": "syn6288",
-        "description": "SYN6288 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/syn6288",
-        "stars": 18,
-        "forks": 4,
-        "language": "C",
-        "pushed_at": "2026-07-02T16:19:34Z",
-        "created_at": "2021-05-16T07:19:17Z"
-      },
-      {
-        "name": "syn6288e",
-        "description": "SYN6288E full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/syn6288e",
-        "stars": 7,
-        "forks": 6,
-        "language": "C",
-        "pushed_at": "2026-07-02T16:41:41Z",
-        "created_at": "2024-05-28T14:57:43Z"
-      },
-      {
-        "name": "syn6658",
-        "description": "SYN6658 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/syn6658",
-        "stars": 8,
-        "forks": 5,
-        "language": "C",
-        "pushed_at": "2026-07-02T17:21:53Z",
-        "created_at": "2024-08-25T13:09:47Z"
-      },
-      {
-        "name": "syn6988",
-        "description": "SYN6988 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/syn6988",
-        "stars": 7,
-        "forks": 5,
-        "language": "C",
-        "pushed_at": "2026-07-02T17:39:16Z",
-        "created_at": "2024-08-26T04:45:57Z"
-      },
-      {
-        "name": "tcs34725",
-        "description": "TCS34725 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/tcs34725",
-        "stars": 22,
-        "forks": 6,
-        "language": "C",
-        "pushed_at": "2025-10-26T05:03:17Z",
-        "created_at": "2021-05-16T07:21:12Z"
-      },
-      {
-        "name": "tea5767",
-        "description": "TEA5767 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/tea5767",
-        "stars": 48,
-        "forks": 23,
-        "language": "C",
-        "pushed_at": "2026-06-30T13:28:26Z",
-        "created_at": "2022-11-12T04:14:53Z"
-      },
-      {
-        "name": "tlc5615",
-        "description": "TLC5615 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/tlc5615",
-        "stars": 0,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-07-13T13:17:08Z",
-        "created_at": "2026-07-12T11:04:05Z"
-      },
-      {
-        "name": "tm1621x",
-        "description": "TM1621X(TM1621B,TM1621C,TM1621D,TM1621E) full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/tm1621x",
-        "stars": 1,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-05-31T09:14:17Z",
-        "created_at": "2026-05-29T13:37:17Z"
-      },
-      {
-        "name": "tm1622",
-        "description": "TM1622 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/tm1622",
-        "stars": 0,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-06-19T16:19:13Z",
-        "created_at": "2026-06-19T13:11:42Z"
-      },
-      {
-        "name": "tm1637",
-        "description": "TM1637 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/tm1637",
-        "stars": 5,
-        "forks": 2,
-        "language": "C",
-        "pushed_at": "2026-06-30T14:30:19Z",
-        "created_at": "2024-04-01T15:30:19Z"
-      },
-      {
-        "name": "tm1638",
-        "description": "TM1638 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/tm1638",
-        "stars": 27,
-        "forks": 7,
-        "language": "C",
-        "pushed_at": "2025-10-26T05:12:43Z",
-        "created_at": "2024-03-24T02:46:54Z"
-      },
-      {
-        "name": "tm1640",
-        "description": "TM1640 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/tm1640",
-        "stars": 5,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-05-16T18:05:00Z",
-        "created_at": "2025-09-28T15:15:38Z"
-      },
-      {
-        "name": "tpl0501",
-        "description": "TPL0501 full-featured driver for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/tpl0501",
-        "stars": 9,
-        "forks": 5,
-        "language": "C",
-        "pushed_at": "2026-06-30T15:08:49Z",
-        "created_at": "2024-10-09T15:04:03Z"
-      },
-      {
-        "name": "tsl2561",
-        "description": "TSL2561 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/tsl2561",
-        "stars": 26,
-        "forks": 9,
-        "language": "C",
-        "pushed_at": "2026-06-30T15:42:20Z",
-        "created_at": "2021-05-16T07:23:18Z"
-      },
-      {
-        "name": "ttp229",
-        "description": "TTP229 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ttp229",
-        "stars": 21,
-        "forks": 5,
-        "language": "C",
-        "pushed_at": "2026-06-30T16:13:00Z",
-        "created_at": "2024-07-28T09:30:09Z"
-      },
-      {
-        "name": "uvis25",
-        "description": "UVIS25 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/uvis25",
-        "stars": 13,
-        "forks": 4,
-        "language": "C",
-        "pushed_at": "2026-06-30T16:35:59Z",
-        "created_at": "2021-05-16T07:25:19Z"
-      },
-      {
-        "name": "veml7700",
-        "description": "VEML7700 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/veml7700",
-        "stars": 1,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2025-11-17T15:08:05Z",
-        "created_at": "2025-11-16T15:49:35Z"
-      },
-      {
-        "name": "vs1053b",
-        "description": "VS1053B full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/vs1053b",
-        "stars": 48,
-        "forks": 12,
-        "language": "C",
-        "pushed_at": "2026-07-04T11:04:23Z",
-        "created_at": "2023-07-09T11:25:02Z"
-      },
-      {
-        "name": "w25qxx",
-        "description": "W25QXX(W25Q10, W25Q20, W25Q40, W25Q80, W25Q16, W25Q32, W25Q64, W25Q128, W25Q256, W25Q512, W25Q01, W25Q02) full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/w25qxx",
-        "stars": 710,
-        "forks": 87,
-        "language": "C",
-        "pushed_at": "2026-07-19T14:37:22Z",
-        "created_at": "2021-08-22T04:06:21Z"
-      },
-      {
-        "name": "wm8978",
-        "description": "WM8978 full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/wm8978",
-        "stars": 52,
-        "forks": 11,
-        "language": "C",
-        "pushed_at": "2025-10-26T05:35:54Z",
-        "created_at": "2023-08-27T12:14:26Z"
-      },
-      {
-        "name": "ws2812b",
-        "description": "WS2812B full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/ws2812b",
-        "stars": 202,
-        "forks": 48,
-        "language": "C",
-        "pushed_at": "2026-06-30T17:20:44Z",
-        "created_at": "2021-11-02T17:14:34Z"
-      },
-      {
-        "name": "wt588e02b",
-        "description": "WT588E02B full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/wt588e02b",
-        "stars": 10,
-        "forks": 5,
-        "language": "C",
-        "pushed_at": "2025-10-26T05:40:12Z",
-        "created_at": "2025-02-12T14:48:59Z"
-      },
-      {
-        "name": "x9cxx",
-        "description": "X9CXX(X9C102, X9C103, X9C503, X9C104) full-featured driver library for general-purpose MCU and Linux.",
-        "url": "https://github.com/libdriver/x9cxx",
-        "stars": 1,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-06-30T17:53:51Z",
-        "created_at": "2025-11-08T16:49:13Z"
-      }
-    ]
+    "repos": []
   },
   {
     "username": "zephyrproject-rtos",
@@ -12131,7 +10310,7 @@
         "name": "x-cube-tof1",
         "description": "The X-CUBE-TOF1 software pack is an expansion for STM32Cube. This software is gathering ranging sensor drivers for VL53L1CB, VL53L3CX, VL53L4CX, VL53L4CD, VL53L4ED, VL53L5CX, VL53L7CX and VL53L8CX running on STM32.",
         "url": "https://github.com/STMicroelectronics/x-cube-tof1",
-        "stars": 18,
+        "stars": 19,
         "forks": 2,
         "language": "C",
         "pushed_at": "2025-04-03T13:25:08Z",
@@ -12977,7 +11156,7 @@
         "description": "Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.",
         "url": "https://github.com/espressif/esp-drone",
         "stars": 2118,
-        "forks": 493,
+        "forks": 494,
         "language": "C",
         "pushed_at": "2026-08-10T17:23:32Z",
         "created_at": "2020-06-22T07:14:49Z"
@@ -13186,7 +11365,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 18850,
+        "stars": 18851,
         "forks": 8443,
         "language": "C",
         "pushed_at": "2026-08-20T20:17:09Z",
@@ -13579,7 +11758,7 @@
         "stars": 9,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2026-08-23T18:04:26Z",
+        "pushed_at": "2026-08-23T20:03:55Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -13806,7 +11985,7 @@
         "name": "esp-rainmaker-neo",
         "description": "ESP RainMaker Neo Cloud Backend",
         "url": "https://github.com/espressif/esp-rainmaker-neo",
-        "stars": 52,
+        "stars": 53,
         "forks": 8,
         "language": "Go",
         "pushed_at": "2026-08-21T10:00:24Z",
@@ -14086,7 +12265,7 @@
         "name": "esp-webrtc-solution",
         "description": "（无简介）",
         "url": "https://github.com/espressif/esp-webrtc-solution",
-        "stars": 396,
+        "stars": 397,
         "forks": 76,
         "language": "C",
         "pushed_at": "2026-08-13T10:15:13Z",
@@ -15029,7 +13208,7 @@
         "stars": 284,
         "forks": 30,
         "language": "LLVM",
-        "pushed_at": "2026-08-23T17:49:08Z",
+        "pushed_at": "2026-08-23T19:53:18Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -19777,7 +17956,7 @@
         "description": "The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.",
         "url": "https://github.com/openai/chatgpt-retrieval-plugin",
         "stars": 21203,
-        "forks": 3575,
+        "forks": 3574,
         "language": "Python",
         "pushed_at": "2024-07-04T22:00:16Z",
         "created_at": "2023-03-23T06:06:22Z"
@@ -19876,10 +18055,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 115042,
-        "forks": 17548,
+        "stars": 115062,
+        "forks": 17549,
         "language": "Rust",
-        "pushed_at": "2026-08-23T19:03:41Z",
+        "pushed_at": "2026-08-23T20:16:47Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -19896,7 +18075,7 @@
         "name": "codex-plugin-cc",
         "description": "Use Codex from Claude Code to review code or delegate tasks.",
         "url": "https://github.com/openai/codex-plugin-cc",
-        "stars": 32222,
+        "stars": 32223,
         "forks": 2229,
         "language": "JavaScript",
         "pushed_at": "2026-07-08T00:17:31Z",
@@ -19909,7 +18088,7 @@
         "stars": 10104,
         "forks": 721,
         "language": "TypeScript",
-        "pushed_at": "2026-08-23T18:54:06Z",
+        "pushed_at": "2026-08-23T19:50:20Z",
         "created_at": "2026-07-13T22:00:13Z"
       },
       {
@@ -20136,7 +18315,7 @@
         "name": "evals",
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
-        "stars": 19232,
+        "stars": 19231,
         "forks": 3056,
         "language": "Python",
         "pushed_at": "2026-04-14T15:29:57Z",
@@ -20446,7 +18625,7 @@
         "name": "gym",
         "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
         "url": "https://github.com/openai/gym",
-        "stars": 37248,
+        "stars": 37249,
         "forks": 8686,
         "language": "Python",
         "pushed_at": "2026-03-26T23:13:27Z",
@@ -20516,7 +18695,7 @@
         "name": "harmony",
         "description": "Renderer for the harmony response format to be used with gpt-oss",
         "url": "https://github.com/openai/harmony",
-        "stars": 4485,
+        "stars": 4486,
         "forks": 302,
         "language": "Rust",
         "pushed_at": "2026-04-08T23:52:09Z",
@@ -20966,7 +19145,7 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 28894,
+        "stars": 28895,
         "forks": 4565,
         "language": "Python",
         "pushed_at": "2026-08-23T04:00:15Z",
@@ -21046,7 +19225,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 75500,
+        "stars": 75501,
         "forks": 12759,
         "language": "Jupyter Notebook",
         "pushed_at": "2026-08-23T02:54:18Z",
@@ -21086,7 +19265,7 @@
         "name": "openai-developers-for-claude",
         "description": "OpenAI Developers plugin for Claude Code",
         "url": "https://github.com/openai/openai-developers-for-claude",
-        "stars": 22,
+        "stars": 23,
         "forks": 5,
         "language": "JavaScript",
         "pushed_at": "2026-07-13T20:45:05Z",
@@ -21189,7 +19368,7 @@
         "stars": 1509,
         "forks": 252,
         "language": "Kotlin",
-        "pushed_at": "2026-08-23T05:09:28Z",
+        "pushed_at": "2026-08-23T19:58:59Z",
         "created_at": "2024-10-31T17:42:57Z"
       },
       {
@@ -21359,7 +19538,7 @@
         "stars": 451,
         "forks": 56,
         "language": "Ruby",
-        "pushed_at": "2026-08-22T22:54:11Z",
+        "pushed_at": "2026-08-23T20:05:01Z",
         "created_at": "2025-03-05T18:31:42Z"
       },
       {
@@ -21526,7 +19705,7 @@
         "name": "plugins",
         "description": "OpenAI Plugins",
         "url": "https://github.com/openai/plugins",
-        "stars": 5184,
+        "stars": 5185,
         "forks": 728,
         "language": "JavaScript",
         "pushed_at": "2026-08-21T21:59:33Z",
@@ -21777,7 +19956,7 @@
         "description": "Role-specific Codex plugin templates",
         "url": "https://github.com/openai/role-specific-plugins",
         "stars": 504,
-        "forks": 82,
+        "forks": 83,
         "language": "JavaScript",
         "pushed_at": "2026-07-13T23:17:20Z",
         "created_at": "2026-06-02T16:27:24Z"
@@ -21886,7 +20065,7 @@
         "name": "skills",
         "description": "Skills Catalog for Codex",
         "url": "https://github.com/openai/skills",
-        "stars": 25137,
+        "stars": 25140,
         "forks": 1707,
         "language": "Python",
         "pushed_at": "2026-07-14T16:47:46Z",
@@ -22016,7 +20195,7 @@
         "name": "symphony",
         "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
         "url": "https://github.com/openai/symphony",
-        "stars": 26814,
+        "stars": 26816,
         "forks": 2742,
         "language": "Elixir",
         "pushed_at": "2026-08-19T23:24:27Z",
@@ -22096,7 +20275,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 19076,
+        "stars": 19077,
         "forks": 1591,
         "language": "Python",
         "pushed_at": "2026-08-17T05:25:57Z",
@@ -22246,7 +20425,7 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 107829,
+        "stars": 107835,
         "forks": 13081,
         "language": "Python",
         "pushed_at": "2026-07-28T20:18:29Z",
@@ -24499,7 +22678,7 @@
         "stars": 0,
         "forks": 0,
         "language": "C",
-        "pushed_at": "2026-08-21T14:58:46Z",
+        "pushed_at": "2026-08-23T19:33:57Z",
         "created_at": "2026-06-05T10:30:57Z"
       },
       {
@@ -25232,7 +23411,7 @@
         "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-go",
         "stars": 8687,
-        "forks": 970,
+        "forks": 971,
         "language": "Go",
         "pushed_at": "2026-08-23T17:38:08Z",
         "created_at": "2025-05-05T17:16:26Z"
@@ -25241,7 +23420,7 @@
         "name": "adk-java",
         "description": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-java",
-        "stars": 1694,
+        "stars": 1695,
         "forks": 403,
         "language": "Java",
         "pushed_at": "2026-08-20T10:13:34Z",
@@ -25291,7 +23470,7 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 10218,
+        "stars": 10219,
         "forks": 2823,
         "language": "Python",
         "pushed_at": "2026-08-22T01:05:14Z",
@@ -25492,7 +23671,7 @@
         "description": "（无简介）",
         "url": "https://github.com/google/ahdlc",
         "stars": 14,
-        "forks": 3,
+        "forks": 4,
         "language": "C",
         "pushed_at": "2018-04-27T03:30:47Z",
         "created_at": "2018-04-24T18:16:49Z"
@@ -25684,7 +23863,7 @@
         "stars": 378,
         "forks": 29,
         "language": "Rust",
-        "pushed_at": "2026-08-23T19:01:11Z",
+        "pushed_at": "2026-08-23T19:56:48Z",
         "created_at": "2024-04-25T02:06:33Z"
       },
       {
@@ -26124,7 +24303,7 @@
         "stars": 4057,
         "forks": 753,
         "language": "C++",
-        "pushed_at": "2026-08-23T14:06:25Z",
+        "pushed_at": "2026-08-23T19:56:26Z",
         "created_at": "2014-08-26T14:59:07Z"
       },
       {
@@ -26401,7 +24580,7 @@
         "name": "applied-data-structures-algorithms",
         "description": "（无简介）",
         "url": "https://github.com/google/applied-data-structures-algorithms",
-        "stars": 31,
+        "stars": 30,
         "forks": 11,
         "language": "Jupyter Notebook",
         "pushed_at": "2022-10-23T21:32:43Z",
@@ -26624,7 +24803,7 @@
         "stars": 55,
         "forks": 7,
         "language": "Python",
-        "pushed_at": "2026-08-23T02:45:03Z",
+        "pushed_at": "2026-08-23T20:10:40Z",
         "created_at": "2026-08-13T17:59:37Z"
       },
       {
@@ -30111,7 +28290,7 @@
         "name": "copybara",
         "description": "Copybara: A tool for transforming and moving code between repositories.",
         "url": "https://github.com/google/copybara",
-        "stars": 3807,
+        "stars": 3808,
         "forks": 344,
         "language": "Java",
         "pushed_at": "2026-08-21T18:50:26Z",
@@ -30944,7 +29123,7 @@
         "stars": 17702,
         "forks": 2039,
         "language": "Java",
-        "pushed_at": "2026-08-20T13:22:55Z",
+        "pushed_at": "2026-08-23T20:05:20Z",
         "created_at": "2013-02-01T23:14:14Z"
       },
       {
@@ -32021,7 +30200,7 @@
         "name": "docsy",
         "description": "Hugo theme for open source documentation",
         "url": "https://github.com/google/docsy",
-        "stars": 2959,
+        "stars": 2958,
         "forks": 976,
         "language": "JavaScript",
         "pushed_at": "2026-08-21T16:43:41Z",
@@ -32031,7 +30210,7 @@
         "name": "docsy-example",
         "description": "An example documentation site using the Docsy Hugo theme",
         "url": "https://github.com/google/docsy-example",
-        "stars": 558,
+        "stars": 557,
         "forks": 755,
         "language": "JavaScript",
         "pushed_at": "2026-07-30T00:08:06Z",
@@ -33821,7 +32000,7 @@
         "name": "flax",
         "description": "Flax is a neural network library for JAX that is designed for flexibility.",
         "url": "https://github.com/google/flax",
-        "stars": 7300,
+        "stars": 7299,
         "forks": 831,
         "language": "Jupyter Notebook",
         "pushed_at": "2026-08-21T19:40:24Z",
@@ -34151,7 +32330,7 @@
         "name": "fonts",
         "description": "Font files available from Google Fonts, and a public issue tracker for all things Google Fonts",
         "url": "https://github.com/google/fonts",
-        "stars": 20400,
+        "stars": 20401,
         "forks": 2920,
         "language": "HTML",
         "pushed_at": "2026-08-21T21:32:05Z",
@@ -35712,7 +33891,7 @@
         "description": "（无简介）",
         "url": "https://github.com/google/gnostic-models",
         "stars": 20,
-        "forks": 10,
+        "forks": 11,
         "language": "Go",
         "pushed_at": "2026-05-06T17:56:11Z",
         "created_at": "2022-04-21T21:08:15Z"
@@ -37331,8 +35510,8 @@
         "name": "guava",
         "description": "Google core libraries for Java",
         "url": "https://github.com/google/guava",
-        "stars": 51889,
-        "forks": 11192,
+        "stars": 51890,
+        "forks": 11193,
         "language": "Java",
         "pushed_at": "2026-08-21T16:00:37Z",
         "created_at": "2014-05-29T16:23:17Z"
@@ -37521,7 +35700,7 @@
         "name": "gxui",
         "description": "An experimental Go cross platform UI library.",
         "url": "https://github.com/google/gxui",
-        "stars": 4403,
+        "stars": 4402,
         "forks": 287,
         "language": "Go",
         "pushed_at": "2020-11-23T11:56:43Z",
@@ -37791,10 +35970,10 @@
         "name": "heir",
         "description": "A compiler for homomorphic encryption",
         "url": "https://github.com/google/heir",
-        "stars": 863,
+        "stars": 864,
         "forks": 160,
         "language": "MLIR",
-        "pushed_at": "2026-08-23T19:16:06Z",
+        "pushed_at": "2026-08-23T20:16:41Z",
         "created_at": "2023-04-17T21:14:13Z"
       },
       {
@@ -37881,8 +36060,8 @@
         "name": "highway",
         "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
         "url": "https://github.com/google/highway",
-        "stars": 5765,
-        "forks": 462,
+        "stars": 5767,
+        "forks": 463,
         "language": "C++",
         "pushed_at": "2026-08-22T07:13:55Z",
         "created_at": "2019-09-06T12:41:23Z"
@@ -37892,7 +36071,7 @@
         "description": "Fast strong hash functions: SipHash/HighwayHash",
         "url": "https://github.com/google/highwayhash",
         "stars": 1605,
-        "forks": 188,
+        "forks": 189,
         "language": "C++",
         "pushed_at": "2024-04-18T16:08:17Z",
         "created_at": "2016-02-17T16:29:40Z"
@@ -39321,7 +37500,7 @@
         "name": "jetpack-camera-app",
         "description": "A CameraX/Compose camera app built for validating camera feature implementations, serving as a reference for developers and OEMs.",
         "url": "https://github.com/google/jetpack-camera-app",
-        "stars": 337,
+        "stars": 338,
         "forks": 70,
         "language": "Kotlin",
         "pushed_at": "2026-08-21T18:47:12Z",
@@ -39992,7 +38171,7 @@
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
         "stars": 38476,
-        "forks": 2700,
+        "forks": 2701,
         "language": "Python",
         "pushed_at": "2026-08-19T07:21:21Z",
         "created_at": "2025-07-08T20:46:06Z"
@@ -41731,7 +39910,7 @@
         "name": "minja",
         "description": "A minimalistic C++ Jinja templating engine for LLM chat templates",
         "url": "https://github.com/google/minja",
-        "stars": 223,
+        "stars": 224,
         "forks": 38,
         "language": "C++",
         "pushed_at": "2025-09-22T17:33:38Z",
@@ -43181,7 +41360,7 @@
         "name": "oboe",
         "description": "Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.",
         "url": "https://github.com/google/oboe",
-        "stars": 4091,
+        "stars": 4093,
         "forks": 633,
         "language": "C++",
         "pushed_at": "2026-08-17T09:55:44Z",
@@ -44262,7 +42441,7 @@
         "description": "Pblog is a small, low overhead, structured logging library",
         "url": "https://github.com/google/pblog",
         "stars": 29,
-        "forks": 7,
+        "forks": 8,
         "language": "C",
         "pushed_at": "2017-11-17T22:31:47Z",
         "created_at": "2016-12-08T23:56:29Z"
@@ -45491,8 +43670,8 @@
         "name": "prompt-to-prompt",
         "description": "（无简介）",
         "url": "https://github.com/google/prompt-to-prompt",
-        "stars": 3456,
-        "forks": 317,
+        "stars": 3457,
+        "forks": 318,
         "language": "Jupyter Notebook",
         "pushed_at": "2024-05-14T08:06:32Z",
         "created_at": "2022-10-03T09:58:43Z"
@@ -47651,10 +45830,10 @@
         "name": "sam",
         "description": "SAM Sovereign Agent Mesh",
         "url": "https://github.com/google/sam",
-        "stars": 588,
-        "forks": 81,
+        "stars": 594,
+        "forks": 82,
         "language": "Go",
-        "pushed_at": "2026-08-23T13:35:47Z",
+        "pushed_at": "2026-08-23T19:59:35Z",
         "created_at": "2026-04-21T15:15:58Z"
       },
       {
@@ -48574,7 +46753,7 @@
         "stars": 10898,
         "forks": 1764,
         "language": "C++",
-        "pushed_at": "2026-08-23T14:09:48Z",
+        "pushed_at": "2026-08-23T19:55:47Z",
         "created_at": "2014-01-09T17:09:57Z"
       },
       {
@@ -48601,7 +46780,7 @@
         "name": "skills",
         "description": "Agent Skills for Google products and technologies",
         "url": "https://github.com/google/skills",
-        "stars": 18626,
+        "stars": 18628,
         "forks": 1488,
         "language": "Python",
         "pushed_at": "2026-08-22T20:48:53Z",
@@ -51414,7 +49593,7 @@
         "stars": 2412,
         "forks": 338,
         "language": "Python",
-        "pushed_at": "2026-08-23T19:17:48Z",
+        "pushed_at": "2026-08-23T19:26:16Z",
         "created_at": "2025-04-02T22:19:15Z"
       },
       {
