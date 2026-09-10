@@ -219,7 +219,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2026-09-09T20:36:14Z",
+        "pushed_at": "2026-09-09T23:00:23Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -4306,7 +4306,7 @@
         "name": "zephyr",
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "url": "https://github.com/zephyrproject-rtos/zephyr",
-        "stars": 16463,
+        "stars": 16464,
         "forks": 9937,
         "language": "C",
         "pushed_at": "2026-09-09T22:14:47Z",
@@ -9701,7 +9701,7 @@
         "name": "STM32CubeF7",
         "description": "STM32Cube MCU Full Package for the STM32F7 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
         "url": "https://github.com/STMicroelectronics/STM32CubeF7",
-        "stars": 401,
+        "stars": 402,
         "forks": 208,
         "language": "C",
         "pushed_at": "2026-08-19T14:51:21Z",
@@ -12439,7 +12439,7 @@
         "stars": 42,
         "forks": 34,
         "language": "C++",
-        "pushed_at": "2026-09-09T22:16:12Z",
+        "pushed_at": "2026-09-10T00:51:06Z",
         "created_at": "2021-06-14T20:22:14Z"
       },
       {
@@ -13369,7 +13369,7 @@
         "stars": 9,
         "forks": 2,
         "language": "HTML",
-        "pushed_at": "2026-09-09T01:04:37Z",
+        "pushed_at": "2026-09-10T00:57:48Z",
         "created_at": "2025-07-15T09:23:44Z"
       },
       {
@@ -13629,7 +13629,7 @@
         "stars": 9,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2026-09-09T22:03:57Z",
+        "pushed_at": "2026-09-10T00:08:19Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -14177,7 +14177,7 @@
         "description": "Face detection and recognition framework",
         "url": "https://github.com/espressif/esp-who",
         "stars": 2139,
-        "forks": 546,
+        "forks": 547,
         "language": "C++",
         "pushed_at": "2026-08-21T15:10:09Z",
         "created_at": "2018-10-26T11:00:01Z"
@@ -15119,7 +15119,7 @@
         "stars": 285,
         "forks": 30,
         "language": "LLVM",
-        "pushed_at": "2026-09-09T22:34:17Z",
+        "pushed_at": "2026-09-10T00:38:12Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -15327,7 +15327,7 @@
         "description": "Fork of QEMU with Espressif patches. See Wiki for details.",
         "url": "https://github.com/espressif/qemu",
         "stars": 350,
-        "forks": 124,
+        "forks": 125,
         "language": "C",
         "pushed_at": "2026-06-09T01:55:32Z",
         "created_at": "2019-10-10T11:19:35Z"
@@ -20096,10 +20096,10 @@
         "name": "codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 122834,
-        "forks": 18890,
+        "stars": 122849,
+        "forks": 18896,
         "language": "Rust",
-        "pushed_at": "2026-09-09T22:51:52Z",
+        "pushed_at": "2026-09-10T00:57:47Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -20116,8 +20116,8 @@
         "name": "codex-plugin-cc",
         "description": "Use Codex from Claude Code to review code or delegate tasks.",
         "url": "https://github.com/openai/codex-plugin-cc",
-        "stars": 32958,
-        "forks": 2284,
+        "stars": 32960,
+        "forks": 2285,
         "language": "JavaScript",
         "pushed_at": "2026-07-08T00:17:31Z",
         "created_at": "2026-03-30T15:29:52Z"
@@ -20126,10 +20126,10 @@
         "name": "codex-security",
         "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
         "url": "https://github.com/openai/codex-security",
-        "stars": 10603,
+        "stars": 10605,
         "forks": 770,
         "language": "TypeScript",
-        "pushed_at": "2026-09-09T22:59:47Z",
+        "pushed_at": "2026-09-10T00:55:20Z",
         "created_at": "2026-07-13T22:00:13Z"
       },
       {
@@ -20357,7 +20357,7 @@
         "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "url": "https://github.com/openai/evals",
         "stars": 19418,
-        "forks": 3083,
+        "forks": 3082,
         "language": "Python",
         "pushed_at": "2026-04-14T15:29:57Z",
         "created_at": "2023-01-23T20:51:04Z"
@@ -20479,14 +20479,14 @@
         "stars": 193,
         "forks": 13,
         "language": "C",
-        "pushed_at": "2026-09-09T00:48:19Z",
+        "pushed_at": "2026-09-10T00:03:04Z",
         "created_at": "2026-07-10T00:55:53Z"
       },
       {
         "name": "glide-text2im",
         "description": "GLIDE: a diffusion-based text-conditional image synthesis model",
         "url": "https://github.com/openai/glide-text2im",
-        "stars": 3682,
+        "stars": 3680,
         "forks": 500,
         "language": "Python",
         "pushed_at": "2024-03-08T08:44:28Z",
@@ -20606,7 +20606,7 @@
         "name": "gpt-oss",
         "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
         "url": "https://github.com/openai/gpt-oss",
-        "stars": 20379,
+        "stars": 20380,
         "forks": 2150,
         "language": "Python",
         "pushed_at": "2026-07-24T18:56:01Z",
@@ -21156,8 +21156,8 @@
         "name": "NavierStokesAndEuler",
         "description": "Lean certificates accompanying Navier-Stokes and Euler results",
         "url": "https://github.com/openai/NavierStokesAndEuler",
-        "stars": 1546,
-        "forks": 137,
+        "stars": 1557,
+        "forks": 141,
         "language": "Lean",
         "pushed_at": "2026-09-08T11:00:49Z",
         "created_at": "2026-09-08T10:53:38Z"
@@ -21199,14 +21199,14 @@
         "stars": 3780,
         "forks": 959,
         "language": "TypeScript",
-        "pushed_at": "2026-09-09T22:42:36Z",
+        "pushed_at": "2026-09-09T23:35:04Z",
         "created_at": "2025-05-31T00:08:49Z"
       },
       {
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 29305,
+        "stars": 29307,
         "forks": 4686,
         "language": "Python",
         "pushed_at": "2026-09-09T12:35:23Z",
@@ -21279,17 +21279,17 @@
         "stars": 687,
         "forks": 56,
         "language": "Go",
-        "pushed_at": "2026-09-09T16:30:29Z",
+        "pushed_at": "2026-09-09T23:43:54Z",
         "created_at": "2026-05-01T16:40:05Z"
       },
       {
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 75870,
+        "stars": 75871,
         "forks": 12837,
         "language": "Jupyter Notebook",
-        "pushed_at": "2026-09-09T21:00:41Z",
+        "pushed_at": "2026-09-10T00:00:03Z",
         "created_at": "2022-03-11T02:08:53Z"
       },
       {
@@ -21349,7 +21349,7 @@
         "stars": 2686,
         "forks": 420,
         "language": "C#",
-        "pushed_at": "2026-09-09T22:39:35Z",
+        "pushed_at": "2026-09-09T23:21:22Z",
         "created_at": "2024-04-25T23:27:40Z"
       },
       {
@@ -21379,7 +21379,7 @@
         "stars": 3456,
         "forks": 351,
         "language": "Go",
-        "pushed_at": "2026-09-09T19:53:31Z",
+        "pushed_at": "2026-09-09T23:43:54Z",
         "created_at": "2024-07-22T19:29:26Z"
       },
       {
@@ -21389,7 +21389,7 @@
         "stars": 95,
         "forks": 20,
         "language": "TypeScript",
-        "pushed_at": "2026-09-09T22:58:36Z",
+        "pushed_at": "2026-09-09T23:39:32Z",
         "created_at": "2025-09-17T23:09:23Z"
       },
       {
@@ -21399,7 +21399,7 @@
         "stars": 245,
         "forks": 48,
         "language": "Python",
-        "pushed_at": "2026-09-09T22:56:20Z",
+        "pushed_at": "2026-09-09T23:38:45Z",
         "created_at": "2025-04-09T18:15:43Z"
       },
       {
@@ -21456,7 +21456,7 @@
         "name": "openai-node",
         "description": "Official JavaScript / TypeScript library for the OpenAI API",
         "url": "https://github.com/openai/openai-node",
-        "stars": 11168,
+        "stars": 11169,
         "forks": 1598,
         "language": "TypeScript",
         "pushed_at": "2026-09-09T19:32:17Z",
@@ -21469,7 +21469,7 @@
         "stars": 2505,
         "forks": 527,
         "language": "未指定",
-        "pushed_at": "2026-09-08T22:43:05Z",
+        "pushed_at": "2026-09-10T00:57:53Z",
         "created_at": "2021-12-14T22:18:57Z"
       },
       {
@@ -21479,7 +21479,7 @@
         "stars": 31604,
         "forks": 5185,
         "language": "Python",
-        "pushed_at": "2026-09-09T18:19:11Z",
+        "pushed_at": "2026-09-10T00:09:25Z",
         "created_at": "2020-10-25T23:23:54Z"
       },
       {
@@ -21527,7 +21527,7 @@
         "description": "React app for inspecting, building and debugging with the Realtime API",
         "url": "https://github.com/openai/openai-realtime-console",
         "stars": 3616,
-        "forks": 1409,
+        "forks": 1408,
         "language": "JavaScript",
         "pushed_at": "2025-08-28T16:07:56Z",
         "created_at": "2024-09-30T19:00:38Z"
@@ -21766,8 +21766,8 @@
         "name": "plugins",
         "description": "OpenAI Plugins",
         "url": "https://github.com/openai/plugins",
-        "stars": 6168,
-        "forks": 825,
+        "stars": 6198,
+        "forks": 826,
         "language": "JavaScript",
         "pushed_at": "2026-09-08T17:57:28Z",
         "created_at": "2026-03-04T21:52:32Z"
@@ -21816,7 +21816,7 @@
         "name": "PrimeGaps186",
         "description": "Conditional Lean formalization and numerical certificate for prime gaps at most 186.",
         "url": "https://github.com/openai/PrimeGaps186",
-        "stars": 153,
+        "stars": 154,
         "forks": 11,
         "language": "Lean",
         "pushed_at": "2026-09-02T20:53:40Z",
@@ -22136,7 +22136,7 @@
         "name": "skills",
         "description": "Skills Catalog for Codex",
         "url": "https://github.com/openai/skills",
-        "stars": 26764,
+        "stars": 26774,
         "forks": 1795,
         "language": "Python",
         "pushed_at": "2026-09-08T20:35:26Z",
@@ -22149,7 +22149,7 @@
         "stars": 100,
         "forks": 18,
         "language": "Kotlin",
-        "pushed_at": "2026-09-08T22:45:51Z",
+        "pushed_at": "2026-09-10T00:07:48Z",
         "created_at": "2025-08-25T23:43:23Z"
       },
       {
@@ -22266,8 +22266,8 @@
         "name": "symphony",
         "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
         "url": "https://github.com/openai/symphony",
-        "stars": 27123,
-        "forks": 2783,
+        "stars": 27125,
+        "forks": 2785,
         "language": "Elixir",
         "pushed_at": "2026-09-09T21:52:09Z",
         "created_at": "2026-02-26T21:54:00Z"
@@ -22346,7 +22346,7 @@
         "name": "tiktoken",
         "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
         "url": "https://github.com/openai/tiktoken",
-        "stars": 19213,
+        "stars": 19214,
         "forks": 1610,
         "language": "Python",
         "pushed_at": "2026-08-17T05:25:57Z",
@@ -22379,7 +22379,7 @@
         "stars": 373,
         "forks": 75,
         "language": "Go",
-        "pushed_at": "2026-09-09T22:01:16Z",
+        "pushed_at": "2026-09-09T23:26:00Z",
         "created_at": "2025-12-10T00:39:35Z"
       },
       {
@@ -22496,8 +22496,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 108793,
-        "forks": 13187,
+        "stars": 108801,
+        "forks": 13188,
         "language": "Python",
         "pushed_at": "2026-08-31T17:19:19Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -24639,7 +24639,7 @@
         "stars": 37,
         "forks": 37,
         "language": "C",
-        "pushed_at": "2026-09-09T14:14:20Z",
+        "pushed_at": "2026-09-10T00:51:40Z",
         "created_at": "2024-11-22T12:00:48Z"
       },
       {
@@ -25492,7 +25492,7 @@
         "description": "An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-docs",
         "stars": 1488,
-        "forks": 1278,
+        "forks": 1279,
         "language": "Shell",
         "pushed_at": "2026-09-09T22:21:27Z",
         "created_at": "2025-04-01T20:44:41Z"
@@ -25524,17 +25524,17 @@
         "stars": 1388,
         "forks": 206,
         "language": "TypeScript",
-        "pushed_at": "2026-09-09T22:58:52Z",
+        "pushed_at": "2026-09-09T23:20:48Z",
         "created_at": "2025-08-14T01:57:35Z"
       },
       {
         "name": "adk-kotlin",
         "description": "（无简介）",
         "url": "https://github.com/google/adk-kotlin",
-        "stars": 197,
+        "stars": 198,
         "forks": 27,
         "language": "Kotlin",
-        "pushed_at": "2026-09-09T22:18:22Z",
+        "pushed_at": "2026-09-10T00:12:32Z",
         "created_at": "2026-05-12T17:04:15Z"
       },
       {
@@ -25542,9 +25542,9 @@
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
         "stars": 21472,
-        "forks": 3981,
+        "forks": 3982,
         "language": "Python",
-        "pushed_at": "2026-09-09T22:36:28Z",
+        "pushed_at": "2026-09-10T00:09:09Z",
         "created_at": "2025-04-01T20:44:40Z"
       },
       {
@@ -25561,10 +25561,10 @@
         "name": "adk-samples",
         "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
         "url": "https://github.com/google/adk-samples",
-        "stars": 10294,
+        "stars": 10295,
         "forks": 2857,
         "language": "Python",
-        "pushed_at": "2026-09-09T22:06:47Z",
+        "pushed_at": "2026-09-09T23:23:31Z",
         "created_at": "2025-04-01T20:44:42Z"
       },
       {
@@ -25721,8 +25721,8 @@
         "name": "agents-cli",
         "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
         "url": "https://github.com/google/agents-cli",
-        "stars": 5872,
-        "forks": 650,
+        "stars": 5885,
+        "forks": 655,
         "language": "Python",
         "pushed_at": "2026-09-03T03:53:30Z",
         "created_at": "2026-04-08T17:09:55Z"
@@ -26184,7 +26184,7 @@
         "stars": 713,
         "forks": 245,
         "language": "C++",
-        "pushed_at": "2026-09-09T22:18:19Z",
+        "pushed_at": "2026-09-10T00:56:59Z",
         "created_at": "2017-12-13T19:42:51Z"
       },
       {
@@ -26394,7 +26394,7 @@
         "stars": 4069,
         "forks": 757,
         "language": "C++",
-        "pushed_at": "2026-09-09T21:28:29Z",
+        "pushed_at": "2026-09-09T23:58:26Z",
         "created_at": "2014-08-26T14:59:07Z"
       },
       {
@@ -26889,10 +26889,10 @@
       },
       {
         "name": "artemis",
-        "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs for debugging and analysis, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. On the AndroidWorld benchmark, ARTEMIS achieves a success rate of over 99%.",
+        "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. On the AndroidWorld benchmark, ARTEMIS achieves a success rate of over 99%. ARTEMIS is created by the Google PTE Fusion team.",
         "url": "https://github.com/google/artemis",
-        "stars": 701,
-        "forks": 76,
+        "stars": 742,
+        "forks": 81,
         "language": "Python",
         "pushed_at": "2026-09-09T03:28:47Z",
         "created_at": "2026-08-13T17:59:37Z"
@@ -27532,7 +27532,7 @@
         "description": "（无简介）",
         "url": "https://github.com/google/bbr",
         "stars": 5944,
-        "forks": 678,
+        "forks": 679,
         "language": "未指定",
         "pushed_at": "2025-03-18T12:55:16Z",
         "created_at": "2016-10-14T20:01:38Z"
@@ -28092,7 +28092,7 @@
         "description": "Brotli compression format",
         "url": "https://github.com/google/brotli",
         "stars": 14870,
-        "forks": 1360,
+        "forks": 1361,
         "language": "TypeScript",
         "pushed_at": "2026-09-08T15:52:05Z",
         "created_at": "2014-10-09T14:35:14Z"
@@ -28431,7 +28431,7 @@
         "name": "cadvisor",
         "description": "Analyzes resource usage and performance characteristics of running containers.",
         "url": "https://github.com/google/cadvisor",
-        "stars": 19409,
+        "stars": 19410,
         "forks": 2492,
         "language": "Go",
         "pushed_at": "2026-09-09T00:40:39Z",
@@ -29334,7 +29334,7 @@
         "stars": 12,
         "forks": 9,
         "language": "Go",
-        "pushed_at": "2026-09-09T00:53:48Z",
+        "pushed_at": "2026-09-10T00:50:43Z",
         "created_at": "2024-11-15T15:19:37Z"
       },
       {
@@ -29504,7 +29504,7 @@
         "stars": 7678,
         "forks": 1183,
         "language": "JavaScript",
-        "pushed_at": "2026-09-09T22:49:38Z",
+        "pushed_at": "2026-09-10T00:47:05Z",
         "created_at": "2014-04-16T15:30:36Z"
       },
       {
@@ -29574,7 +29574,7 @@
         "stars": 699,
         "forks": 198,
         "language": "Java",
-        "pushed_at": "2026-09-09T22:58:41Z",
+        "pushed_at": "2026-09-10T00:45:20Z",
         "created_at": "2014-04-16T15:31:58Z"
       },
       {
@@ -30934,7 +30934,7 @@
         "stars": 1299,
         "forks": 177,
         "language": "Rust",
-        "pushed_at": "2026-09-09T18:33:50Z",
+        "pushed_at": "2026-09-09T23:20:31Z",
         "created_at": "2021-09-13T06:47:51Z"
       },
       {
@@ -31514,7 +31514,7 @@
         "stars": 1125,
         "forks": 199,
         "language": "C++",
-        "pushed_at": "2026-09-09T22:37:56Z",
+        "pushed_at": "2026-09-09T23:47:41Z",
         "created_at": "2023-10-04T16:54:23Z"
       },
       {
@@ -32364,7 +32364,7 @@
         "stars": 564,
         "forks": 68,
         "language": "Starlark",
-        "pushed_at": "2026-09-09T22:14:48Z",
+        "pushed_at": "2026-09-10T00:27:52Z",
         "created_at": "2024-08-27T18:41:13Z"
       },
       {
@@ -32382,7 +32382,7 @@
         "description": "Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.",
         "url": "https://github.com/google/double-conversion",
         "stars": 1193,
-        "forks": 307,
+        "forks": 308,
         "language": "C++",
         "pushed_at": "2026-09-08T13:14:12Z",
         "created_at": "2014-10-18T12:48:15Z"
@@ -32804,14 +32804,14 @@
         "stars": 143,
         "forks": 110,
         "language": "Jsonnet",
-        "pushed_at": "2026-09-09T15:51:54Z",
+        "pushed_at": "2026-09-09T23:44:11Z",
         "created_at": "2022-06-06T17:21:40Z"
       },
       {
         "name": "earthengine-community",
         "description": "Tutorials and content created by Earth Engine users, for Earth Engine users",
         "url": "https://github.com/google/earthengine-community",
-        "stars": 820,
+        "stars": 821,
         "forks": 902,
         "language": "Jupyter Notebook",
         "pushed_at": "2026-09-04T19:06:56Z",
@@ -32914,7 +32914,7 @@
         "stars": 22,
         "forks": 6,
         "language": "C++",
-        "pushed_at": "2026-09-09T22:33:09Z",
+        "pushed_at": "2026-09-10T00:51:57Z",
         "created_at": "2020-12-29T19:35:41Z"
       },
       {
@@ -33944,7 +33944,7 @@
         "stars": 20473,
         "forks": 2255,
         "language": "C++",
-        "pushed_at": "2026-09-09T22:45:21Z",
+        "pushed_at": "2026-09-09T23:16:36Z",
         "created_at": "2018-08-03T17:26:00Z"
       },
       {
@@ -34411,7 +34411,7 @@
         "name": "fonts",
         "description": "Font files available from Google Fonts, and a public issue tracker for all things Google Fonts",
         "url": "https://github.com/google/fonts",
-        "stars": 20458,
+        "stars": 20459,
         "forks": 2922,
         "language": "HTML",
         "pushed_at": "2026-09-09T22:29:27Z",
@@ -34774,7 +34774,7 @@
         "stars": 1049,
         "forks": 135,
         "language": "C++",
-        "pushed_at": "2026-09-09T22:24:05Z",
+        "pushed_at": "2026-09-09T23:07:43Z",
         "created_at": "2022-08-10T20:54:25Z"
       },
       {
@@ -36394,7 +36394,7 @@
         "stars": 309,
         "forks": 118,
         "language": "C",
-        "pushed_at": "2026-09-09T16:37:39Z",
+        "pushed_at": "2026-09-10T00:18:05Z",
         "created_at": "2018-12-16T07:10:09Z"
       },
       {
@@ -37001,7 +37001,7 @@
         "name": "googletest",
         "description": "GoogleTest - Google Testing and Mocking Framework",
         "url": "https://github.com/google/googletest",
-        "stars": 39509,
+        "stars": 39510,
         "forks": 10891,
         "language": "C++",
         "pushed_at": "2026-09-09T18:35:27Z",
@@ -37724,7 +37724,7 @@
         "stars": 19263,
         "forks": 1968,
         "language": "Go",
-        "pushed_at": "2026-09-09T23:00:00Z",
+        "pushed_at": "2026-09-10T00:34:52Z",
         "created_at": "2018-04-26T21:28:49Z"
       },
       {
@@ -38274,7 +38274,7 @@
         "stars": 24,
         "forks": 7,
         "language": "C++",
-        "pushed_at": "2026-09-09T19:18:33Z",
+        "pushed_at": "2026-09-10T00:25:17Z",
         "created_at": "2020-08-06T21:53:40Z"
       },
       {
@@ -38984,7 +38984,7 @@
         "stars": 93,
         "forks": 21,
         "language": "C++",
-        "pushed_at": "2026-09-09T22:36:52Z",
+        "pushed_at": "2026-09-10T00:36:05Z",
         "created_at": "2019-01-02T16:04:39Z"
       },
       {
@@ -39354,7 +39354,7 @@
         "stars": 1379,
         "forks": 161,
         "language": "Java",
-        "pushed_at": "2026-09-09T20:37:14Z",
+        "pushed_at": "2026-09-10T00:47:32Z",
         "created_at": "2017-06-20T09:53:52Z"
       },
       {
@@ -39374,7 +39374,7 @@
         "stars": 6036,
         "forks": 1000,
         "language": "Java",
-        "pushed_at": "2026-09-09T10:47:32Z",
+        "pushed_at": "2026-09-10T00:23:19Z",
         "created_at": "2014-01-30T20:19:56Z"
       },
       {
@@ -39734,7 +39734,7 @@
         "stars": 663,
         "forks": 30,
         "language": "C++",
-        "pushed_at": "2026-09-09T19:56:26Z",
+        "pushed_at": "2026-09-09T23:55:10Z",
         "created_at": "2024-05-04T07:02:03Z"
       },
       {
@@ -40154,7 +40154,7 @@
         "stars": 24,
         "forks": 5,
         "language": "Kotlin",
-        "pushed_at": "2026-08-13T05:33:00Z",
+        "pushed_at": "2026-09-10T00:32:17Z",
         "created_at": "2024-06-13T21:50:41Z"
       },
       {
@@ -40461,7 +40461,7 @@
         "name": "leveldb",
         "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
         "url": "https://github.com/google/leveldb",
-        "stars": 39394,
+        "stars": 39395,
         "forks": 8213,
         "language": "C++",
         "pushed_at": "2026-03-11T04:06:29Z",
@@ -40534,7 +40534,7 @@
         "stars": 21,
         "forks": 34,
         "language": "C",
-        "pushed_at": "2026-09-09T02:43:31Z",
+        "pushed_at": "2026-09-10T00:36:07Z",
         "created_at": "2022-06-13T15:13:16Z"
       },
       {
@@ -40704,7 +40704,7 @@
         "stars": 342,
         "forks": 66,
         "language": "C++",
-        "pushed_at": "2026-09-09T03:55:47Z",
+        "pushed_at": "2026-09-10T00:41:39Z",
         "created_at": "2023-07-20T21:57:14Z"
       },
       {
@@ -41321,7 +41321,7 @@
         "name": "magika",
         "description": "Fast and accurate AI powered file content types detection ",
         "url": "https://github.com/google/magika",
-        "stars": 18519,
+        "stars": 18520,
         "forks": 1159,
         "language": "Rust",
         "pushed_at": "2026-09-09T22:36:31Z",
@@ -41501,7 +41501,7 @@
         "name": "mantis",
         "description": "A modular, stack-agnostic toolkit of security review skills for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.",
         "url": "https://github.com/google/mantis",
-        "stars": 1133,
+        "stars": 1135,
         "forks": 116,
         "language": "Python",
         "pushed_at": "2026-09-03T01:03:12Z",
@@ -41581,7 +41581,7 @@
         "name": "material-design-icons",
         "description": "Material Design icons by Google (Material Symbols)",
         "url": "https://github.com/google/material-design-icons",
-        "stars": 53909,
+        "stars": 53910,
         "forks": 9743,
         "language": "未指定",
         "pushed_at": "2026-09-04T02:16:31Z",
@@ -41591,7 +41591,7 @@
         "name": "material-design-lite",
         "description": "Material Design Components in HTML/CSS/JS",
         "url": "https://github.com/google/material-design-lite",
-        "stars": 32191,
+        "stars": 32190,
         "forks": 4895,
         "language": "HTML",
         "pushed_at": "2026-05-03T01:41:50Z",
@@ -41844,7 +41844,7 @@
         "stars": 1526,
         "forks": 292,
         "language": "Python",
-        "pushed_at": "2026-09-09T22:57:17Z",
+        "pushed_at": "2026-09-10T00:39:16Z",
         "created_at": "2024-01-31T18:15:38Z"
       },
       {
@@ -42364,7 +42364,7 @@
         "stars": 169,
         "forks": 34,
         "language": "Dart",
-        "pushed_at": "2026-09-04T20:26:01Z",
+        "pushed_at": "2026-09-10T00:45:44Z",
         "created_at": "2017-07-28T22:08:13Z"
       },
       {
