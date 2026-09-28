@@ -219,7 +219,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "pushed_at": "2026-09-27T18:04:48Z",
+        "pushed_at": "2026-09-27T21:52:18Z",
         "created_at": "2025-05-21T13:02:50Z"
       },
       {
@@ -12316,7 +12316,7 @@
         "name": "arduino-esp32",
         "description": "Arduino core for the ESP32 family of SoCs",
         "url": "https://github.com/espressif/arduino-esp32",
-        "stars": 17444,
+        "stars": 17445,
         "forks": 7913,
         "language": "C++",
         "pushed_at": "2026-09-27T15:26:19Z",
@@ -13286,7 +13286,7 @@
         "name": "esp-idf",
         "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
         "url": "https://github.com/espressif/esp-idf",
-        "stars": 19102,
+        "stars": 19104,
         "forks": 8493,
         "language": "C",
         "pushed_at": "2026-09-25T17:46:20Z",
@@ -13526,7 +13526,7 @@
         "name": "esp-linux-bsp",
         "description": "（无简介）",
         "url": "https://github.com/espressif/esp-linux-bsp",
-        "stars": 92,
+        "stars": 93,
         "forks": 13,
         "language": "Shell",
         "pushed_at": "2026-08-20T10:41:24Z",
@@ -13566,7 +13566,7 @@
         "name": "esp-matter",
         "description": "Espressif's SDK for Matter",
         "url": "https://github.com/espressif/esp-matter",
-        "stars": 1077,
+        "stars": 1078,
         "forks": 251,
         "language": "C++",
         "pushed_at": "2026-09-25T07:59:30Z",
@@ -13626,7 +13626,7 @@
         "name": "esp-mqtt",
         "description": "ESP32 mqtt component",
         "url": "https://github.com/espressif/esp-mqtt",
-        "stars": 747,
+        "stars": 748,
         "forks": 296,
         "language": "C",
         "pushed_at": "2026-09-25T11:56:59Z",
@@ -13679,7 +13679,7 @@
         "stars": 9,
         "forks": 0,
         "language": "未指定",
-        "pushed_at": "2026-09-27T20:04:14Z",
+        "pushed_at": "2026-09-28T00:06:28Z",
         "created_at": "2024-07-24T10:17:34Z"
       },
       {
@@ -14016,7 +14016,7 @@
         "name": "esp-sr",
         "description": "Speech recognition",
         "url": "https://github.com/espressif/esp-sr",
-        "stars": 1518,
+        "stars": 1519,
         "forks": 224,
         "language": "C",
         "pushed_at": "2026-09-24T09:59:33Z",
@@ -15179,7 +15179,7 @@
         "stars": 286,
         "forks": 30,
         "language": "LLVM",
-        "pushed_at": "2026-09-27T21:50:16Z",
+        "pushed_at": "2026-09-27T23:53:08Z",
         "created_at": "2020-01-15T09:55:46Z"
       },
       {
@@ -20227,9 +20227,9 @@
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
         "stars": 126770,
-        "forks": 19797,
+        "forks": 19798,
         "language": "Rust",
-        "pushed_at": "2026-09-27T21:25:04Z",
+        "pushed_at": "2026-09-28T00:06:10Z",
         "created_at": "2025-04-13T05:37:54Z"
       },
       {
@@ -20247,7 +20247,7 @@
         "description": "Use Codex from Claude Code to review code or delegate tasks.",
         "url": "https://github.com/openai/codex-plugin-cc",
         "stars": 33631,
-        "forks": 2337,
+        "forks": 2336,
         "language": "JavaScript",
         "pushed_at": "2026-07-08T00:17:31Z",
         "created_at": "2026-03-30T15:29:52Z"
@@ -20256,10 +20256,10 @@
         "name": "codex-security",
         "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
         "url": "https://github.com/openai/codex-security",
-        "stars": 10865,
-        "forks": 821,
+        "stars": 10866,
+        "forks": 822,
         "language": "TypeScript",
-        "pushed_at": "2026-09-27T12:46:08Z",
+        "pushed_at": "2026-09-28T00:02:12Z",
         "created_at": "2026-07-13T22:00:13Z"
       },
       {
@@ -20619,7 +20619,7 @@
         "stars": 198,
         "forks": 13,
         "language": "C",
-        "pushed_at": "2026-09-27T21:24:54Z",
+        "pushed_at": "2026-09-27T23:59:28Z",
         "created_at": "2026-07-10T00:55:53Z"
       },
       {
@@ -21166,7 +21166,7 @@
         "name": "mle-bench",
         "description": "MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering",
         "url": "https://github.com/openai/mle-bench",
-        "stars": 1754,
+        "stars": 1755,
         "forks": 260,
         "language": "Python",
         "pushed_at": "2026-04-24T17:33:44Z",
@@ -21296,7 +21296,7 @@
         "name": "NavierStokesAndEuler",
         "description": "Lean certificates accompanying Navier-Stokes and Euler results",
         "url": "https://github.com/openai/NavierStokesAndEuler",
-        "stars": 2011,
+        "stars": 2012,
         "forks": 207,
         "language": "Lean",
         "pushed_at": "2026-09-10T15:14:13Z",
@@ -21346,8 +21346,8 @@
         "name": "openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 29727,
-        "forks": 4814,
+        "stars": 29728,
+        "forks": 4815,
         "language": "Python",
         "pushed_at": "2026-09-27T21:25:45Z",
         "created_at": "2025-03-11T03:42:36Z"
@@ -21426,7 +21426,7 @@
         "name": "openai-cookbook",
         "description": "Examples and guides for using the OpenAI API",
         "url": "https://github.com/openai/openai-cookbook",
-        "stars": 76230,
+        "stars": 76233,
         "forks": 12894,
         "language": "Jupyter Notebook",
         "pushed_at": "2026-09-26T03:01:07Z",
@@ -21519,7 +21519,7 @@
         "stars": 3480,
         "forks": 350,
         "language": "Go",
-        "pushed_at": "2026-09-27T20:19:47Z",
+        "pushed_at": "2026-09-28T00:19:58Z",
         "created_at": "2024-07-22T19:29:26Z"
       },
       {
@@ -21599,7 +21599,7 @@
         "stars": 11190,
         "forks": 1607,
         "language": "TypeScript",
-        "pushed_at": "2026-09-27T21:47:49Z",
+        "pushed_at": "2026-09-28T00:20:08Z",
         "created_at": "2021-12-14T22:32:58Z"
       },
       {
@@ -21616,8 +21616,8 @@
         "name": "openai-python",
         "description": "The official Python library for the OpenAI API",
         "url": "https://github.com/openai/openai-python",
-        "stars": 31703,
-        "forks": 6544,
+        "stars": 31707,
+        "forks": 6564,
         "language": "Python",
         "pushed_at": "2026-09-27T21:46:46Z",
         "created_at": "2020-10-25T23:23:54Z"
@@ -21739,7 +21739,7 @@
         "stars": 463,
         "forks": 61,
         "language": "Ruby",
-        "pushed_at": "2026-09-27T20:29:58Z",
+        "pushed_at": "2026-09-28T00:20:24Z",
         "created_at": "2025-03-05T18:31:42Z"
       },
       {
@@ -21906,8 +21906,8 @@
         "name": "plugins",
         "description": "OpenAI Plugins",
         "url": "https://github.com/openai/plugins",
-        "stars": 7198,
-        "forks": 929,
+        "stars": 7199,
+        "forks": 930,
         "language": "JavaScript",
         "pushed_at": "2026-09-24T17:41:07Z",
         "created_at": "2026-03-04T21:52:32Z"
@@ -22276,8 +22276,8 @@
         "name": "skills",
         "description": "Skills Catalog for Codex",
         "url": "https://github.com/openai/skills",
-        "stars": 27706,
-        "forks": 1877,
+        "stars": 27711,
+        "forks": 1878,
         "language": "Python",
         "pushed_at": "2026-09-08T20:35:26Z",
         "created_at": "2025-11-25T06:25:42Z"
@@ -22406,7 +22406,7 @@
         "name": "symphony",
         "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
         "url": "https://github.com/openai/symphony",
-        "stars": 27439,
+        "stars": 27440,
         "forks": 2843,
         "language": "Elixir",
         "pushed_at": "2026-09-15T22:14:59Z",
@@ -22426,7 +22426,7 @@
         "name": "tart",
         "description": "macOS and Linux VMs on Apple Silicon to use in CI and other automations",
         "url": "https://github.com/openai/tart",
-        "stars": 7118,
+        "stars": 7136,
         "forks": 378,
         "language": "Swift",
         "pushed_at": "2026-09-26T15:48:03Z",
@@ -22636,8 +22636,8 @@
         "name": "whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
         "url": "https://github.com/openai/whisper",
-        "stars": 109654,
-        "forks": 13293,
+        "stars": 109656,
+        "forks": 13295,
         "language": "Python",
         "pushed_at": "2026-08-31T17:19:19Z",
         "created_at": "2022-09-16T20:02:54Z"
@@ -25087,7 +25087,7 @@
         "description": "nRF Connect SDK main repository",
         "url": "https://github.com/nrfconnect/sdk-nrf",
         "stars": 1431,
-        "forks": 1581,
+        "forks": 1582,
         "language": "C",
         "pushed_at": "2026-09-25T15:58:30Z",
         "created_at": "2018-02-14T13:50:55Z"
@@ -25661,7 +25661,7 @@
         "name": "adk-go",
         "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-go",
-        "stars": 8828,
+        "stars": 8829,
         "forks": 1024,
         "language": "Go",
         "pushed_at": "2026-09-26T20:44:43Z",
@@ -25681,7 +25681,7 @@
         "name": "adk-js",
         "description": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-js",
-        "stars": 1418,
+        "stars": 1420,
         "forks": 215,
         "language": "TypeScript",
         "pushed_at": "2026-09-25T22:18:28Z",
@@ -25701,8 +25701,8 @@
         "name": "adk-python",
         "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "url": "https://github.com/google/adk-python",
-        "stars": 21663,
-        "forks": 4073,
+        "stars": 21664,
+        "forks": 4072,
         "language": "Python",
         "pushed_at": "2026-09-26T04:57:31Z",
         "created_at": "2025-04-01T20:44:40Z"
@@ -25721,8 +25721,8 @@
         "name": "adk-recipes",
         "description": "A collection of sample agents built with Agent Development Kit (ADK) ",
         "url": "https://github.com/google/adk-recipes",
-        "stars": 10387,
-        "forks": 2875,
+        "stars": 10386,
+        "forks": 2874,
         "language": "Python",
         "pushed_at": "2026-09-26T01:25:56Z",
         "created_at": "2025-04-01T20:44:42Z"
@@ -25881,7 +25881,7 @@
         "name": "agents-cli",
         "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
         "url": "https://github.com/google/agents-cli",
-        "stars": 6013,
+        "stars": 6014,
         "forks": 680,
         "language": "Python",
         "pushed_at": "2026-09-22T12:15:00Z",
@@ -27061,7 +27061,7 @@
         "name": "artemis",
         "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.",
         "url": "https://github.com/google/artemis",
-        "stars": 10453,
+        "stars": 10460,
         "forks": 1032,
         "language": "Python",
         "pushed_at": "2026-09-12T03:00:58Z",
@@ -27541,10 +27541,10 @@
         "name": "ax",
         "description": "Google's open agentic orchestration runtime",
         "url": "https://github.com/google/ax",
-        "stars": 12149,
+        "stars": 12163,
         "forks": 587,
         "language": "Go",
-        "pushed_at": "2026-09-27T20:43:29Z",
+        "pushed_at": "2026-09-27T23:54:26Z",
         "created_at": "2026-03-30T17:55:01Z"
       },
       {
@@ -27881,7 +27881,7 @@
         "name": "bindiff",
         "description": "Quickly find differences and similarities in disassembled code",
         "url": "https://github.com/google/bindiff",
-        "stars": 3193,
+        "stars": 3194,
         "forks": 240,
         "language": "Java",
         "pushed_at": "2026-09-18T12:05:48Z",
@@ -28784,7 +28784,7 @@
         "stars": 74,
         "forks": 14,
         "language": "Rust",
-        "pushed_at": "2026-09-27T21:25:18Z",
+        "pushed_at": "2026-09-28T00:20:49Z",
         "created_at": "2025-09-26T16:07:23Z"
       },
       {
@@ -30431,7 +30431,7 @@
         "name": "container-explorer",
         "description": "（无简介）",
         "url": "https://github.com/google/container-explorer",
-        "stars": 107,
+        "stars": 108,
         "forks": 13,
         "language": "Go",
         "pushed_at": "2026-09-10T05:27:53Z",
@@ -30601,7 +30601,7 @@
         "name": "corgi",
         "description": "C++ entity-component system",
         "url": "https://github.com/google/corgi",
-        "stars": 250,
+        "stars": 251,
         "forks": 31,
         "language": "C++",
         "pushed_at": "2017-02-24T03:19:12Z",
@@ -31114,7 +31114,7 @@
         "stars": 1313,
         "forks": 179,
         "language": "Rust",
-        "pushed_at": "2026-09-26T09:11:48Z",
+        "pushed_at": "2026-09-28T00:17:49Z",
         "created_at": "2021-09-13T06:47:51Z"
       },
       {
@@ -31124,7 +31124,7 @@
         "stars": 1117,
         "forks": 83,
         "language": "C++",
-        "pushed_at": "2026-09-27T21:47:14Z",
+        "pushed_at": "2026-09-27T22:14:13Z",
         "created_at": "2022-03-02T09:13:13Z"
       },
       {
@@ -31394,7 +31394,7 @@
         "stars": 28,
         "forks": 11,
         "language": "Python",
-        "pushed_at": "2026-09-27T21:49:48Z",
+        "pushed_at": "2026-09-28T00:15:10Z",
         "created_at": "2026-07-06T15:51:14Z"
       },
       {
@@ -31944,7 +31944,7 @@
         "stars": 448,
         "forks": 56,
         "language": "Go",
-        "pushed_at": "2026-09-14T23:46:35Z",
+        "pushed_at": "2026-09-28T00:01:08Z",
         "created_at": "2023-02-28T03:51:18Z"
       },
       {
@@ -32574,7 +32574,7 @@
         "stars": 1194,
         "forks": 308,
         "language": "C++",
-        "pushed_at": "2026-09-13T15:49:01Z",
+        "pushed_at": "2026-09-27T23:40:34Z",
         "created_at": "2014-10-18T12:48:15Z"
       },
       {
@@ -33602,7 +33602,7 @@
         "description": "Collection of eclectic utils for python.",
         "url": "https://github.com/google/etils",
         "stars": 260,
-        "forks": 36,
+        "forks": 37,
         "language": "Python",
         "pushed_at": "2026-09-15T20:24:28Z",
         "created_at": "2021-10-05T15:23:22Z"
@@ -33864,7 +33864,7 @@
         "stars": 0,
         "forks": 0,
         "language": "JavaScript",
-        "pushed_at": "2026-09-27T15:33:05Z",
+        "pushed_at": "2026-09-27T23:30:10Z",
         "created_at": "2026-09-22T19:04:48Z"
       },
       {
@@ -34261,7 +34261,7 @@
         "name": "flatbuffers",
         "description": "FlatBuffers: Memory Efficient Serialization Library",
         "url": "https://github.com/google/flatbuffers",
-        "stars": 26519,
+        "stars": 26520,
         "forks": 3681,
         "language": "C++",
         "pushed_at": "2026-09-14T18:02:25Z",
@@ -34611,7 +34611,7 @@
         "name": "fonts",
         "description": "Font files available from Google Fonts, and a public issue tracker for all things Google Fonts",
         "url": "https://github.com/google/fonts",
-        "stars": 20529,
+        "stars": 20532,
         "forks": 2921,
         "language": "HTML",
         "pushed_at": "2026-09-27T01:08:51Z",
@@ -35621,7 +35621,7 @@
         "name": "giflib-rs",
         "description": "（无简介）",
         "url": "https://github.com/google/giflib-rs",
-        "stars": 22,
+        "stars": 23,
         "forks": 1,
         "language": "Rust",
         "pushed_at": "2026-09-24T14:29:06Z",
@@ -37591,7 +37591,7 @@
         "name": "grr",
         "description": "GRR Rapid Response: remote live forensics for incident response",
         "url": "https://github.com/google/grr",
-        "stars": 5088,
+        "stars": 5089,
         "forks": 795,
         "language": "Python",
         "pushed_at": "2026-09-25T10:40:48Z",
@@ -37671,7 +37671,7 @@
         "name": "gson",
         "description": "A Java serialization/deserialization library to convert Java Objects into JSON and back",
         "url": "https://github.com/google/gson",
-        "stars": 24234,
+        "stars": 24235,
         "forks": 4485,
         "language": "Java",
         "pushed_at": "2026-09-16T20:06:30Z",
@@ -37924,7 +37924,7 @@
         "stars": 12,
         "forks": 6,
         "language": "C++",
-        "pushed_at": "2026-09-24T21:13:10Z",
+        "pushed_at": "2026-09-28T00:06:05Z",
         "created_at": "2024-08-29T16:03:26Z"
       },
       {
@@ -37934,7 +37934,7 @@
         "stars": 19433,
         "forks": 2013,
         "language": "Go",
-        "pushed_at": "2026-09-27T21:37:37Z",
+        "pushed_at": "2026-09-28T00:02:25Z",
         "created_at": "2018-04-26T21:28:49Z"
       },
       {
@@ -39562,7 +39562,7 @@
         "description": "Google IT Automation with Python Professional Certificate - Practice files",
         "url": "https://github.com/google/it-cert-automation-practice",
         "stars": 1039,
-        "forks": 46746,
+        "forks": 46747,
         "language": "Python",
         "pushed_at": "2024-08-21T14:58:21Z",
         "created_at": "2019-12-17T19:04:12Z"
@@ -39591,10 +39591,10 @@
         "name": "j2cl",
         "description": "Java to Closure JavaScript transpiler",
         "url": "https://github.com/google/j2cl",
-        "stars": 1380,
+        "stars": 1381,
         "forks": 161,
         "language": "Java",
-        "pushed_at": "2026-09-26T17:04:14Z",
+        "pushed_at": "2026-09-27T23:41:08Z",
         "created_at": "2017-06-20T09:53:52Z"
       },
       {
@@ -40511,7 +40511,7 @@
         "name": "langextract",
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "url": "https://github.com/google/langextract",
-        "stars": 38897,
+        "stars": 38898,
         "forks": 2720,
         "language": "Python",
         "pushed_at": "2026-09-21T20:54:13Z",
@@ -40701,7 +40701,7 @@
         "name": "leveldb",
         "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
         "url": "https://github.com/google/leveldb",
-        "stars": 39451,
+        "stars": 39452,
         "forks": 8220,
         "language": "C++",
         "pushed_at": "2026-03-11T04:06:29Z",
@@ -41551,7 +41551,7 @@
         "name": "magika",
         "description": "Fast and accurate AI powered file content types detection ",
         "url": "https://github.com/google/magika",
-        "stars": 18675,
+        "stars": 18676,
         "forks": 1173,
         "language": "Rust",
         "pushed_at": "2026-09-25T15:24:59Z",
@@ -42414,7 +42414,7 @@
         "stars": 755,
         "forks": 224,
         "language": "Python",
-        "pushed_at": "2026-09-26T23:31:29Z",
+        "pushed_at": "2026-09-28T00:12:18Z",
         "created_at": "2016-11-07T17:45:31Z"
       },
       {
@@ -42631,7 +42631,7 @@
         "name": "morphie",
         "description": "A tool for data analysis with graphs.",
         "url": "https://github.com/google/morphie",
-        "stars": 23,
+        "stars": 24,
         "forks": 9,
         "language": "C++",
         "pushed_at": "2016-12-05T22:54:37Z",
@@ -43134,7 +43134,7 @@
         "stars": 971,
         "forks": 212,
         "language": "C++",
-        "pushed_at": "2026-09-27T21:41:37Z",
+        "pushed_at": "2026-09-28T00:20:45Z",
         "created_at": "2020-04-23T20:41:37Z"
       },
       {
@@ -44311,7 +44311,7 @@
         "name": "osv-scalibr",
         "description": "OSV-SCALIBR: A library for Software Composition Analysis",
         "url": "https://github.com/google/osv-scalibr",
-        "stars": 645,
+        "stars": 646,
         "forks": 203,
         "language": "Go",
         "pushed_at": "2026-09-25T18:33:34Z",
@@ -44321,7 +44321,7 @@
         "name": "osv-scanner",
         "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
         "url": "https://github.com/google/osv-scanner",
-        "stars": 11095,
+        "stars": 11097,
         "forks": 800,
         "language": "Go",
         "pushed_at": "2026-09-27T20:55:25Z",
@@ -44924,7 +44924,7 @@
         "stars": 6561,
         "forks": 881,
         "language": "C++",
-        "pushed_at": "2026-09-27T21:15:40Z",
+        "pushed_at": "2026-09-27T23:45:04Z",
         "created_at": "2019-12-10T10:32:44Z"
       },
       {
@@ -45141,7 +45141,7 @@
         "name": "pienoon",
         "description": "Multiplayer party game where you can throw pies at your friends.",
         "url": "https://github.com/google/pienoon",
-        "stars": 439,
+        "stars": 440,
         "forks": 111,
         "language": "C++",
         "pushed_at": "2016-01-23T01:42:39Z",
@@ -45276,6 +45276,1006 @@
         "language": "C++",
         "pushed_at": "2024-01-22T10:52:53Z",
         "created_at": "2014-11-06T16:19:26Z"
+      },
+      {
+        "name": "pl011-uart",
+        "description": "A no_std Rust driver for the Arm PL011 UART.",
+        "url": "https://github.com/google/pl011-uart",
+        "stars": 8,
+        "forks": 2,
+        "language": "Rust",
+        "pushed_at": "2026-06-23T09:27:15Z",
+        "created_at": "2024-07-23T15:13:14Z"
+      },
+      {
+        "name": "platform-attestation",
+        "description": "（无简介）",
+        "url": "https://github.com/google/platform-attestation",
+        "stars": 5,
+        "forks": 6,
+        "language": "Go",
+        "pushed_at": "2026-09-11T18:21:19Z",
+        "created_at": "2026-03-03T14:02:12Z"
+      },
+      {
+        "name": "platforms-bios-buildenv",
+        "description": "（无简介）",
+        "url": "https://github.com/google/platforms-bios-buildenv",
+        "stars": 6,
+        "forks": 1,
+        "language": "Dockerfile",
+        "pushed_at": "2021-09-09T18:37:14Z",
+        "created_at": "2021-06-23T02:29:13Z"
+      },
+      {
+        "name": "platform_benchmarks",
+        "description": "（无简介）",
+        "url": "https://github.com/google/platform_benchmarks",
+        "stars": 19,
+        "forks": 8,
+        "language": "未指定",
+        "pushed_at": "2023-10-10T16:21:51Z",
+        "created_at": "2018-08-23T21:22:30Z"
+      },
+      {
+        "name": "play-appbundle-unity",
+        "description": "（无简介）",
+        "url": "https://github.com/google/play-appbundle-unity",
+        "stars": 10,
+        "forks": 5,
+        "language": "C#",
+        "pushed_at": "2025-04-03T10:06:23Z",
+        "created_at": "2024-11-06T16:38:22Z"
+      },
+      {
+        "name": "play-asset-delivery-unity",
+        "description": "（无简介）",
+        "url": "https://github.com/google/play-asset-delivery-unity",
+        "stars": 22,
+        "forks": 6,
+        "language": "C#",
+        "pushed_at": "2025-04-03T10:11:28Z",
+        "created_at": "2024-11-06T17:02:12Z"
+      },
+      {
+        "name": "play-common-unity",
+        "description": "（无简介）",
+        "url": "https://github.com/google/play-common-unity",
+        "stars": 1,
+        "forks": 1,
+        "language": "C#",
+        "pushed_at": "2024-11-29T09:50:26Z",
+        "created_at": "2024-11-06T15:01:28Z"
+      },
+      {
+        "name": "play-core-unity",
+        "description": "（无简介）",
+        "url": "https://github.com/google/play-core-unity",
+        "stars": 4,
+        "forks": 4,
+        "language": "C#",
+        "pushed_at": "2025-02-05T11:57:53Z",
+        "created_at": "2024-11-06T16:35:29Z"
+      },
+      {
+        "name": "play-in-app-reviews-unity",
+        "description": "（无简介）",
+        "url": "https://github.com/google/play-in-app-reviews-unity",
+        "stars": 18,
+        "forks": 4,
+        "language": "C#",
+        "pushed_at": "2025-02-05T13:50:13Z",
+        "created_at": "2024-11-06T16:58:03Z"
+      },
+      {
+        "name": "play-in-app-updates-unity",
+        "description": "（无简介）",
+        "url": "https://github.com/google/play-in-app-updates-unity",
+        "stars": 3,
+        "forks": 7,
+        "language": "C#",
+        "pushed_at": "2025-02-05T13:48:59Z",
+        "created_at": "2024-11-06T16:59:52Z"
+      },
+      {
+        "name": "play-instant-unity-plugin",
+        "description": "Google Play Instant Plugin for Unity Beta (Archived)",
+        "url": "https://github.com/google/play-instant-unity-plugin",
+        "stars": 148,
+        "forks": 32,
+        "language": "C#",
+        "pushed_at": "2020-04-02T22:12:35Z",
+        "created_at": "2018-05-18T18:28:57Z"
+      },
+      {
+        "name": "play-integrity-unity",
+        "description": "（无简介）",
+        "url": "https://github.com/google/play-integrity-unity",
+        "stars": 14,
+        "forks": 3,
+        "language": "C#",
+        "pushed_at": "2026-05-28T12:17:53Z",
+        "created_at": "2024-11-06T16:41:02Z"
+      },
+      {
+        "name": "play-licensing",
+        "description": "Google Play licensing service client library",
+        "url": "https://github.com/google/play-licensing",
+        "stars": 123,
+        "forks": 60,
+        "language": "Java",
+        "pushed_at": "2024-01-29T10:54:41Z",
+        "created_at": "2016-07-30T02:01:18Z"
+      },
+      {
+        "name": "play-services-plugins",
+        "description": "Plugins to help with using Google Play services SDK.",
+        "url": "https://github.com/google/play-services-plugins",
+        "stars": 526,
+        "forks": 167,
+        "language": "Kotlin",
+        "pushed_at": "2026-09-22T00:20:00Z",
+        "created_at": "2018-06-27T14:38:32Z"
+      },
+      {
+        "name": "play-unity-plugins",
+        "description": "The Google Play Plugins for Unity provide C# APIs for accessing various Play services",
+        "url": "https://github.com/google/play-unity-plugins",
+        "stars": 472,
+        "forks": 110,
+        "language": "C#",
+        "pushed_at": "2024-11-25T13:13:10Z",
+        "created_at": "2020-03-18T03:20:25Z"
+      },
+      {
+        "name": "play-unreal-engine-plugin",
+        "description": "（无简介）",
+        "url": "https://github.com/google/play-unreal-engine-plugin",
+        "stars": 16,
+        "forks": 11,
+        "language": "C++",
+        "pushed_at": "2025-10-08T13:53:36Z",
+        "created_at": "2024-12-13T10:39:00Z"
+      },
+      {
+        "name": "play-work",
+        "description": "（无简介）",
+        "url": "https://github.com/google/play-work",
+        "stars": 88,
+        "forks": 45,
+        "language": "Java",
+        "pushed_at": "2024-09-19T16:11:18Z",
+        "created_at": "2015-02-27T01:48:31Z"
+      },
+      {
+        "name": "playground-elements",
+        "description": "Serverless coding environments for the web.",
+        "url": "https://github.com/google/playground-elements",
+        "stars": 648,
+        "forks": 61,
+        "language": "TypeScript",
+        "pushed_at": "2025-10-02T22:51:25Z",
+        "created_at": "2019-05-13T22:54:18Z"
+      },
+      {
+        "name": "playhvz",
+        "description": "（无简介）",
+        "url": "https://github.com/google/playhvz",
+        "stars": 26,
+        "forks": 20,
+        "language": "Kotlin",
+        "pushed_at": "2024-06-27T21:12:45Z",
+        "created_at": "2017-06-28T19:32:21Z"
+      },
+      {
+        "name": "plb",
+        "description": "（无简介）",
+        "url": "https://github.com/google/plb",
+        "stars": 26,
+        "forks": 2,
+        "language": "未指定",
+        "pushed_at": "2022-10-28T16:57:42Z",
+        "created_at": "2022-07-01T00:48:02Z"
+      },
+      {
+        "name": "plusfish",
+        "description": "Plusfish is a classic web application vulnerability scanner/fuzzer and aimed at security professionals",
+        "url": "https://github.com/google/plusfish",
+        "stars": 27,
+        "forks": 9,
+        "language": "C++",
+        "pushed_at": "2022-08-22T10:14:42Z",
+        "created_at": "2020-10-16T16:16:59Z"
+      },
+      {
+        "name": "pmax_migration",
+        "description": "（无简介）",
+        "url": "https://github.com/google/pmax_migration",
+        "stars": 4,
+        "forks": 0,
+        "language": "Python",
+        "pushed_at": "2022-07-26T09:19:42Z",
+        "created_at": "2022-07-26T08:58:24Z"
+      },
+      {
+        "name": "pods-helper",
+        "description": "（无简介）",
+        "url": "https://github.com/google/pods-helper",
+        "stars": 5,
+        "forks": 3,
+        "language": "Objective-C",
+        "pushed_at": "2015-10-14T17:17:58Z",
+        "created_at": "2015-10-14T14:47:11Z"
+      },
+      {
+        "name": "polymer-dart-log-controller",
+        "description": "A small polymer element which lets you control the global logging configuration, and can optionally log all statements to the console.",
+        "url": "https://github.com/google/polymer-dart-log-controller",
+        "stars": 8,
+        "forks": 6,
+        "language": "Dart",
+        "pushed_at": "2014-09-30T22:01:35Z",
+        "created_at": "2014-07-24T20:21:17Z"
+      },
+      {
+        "name": "polymorphicDSL",
+        "description": "（无简介）",
+        "url": "https://github.com/google/polymorphicDSL",
+        "stars": 17,
+        "forks": 10,
+        "language": "Java",
+        "pushed_at": "2026-08-21T22:39:42Z",
+        "created_at": "2021-05-04T20:29:44Z"
+      },
+      {
+        "name": "polynomial-practice",
+        "description": "（无简介）",
+        "url": "https://github.com/google/polynomial-practice",
+        "stars": 5,
+        "forks": 0,
+        "language": "HTML",
+        "pushed_at": "2023-03-20T17:46:54Z",
+        "created_at": "2023-03-20T17:28:36Z"
+      },
+      {
+        "name": "portrait-shadow-manipulation",
+        "description": "（无简介）",
+        "url": "https://github.com/google/portrait-shadow-manipulation",
+        "stars": 301,
+        "forks": 53,
+        "language": "Jupyter Notebook",
+        "pushed_at": "2020-11-11T19:13:44Z",
+        "created_at": "2020-05-19T18:03:44Z"
+      },
+      {
+        "name": "poseshield-tfjs",
+        "description": "（无简介）",
+        "url": "https://github.com/google/poseshield-tfjs",
+        "stars": 14,
+        "forks": 9,
+        "language": "Vue",
+        "pushed_at": "2024-07-15T19:58:40Z",
+        "created_at": "2019-09-09T21:56:24Z"
+      },
+      {
+        "name": "postcss-rename",
+        "description": "Replace class names based on a customizable renaming scheme.",
+        "url": "https://github.com/google/postcss-rename",
+        "stars": 184,
+        "forks": 19,
+        "language": "TypeScript",
+        "pushed_at": "2026-09-08T22:55:15Z",
+        "created_at": "2019-11-19T00:23:21Z"
+      },
+      {
+        "name": "postcss-src",
+        "description": "（无简介）",
+        "url": "https://github.com/google/postcss-src",
+        "stars": 4,
+        "forks": 1,
+        "language": "TypeScript",
+        "pushed_at": "2023-06-23T22:50:45Z",
+        "created_at": "2021-12-08T17:18:18Z"
+      },
+      {
+        "name": "power-traces",
+        "description": "（无简介）",
+        "url": "https://github.com/google/power-traces",
+        "stars": 8,
+        "forks": 5,
+        "language": "Protocol Buffer",
+        "pushed_at": "2016-11-17T04:04:31Z",
+        "created_at": "2016-11-15T23:35:51Z"
+      },
+      {
+        "name": "poweranalysis",
+        "description": "Power/Precision Analysis to Determine Minimum Sample Size and Effect",
+        "url": "https://github.com/google/poweranalysis",
+        "stars": 10,
+        "forks": 4,
+        "language": "R",
+        "pushed_at": "2022-06-24T18:23:10Z",
+        "created_at": "2022-06-13T20:38:29Z"
+      },
+      {
+        "name": "powered-caster-vehicle",
+        "description": "（无简介）",
+        "url": "https://github.com/google/powered-caster-vehicle",
+        "stars": 16,
+        "forks": 8,
+        "language": "C++",
+        "pushed_at": "2020-04-04T23:24:51Z",
+        "created_at": "2019-05-30T01:42:28Z"
+      },
+      {
+        "name": "pprof",
+        "description": "pprof is a tool for visualization and analysis of profiling data",
+        "url": "https://github.com/google/pprof",
+        "stars": 9285,
+        "forks": 673,
+        "language": "Go",
+        "pushed_at": "2026-09-26T06:31:04Z",
+        "created_at": "2016-01-29T01:52:07Z"
+      },
+      {
+        "name": "pprof-nodejs",
+        "description": "pprof support for Node.js",
+        "url": "https://github.com/google/pprof-nodejs",
+        "stars": 291,
+        "forks": 37,
+        "language": "JavaScript",
+        "pushed_at": "2026-07-24T09:44:08Z",
+        "created_at": "2019-02-25T20:39:04Z"
+      },
+      {
+        "name": "practical-inverse-rendering-of-textured-and-translucent-appearance",
+        "description": "SIGGRAPH 2025 \"Practical Inverse Rendering Of Textured And Translucent Appearance\"",
+        "url": "https://github.com/google/practical-inverse-rendering-of-textured-and-translucent-appearance",
+        "stars": 124,
+        "forks": 14,
+        "language": "Python",
+        "pushed_at": "2026-07-21T14:27:21Z",
+        "created_at": "2025-01-10T17:12:58Z"
+      },
+      {
+        "name": "praxis",
+        "description": "（无简介）",
+        "url": "https://github.com/google/praxis",
+        "stars": 200,
+        "forks": 45,
+        "language": "Python",
+        "pushed_at": "2026-09-16T03:27:43Z",
+        "created_at": "2022-06-14T16:04:46Z"
+      },
+      {
+        "name": "pre-commit-tool-hooks",
+        "description": "Hooks for use with http://pre-commit.com/ tooling",
+        "url": "https://github.com/google/pre-commit-tool-hooks",
+        "stars": 38,
+        "forks": 6,
+        "language": "Python",
+        "pushed_at": "2024-05-20T03:16:54Z",
+        "created_at": "2020-10-16T20:36:40Z"
+      },
+      {
+        "name": "prediction_framework",
+        "description": "（无简介）",
+        "url": "https://github.com/google/prediction_framework",
+        "stars": 42,
+        "forks": 6,
+        "language": "Python",
+        "pushed_at": "2021-07-29T10:37:58Z",
+        "created_at": "2021-06-03T14:35:02Z"
+      },
+      {
+        "name": "prefab",
+        "description": "Prefab is a tool for generating build system integrations for prebuilt C/C++ libraries.",
+        "url": "https://github.com/google/prefab",
+        "stars": 237,
+        "forks": 35,
+        "language": "Kotlin",
+        "pushed_at": "2024-04-28T10:08:54Z",
+        "created_at": "2019-11-01T19:02:56Z"
+      },
+      {
+        "name": "premium-vs-standard-network-latency",
+        "description": "（无简介）",
+        "url": "https://github.com/google/premium-vs-standard-network-latency",
+        "stars": 4,
+        "forks": 0,
+        "language": "Shell",
+        "pushed_at": "2024-08-15T21:45:47Z",
+        "created_at": "2024-08-09T18:55:47Z"
+      },
+      {
+        "name": "prerender-test",
+        "description": "（无简介）",
+        "url": "https://github.com/google/prerender-test",
+        "stars": 15,
+        "forks": 10,
+        "language": "JavaScript",
+        "pushed_at": "2017-03-30T06:41:55Z",
+        "created_at": "2013-06-18T04:03:35Z"
+      },
+      {
+        "name": "prettytensor",
+        "description": "Pretty Tensor: Fluent Networks in TensorFlow",
+        "url": "https://github.com/google/prettytensor",
+        "stars": 1226,
+        "forks": 142,
+        "language": "Python",
+        "pushed_at": "2020-05-17T17:37:00Z",
+        "created_at": "2015-11-02T18:19:46Z"
+      },
+      {
+        "name": "price_visibility_booster",
+        "description": "（无简介）",
+        "url": "https://github.com/google/price_visibility_booster",
+        "stars": 2,
+        "forks": 2,
+        "language": "JavaScript",
+        "pushed_at": "2024-09-03T04:05:30Z",
+        "created_at": "2024-09-02T11:54:00Z"
+      },
+      {
+        "name": "prism",
+        "description": "（无简介）",
+        "url": "https://github.com/google/prism",
+        "stars": 2,
+        "forks": 0,
+        "language": "JavaScript",
+        "pushed_at": "2026-03-22T04:05:14Z",
+        "created_at": "2026-03-13T19:22:31Z"
+      },
+      {
+        "name": "privacy-sandbox-aggregation-service",
+        "description": "（无简介）",
+        "url": "https://github.com/google/privacy-sandbox-aggregation-service",
+        "stars": 31,
+        "forks": 16,
+        "language": "Go",
+        "pushed_at": "2026-06-26T16:36:36Z",
+        "created_at": "2021-02-08T23:01:34Z"
+      },
+      {
+        "name": "private-compute-libraries",
+        "description": "Contains libraries for use in making provably-private applications.",
+        "url": "https://github.com/google/private-compute-libraries",
+        "stars": 43,
+        "forks": 8,
+        "language": "Kotlin",
+        "pushed_at": "2026-08-04T07:42:56Z",
+        "created_at": "2022-11-12T02:06:52Z"
+      },
+      {
+        "name": "private-compute-services",
+        "description": "（无简介）",
+        "url": "https://github.com/google/private-compute-services",
+        "stars": 870,
+        "forks": 333,
+        "language": "Kotlin",
+        "pushed_at": "2026-08-19T22:33:45Z",
+        "created_at": "2021-10-15T15:32:55Z"
+      },
+      {
+        "name": "private-join-and-compute",
+        "description": "（无简介）",
+        "url": "https://github.com/google/private-join-and-compute",
+        "stars": 857,
+        "forks": 163,
+        "language": "C++",
+        "pushed_at": "2026-03-09T19:05:34Z",
+        "created_at": "2019-06-19T11:23:57Z"
+      },
+      {
+        "name": "private-membership",
+        "description": "（无简介）",
+        "url": "https://github.com/google/private-membership",
+        "stars": 69,
+        "forks": 18,
+        "language": "C++",
+        "pushed_at": "2026-08-26T01:28:44Z",
+        "created_at": "2021-08-11T20:38:33Z"
+      },
+      {
+        "name": "private-retrieval",
+        "description": "（无简介）",
+        "url": "https://github.com/google/private-retrieval",
+        "stars": 56,
+        "forks": 19,
+        "language": "Java",
+        "pushed_at": "2021-10-19T20:17:41Z",
+        "created_at": "2021-10-19T19:21:58Z"
+      },
+      {
+        "name": "process-tree",
+        "description": "（无简介）",
+        "url": "https://github.com/google/process-tree",
+        "stars": 3,
+        "forks": 0,
+        "language": "C++",
+        "pushed_at": "2024-01-31T21:31:41Z",
+        "created_at": "2024-01-31T16:12:51Z"
+      },
+      {
+        "name": "process.dart",
+        "description": "（无简介）",
+        "url": "https://github.com/google/process.dart",
+        "stars": 52,
+        "forks": 23,
+        "language": "Dart",
+        "pushed_at": "2023-10-09T20:24:58Z",
+        "created_at": "2017-02-01T18:57:01Z"
+      },
+      {
+        "name": "processingjs-ide",
+        "description": "A lightweight browser-based IDE for Processing.js with Japanese translation",
+        "url": "https://github.com/google/processingjs-ide",
+        "stars": 22,
+        "forks": 7,
+        "language": "JavaScript",
+        "pushed_at": "2022-10-26T02:50:59Z",
+        "created_at": "2018-01-19T02:01:44Z"
+      },
+      {
+        "name": "process_runner",
+        "description": "（无简介）",
+        "url": "https://github.com/google/process_runner",
+        "stars": 20,
+        "forks": 7,
+        "language": "Dart",
+        "pushed_at": "2025-10-30T02:19:11Z",
+        "created_at": "2020-07-29T00:13:31Z"
+      },
+      {
+        "name": "prochlo",
+        "description": "（无简介）",
+        "url": "https://github.com/google/prochlo",
+        "stars": 34,
+        "forks": 10,
+        "language": "C++",
+        "pushed_at": "2020-07-09T04:07:40Z",
+        "created_at": "2017-10-16T22:03:02Z"
+      },
+      {
+        "name": "product-dsa",
+        "description": "（无简介）",
+        "url": "https://github.com/google/product-dsa",
+        "stars": 11,
+        "forks": 0,
+        "language": "Python",
+        "pushed_at": "2024-06-18T17:03:18Z",
+        "created_at": "2022-03-10T14:58:58Z"
+      },
+      {
+        "name": "product_return_predictor",
+        "description": "（无简介）",
+        "url": "https://github.com/google/product_return_predictor",
+        "stars": 16,
+        "forks": 4,
+        "language": "Python",
+        "pushed_at": "2023-04-19T16:12:33Z",
+        "created_at": "2023-04-12T11:24:22Z"
+      },
+      {
+        "name": "product_video_ads",
+        "description": "Product Video Ads is a solution to build video Ads at scale.",
+        "url": "https://github.com/google/product_video_ads",
+        "stars": 73,
+        "forks": 27,
+        "language": "TypeScript",
+        "pushed_at": "2026-04-17T11:03:29Z",
+        "created_at": "2021-07-12T19:17:10Z"
+      },
+      {
+        "name": "profiling-data-processing-model-isca23-ae",
+        "description": "（无简介）",
+        "url": "https://github.com/google/profiling-data-processing-model-isca23-ae",
+        "stars": 9,
+        "forks": 1,
+        "language": "Python",
+        "pushed_at": "2023-03-17T22:39:58Z",
+        "created_at": "2023-03-16T23:17:52Z"
+      },
+      {
+        "name": "profit-bidder",
+        "description": "（无简介）",
+        "url": "https://github.com/google/profit-bidder",
+        "stars": 3,
+        "forks": 2,
+        "language": "Shell",
+        "pushed_at": "2022-11-29T15:35:05Z",
+        "created_at": "2021-10-26T18:10:16Z"
+      },
+      {
+        "name": "prog-edu-assistant",
+        "description": "An easy system to create autograding tests in Jupyter Python notebook and deploy to cloud.",
+        "url": "https://github.com/google/prog-edu-assistant",
+        "stars": 34,
+        "forks": 17,
+        "language": "Jupyter Notebook",
+        "pushed_at": "2024-05-20T22:04:35Z",
+        "created_at": "2019-02-21T01:58:58Z"
+      },
+      {
+        "name": "prog-edu-assistant-quizzes",
+        "description": "Automatically gradable quizzes in Jupyter Python notebook.",
+        "url": "https://github.com/google/prog-edu-assistant-quizzes",
+        "stars": 6,
+        "forks": 4,
+        "language": "Jupyter Notebook",
+        "pushed_at": "2021-04-14T09:50:03Z",
+        "created_at": "2021-04-14T09:38:46Z"
+      },
+      {
+        "name": "project-eager",
+        "description": "（无简介）",
+        "url": "https://github.com/google/project-eager",
+        "stars": 21,
+        "forks": 3,
+        "language": "Jupyter Notebook",
+        "pushed_at": "2024-01-02T18:29:34Z",
+        "created_at": "2023-02-03T16:47:54Z"
+      },
+      {
+        "name": "project-euphonia-app",
+        "description": "（无简介）",
+        "url": "https://github.com/google/project-euphonia-app",
+        "stars": 49,
+        "forks": 24,
+        "language": "Dart",
+        "pushed_at": "2026-02-18T16:53:10Z",
+        "created_at": "2025-03-17T15:08:23Z"
+      },
+      {
+        "name": "project-euphonia-audiotool",
+        "description": "（无简介）",
+        "url": "https://github.com/google/project-euphonia-audiotool",
+        "stars": 31,
+        "forks": 11,
+        "language": "TypeScript",
+        "pushed_at": "2024-06-23T20:44:36Z",
+        "created_at": "2022-08-01T18:21:35Z"
+      },
+      {
+        "name": "project-gameface",
+        "description": "（无简介）",
+        "url": "https://github.com/google/project-gameface",
+        "stars": 633,
+        "forks": 89,
+        "language": "Java",
+        "pushed_at": "2024-08-30T23:44:28Z",
+        "created_at": "2023-05-05T11:51:46Z"
+      },
+      {
+        "name": "project-montage",
+        "description": "（无简介）",
+        "url": "https://github.com/google/project-montage",
+        "stars": 26,
+        "forks": 4,
+        "language": "Python",
+        "pushed_at": "2026-09-25T08:52:15Z",
+        "created_at": "2026-05-18T23:48:51Z"
+      },
+      {
+        "name": "project-OCEAN",
+        "description": "Project OCEAN is an open science collaboration focused on understanding the open source ecosystems creating datasets that enable research and forming a clear understanding of the state of open source communities.",
+        "url": "https://github.com/google/project-OCEAN",
+        "stars": 55,
+        "forks": 19,
+        "language": "Python",
+        "pushed_at": "2025-03-12T22:21:13Z",
+        "created_at": "2020-06-23T18:08:58Z"
+      },
+      {
+        "name": "project-voice",
+        "description": "（无简介）",
+        "url": "https://github.com/google/project-voice",
+        "stars": 66,
+        "forks": 18,
+        "language": "TypeScript",
+        "pushed_at": "2026-07-01T01:24:25Z",
+        "created_at": "2025-02-17T07:25:12Z"
+      },
+      {
+        "name": "project_cartesian",
+        "description": "（无简介）",
+        "url": "https://github.com/google/project_cartesian",
+        "stars": 22,
+        "forks": 3,
+        "language": "Python",
+        "pushed_at": "2024-07-05T21:48:35Z",
+        "created_at": "2022-12-28T16:28:26Z"
+      },
+      {
+        "name": "prometheus-slo-burn-example",
+        "description": "An end to end example of implementing SLOs with prometheus, grafana and Go.",
+        "url": "https://github.com/google/prometheus-slo-burn-example",
+        "stars": 143,
+        "forks": 25,
+        "language": "Go",
+        "pushed_at": "2019-05-30T22:29:10Z",
+        "created_at": "2019-05-28T21:35:40Z"
+      },
+      {
+        "name": "promises",
+        "description": "Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.",
+        "url": "https://github.com/google/promises",
+        "stars": 3828,
+        "forks": 317,
+        "language": "Objective-C",
+        "pushed_at": "2026-06-09T16:52:03Z",
+        "created_at": "2018-01-19T02:50:16Z"
+      },
+      {
+        "name": "prompt-encryption-sdk",
+        "description": "（无简介）",
+        "url": "https://github.com/google/prompt-encryption-sdk",
+        "stars": 20,
+        "forks": 2,
+        "language": "Python",
+        "pushed_at": "2026-08-25T12:59:37Z",
+        "created_at": "2026-04-30T09:00:24Z"
+      },
+      {
+        "name": "prompt-to-prompt",
+        "description": "（无简介）",
+        "url": "https://github.com/google/prompt-to-prompt",
+        "stars": 3455,
+        "forks": 317,
+        "language": "Jupyter Notebook",
+        "pushed_at": "2024-05-14T08:06:32Z",
+        "created_at": "2022-10-03T09:58:43Z"
+      },
+      {
+        "name": "proto-lens",
+        "description": "API for protocol buffers using modern Haskell language and library patterns.",
+        "url": "https://github.com/google/proto-lens",
+        "stars": 506,
+        "forks": 127,
+        "language": "Haskell",
+        "pushed_at": "2026-09-22T23:40:45Z",
+        "created_at": "2016-05-03T18:35:31Z"
+      },
+      {
+        "name": "proto-quic",
+        "description": "（无简介）",
+        "url": "https://github.com/google/proto-quic",
+        "stars": 1169,
+        "forks": 273,
+        "language": "未指定",
+        "pushed_at": "2021-05-08T01:04:23Z",
+        "created_at": "2016-04-01T20:50:11Z"
+      },
+      {
+        "name": "proto-splitter",
+        "description": "（无简介）",
+        "url": "https://github.com/google/proto-splitter",
+        "stars": 1,
+        "forks": 0,
+        "language": "C++",
+        "pushed_at": "2025-06-17T04:03:45Z",
+        "created_at": "2024-05-07T21:29:27Z"
+      },
+      {
+        "name": "proto-task-queue",
+        "description": "（无简介）",
+        "url": "https://github.com/google/proto-task-queue",
+        "stars": 10,
+        "forks": 6,
+        "language": "Python",
+        "pushed_at": "2025-08-18T14:38:46Z",
+        "created_at": "2018-11-19T19:36:12Z"
+      },
+      {
+        "name": "protobuf-dt",
+        "description": "（无简介）",
+        "url": "https://github.com/google/protobuf-dt",
+        "stars": 40,
+        "forks": 20,
+        "language": "Java",
+        "pushed_at": "2018-12-05T18:01:20Z",
+        "created_at": "2016-05-12T16:39:52Z"
+      },
+      {
+        "name": "protobuf-extensibility-for-burp",
+        "description": "（无简介）",
+        "url": "https://github.com/google/protobuf-extensibility-for-burp",
+        "stars": 94,
+        "forks": 6,
+        "language": "Python",
+        "pushed_at": "2024-06-21T21:19:11Z",
+        "created_at": "2023-08-15T22:09:16Z"
+      },
+      {
+        "name": "protobuf-gradle-plugin",
+        "description": "Protobuf Plugin for Gradle",
+        "url": "https://github.com/google/protobuf-gradle-plugin",
+        "stars": 1833,
+        "forks": 290,
+        "language": "Groovy",
+        "pushed_at": "2026-09-25T20:57:17Z",
+        "created_at": "2015-04-13T17:06:00Z"
+      },
+      {
+        "name": "protobuf.dart",
+        "description": "Runtime library for Dart protobufs",
+        "url": "https://github.com/google/protobuf.dart",
+        "stars": 571,
+        "forks": 196,
+        "language": "Dart",
+        "pushed_at": "2026-09-11T11:59:35Z",
+        "created_at": "2013-07-10T16:36:09Z"
+      },
+      {
+        "name": "protocall",
+        "description": "protocall is an experimental programming language",
+        "url": "https://github.com/google/protocall",
+        "stars": 13,
+        "forks": 5,
+        "language": "Python",
+        "pushed_at": "2016-11-20T00:58:48Z",
+        "created_at": "2016-06-17T18:23:00Z"
+      },
+      {
+        "name": "protodatastore-cpp",
+        "description": "A simple file-backed proto with an in-memory cache",
+        "url": "https://github.com/google/protodatastore-cpp",
+        "stars": 5,
+        "forks": 3,
+        "language": "C++",
+        "pushed_at": "2021-03-29T22:31:53Z",
+        "created_at": "2021-02-26T16:36:22Z"
+      },
+      {
+        "name": "protorpc",
+        "description": "（无简介）",
+        "url": "https://github.com/google/protorpc",
+        "stars": 70,
+        "forks": 36,
+        "language": "Python",
+        "pushed_at": "2019-06-07T00:37:30Z",
+        "created_at": "2014-12-17T16:14:30Z"
+      },
+      {
+        "name": "prudaq",
+        "description": " PRUDAQ is an open source 40MSPS (megasamples per second) Data Acquisition board for the Beaglebone Black/Green",
+        "url": "https://github.com/google/prudaq",
+        "stars": 123,
+        "forks": 31,
+        "language": "Eagle",
+        "pushed_at": "2016-08-31T02:02:54Z",
+        "created_at": "2016-01-04T18:43:28Z"
+      },
+      {
+        "name": "PS3ControllerAutoSleep",
+        "description": "AppleScript turning off PS3 controller when Mac goes to sleep",
+        "url": "https://github.com/google/PS3ControllerAutoSleep",
+        "stars": 11,
+        "forks": 8,
+        "language": "AppleScript",
+        "pushed_at": "2021-10-21T02:30:54Z",
+        "created_at": "2015-11-05T02:05:40Z"
+      },
+      {
+        "name": "pseudo-identity-provider",
+        "description": "（无简介）",
+        "url": "https://github.com/google/pseudo-identity-provider",
+        "stars": 17,
+        "forks": 9,
+        "language": "Go",
+        "pushed_at": "2026-07-10T10:51:29Z",
+        "created_at": "2024-06-24T16:11:25Z"
+      },
+      {
+        "name": "psp",
+        "description": "（无简介）",
+        "url": "https://github.com/google/psp",
+        "stars": 286,
+        "forks": 27,
+        "language": "C",
+        "pushed_at": "2024-05-26T13:05:34Z",
+        "created_at": "2022-02-26T17:42:28Z"
+      },
+      {
+        "name": "ps_log",
+        "description": "（无简介）",
+        "url": "https://github.com/google/ps_log",
+        "stars": 15,
+        "forks": 3,
+        "language": "PowerShell",
+        "pushed_at": "2019-03-27T00:08:47Z",
+        "created_at": "2019-03-19T19:39:23Z"
+      },
+      {
+        "name": "pthreadpool",
+        "description": "Portable (POSIX/Windows/Emscripten) thread pool for C/C++",
+        "url": "https://github.com/google/pthreadpool",
+        "stars": 30,
+        "forks": 12,
+        "language": "C++",
+        "pushed_at": "2026-09-09T07:54:18Z",
+        "created_at": "2024-11-26T18:53:13Z"
+      },
+      {
+        "name": "pts-bot",
+        "description": "（无简介）",
+        "url": "https://github.com/google/pts-bot",
+        "stars": 6,
+        "forks": 3,
+        "language": "Rust",
+        "pushed_at": "2025-06-12T21:53:44Z",
+        "created_at": "2025-04-16T20:49:40Z"
+      },
+      {
+        "name": "pubkeystore",
+        "description": "SSH Pubkey Registry",
+        "url": "https://github.com/google/pubkeystore",
+        "stars": 23,
+        "forks": 5,
+        "language": "Go",
+        "pushed_at": "2017-07-08T18:55:12Z",
+        "created_at": "2017-07-08T18:35:59Z"
+      },
+      {
+        "name": "pubmed-rag",
+        "description": "（无简介）",
+        "url": "https://github.com/google/pubmed-rag",
+        "stars": 63,
+        "forks": 6,
+        "language": "Jupyter Notebook",
+        "pushed_at": "2026-07-27T21:01:23Z",
+        "created_at": "2025-10-15T18:00:15Z"
+      },
+      {
+        "name": "pubsubhubbub",
+        "description": "（无简介）",
+        "url": "https://github.com/google/pubsubhubbub",
+        "stars": 6,
+        "forks": 0,
+        "language": "未指定",
+        "pushed_at": "2014-09-29T17:17:08Z",
+        "created_at": "2014-09-29T17:17:08Z"
+      },
+      {
+        "name": "pub_cache",
+        "description": "A library to reflect on the local pub cache.",
+        "url": "https://github.com/google/pub_cache",
+        "stars": 18,
+        "forks": 6,
+        "language": "Dart",
+        "pushed_at": "2023-01-31T19:30:41Z",
+        "created_at": "2015-03-20T17:06:51Z"
+      },
+      {
+        "name": "pulito",
+        "description": "Conventions and structure for a Vanilla JS application with a supporting webpack config.",
+        "url": "https://github.com/google/pulito",
+        "stars": 42,
+        "forks": 6,
+        "language": "JavaScript",
+        "pushed_at": "2019-09-19T14:26:01Z",
+        "created_at": "2018-02-28T14:04:27Z"
+      },
+      {
+        "name": "pull-request-mailer",
+        "description": "Sends a GitHub pull request as a patch series via email",
+        "url": "https://github.com/google/pull-request-mailer",
+        "stars": 46,
+        "forks": 8,
+        "language": "Haskell",
+        "pushed_at": "2014-12-10T13:12:08Z",
+        "created_at": "2014-09-12T14:36:51Z"
+      },
+      {
+        "name": "pullsheet",
+        "description": "Generate spreadsheets based on GitHub contributions",
+        "url": "https://github.com/google/pullsheet",
+        "stars": 90,
+        "forks": 21,
+        "language": "Go",
+        "pushed_at": "2026-07-17T00:53:03Z",
+        "created_at": "2021-02-19T03:02:02Z"
       }
     ]
   }
